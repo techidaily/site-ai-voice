@@ -1,6 +1,6 @@
-# TechiDaily
+# Ai Voice Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://ai-voice.techidaily.com](https://ai-voice.techidaily.com)
 
 ## Publish
 
