@@ -1,0 +1,136 @@
+---
+title: "Tom's Tech Hub: In-Depth Reviews & Insights"
+date: 2024-08-14T09:49:35.290Z
+updated: 2024-08-15T09:49:35.290Z
+tags:
+  - desktop
+categories:
+  - hardware
+thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff467021d3f18604d423ee17ce346.jpg
+---
+
+## Explore the Latest in Computing: Discover What's New at Tom's Hardware
+
+Mini PC specialist Minisforum has launched a new device, claiming several firsts. The new[AtomMan X7 Ti](https://www.minisforum.com/page/x7ti/index.html?lang=en) becomes the first in the firm's AtomMan line, described as a high-end cutting-edge marque by Minisforum. It is also claimed to be the “first Intel Ultra 9 AI Mini PC with a 4-inch Touchscreen.” With the rising popularity of[extra screens in PCs](https://www.tomshardware.com/pc-components/cooling/hands-on-lian-lis-lcd-screen-fans-turn-heads-and-are-surprisingly-affordable-but-not-as-configurable-as-id-like) , integrating one into a compact desktop might be a popular idea.
+
+ Starting from the outside, we see that the AtomMan X7 Ti would be a conventional-looking[NUC](https://www.tomshardware.com/news/asus-gets-license-to-make-intel-nucs) \-alike apart from two things. Firstly, it features a 4-inch 480p touch display which covers a fair portion of the top panel. Secondly, it comes with a neat stand that angles the display panel into an easy glanceable view. Furthermore, Minisforum has followed some logic by situating a 1080p[Windows Hello](https://www.tomshardware.com/news/windows-hello-fido2-certification-may-update-microsoft,39261.html) compatible webcam and dual mics above the touchscreen, appealing to video conferencing fans.
+
+ While we are considering external features, let’s look at the ports. Despite its compact size (145 x 145 x 49mm), the AtomMan X7 Ti features a decent quantity and selection of ports, as follows: RJ45 5G Ethernet Port ×2, DP 2.0, HDMI 2.1,[OCulink](https://www.tomshardware.com/news/worlds-first-oculink-usb-4-egpu-with-radeor-rx-7600m-xt) Port (up to 64Gbps), USB4 ×2, USB3.2 Gen2 Type-A ×2, USB3.2 Gen1 Type-A, USB2.0, a 3.5mm Combo Jack, SD Card slot, and a Power Button with an embedded fingerprint reader. [Wi-Fi 7](https://www.tomshardware.com/news/wi-fi-7-faq) and Bluetooth 5.4 complement the dual Ethernet ports. It must also be noted that the mix of dedicated monitor and USB4 ports means you can connect up to four external displays to this machine.
+
+ Image 1 of 3
+
+![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Minisforum)
+
+![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Minisforum)
+
+![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Minisforum)
+
+ Moving inside, the star of the show is the new Intel Core Ultra 9 processor[185H](https://www.intel.com/content/www/us/en/products/sku/236849/intel-core-ultra-9-processor-185h-24m-cache-up-to-5-10-ghz/specifications.html) with a 16C/22T CPU running at up to 5.1 GHz, and onboard Arc GPU with eight Xe cores running at up to 2.35 GHz. This[Meteor Lake](https://www.tomshardware.com/news/intel-details-core-ultra-meteor-lake-architecture-launches-december-14) chip is cooled by the new Cold Wave cooling system featuring a large diameter fan, 3 copper heatpipes, and a phase-change module.
+
+ LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+ Upgrading the AtomMan X7 Ti PC’s RAM and storage isn’t going to be too tricky. It uses standard DDR5-5600 SO-DIMMs, up to a max of 64GB. There are also two M.2 2280 PCIe 4.0 SSD slots, and the aforementioned wireless functionality comes courtesy of a socketed Intel BE200 card, so it can be changed for repair or upgrade.
+
+ We don’t have pricing for the AtomMan X7 Ti. Minisforum says it will go on pre-sale from May 20, so we expect to hear more about pricing and shipping RAM/storage configurations at that time. Those particularly interested in this product can sign up for an email about it and get a $30 coupon from Minisforum.
+
+ We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
+
+## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
+
+ Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+ Contact me with news and offers from other Future brands  Receive email from us on behalf of our trusted partners or sponsors
+
+ By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-livestream-quality-decision-opt-for-streamlabs-or-obs/"><u>[New] 2024 Approved  Livestream Quality Decision  Opt for Streamlabs or OBS?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-quick-content-crusade-youtubes-shortform-versus-tiktoks-trendsetting/"><u>[New] 2024 Approved  The Quick Content Crusade  YouTube's Shortform Versus TikTok’s Trendsetting</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-creating-captivating-360-footage-for-social-media-sharing-for-2024/"><u>[New] Creating Captivating 360 Footage for Social Media Sharing for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-clearpathstoexpertisewithyoucamcapture/"><u>[New] In 2024, ClearPathsToExpertiseWithYouCamCapture</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-streamline-your-instagram-feeds-with-macs-video-resizing/"><u>[New] Streamline Your Instagram Feeds with Mac's Video Resizing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-access-all-audio-extracted-top-free-youtube-to-mp3-converter-guide-for-2024/"><u>[Updated] Access All Audio Extracted  Top Free YouTube to MP3 Converter Guide for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-top-5-methods-capturing-facebook-stories-on-devices/"><u>[Updated] In 2024, Top 5 Methods  Capturing Facebook Stories on Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-videotoaudiotweeter-direct-output/"><u>[Updated] In 2024, VideoToAudioTweeter  Direct Output</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-recording-wonders-the-best-screenshot-tools/"><u>[Updated] Recording Wonders  The Best Screenshot Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-enhance-creativity-essential-tiktok-video-tricks/"><u>2024 Approved  Enhance Creativity  Essential TikTok Video Tricks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-smart-snap-strategies-insta-story-zoom-101/"><u>2024 Approved  Smart Snap Strategies  Insta Story Zoom 101</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unmasking-deceitful-insta-followers-quickly-and-cost-free/"><u>2024 Approved  Unmasking Deceitful Insta-Followers Quickly & Cost-Free</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-best-10-free-and-best-text-to-speech-generators/"><u>2024 Approved Best 10 Free and Best Text-to-Speech Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-best-5-ai-voice-generators-online-supports-all-browsers/"><u>2024 Approved Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-best-ai-rap-voice-generators-you-should-try/"><u>2024 Approved Best AI Rap Voice Generators You Should Try</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-best-celebrity-voice-generator-tools-to-transform-your-voice/"><u>2024 Approved Best Celebrity Voice Generator Tools to Transform Your Voice</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/5-compelling-factors-against-downloading-a-chatgpt-mobile-app/"><u>5 Compelling Factors Against Downloading a ChatGPT Mobile App</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/addressing-the-issue-no-more-crashes-in-mir4-when-played-on-windows-machines/"><u>Addressing the Issue: No More Crashes in Mir4 when Played on Windows Machines</u></a></li>
+<li><a href="https://extra-information.techidaily.com/asmr-quality-meets-economic-realities-for-2024/"><u>ASMR Quality Meets Economic Realities for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/assessing-acid-pro-top-alternative-software/"><u>Assessing ACID Pro  Top Alternative Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/breach-to-backup-restore-and-redeem-your-fb-status-for-2024/"><u>Breach to Backup  Restore and Redeem Your FB Status for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/capturing-every-corner-our-top-picks-for-best-11-bridge-cameras/"><u>Capturing Every Corner  Our Top Picks for Best 11 Bridge Cameras</u></a></li>
+<li><a href="https://win-forum.techidaily.com/demystifying-the-windows-registry-explained-by-revouninstaller/"><u>Demystifying The Windows Registry Explained by RevoUninstaller</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/disabling-youtubes-quick-video-peek-feature/"><u>Disabling YouTube's Quick Video Peek Feature</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dissecting-acid-pro-performance-and-alternatives/"><u>Dissecting ACID Pro Performance & Alternatives</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/expert-opinion-the-pros-and-cons-of-using-google-maps-for-iphone-users/"><u>Expert Opinion: The Pros and Cons of Using Google Maps for iPhone Users</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/exploring-performance-and-features-of-asus-rt-ac88u-a-comprehensive-gaming-router-assessment/"><u>Exploring Performance and Features of Asus RT-AC88U - A Comprehensive Gaming Router Assessment</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-13-ultra-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on 13 Ultra</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/1723007012887-how-to-fix-directdraw-problems-successfully-top-tips-and-tricks/"><u>How to Fix DirectDraw Problems Successfully – Top Tips & Tricks!</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/how-to-resolve-the-darkened-interface-of-zoom-meetings-on-pc-a-definitive-2024-tutorial/"><u>How to Resolve the Darkened Interface of Zoom Meetings on PC: A Definitive 2024 Tutorial</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/how-to-stop-remnant-from-the-ashes-from-keeping-you-frustrated-with-constant-crashes/"><u>How to Stop Remnant: From the Ashes From Keeping You Frustrated with Constant Crashes</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/how-to-successfully-address-and-correct-indivisible-crash-issues-once-and-for-all/"><u>How to Successfully Address and Correct 'Indivisible' Crash Issues Once and For All</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-3-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Ace 3 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-s24plus-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy S24+ Device</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pushing-boundaries-with-iphones-motion-blur-capabilities/"><u>In 2024, Pushing Boundaries with iPhone’s Motion-Blur Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-chatai-for-auto-tailoring-techniques/"><u>Navigating ChatAI for Auto Tailoring Techniques</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-real-time-ai-voice-changer-revolutionizing-communication/"><u>New 2024 Approved Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-exploring-the-best-online-hubs-for-free-bgm-music-downloads/"><u>New In 2024, Exploring the Best Online Hubs for Free BGM Music Downloads</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-4-hatsune-miku-voice-ai-generators-for-all-times-for-2024/"><u>New Top 4 Hatsune Miku Voice AI Generators for All Times for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-6-darth-vader-ai-generators-for-all-platforms/"><u>New Top 6 Darth Vader AI Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/optimize-your-pc-for-smooth-cs2-gameplay-eliminate-lag-and-frames-per-second-dips/"><u>Optimize Your PC for Smooth CS2 Gameplay – Eliminate Lag & Frames Per Second Dips</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/optimizing-your-gaming-setup-to-combat-csgo-stuttering-issues/"><u>Optimizing Your Gaming Setup to Combat CS:GO Stuttering Issues</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/overcoming-setbacks-troubleshooting-a-non-launching-evil-genius-2-game/"><u>Overcoming Setbacks: Troubleshooting a Non-Launching Evil Genius 2 Game</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/overcoming-the-msvcr110dll-error-in-helldivers-2-expert-tips-for-a-smooth-gameplay/"><u>Overcoming the MSVCR110.dll Error in Helldivers 2: Expert Tips for a Smooth Gameplay</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/pc-troubleshooting-guide-fix-ark-sanctuary-uber-wikis-constant-crash-issues-with-9-solutions/"><u>PC Troubleshooting Guide: Fix ARK: Sanctuary Über Wiki's Constant Crash Issues with 9 Solutions</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/resident-evil-village-and-pc-compatibility-solving-runtime-errors/"><u>Resident Evil Village and PC Compatibility: Solving Runtime Errors</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/solving-modern-game-sound-glitches-a-comprehensive-guide/"><u>Solving Modern Game Sound Glitches: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/solving-the-not-enough-memory-trouble-for-a-smooth-god-of-war-experience/"><u>Solving the Not Enough Memory Trouble for a Smooth God of War Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/success-secrets-unveiled-the-journey-of-nintendos-revolutionary-wii-u/"><u>Success Secrets Unveiled: The Journey of Nintendo's Revolutionary Wii U</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-leading-17-lights-and-stands-reviewed-for-2024/"><u>The Leading 17 Lights & Stands Reviewed for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/tips-and-tricks-to-prevent-game-crashes-of-dragon-age-origins-while-playing-on-windows-10/"><u>Tips and Tricks to Prevent Game Crashes of Dragon Age: Origins While Playing on Windows 10</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-6-darth-vader-ai-generators-for-all-platforms/"><u>Top 6 Darth Vader AI Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-6-free-talking-stock-photo-sites-for-2024/"><u>Top 6 Free Talking Stock Photo Sites for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/troubleshooting-dolby-audio-start-up-problems-for-windows-10-users/"><u>Troubleshooting Dolby Audio Start-Up Problems for Windows 10 Users</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/troubleshooting-guide-why-isnt-my-msi-mystic-light-functioning-on-windows/"><u>Troubleshooting Guide: Why Isn't My MSI Mystic Light Functioning on Windows?</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/troubleshooting-tips-for-realtek-mic-issues-get-your-audio-up-and-running/"><u>Troubleshooting Tips for Realtek Mic Issues - Get Your Audio Up and Running!</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/ultimate-troubleshooting-steps-for-life-is-strange-true-colors-crashes-resolved/"><u>Ultimate Troubleshooting Steps for Life Is Strange: True Colors Crashes Resolved</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/uniting-platforms-sharing-vids-on-twtplustumblr-space/"><u>Uniting Platforms  Sharing Vids on Twt+Tumblr Space</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-6-mickey-mouse-voice-generators/"><u>Updated 2024 Approved Top 6 Mickey Mouse Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-celebrity-voice-generator-tools-you-cannot-miss/"><u>Updated Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/virtual-horizons-ranking-top-vr-gaming-titles-for-2024/"><u>Virtual Horizons  Ranking Top VR Gaming Titles for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/wholesome-eating-made-simple-by-chatgpt/"><u>Wholesome Eating Made Simple by ChatGPT</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->

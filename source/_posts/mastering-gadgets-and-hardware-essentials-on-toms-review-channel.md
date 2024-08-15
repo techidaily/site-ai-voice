@@ -1,0 +1,220 @@
+---
+title: Mastering Gadgets and Hardware Essentials on Tom's Review Channel
+date: 2024-08-14T09:49:43.224Z
+updated: 2024-08-15T09:49:43.224Z
+tags:
+  - desktop
+categories:
+  - hardware
+thumbnail: https://cdn.mos.cms.futurecdn.net/9dZYboKt4f9JQX3fsfHW3n-320-80.jpg
+---
+
+## Premier Deals on Computing Devices - Don't Miss Out
+
+PC and Laptop Deals
+
+![Best Deals](https://cdn.mos.cms.futurecdn.net/jMREdMmEXpBKBvCf2GG69Q-320-80.png)
+
+ (Image credit: Tom's Hardware)
+
+**1.** [**Quick Links**](https://www.tomshardware.com/news/best-gaming-pc-deals#section-cyber-monday-desktop-and-laptop-deals-quick-links)
+ **2.** [**Best Gaming PC Deals**](https://www.tomshardware.com/news/best-gaming-pc-deals#section-cyber-monday-best-gaming-pc-deals)
+ **3.** [**Gaming and Productivity Laptop Deals**](https://www.tomshardware.com/news/best-gaming-pc-deals#section-cyber-monday-best-deals-gaming-and-productivity)
+
+ We're keeping an eye on the best deals on pre-built PCs and laptops.
+
+ Now is a great time to find tons of savings on a brand-new desktop PC or laptop. We look for bargains and deals on new pre-built PCs from[Amazon](https://www.tomshardware.com/tag/amazon) , Best Buy, Newegg,[Dell](https://www.tomshardware.com/tag/dell) , Lenovo, and other retailers.
+
+ We're highlighting the best deals below. If you're looking for recommendations regardless of price, check out our lists of[best gaming laptops](https://www.tomshardware.com/laptops/gaming-laptops/best-gaming-laptops) ,[best gaming laptops under $1,500](https://www.tomshardware.com/best-picks/best-gaming-laptops-under-1500) ,[best gaming laptops under $1,000](https://www.tomshardware.com/best-picks/best-gaming-laptops-under-1000) , and[best gaming PCs](https://www.tomshardware.com/best-picks/best-gaming-pcs) .
+
+### Desktop and Laptop Deals: Quick Links
+
+* **Amazon:** [**Up to 29% off MSI gaming laptops**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fs%3Fk%3Dmsi%26rh%3Dn%253A565108%26ref%3Dnb%5Fsb%5Fnoss%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1276462422485924983-20)
+* **Dell / Alienware:** [**Up to $1,130 off Gaming Laptops and Desktops**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-8447437677094308462%26url%3Dhttps%3A%2F%2Fdeals.dell.com%2Fen-us%2Fcategory%2Fgaming-deals)
+* **Lenovo:** [**Up to 78% off laptops**](https://lenovo.7eer.net/c/5597632/218864/3808?subId1=techidaily-us-1011491189810322106&sharedId=techidaily-us&u=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fd%2Fdeals%2Flaptops%2F%3Ftabkey%3DLaptop%2520Deals)
+* **Newegg:** [**Up to $1,650 off Laptops**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-5955455746168500674%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252Fpl%253Fd%253Dgaming%252Blaptop%252Bdeals)
+* **Best Buy:** [**Up to $600 off Gaming PCs**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fid%3Dpcmcat1563303062730%26publisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-1913317686487434653%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Ftop-deals%252Fpc-gaming-deals%252Fpcmcat1563303062730.c%253Fid%253Dpcmcat1563303062730%2523jump-link-nav-header-b83dcc16-4052-40e3-a7d4-4e4df3ba1415%26article%255Fname%3DBest%2520PC%2520and%2520Laptop%2520Deals%25202024%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fnews%252Fbest-gaming-pc-deals%23jump-link-nav-header-b83dcc16-4052-40e3-a7d4-4e4df3ba1415)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Best Gaming PC deals
+
+[iBuyPower TraceMesh Core i7-14700F gaming desktop with RTX 4060 Ti: now $1,259 at Amazon](https://cdn.mos.cms.futurecdn.net/ErcBeqwNq7uHJWAWhsUvHZ-200-100.jpg "iBuyPower TraceMesh Core i7-14700F gaming desktop with RTX 4060 Ti: now $1,259 at Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CRSZGN9L%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6901421645139057361-20)
+
+ **iBuyPower TraceMesh Core i7-14700F gaming desktop with RTX 4060 Ti:** [**now $1,259 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CRSZGN9L%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-4104731500670458574-20) (was $1,349)  
+  
+ This gaming desktop comes with a Core i7-14700F, 32GB DDR5-5600, a GeForce RTX 4060 Ti, 1TB SSD, and built-in Wi-Fi
+
+[View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CRSZGN9L%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6901421645139057361-20)
+
+[MSI Aegis RS2 Gaming Desktop: now $1,499 at Newegg](https://cdn.mos.cms.futurecdn.net/Jd4r3KtmnuLweM79XefUQL-200-100.png "MSI Aegis RS2 Gaming Desktop: now $1,499 at Newegg") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-7145839629284266080%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fmsi-aegis-rs2-c14nue7-824us%252Fp%252FN82E16883151419)
+
+**MSI Aegis RS2 Gaming Desktop:** [**now $1,499 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-6568815532859518495%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fmsi-aegis-rs2-c14nue7-824us%252Fp%252FN82E16883151419) (was $1,899)  
+  
+ Containing an Intel Core i7-14700KF processor, an Nvidia RTX 4070 Super graphics card, 16GB of 5600 MHz DDR5 RAM, and a 2TB SSD, the MSI Aegis RS2 is a great combination of components and price for a powerful gaming solution.
+
+[View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-7145839629284266080%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fmsi-aegis-rs2-c14nue7-824us%252Fp%252FN82E16883151419)
+
+[NZXT Player Three Gaming PC: now $2,299 at NZXT](https://cdn.mos.cms.futurecdn.net/L5NBuatHjxJrSf4EEoK7RR-200-100.png "NZXT Player Three Gaming PC: now $2,299 at NZXT") ](https://shareasale.com/r.cfm?b=755373&u=4338022&m=60525&afftrack=techidaily&urllink=https%3A%2F%2Fcopa.sjv.io%2F6eoowq)
+
+**NZXT Player Three Gaming PC:** [**now $2,299 at NZXT**](https://shareasale.com/r.cfm?b=755373&u=4338022&m=60525&afftrack=techidaily&urllink=https%3A%2F%2Fbluettide.pxf.io%2Fekmjb2) (was $2,499)  
+  
+ The Player: Three from NZXT is a prebuilt gaming PC using the best NZXT components mixed with named brand PC parts. The build features an Intel Core i7-13700KF, RTX 4070 Ti, 32GB of RAM, 1TB SSD, and a 750-watt PSU. All these parts are packed into the NZXT H7 Flow PC case.
+
+[View Deal](https://shareasale.com/r.cfm?b=755373&u=4338022&m=60525&afftrack=techidaily&urllink=https%3A%2F%2Fcopa.sjv.io%2F6eoowq)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
+## Best Deals: Gaming and Productivity
+
+[Asus ROG Strix G16 RTX 4060 gaming laptop: now $1,164 at Amazon](https://cdn.mos.cms.futurecdn.net/T3ob7ZX6wsSiwnPh7TFURA-200-100.jpg "Asus ROG Strix G16 RTX 4060 gaming laptop: now $1,164 at Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CRDCXRK2%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5789560132463894657-20)
+
+**Asus ROG Strix G16 RTX 4060 gaming laptop:** [**now $1,164 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CRDCXRK2%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2864828435319496240-20) (was $1,399)  
+ This laptop is powered by an Intel Core i7-13650HX CPU alongside an Nvidia GeForce RTX 4060 GPU. It comes with 16GB of RAM and 1TB of storage on an internal SSD.
+
+[View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CRDCXRK2%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5789560132463894657-20)
+
+[HP Victus 15:&nbsp;now $599 at Walmart](https://cdn.mos.cms.futurecdn.net/sgPbFsQVnYJSJHAb2gFnf8-200-100.jpg "HP Victus 15:&nbsp;now $599 at Walmart") ](https://goto.walmart.com/c/5597632/565706/9383?subId1=techidaily-us-1390677270245327331&sharedId=techidaily-us&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Victus-15-6-inch-FHD-144Hz-Gaming-Laptop-AMD-Ryzen-5-8645HS-NVIDIA-GeForce-RTX-4050-8GB-DDR4-512GB-SSD-Mica-Silver-2024%2F5395277312)
+
+**HP Victus 15:** [**now $599 at Walmart**](https://goto.walmart.com/c/5597632/565706/9383?subId1=techidaily-us-1438342162526027185&sharedId=techidaily-us&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Victus-15-6-inch-FHD-144Hz-Gaming-Laptop-AMD-Ryzen-5-8645HS-NVIDIA-GeForce-RTX-4050-8GB-DDR4-512GB-SSD-Mica-Silver-2024%2F5395277312) (was $979)  
+ This budget gaming laptop gives you an Nvidia RTX 4050 and a Ryzen 8000 CPU for just under $600\. It should be enough to play most games at medium or high settings.
+
+[View Deal](https://goto.walmart.com/c/5597632/565706/9383?subId1=techidaily-us-1390677270245327331&sharedId=techidaily-us&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Victus-15-6-inch-FHD-144Hz-Gaming-Laptop-AMD-Ryzen-5-8645HS-NVIDIA-GeForce-RTX-4050-8GB-DDR4-512GB-SSD-Mica-Silver-2024%2F5395277312)
+
+[16-inch MacBook Pro (M3 Pro)now $1,899 at Amazon Best Buy](https://cdn.mos.cms.futurecdn.net/ubaK8QE2eFDwj5FfMfVnrE-200-100.jpg "16-inch MacBook Pro (M3 Pro)now $1,899 at Amazon Best Buy") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CM5BL45N%2F%3Fth%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1071785842407299123-20)
+
+**16-inch MacBook Pro (M3 Pro)** [**now $1,899 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CM5BL45N%2F%3Fth%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7362160149732873013-20)  (was $2,499)  
+ Apple's powerhouse 16-inch notebook is 20% off. It comes with a 12-core M3 Pro CPU, 18-core GPU, 18GB of unified memory, and 512GB of SSD storage.  
+  
+ See also:[**Best Buy**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3FacampID%3D0%26affgroup%3D%2522Content%2522%26ar%3D1847967174373832959%26cmp%3DRMX%26irgwc%3D1%26loc%3DHowl%2BTechnologies%252C%2BInc.%26mpid%3D376373%26nrtv%255Fcid%3D1917082d031e01b2fc68cefc00eb85645e1ac1dc63252844f08f356b59c36ac%26publisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-1214896272383088039%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fapple-macbook-pro-16-laptop-m3-pro-chip-18gb-memory-18-core-gpu-512gb-ssd-space-black%252F6534617.p%253FacampID%253D0%2526affgroup%253D%252522Content%252522%2526ar%253D1847967174373832959%2526cmp%253DRMX%2526irgwc%253D1%2526loc%253DHowl%252BTechnologies%25252C%252BInc.%2526mpid%253D376373%2526nrtv%255Fcid%253D1917082d031e01b2fc68cefc00eb85645e1ac1dc63252844f08f356b59c36ac%26article%255Fname%3DBest%2520PC%2520and%2520Laptop%2520Deals%25202024%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fnews%252Fbest-gaming-pc-deals)
+
+[View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CM5BL45N%2F%3Fth%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1071785842407299123-20)
+
+[Asus ZenBook Pro Duo 15:&nbsp;now $1,699 at Amazon](https://cdn.mos.cms.futurecdn.net/cZbGAKUWcJA6K5vnYnhJ4U-200-100.jpg "Asus ZenBook Pro Duo 15:&nbsp;now $1,699 at Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FASUS-i7-12700H-ScreenPad-Celestial-UX582ZM-AS76T%2Fdp%2FB09TDKV65Z%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5526130479811775692-20)
+
+**Asus ZenBook Pro Duo 15:** [**now $1,699 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FASUS-i7-12700H-ScreenPad-Celestial-UX582ZM-AS76T%2Fdp%2FB09TDKV65Z%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1456550201053378027-20) (was $2,299)  
+ What's better than one screen? Two! The ZenBook Pro Duo 15 has a 15.6-inch main screen and a second ScreenPad Plus for extra real estate. It's powered by an Intel Core i7-12700H and Nvidia RTX 3060\.
+
+[View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FASUS-i7-12700H-ScreenPad-Celestial-UX582ZM-AS76T%2Fdp%2FB09TDKV65Z%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5526130479811775692-20)
+
+[Asus ROG Zephyrus G15 Ultra Slim: now $1,588 at Amazon](https://cdn.mos.cms.futurecdn.net/7dW75N7D69tLZ45Jt5nbN-200-100.png "Asus ROG Zephyrus G15 Ultra Slim: now $1,588 at Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FZephyrus-Display-GeForce-Windows-GA503QS-BS96Q%2Fdp%2FB0992VS1BY%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1270789775149698500-20)
+
+**Asus ROG Zephyrus G15 Ultra Slim:** [**now $1,588 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FZephyrus-Display-GeForce-Windows-GA503QS-BS96Q%2Fdp%2FB0992VS1BY%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1715545001735324876-20) (was $2,099)  
+ With a 15.6-inch 165Hz QHD display, an Nvidia GeForce RTX 3080 graphics card, AMD Ryzen 9 5900HS processor, 16GB of DDR4 RAM, and a 1TB PCIe NVMe SSD, this laptop packs a lot of power into its ultra-slim frame.  
+ (model -GA503QS-BS96Q)
+
+[View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FZephyrus-Display-GeForce-Windows-GA503QS-BS96Q%2Fdp%2FB0992VS1BY%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1270789775149698500-20)
+
+[Lenovo IdeaPad 3 Laptop (2021): now $458 at Amazon](https://cdn.mos.cms.futurecdn.net/JQQod9n4hxS6TuErkjcpfM-200-100.jpg "Lenovo IdeaPad 3 Laptop (2021): now $458 at Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09BG83Q5S%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1411433362100940512-20)
+
+**Lenovo IdeaPad 3 Laptop (2021):** [**now $458 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09BG83Q5S%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1034422318814623627-20)  (was $639) This Lenovo IdeaPad is powered by an AMD Ryzen 5 5500U processor with integrated AMD graphics that output to a 15.6-inch FHD display. It comes with 512 GB of internal storage and 8 GB of DDR4\. For a laptop released in 2021, it still stands up as a fairly substantial laptop for both light gaming and casual use.
+
+[View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09BG83Q5S%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1411433362100940512-20)
+
+[MSI Creator 17 (RTX 3070)Professional Laptop: now $1,649 at Amazon](https://cdn.mos.cms.futurecdn.net/RbWNB8MocDtEft5vY6aZLT-200-100.jpg "MSI Creator 17 (RTX 3070)Professional Laptop: now $1,649 at Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB098X984J4%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5602521923485586738-20)
+
+**MSI Creator 17 (RTX 3070)** **Professional Laptop:** [**now $1,649 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB098X984J4%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6992383006230567421-20)  (was $2,749)  
+ The MSI Creator is focused on professional users with its 17.3-inch UHD 120Hz display that touts a 100% Adobe RGB gamut. Internally the components are an Intel Core i7-11800H, Nvidia GeForce RTX 3070, 16GB of RAM, and a 1TB NVMe SSD.
+
+[View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB098X984J4%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5602521923485586738-20)
+
+[Apple 15-inch MacBook Air 15 (M3): now $1,049 at Amazon](https://cdn.mos.cms.futurecdn.net/bA9HPjhAQz4NeGrDQDrYFQ-200-100.jpg "Apple 15-inch MacBook Air 15 (M3): now $1,049 at Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CX23GFMJ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1322151969635306671-20)
+
+**Apple 15-inch MacBook Air 15 (M3):** [**now $1,049 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CX23GFMJ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-4884244773042627462-20) (was $1,299)  
+  
+ Apple's 15-inch MacBook Air is a popular choice among ultraportable laptops. This particular SKU has 8GB of RAM and a 256GB SSD.
+
+[View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CX23GFMJ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1322151969635306671-20)
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## More Tech Deals
+
+* [Best deals on tech & PC hardware](https://www.tomshardware.com/news/best-deals-on-tech)
+* [Best monitor deals](https://www.tomshardware.com/news/best-computer-monitor-deals)
+* [Best PC and laptop deals](https://www.tomshardware.com/news/best-gaming-pc-deals)
+* [Best SSD deals](https://www.tomshardware.com/features/best-deals-on-ssds)
+* [Best CPU deals](https://www.tomshardware.com/features/best-cpu-deals)
+* [Best Dell and Alienware deals](https://www.tomshardware.com/news/dell-alienware-deals)
+* [Best 3D printer deals](https://www.tomshardware.com/news/best-3d-printer-deals)
+* [Best Raspberry Pi deals](https://www.tomshardware.com/news/best-raspberry-pi-deals)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-inside-look-at-youtubes-creator-workshop-space/"><u>[New] 2024 Approved  Inside Look at YouTube's Creator Workshop Space</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-circuit-conquerors-ranking-your-top-5-speed-driven-games-for-2024/"><u>[New] Circuit Conquerors  Ranking Your Top 5 Speed-Driven Games for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-followers-in-motion-analyzer-for-2024/"><u>[New] Followers in Motion Analyzer for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-choice-quick-accurate-screen-reports-for-2024/"><u>[New] The Ultimate Choice  Quick, Accurate Screen Reports for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-cameo-review/"><u>[Updated] In 2024, Vimeo Cameo Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-video-production-xstudio-deep-dive/"><u>[Updated] Mastering Video Production  XStudio Deep Dive</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-realize-your-vision-a-comprehensible-list-of-3d-animation-software/"><u>[Updated] Realize Your Vision  A Comprehensible List of 3D Animation Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-springs-screen-recorder-unveiled-a-users-perspective-for-2024/"><u>[Updated] Spring's Screen Recorder Unveiled  A User's Perspective for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-android-and-iphone-apps-for-free-photo-overlay-artistry/"><u>[Updated] Top Android & iPhone Apps for FREE Photo Overlay Artistry</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-make-facebook-collage-instantly/"><u>2024 Approved  How to Make Facebook Collage Instantly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-top-12-youtube-game-openers-both-free-and-fee-based-options/"><u>2024 Approved  Top 12 YouTube Game Openers  Both Free & Fee-Based Options</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/5-compelling-factors-against-downloading-a-chatgpt-mobile-app/"><u>5 Compelling Factors Against Downloading a ChatGPT Mobile App</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/addressing-the-issue-no-more-crashes-in-mir4-when-played-on-windows-machines/"><u>Addressing the Issue: No More Crashes in Mir4 when Played on Windows Machines</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capturing-the-moment-a-practical-guide-to-google-meetings-screen-recordings/"><u>Capturing the Moment  A Practical Guide to GooGle Meetings' Screen Recordings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-your-airpods-a-step-by-step-guide-for-hp-laptop-users/"><u>Connecting Your AirPods: A Step-by-Step Guide for HP Laptop Users</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/expert-opinion-the-pros-and-cons-of-using-google-maps-for-iphone-users/"><u>Expert Opinion: The Pros and Cons of Using Google Maps for iPhone Users</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/exploring-performance-and-features-of-asus-rt-ac88u-a-comprehensive-gaming-router-assessment/"><u>Exploring Performance and Features of Asus RT-AC88U - A Comprehensive Gaming Router Assessment</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-speech-to-text-conversion-software-for-2024/"><u>Free Speech-to-Text Conversion Software for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/1723007012887-how-to-fix-directdraw-problems-successfully-top-tips-and-tricks/"><u>How to Fix DirectDraw Problems Successfully – Top Tips & Tricks!</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/how-to-resolve-the-darkened-interface-of-zoom-meetings-on-pc-a-definitive-2024-tutorial/"><u>How to Resolve the Darkened Interface of Zoom Meetings on PC: A Definitive 2024 Tutorial</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/how-to-stop-remnant-from-the-ashes-from-keeping-you-frustrated-with-constant-crashes/"><u>How to Stop Remnant: From the Ashes From Keeping You Frustrated with Constant Crashes</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/how-to-successfully-address-and-correct-indivisible-crash-issues-once-and-for-all/"><u>How to Successfully Address and Correct 'Indivisible' Crash Issues Once and For All</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-s17e-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo S17e to iPad | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-infinix-note-30-vip-racing-edition-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Infinix Note 30 VIP Racing Edition Activity | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-v29-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo V29 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-13-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone 13?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-z50s-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Nubia Z50S Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-prevent-unwanted-recordings-quit-time-tricks/"><u>In 2024, Prevent Unwanted Recordings  Quit Time Tricks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-pursuit-of-dreamscapes-vr-travel-unleashed/"><u>In Pursuit of Dreamscapes  VR Travel Unleashed</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire-for-2024/"><u>New Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-celebrity-voice-generator-tools-to-transform-your-voice-for-2024/"><u>New Best Celebrity Voice Generator Tools to Transform Your Voice for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-4-hatsune-miku-voice-ai-generators-for-all-times/"><u>New Top 4 Hatsune Miku Voice AI Generators for All Times</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/optimize-your-pc-for-smooth-cs2-gameplay-eliminate-lag-and-frames-per-second-dips/"><u>Optimize Your PC for Smooth CS2 Gameplay – Eliminate Lag & Frames Per Second Dips</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/optimizing-your-gaming-setup-to-combat-csgo-stuttering-issues/"><u>Optimizing Your Gaming Setup to Combat CS:GO Stuttering Issues</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/overcoming-setbacks-troubleshooting-a-non-launching-evil-genius-2-game/"><u>Overcoming Setbacks: Troubleshooting a Non-Launching Evil Genius 2 Game</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/overcoming-the-msvcr110dll-error-in-helldivers-2-expert-tips-for-a-smooth-gameplay/"><u>Overcoming the MSVCR110.dll Error in Helldivers 2: Expert Tips for a Smooth Gameplay</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/pc-troubleshooting-guide-fix-ark-sanctuary-uber-wikis-constant-crash-issues-with-9-solutions/"><u>PC Troubleshooting Guide: Fix ARK: Sanctuary Über Wiki's Constant Crash Issues with 9 Solutions</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/resident-evil-village-and-pc-compatibility-solving-runtime-errors/"><u>Resident Evil Village and PC Compatibility: Solving Runtime Errors</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/solving-modern-game-sound-glitches-a-comprehensive-guide/"><u>Solving Modern Game Sound Glitches: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/solving-the-not-enough-memory-trouble-for-a-smooth-god-of-war-experience/"><u>Solving the Not Enough Memory Trouble for a Smooth God of War Experience</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/tips-and-tricks-to-prevent-game-crashes-of-dragon-age-origins-while-playing-on-windows-10/"><u>Tips and Tricks to Prevent Game Crashes of Dragon Age: Origins While Playing on Windows 10</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/troubleshooting-dolby-audio-start-up-problems-for-windows-10-users/"><u>Troubleshooting Dolby Audio Start-Up Problems for Windows 10 Users</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/troubleshooting-guide-why-isnt-my-msi-mystic-light-functioning-on-windows/"><u>Troubleshooting Guide: Why Isn't My MSI Mystic Light Functioning on Windows?</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/troubleshooting-tips-for-realtek-mic-issues-get-your-audio-up-and-running/"><u>Troubleshooting Tips for Realtek Mic Issues - Get Your Audio Up and Running!</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/ultimate-troubleshooting-steps-for-life-is-strange-true-colors-crashes-resolved/"><u>Ultimate Troubleshooting Steps for Life Is Strange: True Colors Crashes Resolved</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>Updated Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/wholesome-eating-made-simple-by-chatgpt/"><u>Wholesome Eating Made Simple by ChatGPT</u></a></li>
+</ul></div>
