@@ -1,7 +1,7 @@
 ---
 title: "Asus NUC 14: Unleashing New Power with Up to Core I9 UHD Graphics & AMD Ryzen Threadripper"
-date: 2024-08-14T09:50:06.109Z
-updated: 2024-08-15T09:50:06.109Z
+date: 2024-09-03T23:04:48.266Z
+updated: 2024-09-04T23:04:48.266Z
 tags:
   - desktop
 categories:
@@ -111,5 +111,8 @@ The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegog
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
