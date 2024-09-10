@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Button Failures on iPhones - Learn How to Power On and Restart
-date: 2024-09-03T23:04:49.694Z
-updated: 2024-09-04T23:04:49.694Z
+date: 2024-09-08T23:58:06.017Z
+updated: 2024-09-09T23:58:06.017Z
 tags:
   - iphone
   - apple
@@ -18,10 +18,22 @@ thumbnail: https://thmb.techidaily.com/23e666886afecfc048aeb4d50e179c98091d3b2c2
 
  The steps to restart iPhones are simple but vary according to the different sets of models. This guide shows you how you can restart any iPhone. It even shows you how to restart an iPhone if the buttons are broken and not working.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Restart an iPhone With Face ID
 
 ![How to Restart iPhone With Face ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-face-id.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Follow these steps to restart iPhone X, iPhone XR, or any newer model with a notch or [Dynamic Island](https://www.makeuseof.com/what-is-dynamic-island/) :
 
 1. Press and hold both the**Side button** on the right side of the iPhone and**any of the volume buttons** on the left side. Release the buttons when you see the power off screen.
@@ -31,10 +43,28 @@ thumbnail: https://thmb.techidaily.com/23e666886afecfc048aeb4d50e179c98091d3b2c2
 
  You have successfully restarted your iPhone with Face ID. Enter the device passcode to unlock it and get to the Home Screen.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Restart an iPhone With a Home Button
 
 ![How to Restart iPhone With Home Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-home-button.png)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Follow these steps to restart iPhone 6, 6S, 7, 8, and SE (2nd generation):
 
 1. Press and hold the**Side button** until you see the power off screen.
@@ -44,36 +74,24 @@ thumbnail: https://thmb.techidaily.com/23e666886afecfc048aeb4d50e179c98091d3b2c2
 
 You have successfully restarted your iPhone with a Home button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Restart an iPhone With a Top Power Button
 
 ![How to Restart iPhone With Top Power Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-top-power-button.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you're using iPhone SE (1st generation), 5S, 5C, 5, 4S, 4, or earlier models, the steps are the same as above (for devices with the Home button). Just make sure to press the**Power button** on the top of the device instead.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Restart an iPhone if the Buttons Are Broken or Not Working
 
  In the sections above, we detailed the steps to restart an iPhone using its physical buttons. However, there are two more methods you can use to restart your iPhone, and they don't involve using any buttons.
 
  This comes in handy if your iPhone buttons are broken or not working for any reason. It can also be helpful if you're unable to press and hold the buttons.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Restart an iPhone From the Settings App
 
  The first method is to restart your iPhone through the**Settings** app. Follow these steps:
@@ -87,16 +105,22 @@ You have successfully restarted your iPhone with a Home button.
 
 ![iPhone Settings app showing Shut Down](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-shut-down.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone Power off screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-power-off-screen.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Restart an iPhone Using Siri
 
  The second button-free method involves using Siri, the virtual assistant on your iPhone. However, this method requires an iPhone running iOS 16 or later. To use Siri to restart your device, follow these steps:
@@ -108,24 +132,18 @@ Close
 
 ![using siri to restart iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/muo-in-article-image-1200px-by-600px-21-ratio-23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Often Should You Restart Your iPhone?
 
  The opinion on this varies from person to person. Some people don't restart their devices for weeks, while others frequently restart them. Most users perform a restart when their [iPhone feels slow](https://www.makeuseof.com/how-to-fix-slow-iphone/) , their [iPhone apps keep crashing](https://www.makeuseof.com/tag/iphone-ios-apps-keep-crashing-try-fixes/) , and the overall performance feels sluggish.
 
  For the best iPhone experience, you should restart your iPhone at least once every week. If you do it every three days, that's even better. This gives the device a chance to shut down and cool off. Plus, temporary files are cleared, minor issues are fixed automatically, and you'll probably face fewer situations where you need to [force stop apps on your iPhone](https://www.makeuseof.com/should-you-force-stop-apps-on-your-phone/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Force Restart When a Normal Restart Doesn't Work
 
  This is how you can restart any iPhone. As you saw, the process is quick and straightforward. However, if your device is frozen, the screen is black, stuck indefinitely on the Apple logo, or the touch screen isn't working, a simple restart may not work.

@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Chip In An Extra $250 for Your Ultimate RTX Cuarto PC"
-date: 2024-09-03T23:04:49.087Z
-updated: 2024-09-04T23:04:49.087Z
+date: 2024-09-08T23:58:05.502Z
+updated: 2024-09-09T23:58:05.502Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/d9a0fed70b3544c875727acbd189babb9991061b2738772aa77659169a12a4b8.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Dive Into the World of High-Performance Gadgets at [Your Site Name] – Your Ultimate Tech Guide
 
 This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show was filled interesting AI focused PCs, but often, their most interesting features had little to do with AI. Such is the case with[MSI](https://www.tomshardware.com/tag/msi-microstar) 's MEG Vision X AI Desktop, which we stumbled upon in the company's sprawling booth.
@@ -23,18 +29,48 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 ![MSI Meg Vision X with Gelsinger Signature](https://cdn.mos.cms.futurecdn.net/BYkvUDqMNVz6ycnx4BZFYV-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  By default, the touch display shows key PC stats such as your CPU temperature and clock speed. It also allows you to launch your favorite apps on your primary screen by tapping a shortcut icon. You can change performance modes here as well, opting for more speed or quieter fans.
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/2SRaW8dq9GVUxC4BK2xbzh-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The display is seen by Windows as a full-fledged second display in portrait mode. So you can play YouTube videos on it or run apps on it if you wish. MSI reps said a game streamer should keep their chat or OBS window on the front-panel screen while gaming on their primary monitor. They also said that the touch screen uses Intel integrated graphics while the main monitor or any secondary monitors you attach would use the Nvidia graphics card.
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,6 +85,12 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  But even if having a local image generator / chatbot is really valuable to you, you don't need a special PC or an on-case screen on the case to get those features. MSI may have its own branded apps, but it's likely using the same chat and image generation that's available elsewhere. Anyone who has a decent graphics card can download and install Stable Diffusion image generator or LLama for chat. If you have an RTX card, try[ComfyUI](https://github.com/comfyanonymous/ComfyUI) , which is a very powerful frontend for Stable Diffusion.
@@ -123,16 +165,3 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 <li><a href="https://ai-voice.techidaily.com/updated-best-5-quandale-dingle-voice-generators/"><u>Updated Best 5 Quandale Dingle Voice Generators</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/wholesome-eating-made-simple-by-chatgpt/"><u>Wholesome Eating Made Simple by ChatGPT</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

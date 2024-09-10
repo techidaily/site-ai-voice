@@ -1,7 +1,7 @@
 ---
 title: "AMD's Instinct MI300A Powers HPE El Capitan: The Path to the Quickest Supercomputer"
-date: 2024-09-03T23:04:48.294Z
-updated: 2024-09-04T23:04:48.294Z
+date: 2024-09-08T23:58:04.947Z
+updated: 2024-09-09T23:58:04.947Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d09b9d43607b3861f48a7087e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Transport Your Massive Data on the Go: The WD Ultrastar Transporter - Equipped with 368TB NVMe SSDs and Powerful Features
 
 [Western Digital](https://www.tomshardware.com/tag/western-digital) , known for its hard drives and SSDs, has unveiled a new product that isn't a storage device in the technical sense. The product, known as the Ultrastar Transporter, is a new Western Digital-built travel case that houses a whopping 368TB of NVMe flash storage. The case is TAA compliant and has a 12-core Intel Ice Lake server that houses all SSDs and dual 200Gb ethernet ports.
@@ -19,10 +25,22 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 ![Western Digital Ultrastar Transporter](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Western Digital)
 
 ![Western Digital Ultrastar Transporter](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Western Digital)
 
  A few examples include workloads where high-capacity data capture needs to be processed at one location from another. Another is the proliferation of multi-datacenter workflows, where large data sets have to be held at multiple locations and rapidly sent to those locations faster than what raw internet bandwidth can provide.
@@ -31,6 +49,12 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
  The case itself looks like a conventional carrying case. The outer shell appears to be hard plastic, with metal supporting rails filling the lips of the case. The case features two latching mechanisms and a mechanism to attach a lock for[security](https://www.tomshardware.com/tag/security) . You can transport the travel case by rolling it on its two wheels or with another handle that allows you to carry it like a briefcase.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -95,10 +119,3 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 <li><a href="https://ai-voice.techidaily.com/updated-top-10-free-and-best-text-to-speech-generators-for-2024/"><u>Updated Top 10 Free and Best Text-to-Speech Generators for 2024</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/updated-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Updated Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

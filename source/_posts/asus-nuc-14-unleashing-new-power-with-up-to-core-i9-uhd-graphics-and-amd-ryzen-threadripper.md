@@ -1,7 +1,7 @@
 ---
 title: "Asus NUC 14: Unleashing New Power with Up to Core I9 UHD Graphics & AMD Ryzen Threadripper"
-date: 2024-09-03T23:04:48.266Z
-updated: 2024-09-04T23:04:48.266Z
+date: 2024-09-08T23:58:04.935Z
+updated: 2024-09-09T23:58:04.935Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unleash Top Performance and Durability with The Cybertruck Styled AMD Ryzen 7 Powered Xyber XPC Mini PC - No Need to Clean Off Pests or Debris
 
 The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegogo](https://www.indiegogo.com/projects/xyber-xpc-world-s-fastest-ryzen-7-mini-pc-truck/coming%5Fsoon) . This mini-PC houses a Ryzen 7 8845HS processor with up to 64 GB of RAM and a 1 TB M.2 NVMe 2280 SSD in the body of a Tesla Cybertruck. The company is likely not calling it that name due to copyright infringement, but its mini-PC is an almost faithful representation of the real thing.
@@ -21,14 +33,38 @@ The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegog
 
 ![Xyber Team XPC internals](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Xyber Team XPC internals  (Image credit: Taki Udon / YouTube)
 
 ![Xyber Team XPC ports](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Xyber Team XPC ports  (Image credit: Taki Udon / YouTube)
 
 ![Xyber Team XPC front](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Xyber Team XPC front  (Image credit: Taki Udon / YouTube)
 
  The plastic frame that holds the motherboard is also well-crafted and detailed, including the seats, plastic wheels, and rubber tires. A daughter board inside the frunk of this funky little mini-PC Cybertruck controls the front and rear lights, and you can steer the truck’s front wheel, albeit by pushing the wheels left or right with your fingers.
@@ -39,12 +75,30 @@ The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegog
 
  This Stealth Cybertruck PC Can Game - YouTube ![This Stealth Cybertruck PC Can Game - YouTube](https://img.youtube.com/vi/1DJs6fIS4Pg/maxresdefault.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Watch On](https://youtu.be/1DJs6fIS4Pg)
 
  Although the Xyber XPC has many vents for cooling, it still hits 100 degrees C with the fans going full tilt when set to its maximum 60-watt TDP. But with the TDP lowered to 30 watts, the CPU’s peak temperature is now just 60 degrees Celsius, and the fans are barely audible.
 
  We don’t have pricing information yet about the Xyber XPC, though, as it’s still in the campaign pre-launch stage. But the team behind the mini-PC Cybertruck says that they’re optimizing the BIOS and OS to get the best performance out of this small desktop computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -109,10 +163,3 @@ The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegog
 <li><a href="https://ai-voice.techidaily.com/updated-the-most-direct-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>Updated The Most Direct Guide to Learning How to Clone Your Voice for 2024</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/updated-top-10-robotic-voice-generators-with-comparison-table-for-2024/"><u>Updated Top 10 Robotic Voice Generators (with Comparison Table) for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

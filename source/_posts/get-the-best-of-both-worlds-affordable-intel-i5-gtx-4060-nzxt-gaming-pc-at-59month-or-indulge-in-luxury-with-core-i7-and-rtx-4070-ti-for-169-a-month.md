@@ -1,7 +1,7 @@
 ---
 title: Get the Best of Both Worlds! Affordable Intel I5, GTX 4060 NZXT Gaming PC at $59/Month or Indulge in Luxury with Core I7 and RTX 4070 Ti for $169 a Month.
-date: 2024-09-03T23:04:48.361Z
-updated: 2024-09-04T23:04:48.361Z
+date: 2024-09-08T23:58:04.991Z
+updated: 2024-09-09T23:58:04.991Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/Q7ce5KS86ZxhKymtVCzyQH-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Level Up Your Gaming Experience! NZXT's Monthly Lease Options: Core I5 & RTX 4060 for a Budget-Friendly $59 or Amp Up to the Ultimate Super Premium PC W/Core I7 + RTX 4070 Ti at an Unbeatable Price of $169
 
 NZXT has initiated a new subscription plan —[NZXT Flex](https://shareasale.com/r.cfm?b=755373&u=4338022&m=60525&afftrack=techidaily&urllink=https%3A%2F%2Fsilver-cuisine.pxf.io%2Fnlgolx) — that enables gamers to rent a pre-built NZXT gaming system for a monthly fee. With NZXT Flex, customers can rent a gaming PC for as little as $59 monthly with guaranteed component upgrades every two years.
@@ -19,6 +25,18 @@ NZXT has initiated a new subscription plan —[NZXT Flex](https://shareasale.com
 
 ![NZXT Flex Subscription Tiers](https://cdn.mos.cms.futurecdn.net/xHzgMBCkYAYYHmc6iPETgK-320-80.png)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 (Image credit: NZXT)
 
  Flex was made to improve PC gaming accessibility. According to Bryan De Zayas, NZXT's Head of Marketing: "At NZXT, we believe everyone should be able to play the games they love," "In the past, that meant buying a pre-built PC or building your own. Our new Flex subscription service offers gamers more flexibility and choice, so they can focus on what really matters – playing the games they love." NZXT's subscription service gives gamers access to a modern gaming PC when they otherwise couldn't afford one.
@@ -29,6 +47,18 @@ NZXT has initiated a new subscription plan —[NZXT Flex](https://shareasale.com
 
  Flex won't be for everyone, but for gamers who need a modern gaming PC in a pinch and don't want to buy a new system on a credit card (which can add interest to the system's total cost), NZXT's Flex subscription service is a solution.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -115,10 +145,3 @@ NZXT has initiated a new subscription plan —[NZXT Flex](https://shareasale.com
 <li><a href="https://ai-voice.techidaily.com/updated-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>Updated The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/updated-top-5-tiktok-voice-generators-you-should-try/"><u>Updated Top 5 TikTok Voice Generators You Should Try</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

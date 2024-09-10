@@ -1,7 +1,7 @@
 ---
 title: "Shocking Energy Consumption Unveiled: Single AI-Optimized GPU Guzzles 3.7 Million kWh Per Year, More Than All Used by Homes in 1.3 Million Dwellings Combined"
-date: 2024-09-03T23:04:48.070Z
-updated: 2024-09-04T23:04:48.070Z
+date: 2024-09-08T23:58:04.776Z
+updated: 2024-09-09T23:58:04.776Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292d35b3d8b3e159cf26b59b05.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Full Powered Computing on the Go – Folding Mini Keyboard Houses AMD Ryzen CPU, Touchscreen Controls, and Self-Contained Battery; Just Add a Display
 
 Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldable keyboard. The company shared its live presentation via video sharing site[bilibili](https://emakicms.com/brand/21/articles/view/2009106) , where the presenter pulled out the actual device from his back pocket. The keyboard PC also has a built-in trackpad, so you don't need to bring a mouse to use it. Interestingly, the portable mini PC lacks a built-in display, but the presenters had one interesting reason as to why it didn't include one.
@@ -35,14 +41,38 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 ![Linglong foldable keyboard PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Linglong on Bilibili)
 
 ![Linglong foldable keyboard PC ](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Linglong / bilibili)
 
 ![Linglong foldable keyboard PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Linglong on Bilibili)
 
  The company boasts ten hours of battery life for light office work and up to six hours for watching movies. However, heavy workloads and gaming will cut down its useful life to just four hours or so. We should also consider that this doesn't yet take into account the power use of a display. So, if you plug in a screen that takes juice from the keyboard PC, you can expect the battery life to go down significantly if the screen you're using doesn't have its own power supply.
@@ -53,6 +83,18 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -143,16 +185,3 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/why-your-oppo-a38-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo A38 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

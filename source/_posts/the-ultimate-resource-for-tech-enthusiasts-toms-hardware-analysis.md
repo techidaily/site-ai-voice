@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Resource for Tech Enthusiasts: Tom's Hardware Analysis"
-date: 2024-09-03T23:04:48.995Z
-updated: 2024-09-04T23:04:48.995Z
+date: 2024-09-08T23:58:05.421Z
+updated: 2024-09-09T23:58:05.421Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,24 @@ categories:
 thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Explore Cutting-Edge Tech with Tom's Hardware - Your Ultimate Gadget Guide
 
 Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com/desktops/mini-pcs/minisforum-atomman-x7-ti-touchscreen-mini-pc-comes-packing-an-intel-core-ultra-9-185h) device, this time with its eye on Mini PCs designed for gaming. The firm’s premium sub-brand is used here for a device offering the twin charms, and AMD Advantage blessings, of a[Ryzen R9 7945HX](https://www.tomshardware.com/news/ryzen-9-7945hx-beats-core-i9-13950hx) and Radeon[RX 7600M XT](https://www.tomshardware.com/news/amd-launches-rx-7600m-gpus-mobile-rdna-3-with-rtx-3060-performance) . Curiously, the new[AtomMan G7 Pt](https://www.minisforum.com/page/g7pt/index.html?lang=en) appears to be a rejigged version of the proposed Minisforum HX200G which was[showcased at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) back in January.
 
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/PyZgZxKUB9Acg9JX58bM36-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  As per our headline, Minisforum claims this is “the world’s first AMD Advantage-certified A+A high-performance Mini PC.” You can read more about[AMD Advantage for desktops](https://www.tomshardware.com/news/amds-advantage-comes-to-desktops-with-new-perf-boosting-features) , and we have[reviewed some laptops](https://www.tomshardware.com/reviews/asus-rog-strix-g15-advantage-edition-rx-6800m) with this certification. The AtomMan G7 Pt, however, is somewhere in-between as a Mini PC featuring mobile processors. For the rest of the specs check out the table below.
@@ -36,6 +48,12 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/BCXcTW8u5XFwpHJ2k5ueD6-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  The AMD Dragon Range CPU and RX7600M XT may not be the newest or most powerful AMD combo a PC maker could assemble in mid-2024\. Nevertheless, they should do a pretty good job delivering a capable mini gaming system experience, as long as user ambitions for higher resolutions (like 4K) and raytracing are kept in check.
@@ -50,10 +68,34 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/5vH5yUKbtEt5tHuJMtPYk5-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  One of the bigger changes we have seen added to the AtomMan G7 Pt since its name was switched from the HX200G is the provision of dual RGB backlighting panels. The example logo scrawl provides a prime example of beauty being in the eye of the beholder.
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -150,10 +192,3 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 <li><a href="https://vp-tips.techidaily.com/utilizing-b-roll-in-video-production-effectively/"><u>Utilizing B-Roll in Video Production Effectively</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/wholesome-eating-made-simple-by-chatgpt/"><u>Wholesome Eating Made Simple by ChatGPT</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

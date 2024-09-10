@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Computing Performance: Intel's Latest Innovation Features a Chiplet-to-Chiplet Optical Link at 4 TBps Speed"
-date: 2024-09-03T23:04:48.778Z
-updated: 2024-09-04T23:04:48.778Z
+date: 2024-09-08T23:58:05.258Z
+updated: 2024-09-09T23:58:05.258Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/7c14c2521c5a7d6f2586dc7cce48c3b4142cae653643556f77f854f0ef38defc.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Next-Gen Computing: Discover the Powerful Combination of Meteor Lake CPU and Intel Core I9 in OneXPlayer's New Mini-PC - Enhanced with up to 32GB RAM & OCuLink Technology
 
 One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU enclosure, just introduced its first mini-PC on Indiegogo—the OneXPlayer M1\. This tiny device (via[Liliputing](https://liliputing.com/onexplayer-m1-is-a-mini-pc-with-intel-core-ultra-9-185h-oculink-and-usb4/) ) has the Intel Core Ultra 9 185H and up to 32 GB of RAM. It also has an RJ45 port, Wi-Fi 6E, and Bluetooth 5.2, meaning you have three different connectivity options.
@@ -25,22 +31,58 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: One-Netbook)
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: One-Netbook)
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: One-Netbook)
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: One-Netbook)
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: One-Netbook)
 
  Aside from the Power button, One-Netbook also gave its mini-PC an RGB button to adjust the RGB lights on the case. But what’s interesting is that the Turbo button from PCs in the 1980s and 1990s is returning on the OneXPlayer M1\. The Turbo button will push the 185H’s power draw from the base 45 to 60 watts — just five watts short of its maximum configurable TDP. A 100-watt USB-C power supply also powers the mini-PC, so you’ll have ample power, even pushing the processor to its limit.
@@ -110,16 +152,3 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 <li><a href="https://youtube-blog.techidaily.com/nary-storytelling-for-video-viewers-growth/"><u>Visionary Storytelling for Video Viewers' Growth</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/wholesome-eating-made-simple-by-chatgpt/"><u>Wholesome Eating Made Simple by ChatGPT</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

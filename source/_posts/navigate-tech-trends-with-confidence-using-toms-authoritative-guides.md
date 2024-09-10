@@ -1,7 +1,7 @@
 ---
 title: Navigate Tech Trends with Confidence Using Tom's Authoritative Guides
-date: 2024-09-03T23:04:48.747Z
-updated: 2024-09-04T23:04:48.747Z
+date: 2024-09-08T23:58:05.243Z
+updated: 2024-09-09T23:58:05.243Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/6rbtDzA7vicrhRvorCwu2H-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unleash Powerful Performance with Meteor Lake CPU: OneXPlayer's New Mini-PC Featuring Intel Core I9 and up to Among Other Features
 
 One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU enclosure, just introduced its first mini-PC on Indiegogo—the OneXPlayer M1\. This tiny device (via[Liliputing](https://liliputing.com/onexplayer-m1-is-a-mini-pc-with-intel-core-ultra-9-185h-oculink-and-usb4/) ) has the Intel Core Ultra 9 185H and up to 32 GB of RAM. It also has an RJ45 port, Wi-Fi 6E, and Bluetooth 5.2, meaning you have three different connectivity options.
@@ -25,6 +37,44 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ (Image credit: One-Netbook)
+
+![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ (Image credit: One-Netbook)
+
+![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: One-Netbook)
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -33,14 +83,12 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
- (Image credit: One-Netbook)
-
-![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: One-Netbook)
-
-![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: One-Netbook)
 
  Aside from the Power button, One-Netbook also gave its mini-PC an RGB button to adjust the RGB lights on the case. But what’s interesting is that the Turbo button from PCs in the 1980s and 1990s is returning on the OneXPlayer M1\. The Turbo button will push the 185H’s power draw from the base 45 to 60 watts — just five watts short of its maximum configurable TDP. A 100-watt USB-C power supply also powers the mini-PC, so you’ll have ample power, even pushing the processor to its limit.
@@ -49,6 +97,12 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -147,10 +201,3 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 <li><a href="https://ai-voice.techidaily.com/updated-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>Updated The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/wholesome-eating-made-simple-by-chatgpt/"><u>Wholesome Eating Made Simple by ChatGPT</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
