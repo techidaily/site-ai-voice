@@ -1,7 +1,7 @@
 ---
 title: "Asus NUC 14: Unleashing New Power with Up to Core I9 UHD Graphics & AMD Ryzen Threadripper"
-date: 2024-09-08T23:58:04.935Z
-updated: 2024-09-09T23:58:04.935Z
+date: 2024-09-09T01:12:40.176Z
+updated: 2024-09-15T00:57:50.439Z
 tags:
   - desktop
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unleash Top Performance and Durability with The Cybertruck Styled AMD Ryzen 7 Powered Xyber XPC Mini PC - No Need to Clean Off Pests or Debris
 
 The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegogo](https://www.indiegogo.com/projects/xyber-xpc-world-s-fastest-ryzen-7-mini-pc-truck/coming%5Fsoon) . This mini-PC houses a Ryzen 7 8845HS processor with up to 64 GB of RAM and a 1 TB M.2 NVMe 2280 SSD in the body of a Tesla Cybertruck. The company is likely not calling it that name due to copyright infringement, but its mini-PC is an almost faithful representation of the real thing.
@@ -33,38 +21,14 @@ The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegog
 
 ![Xyber Team XPC internals](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Xyber Team XPC internals  (Image credit: Taki Udon / YouTube)
 
 ![Xyber Team XPC ports](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Xyber Team XPC ports  (Image credit: Taki Udon / YouTube)
 
 ![Xyber Team XPC front](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Xyber Team XPC front  (Image credit: Taki Udon / YouTube)
 
  The plastic frame that holds the motherboard is also well-crafted and detailed, including the seats, plastic wheels, and rubber tires. A daughter board inside the frunk of this funky little mini-PC Cybertruck controls the front and rear lights, and you can steer the truck’s front wheel, albeit by pushing the wheels left or right with your fingers.
@@ -75,30 +39,12 @@ The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegog
 
  This Stealth Cybertruck PC Can Game - YouTube ![This Stealth Cybertruck PC Can Game - YouTube](https://img.youtube.com/vi/1DJs6fIS4Pg/maxresdefault.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Watch On](https://youtu.be/1DJs6fIS4Pg)
 
  Although the Xyber XPC has many vents for cooling, it still hits 100 degrees C with the fans going full tilt when set to its maximum 60-watt TDP. But with the TDP lowered to 30 watts, the CPU’s peak temperature is now just 60 degrees Celsius, and the fans are barely audible.
 
  We don’t have pricing information yet about the Xyber XPC, though, as it’s still in the campaign pre-launch stage. But the team behind the mini-PC Cybertruck says that they’re optimizing the BIOS and OS to get the best performance out of this small desktop computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -109,14 +55,11 @@ The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegog
 
  We’d love to get on this mini-PC Cybertruck and run it at its pace. Some expect it to perform similarly to other handhelds powered by the AMD Z1 Extreme, like the ROG Ally and Lenovo Legion Go, but we will only know once we make the Xyber XPC go through our[benchmarks](https://www.tomshardware.com/tag/benchmark) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,39 +70,19 @@ The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegog
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-perfect-your-xbox-footage-4-recording-strategies-revealed/"><u>[New] 2024 Approved  Perfect Your Xbox Footage  4 Recording Strategies Revealed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-polarr-editor-unveiled-ultimate-visual-transformation/"><u>[New] Polarr Editor Unveiled  Ultimate Visual Transformation</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-guide-mac-screen-recording-techniques/"><u>2024 Approved  Essential Guide  Mac Screen Recording Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-edits-start-on-all-your-tech/"><u>2024 Approved  Seamless Edits Start on All Your Tech</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>2024 Approved Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-c53-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/a-comprehensive-list-of-the-top-spongebob-voice-generators-for-2024/"><u>A Comprehensive List of The Top SpongeBob Voice Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/a-list-of-the-top-spongebob-voice-generators/"><u>A List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/decoding-ios-digital-screen-snatcher-secrets/"><u>Decoding IO's Digital Screen Snatcher Secrets</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harmonious-filmmaking-mastering-imovie-audio-for-2024/"><u>Harmonious Filmmaking  Mastering iMovie Audio for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-m34-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy M34 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oneplus-12-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From OnePlus 12 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pro-level-webcams-the-ultimate-choice-for-your-podcasts/"><u>In 2024, Pro Level Webcams  The Ultimate Choice for Your Podcasts</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-10-robotic-voice-generators-with-comparison-table/"><u>In 2024, Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-7-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 7 With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New 2024 Approved Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>New Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>New In 2024, A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New In 2024, Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-6-free-talking-stock-photo-sites/"><u>New In 2024, Top 6 Free Talking Stock Photo Sites</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>New Top 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-5-tiktok-voice-generators-you-should-try-for-2024/"><u>New Top 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/step-by-step-guide-turn-onoff-picture-in-picture-mode-in-youtube-app-for-2024/"><u>Step by Step Guide  Turn On/Off Picture In Picture Mode in YouTube App for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/unveiling-the-power-of-the-participant-grids-in-google-meet-for-2024/"><u>Unveiling the Power of the Participant Grids in Google Meet for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated 2024 Approved Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-ai-rap-voice-generators-you-should-try/"><u>Updated 2024 Approved Best AI Rap Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-revolutionizing-communication-real-time-ai-voice-changer/"><u>Updated 2024 Approved Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-hatsune-miku-ai-voice-generators-for-all-times-for-2024/"><u>Updated Best Hatsune Miku AI Voice Generators for All Times for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-6-best-voice-changers/"><u>Updated In 2024, 6 Best Voice Changers</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-10-free-and-best-text-to-speech-generators/"><u>Updated In 2024, Best 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-5-tiktok-voice-generators-you-should-try/"><u>Updated In 2024, Best 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-the-best-text-voice-generators-for-all-platforms-for-2024/"><u>Updated The Best Text Voice Generators for All Platforms for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-the-most-direct-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>Updated The Most Direct Guide to Learning How to Clone Your Voice for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-10-robotic-voice-generators-with-comparison-table-for-2024/"><u>Updated Top 10 Robotic Voice Generators (with Comparison Table) for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-complete-guide-to-hulu-recording-across-all-platforms-for-2024/"><u>[New] The Complete Guide to Hulu Recording Across All Platforms for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-easy-guide-to-iphones-how-to-seamlessly-download-podcasts/"><u>2024 Approved Easy Guide to iPhones - How to Seamlessly Download Podcasts</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/decoding-tech-specs-in-depth-reviews-and-comparisons-by-toms-hardware/"><u>Decoding Tech Specs: In-Depth Reviews and Comparisons by Tom's Hardware</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/1723262367747-exclusive-offer-chip-in-an-extra-250-for-your-ultimate-rtx-cuarto-pc/"><u>Exclusive Offer: Chip In An Extra $250 for Your Ultimate RTX Cuarto PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-get-your-pc-to-recognize-razer-devices-again/"><u>How to Get Your PC to Recognize Razer Devices Again</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-s23plus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy S23+ to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/toms-tech-hub-in-depth-reviews-and-insights/"><u>Tom's Tech Hub: In-Depth Reviews & Insights</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

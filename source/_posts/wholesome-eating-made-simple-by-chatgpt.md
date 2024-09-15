@@ -1,7 +1,7 @@
 ---
 title: Wholesome Eating Made Simple by ChatGPT
-date: 2024-09-08T23:58:05.679Z
-updated: 2024-09-09T23:58:05.679Z
+date: 2024-09-13T17:02:55.705Z
+updated: 2024-09-14T19:26:11.998Z
 tags:
   - chatgpt
   - open-ai
@@ -21,18 +21,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![picture of mail app icon on iphone menu screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-mail-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Email has been used as a scam vector for many years, be it to spread malware, blackmail victims, or steal valuable information. Now, ChatGPT's name is being used in email scams to trick recipients.
 
  In April 2023, many news publications began reporting a wave of phishing emails written specifically by ChatGPT. Because ChatGPT can write content upon a user's request, cybercriminals have begun using the AI chatbot to write phishing emails that they can then use in their malicious campaigns.
@@ -53,12 +41,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  So, it's crucial that you verify the legitimacy of a ChatGPT extension before downloading it. Also keep an eye out for discrete differences in the names of extensions, as a malicious extension can be listed under a very similar name in order to trick users.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Fake ChatGPT Apps
 
 ![app store application open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-store-smartphone.jpg)
@@ -69,28 +51,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  To keep yourself safe from these apps, it's important to do background research on any given kind of software program to see if it has a positive reputation, or any reputation at all. Even if an app looks enticing, it's not worth the installation if you can't verify whether it is safe. Stick to trusted app stores and check user reviews before downloading any kind of app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Malware Created by ChatGPT
 
 ![black skull and bones flag on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malware-on-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There's been a lot of talk about AI and cybercrime in recent years, as many are concerned this technology may make it easier for malicious actors to scam and attack victims.
 
  This is by no means an unrealistic worry, as[ChatGPT can be used in malware creation](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) . It didn't take long after the launch of ChatGPT for illicit individuals to start writing malicious code using the popular tool. In early 2023, a form of[Python-based malware was allegedly created using ChatGPT](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) , as stated in a hacking forum post.
@@ -98,27 +62,23 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  This malware was not highly complex, and no severely dangerous malware, such as ransomware, has been identified as a product of ChatGPT. But ChatGPT's ability to write even simple malware programs opens a door to people who want to get into cybercrime but do not have much, or any, technical expertise. In any case, this new AI-powered capability may prove to be a big issue in the near future.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. ChatGPT Phishing Sites
 
 ![Hacker phishing data from a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hacker-phishing-data.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Phishing attacks are often conducted using malicious websites. These sites are designed to log the keystrokes you enter so that valuable data can be stolen and exploited.
 
  If you want to use ChatGPT, there's a chance you are at risk of falling victim to this kind of phishing scam. Say you click on a website believing it to be the official ChatGPT webpage. Here, you create an account, entering your name, contact details, and other information. If the website you're using is, in reality,[a malicious site](https://www.makeuseof.com/beginners-guide-to-malicious-websites/) , the information you enter will likely be stolen for exploitation.
@@ -131,14 +91,11 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  As ChatGPT continues to grow in prevalence, it is likely that cybercriminals will continue to leverage its popularity to target users, be it for their devices, their activity, or their sensitive data. So, if you're interested in using ChatGPT, or you want to stay updated on how to protect yourself online, be mindful of the various types of scams and attacks.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,43 +106,18 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-ending-your-insta-saga-a-comprehensive-guide-to-deactivation-for-2024/"><u>[New] Ending Your Insta Saga  A Comprehensive Guide to Deactivation for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-investment-edutainment-the-best-channels-reviewed/"><u>[New] Investment Edutainment  The Best Channels Reviewed</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagram-adding-borders-to-your-photos/"><u>[Updated] 2024 Approved  Mastering Instagram  Adding Borders to Your Photos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-video-capture-with-obs-studios-features/"><u>[Updated] Mastering Video Capture with OBS Studio's Features</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-masterpiece-episodes-for-airwaves/"><u>[Updated] Masterpiece Episodes for Airwaves</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2022-olympic-highlights-in-short-track-racing-for-2024/"><u>2022 Olympic Highlights in Short Track Racing for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-smart-shopping-top-7-mirrorless-cameras-under-1000/"><u>2024 Approved  Smart Shopping  Top 7 Mirrorless Cameras Under $1,000</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-real-time-ai-voice-changer-revolutionizing-communication/"><u>2024 Approved Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>2024 Approved The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-top-10-free-and-best-text-to-speech-generators/"><u>2024 Approved Top 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/an-ultimate-guide-of-best-narrator-voice-generators-for-2024/"><u>An Ultimate Guide of Best Narrator Voice Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-10-free-and-best-text-to-speech-generators-for-2024/"><u>Best 10 Free and Best Text-to-Speech Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-ai-rap-voice-generators-you-should-try/"><u>Best AI Rap Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-celebrity-voice-generator-tools-you-cannot-miss/"><u>Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/easy-video-editing-for-mac-users-a-guide-to-mkvtoolnix/"><u>Easy Video Editing for Mac Users A Guide to MKVtoolnix</u></a></li>
-<li><a href="https://fox-access.techidaily.com/elevating-visual-communication-top-10-tools-for-vector-artists/"><u>Elevating Visual Communication  Top 10 Tools for Vector Artists</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/elevating-your-igtv-presence-a-guide-to-effective-hash-tags/"><u>Elevating Your IGTV Presence  A Guide to Effective Hash Tags</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/horizon-proworks-complete-4k-integrated-solution-for-2024/"><u>Horizon ProWorks  Complete 4K Integrated Solution for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-11-pro-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-realme-narzo-n55-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Realme Narzo N55 to iPad | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>In 2024, A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oneplus-nord-n30-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast OnePlus Nord N30 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximize-viewership-with-smart-and-stylish-titles/"><u>In 2024, Maximize Viewership With Smart and Stylish Titles</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-10-robotic-voice-generators/"><u>In 2024, Top 10 Robotic Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-ai-rap-voice-generators-upgrade-your-rap/"><u>In 2024, Top AI Rap Voice Generators Upgrade Your Rap</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-ai-rap-voice-generators-upgrade-your-rap/"><u>New 2024 Approved Top AI Rap Voice Generators Upgrade Your Rap</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-ai-rap-voice-generators-you-should-try-for-2024/"><u>New Best AI Rap Voice Generators You Should Try for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New In 2024, A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-quiet-the-screenplay-removing-audible-aspects-from-mp4mkvavimov-and-wmv-videos/"><u>New Quiet the Screenplay Removing Audible Aspects From MP4/MKV/AVI/MOV and WMV Videos</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-10-robotic-voice-generators-for-2024/"><u>New Top 10 Robotic Voice Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-6-free-talking-stock-photo-sites/"><u>Top 6 Free Talking Stock Photo Sites</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>Updated 2024 Approved The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-ai-rap-voice-generators-you-should-try/"><u>Updated Best AI Rap Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Updated In 2024, Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-ai-rap-voice-generators-upgrade-your-rap/"><u>Updated In 2024, Top AI Rap Voice Generators Upgrade Your Rap</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-latest-top-darth-vader-voice-generators-for-all-platforms/"><u>Updated Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-6-free-talking-stock-photo-sites-for-2024/"><u>Updated Top 6 Free Talking Stock Photo Sites for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-exploring-mozillas-split-screen-technique-in-firefox/"><u>[New] In 2024, Exploring Mozilla's Split Screen Technique in Firefox</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-optimizing-your-experience-viewing-facebook-live-effectively-for-2024/"><u>[Updated] Optimizing Your Experience Viewing Facebook Live Effectively for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-lenovo-ideapad-features-of-an-excellently-built-budget-laptop/"><u>Comprehensive Guide to the Lenovo Ideapad: Features of an Excellently Built Budget Laptop</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-elite-selection-of-mesh-network-systems-dominating-2024/"><u>Discover the Elite Selection of Mesh Network Systems Dominating 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-rendering-system-errored-on-start/"><u>Graphic Rendering System Errored On-Start</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/head-to-head-analysis-of-the-apple-watch-s9-and-fitbit-charge-6-features/"><u>Head-to-Head Analysis of the Apple Watch S9 and Fitbit Charge 6 Features</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-disconnect-permanently-from-the-tiktok-community-for-2024/"><u>How to Disconnect Permanently From the TikTok Community for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/1723262406618-lenovo-desktop-powerhouse-save-big-on-the-latest-legion-model-featuring-rtx-4080-gpu-for-just-under-3k/"><u>Lenovo Desktop Powerhouse: Save Big on the Latest Legion Model Featuring RTX 4080 GPU for Just Under $3K</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/motorola-mg7700-assessment-dependable-and-fast-performance/"><u>Motorola MG7700 Assessment - Dependable and Fast Performance</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/navigate-tech-trends-with-confidence-using-toms-authoritative-guides/"><u>Navigate Tech Trends with Confidence Using Tom's Authoritative Guides</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/ultimate-mobility-meets-high-performance-experience-the-unique-folding-keyboard-with-embedded-amd-ryzen-desktop-touchpad-and-battery-just-connect-to-screen.111/"><u>Ultimate Mobility Meets High Performance: Experience the Unique Folding Keyboard with Embedded AMD Ryzen Desktop, Touchpad & Battery - Just Connect to Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-world-of-biometric-technology-a-comprehensive-guide/"><u>Understanding the World of Biometric Technology: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/1722884777799-unveil-professional-photography-potential-get-yn560iv-now-at-a-savings/"><u>Unveil Professional Photography Potential: Get YN560IV Now at a Savings!</u></a></li>
 </ul></div>
+

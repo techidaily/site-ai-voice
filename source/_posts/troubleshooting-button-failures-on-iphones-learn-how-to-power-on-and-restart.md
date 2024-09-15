@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Button Failures on iPhones - Learn How to Power On and Restart
-date: 2024-09-08T23:58:06.017Z
-updated: 2024-09-09T23:58:06.017Z
+date: 2024-09-13T00:41:57.446Z
+updated: 2024-09-14T22:46:32.943Z
 tags:
   - iphone
   - apple
@@ -18,22 +18,10 @@ thumbnail: https://thmb.techidaily.com/23e666886afecfc048aeb4d50e179c98091d3b2c2
 
  The steps to restart iPhones are simple but vary according to the different sets of models. This guide shows you how you can restart any iPhone. It even shows you how to restart an iPhone if the buttons are broken and not working.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Restart an iPhone With Face ID
 
 ![How to Restart iPhone With Face ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-face-id.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Follow these steps to restart iPhone X, iPhone XR, or any newer model with a notch or [Dynamic Island](https://www.makeuseof.com/what-is-dynamic-island/) :
 
 1. Press and hold both the**Side button** on the right side of the iPhone and**any of the volume buttons** on the left side. Release the buttons when you see the power off screen.
@@ -43,28 +31,10 @@ thumbnail: https://thmb.techidaily.com/23e666886afecfc048aeb4d50e179c98091d3b2c2
 
  You have successfully restarted your iPhone with Face ID. Enter the device passcode to unlock it and get to the Home Screen.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Restart an iPhone With a Home Button
 
 ![How to Restart iPhone With Home Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-home-button.png)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Follow these steps to restart iPhone 6, 6S, 7, 8, and SE (2nd generation):
 
 1. Press and hold the**Side button** until you see the power off screen.
@@ -86,12 +56,6 @@ You have successfully restarted your iPhone with a Home button.
 
  This comes in handy if your iPhone buttons are broken or not working for any reason. It can also be helpful if you're unable to press and hold the buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Restart an iPhone From the Settings App
 
  The first method is to restart your iPhone through the**Settings** app. Follow these steps:
@@ -105,21 +69,16 @@ You have successfully restarted your iPhone with a Home button.
 
 ![iPhone Settings app showing Shut Down](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-shut-down.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Power off screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-power-off-screen.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Restart an iPhone Using Siri
 
@@ -132,18 +91,32 @@ Close
 
 ![using siri to restart iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/muo-in-article-image-1200px-by-600px-21-ratio-23.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Often Should You Restart Your iPhone?
 
  The opinion on this varies from person to person. Some people don't restart their devices for weeks, while others frequently restart them. Most users perform a restart when their [iPhone feels slow](https://www.makeuseof.com/how-to-fix-slow-iphone/) , their [iPhone apps keep crashing](https://www.makeuseof.com/tag/iphone-ios-apps-keep-crashing-try-fixes/) , and the overall performance feels sluggish.
 
  For the best iPhone experience, you should restart your iPhone at least once every week. If you do it every three days, that's even better. This gives the device a chance to shut down and cool off. Plus, temporary files are cleared, minor issues are fixed automatically, and you'll probably face fewer situations where you need to [force stop apps on your iPhone](https://www.makeuseof.com/should-you-force-stop-apps-on-your-phone/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Force Restart When a Normal Restart Doesn't Work
 
  This is how you can restart any iPhone. As you saw, the process is quick and straightforward. However, if your device is frozen, the screen is black, stuck indefinitely on the Apple logo, or the touch screen isn't working, a simple restart may not work.
@@ -156,8 +129,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,45 +138,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-12-best-vlogging-cameras-for-vloggers/"><u>[New] 2024 Approved  12 Best Vlogging Cameras for Vloggers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-core-principles-in-crafting-persuasive-facebook-ads/"><u>[New] In 2024, Core Principles in Crafting Persuasive Facebook Ads</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-new-frontier-in-recording-captureking-review-for-2024/"><u>[New] The New Frontier in Recording  'CaptureKing' Review for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-effortlessly-record-and-share-snapchat-videos-for-2024/"><u>[Updated] How to Effortlessly Record and Share Snapchat Videos for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-quick-and-easy-snapchat-image-manipulation-techniques/"><u>2024 Approved  Quick and Easy Snapchat Image Manipulation Techniques</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>2024 Approved Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/a-list-of-the-top-spongebob-voice-generators-for-2024/"><u>A List of The Top SpongeBob Voice Generators for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oneplus-ace-3-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your OnePlus Ace 3? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-celebrity-voice-generator-tools-you-cannot-miss-for-2024/"><u>Best Celebrity Voice Generator Tools You Cannot Miss for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-zte-nubia-flip-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked ZTE Nubia Flip 5G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-xs-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone XS without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-yuva-2-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Yuva 2</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-all-encompassing-az-screenshot-tool-app-evaluations/"><u>In 2024, All-Encompassing AZ Screenshot Tool  App Evaluations</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-best-solutions-for-samsung-network-unlock-by-drfone-android/"><u>In 2024, Best Solutions for Samsung Network Unlock</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-nokia-c300-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 14 Pro?</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator-for-2024/"><u>New A Detailed Review & Alternatives of VOCALOID6 Voice Generator for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-real-time-ai-voice-changer-revolutionizing-communication/"><u>New In 2024, Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-update-6-best-voice-changers-you-cant-miss/"><u>New In 2024, Update 6 Best Voice Changers You Cant Miss</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>New In 2024, Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>New The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-6-free-talking-stock-photo-sites/"><u>New Top 6 Free Talking Stock Photo Sites</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-realme-gt-neo-5-se-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Realme GT Neo 5 SE</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/the-ultimate-guide-to-learning-all-the-details-about-voice-cloning-for-2024/"><u>The Ultimate Guide to Learning All the Details About Voice Cloning for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-5-tiktok-voice-generators-you-should-try-for-2024/"><u>Top 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/top-tier-window-snapper-for-win11-users-for-2024/"><u>Top-Tier Window Snapper for Win11 Users for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-the-secrets-buying-a-high-quality-360-camera-today-for-2024/"><u>Unveiling the Secrets  Buying a High-Quality 360 Camera Today for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Updated 2024 Approved Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-5-quandale-dingle-voice-generators/"><u>Updated 2024 Approved Best 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-4-hatsune-miku-voice-ai-generators-for-all-times/"><u>Updated 2024 Approved Top 4 Hatsune Miku Voice AI Generators for All Times</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Updated 2024 Approved Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>Updated In 2024, The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-5-quandale-dingle-voice-generators/"><u>Updated In 2024, Top 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>Updated In 2024, Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-latest-top-darth-vader-voice-generators-for-all-platforms-for-2024/"><u>Updated Latest Top Darth Vader Voice Generators for All Platforms for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-real-time-ai-voice-changer-revolutionizing-communication-for-2024/"><u>Updated Real-Time AI Voice Changer Revolutionizing Communication for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>Updated Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-y56-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo Y56 5G Phone Network-Ready</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-full-spectrum-screen-recording-az-analyses-and-backups-for-2024/"><u>[New] Full Spectrum Screen Recording - AZ Analyses & Backups for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-invisible-listeners-guide-6-clandestine-recording-apps-androidios/"><u>[New] Invisible Listeners Guide 6 Clandestine Recording Apps (Android/iOS)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-online-photo-editing-tools-to-unblur-photos/"><u>10 Online Photo Editing Tools to Unblur Photos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-behind-the-scenes-insight-how-vimeo-record-works/"><u>In 2024, Behind-the-Scenes Insight How Vimeo Record Works</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-reno-11f-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo Reno 11F 5G Phone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/mastering-gadgets-and-hardware-essentials-on-toms-review-channel/"><u>Mastering Gadgets and Hardware Essentials on Tom's Review Channel</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/mastering-pc-builds-and-upgrades-with-toms-expertise/"><u>Mastering PC Builds and Upgrades with Tom's Expertise</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-the-best-text-to-audio-converters-of-all-times/"><u>New 2024 Approved The Best Text-to-Audio Converters of All Times</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quieting-beats-step-by-step-for-2024/"><u>Quieting Beats Step-by-Step for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-completely-refreshing-any-ipad-model-through-a-hard-reset/"><u>Step-by-Step Instructions for Completely Refreshing Any iPad Model Through a Hard Reset</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/unveiling-top-notch-devices-with-toms-hardware-experts/"><u>Unveiling Top-Notch Devices with Tom's Hardware Experts</u></a></li>
 </ul></div>
+

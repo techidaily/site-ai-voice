@@ -1,7 +1,7 @@
 ---
 title: "Decoding Tech Specs: In-Depth Reviews and Comparisons by Tom's Hardware"
-date: 2024-09-08T23:58:05.485Z
-updated: 2024-09-09T23:58:05.485Z
+date: 2024-09-09T00:57:30.742Z
+updated: 2024-09-14T21:27:10.858Z
 tags:
   - desktop
 categories:
@@ -9,24 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652a5ccde76155c26629dae8fb.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## From SSDs to Smartphones: All Your Tech Queries Answered by Tom's Hardware
 
 Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com/desktops/mini-pcs/minisforum-atomman-x7-ti-touchscreen-mini-pc-comes-packing-an-intel-core-ultra-9-185h) device, this time with its eye on Mini PCs designed for gaming. The firm’s premium sub-brand is used here for a device offering the twin charms, and AMD Advantage blessings, of a[Ryzen R9 7945HX](https://www.tomshardware.com/news/ryzen-9-7945hx-beats-core-i9-13950hx) and Radeon[RX 7600M XT](https://www.tomshardware.com/news/amd-launches-rx-7600m-gpus-mobile-rdna-3-with-rtx-3060-performance) . Curiously, the new[AtomMan G7 Pt](https://www.minisforum.com/page/g7pt/index.html?lang=en) appears to be a rejigged version of the proposed Minisforum HX200G which was[showcased at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) back in January.
 
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/PyZgZxKUB9Acg9JX58bM36-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  As per our headline, Minisforum claims this is “the world’s first AMD Advantage-certified A+A high-performance Mini PC.” You can read more about[AMD Advantage for desktops](https://www.tomshardware.com/news/amds-advantage-comes-to-desktops-with-new-perf-boosting-features) , and we have[reviewed some laptops](https://www.tomshardware.com/reviews/asus-rog-strix-g15-advantage-edition-rx-6800m) with this certification. The AtomMan G7 Pt, however, is somewhere in-between as a Mini PC featuring mobile processors. For the rest of the specs check out the table below.
@@ -48,12 +36,6 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/BCXcTW8u5XFwpHJ2k5ueD6-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  The AMD Dragon Range CPU and RX7600M XT may not be the newest or most powerful AMD combo a PC maker could assemble in mid-2024\. Nevertheless, they should do a pretty good job delivering a capable mini gaming system experience, as long as user ambitions for higher resolutions (like 4K) and raytracing are kept in check.
@@ -68,28 +50,10 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/5vH5yUKbtEt5tHuJMtPYk5-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  One of the bigger changes we have seen added to the AtomMan G7 Pt since its name was switched from the HX200G is the provision of dual RGB backlighting panels. The example logo scrawl provides a prime example of beauty being in the eye of the beholder.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -100,14 +64,11 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 
  Pricing for the AtomMan G7 Pt hasn’t been divulged, though we have written back to Minisforum for some pricing details. Those particularly interested in this device might find it worthwhile to sign up for updates and a $50 discount coupon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,38 +79,20 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-blueprint-of-youtubes-innovative-shorts-economy-model/"><u>[New] The Blueprint of YouTube's Innovative Shorts Economy Model</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-palette-of-possibilities-with-downloadable-spark-ar-luts/"><u>[New] Unlocking the Palette of Possibilities with Downloadable Spark AR LUTs</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-how-to-turn-off-suggested-posts-on-instagram-for-2024/"><u>[Updated] How to Turn Off Suggested Posts on Instagram for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/5-compelling-factors-against-downloading-a-chatgpt-mobile-app/"><u>5 Compelling Factors Against Downloading a ChatGPT Mobile App</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/addressing-the-issue-no-more-crashes-in-mir4-when-played-on-windows-machines/"><u>Addressing the Issue: No More Crashes in Mir4 when Played on Windows Machines</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-practices-for-cleaning-and-disinfecting-electronic-remotes-at-home/"><u>Best Practices for Cleaning and Disinfecting Electronic Remotes at Home</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-videos-to-life-the-magic-of-cartoon-conversion-explained/"><u>Bring Your Videos to Life The Magic of Cartoon Conversion Explained</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974296020-effortless-setup-get-your-amd-ryzen-5-2400g-drivers-installed-in-a-flash/"><u>Effortless Setup: Get Your AMD Ryzen 5 2400G Drivers Installed in a Flash!</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/expert-opinion-the-pros-and-cons-of-using-google-maps-for-iphone-users/"><u>Expert Opinion: The Pros and Cons of Using Google Maps for iPhone Users</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/exploring-performance-and-features-of-asus-rt-ac88u-a-comprehensive-gaming-router-assessment/"><u>Exploring Performance and Features of Asus RT-AC88U - A Comprehensive Gaming Router Assessment</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-meizu-21-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Meizu 21 Phone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/1723007012887-how-to-fix-directdraw-problems-successfully-top-tips-and-tricks/"><u>How to Fix DirectDraw Problems Successfully – Top Tips & Tricks!</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/how-to-resolve-the-darkened-interface-of-zoom-meetings-on-pc-a-definitive-2024-tutorial/"><u>How to Resolve the Darkened Interface of Zoom Meetings on PC: A Definitive 2024 Tutorial</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/how-to-stop-remnant-from-the-ashes-from-keeping-you-frustrated-with-constant-crashes/"><u>How to Stop Remnant: From the Ashes From Keeping You Frustrated with Constant Crashes</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/how-to-successfully-address-and-correct-indivisible-crash-issues-once-and-for-all/"><u>How to Successfully Address and Correct 'Indivisible' Crash Issues Once and For All</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>In 2024, Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Honor Magic 6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/optimize-your-pc-for-smooth-cs2-gameplay-eliminate-lag-and-frames-per-second-dips/"><u>Optimize Your PC for Smooth CS2 Gameplay – Eliminate Lag & Frames Per Second Dips</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/optimizing-your-gaming-setup-to-combat-csgo-stuttering-issues/"><u>Optimizing Your Gaming Setup to Combat CS:GO Stuttering Issues</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/overcoming-setbacks-troubleshooting-a-non-launching-evil-genius-2-game/"><u>Overcoming Setbacks: Troubleshooting a Non-Launching Evil Genius 2 Game</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/overcoming-the-msvcr110dll-error-in-helldivers-2-expert-tips-for-a-smooth-gameplay/"><u>Overcoming the MSVCR110.dll Error in Helldivers 2: Expert Tips for a Smooth Gameplay</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/pc-troubleshooting-guide-fix-ark-sanctuary-uber-wikis-constant-crash-issues-with-9-solutions/"><u>PC Troubleshooting Guide: Fix ARK: Sanctuary Über Wiki's Constant Crash Issues with 9 Solutions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/precision-capturing-the-art-of-ps4-gaming-recordings-with-obs/"><u>Precision Capturing  The Art of PS4 Gaming Recordings with OBS</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/resident-evil-village-and-pc-compatibility-solving-runtime-errors/"><u>Resident Evil Village and PC Compatibility: Solving Runtime Errors</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/solving-modern-game-sound-glitches-a-comprehensive-guide/"><u>Solving Modern Game Sound Glitches: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/solving-the-not-enough-memory-trouble-for-a-smooth-god-of-war-experience/"><u>Solving the Not Enough Memory Trouble for a Smooth God of War Experience</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/tips-and-tricks-to-prevent-game-crashes-of-dragon-age-origins-while-playing-on-windows-10/"><u>Tips and Tricks to Prevent Game Crashes of Dragon Age: Origins While Playing on Windows 10</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/troubleshooting-dolby-audio-start-up-problems-for-windows-10-users/"><u>Troubleshooting Dolby Audio Start-Up Problems for Windows 10 Users</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/troubleshooting-guide-why-isnt-my-msi-mystic-light-functioning-on-windows/"><u>Troubleshooting Guide: Why Isn't My MSI Mystic Light Functioning on Windows?</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/troubleshooting-tips-for-realtek-mic-issues-get-your-audio-up-and-running/"><u>Troubleshooting Tips for Realtek Mic Issues - Get Your Audio Up and Running!</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/ultimate-troubleshooting-steps-for-life-is-strange-true-colors-crashes-resolved/"><u>Ultimate Troubleshooting Steps for Life Is Strange: True Colors Crashes Resolved</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-x100-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo X100 Pro? Here is How | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/wholesome-eating-made-simple-by-chatgpt/"><u>Wholesome Eating Made Simple by ChatGPT</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-make-and-edit-multi-snapchat-videos-easily/"><u>[Updated] How to Make and Edit Multi Snapchat Videos Easily</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-crescendo-video-tips-for-music-loving-snapchaters/"><u>[Updated] In 2024, Crescendo Video Tips for Music-Loving Snapchaters</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-transforming-ordinary-to-extraordinary-with-engaging-tiktok-unboxings/"><u>2024 Approved Transforming Ordinary to Extraordinary with Engaging TikTok Unboxings</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/enhancing-computing-performance-intels-latest-innovation-features-a-chiplet-to-chiplet-optical-link-at-4-tbps-speed/"><u>Enhancing Computing Performance: Intel's Latest Innovation Features a Chiplet-to-Chiplet Optical Link at 4 TBps Speed</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/head-to-head-analysis-of-the-apple-watch-s9-and-fitbit-charge-6-features/"><u>Head-to-Head Analysis of the Apple Watch S9 and Fitbit Charge 6 Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/keep-data-members-private-or-protected/"><u>Keep Data Members Private or Protected.</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/navigate-tech-trends-with-confidence-using-toms-authoritative-guides/"><u>Navigate Tech Trends with Confidence Using Tom's Authoritative Guides</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-bert-nlp-model-key-features-and-distinctions-from-gpt/"><u>Understanding the BERT NLP Model: Key Features and Distinctions From GPT</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
