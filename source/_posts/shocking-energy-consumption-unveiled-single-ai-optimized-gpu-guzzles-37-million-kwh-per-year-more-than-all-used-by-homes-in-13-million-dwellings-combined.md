@@ -1,7 +1,7 @@
 ---
 title: "Shocking Energy Consumption Unveiled: Single AI-Optimized GPU Guzzles 3.7 Million kWh Per Year, More Than All Used by Homes in 1.3 Million Dwellings Combined"
-date: 2024-09-11T19:16:35.368Z
-updated: 2024-09-14T23:00:30.987Z
+date: 2024-09-18T02:54:52.155Z
+updated: 2024-09-18T22:30:57.344Z
 tags:
   - desktop
 categories:
@@ -76,24 +76,28 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-360-video-editors-how-to-upload-360-video-to-youtube/"><u>[New] 2024 Approved 360 Video Editors How to Upload 360 Video to YouTube</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-step-by-step-guide-to-dynamic-gif-making/"><u>[New] In 2024, Step-by-Step Guide to Dynamic GIF Making</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-m14-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy M14 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/marvels-avengers-a-balanced-review-between-greatness-and-ordinary/"><u>Marvel's Avengers: A Balanced Review Between Greatness and Ordinary</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/mastering-pc-builds-and-upgrades-with-toms-expertise/"><u>Mastering PC Builds and Upgrades with Tom's Expertise</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/navigating-lenovo-screen-capture-tools-effortlessly-for-2024/"><u>Navigating Lenovo Screen Capture Tools Effortlessly for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/navigating-tech-trends-comprehensive-reviews-by-toms-hardware-professionals/"><u>Navigating Tech Trends: Comprehensive Reviews by Tom's Hardware Professionals</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/navigating-the-world-of-gadgets-and-pcs-at-toms-hardware-reviews/"><u>Navigating the World of Gadgets and PCs at Tom's Hardware Reviews</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-4k-perfection-the-most-jaw-dropping-video-samples-out-there/"><u>New In 2024, 4K Perfection The Most Jaw-Dropping Video Samples Out There</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-hardware-analysis/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Hardware Analysis</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/thrifty-and-efficient-the-tp-link-archer-a9-under-100-router-comprehensive-review/"><u>Thrifty and Efficient: The TP-Link Archer A9 Under $100 Router - Comprehensive Review</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-navigating-through-youtubes-revenue-flow-after-monetization/"><u>[New] 2024 Approved Navigating Through YouTube's Revenue Flow After Monetization</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-cloud-service-pricing-a-comparative-look/"><u>[New] Cloud Service Pricing A Comparative Look</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-create-facebook-video-ads-with-free-video-creation-kit/"><u>2024 Approved How to Create Facebook Video Ads with FREE Video Creation Kit?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-innovative-zooming-techniques-for-stunning-snaps/"><u>2024 Approved Innovative Zooming Techniques for Stunning Snaps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spark-ar-graphics-mastering-the-art-with-downloadable-color-lookups/"><u>2024 Approved Spark AR Graphics Mastering the Art with Downloadable Color Lookups</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-fixes-when-dictation-is-not-working-on-your-iphone/"><u>5 Fixes When Dictation Is Not Working on Your iPhone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-13c-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi 13C to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>In 2024, Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-stop-facebook-ad-popups-for-peaceful-browsing/"><u>In 2024, Stop Facebook Ad Popups for Peaceful Browsing</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>In 2024, Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New In 2024, A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-5-quandale-dingle-voice-generators/"><u>New In 2024, Top 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/real-time-ai-voice-changer-revolutionizing-communication/"><u>Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlimited-viewing-pleasure-watch-new-releases-and-classics-at-no-charge-on-crackle/"><u>Unlimited Viewing Pleasure: Watch New Releases and Classics at No Charge on Crackle</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated 2024 Approved Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>Updated Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
