@@ -1,7 +1,7 @@
 ---
 title: Solving the Not Enough Memory Trouble for a Smooth God of War Experience
-date: 2024-09-17T16:06:17.887Z
-updated: 2024-09-18T20:35:05.974Z
+date: 2024-09-22T16:29:24.150Z
+updated: 2024-09-23T18:12:17.482Z
 tags:
   - win11
   - win10
@@ -32,6 +32,19 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
  If you have trouble updating the game, you might just need a simple reboot.
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  You can’t expect your game to work fine if there’re files missing or broken. So first you need to**run a scan of your game folder** .
@@ -42,6 +55,19 @@ Here’s how to do it on the Epic Games client:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can try again and see if Civ 6 launches.
 
@@ -74,19 +100,20 @@ If this doesn’t help, you can take a look at the next fix below.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -94,19 +121,6 @@ If this doesn’t help, you can take a look at the next fix below.
  Once you’ve installed all the system updates, check if you can get Civ 6 working now.
 
 If this solution doesn’t help, you can continue to the next one.
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
 
@@ -121,21 +135,28 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
 If a clean boot doesn’t help, you can check out the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Install the latest Visual C++ redistributable
 
@@ -148,16 +169,10 @@ If a clean boot doesn’t help, you can check out the next fix.
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Switch your DirectX version
@@ -165,13 +180,6 @@ If a clean boot doesn’t help, you can check out the next fix.
  According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -194,17 +202,19 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-shine-on-top-17-studio-lights-for-youtube/"><u>[Updated] In 2024, Shine On Top 17 Studio Lights for YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/a-comprehensive-examination-of-webcamflex-pro/"><u>A Comprehensive Examination of WebcamFlex Pro</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/how-to-make-a-channel-trailer/"><u>How to Make a Channel Trailer</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-realme-12-proplus-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Realme 12 Pro+ 5G Lock Screen Password</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/speak-and-record-iphone-voice-memo-basics-for-2024/"><u>Speak and Record IPhone Voice Memo Basics for 2024</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-nokia-c300-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Nokia C300 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transforming-your-windows-11-desktop-with-a-new-taskbar-shade/"><u>Transforming Your Windows 11 Desktop with a New Taskbar Shade</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>Updated 2024 Approved Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>Updated Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime-for-2024/"><u>Updated Guide to Discovering the Voice Generators/Changers with the Most Anime for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-japanese-aesthetics-on-the-go-applying-anime-filters-to-snaps/"><u>[New] Japanese Aesthetics on the Go Applying Anime Filters to Snaps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-clubbing-essentials-top-rated-dj-template-vids/"><u>[Updated] 2024 Approved Clubbing Essentials Top-Rated DJ Template Vids</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-mastering-xml-and-ttml-conversion-to-srt/"><u>[Updated] In 2024, Mastering XML & TTML Conversion to SRT</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-nubia-red-magic-9-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Nubia Red Magic 9 Pro Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/enhancing-computing-performance-intels-latest-innovation-features-a-chiplet-to-chiplet-optical-link-at-4-tbps-speed/"><u>Enhancing Computing Performance: Intel's Latest Innovation Features a Chiplet-to-Chiplet Optical Link at 4 TBps Speed</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/grab-your-deal-alienwares-gaming-powerhouse-with-rtx-4070-and-i7-cpu-for-only-1499-originally-1699/"><u>Grab Your Deal: Alienware's Gaming Powerhouse with RTX 4070 & I7 CPU for Only $1,499 - Originally $1,699!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-itel-a60-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-11-pro-max-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 11 Pro Max to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-tecno-camon-20-pro-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Tecno Camon 20 Pro 5G Phone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/inside-the-world-of-technology-guided-by-toms-hardware-experts/"><u>Inside the World of Technology - Guided by Tom's Hardware Experts</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/next-gen-russian-tech-breakthrough-128-core-servers-set-to-power-elite-supercomputers/"><u>Next-Gen Russian Tech Breakthrough: 128-Core Servers Set to Power Elite Supercomputers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/preserving-pixel-perfection-uploading-copyright-safeguarded-dvds-onto-dropbox-effortlessly/"><u>Preserving Pixel Perfection: Uploading Copyright-Safeguarded DVDs Onto Dropbox Effortlessly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-samsung-galaxy-s24-ultra-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Samsung Galaxy S24 Ultra to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/unveiling-top-notch-devices-with-toms-hardware-experts/"><u>Unveiling Top-Notch Devices with Tom's Hardware Experts</u></a></li>
 </ul></div>
 

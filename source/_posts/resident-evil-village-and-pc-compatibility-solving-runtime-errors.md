@@ -1,7 +1,7 @@
 ---
 title: "Resident Evil Village and PC Compatibility: Solving Runtime Errors"
-date: 2024-09-16T02:26:12.270Z
-updated: 2024-09-18T21:36:04.964Z
+date: 2024-09-21T19:26:06.705Z
+updated: 2024-09-23T19:56:20.232Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ The long awaited horror game**Resident Evil Village** (RE8) is finally out now. 
 9. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 10. **[Reinstall Resident Evil Village and Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1:   **Make sure your PC meets the minimum specifications for Resident Evil Village**
 
  If your copy of**Resident Evil Village** crashes a lot on your PC, it’s worth gauging whether your PC is powerful enough to handle the game.
@@ -58,6 +65,13 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your PC specs have been up to the mark but Resident Evil Village still crashes, please move on to **Fix 2** , below to begin troubleshooting.
 
 ### Fix 2: Update your device drivers
@@ -72,6 +86,14 @@ To check the specs of your PC:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -91,14 +113,33 @@ You can disable Steam overlay with the following steps:
 3. In the **GENERAL** section, uncheck the **Enable Steam Overlay while in-game** box.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Disable-the-Steam-Overlay-for-Resident-Evil-Village-2.jpg)
 4. Run Resident Evil Village to see if the crashing problem is fixed. If it doesn’t cut it, please try**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Steam as administrator
 
@@ -109,13 +150,6 @@ Here’s how:
 1. On your keyboard, press the **Windows logo key** and type **epic** , then right-click on **Steam**  and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123-1.png)
 2. Click **Yes**  when UAC prompts for permissions to proceed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, launch Resident Evil Village game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 5** , below.
 
@@ -133,19 +167,6 @@ The steps are pretty easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/INTEGRITY.png)
 5. Wait a few minutes for Steam to validate the files of the game. Again, any files found missing or corrupt would be automatically downloaded in the process.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Re-launch Resident Evil Village to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try **Fix 6** , below.
 
 ### Fix 6: Close background apps
@@ -161,6 +182,13 @@ Here’s how to close background apps:
 
  RE8 still crashes? Don’t worry – there’s a couple more fixes for you to try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Disable HDR in RE 8 and Windows
 
  Resident Evil Village supports High-Dynamic Range (HDR), which is a technology used to enhance contrast and colors in graphics rendering and bring about more life-like images. This may be the case, but according to some players, it could be the cause of the crash.
@@ -173,13 +201,6 @@ Here’s how to close background apps:
 2. Go to**Library** , then right-click on**Resident Evil Village** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-steam-properties-1.png)
 3. Click**Local** \>**Browse…** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Open the**Config** file and set**HDRMode-false** .
 
@@ -199,6 +220,13 @@ Here’s how to close background apps:
 
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to **Fix 9** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 9: Perform a clean boot
 
  Another possible cause of Resident Evil Village crashing on your PC is software conflict.
@@ -214,10 +242,10 @@ Here are the steps to perform a clean boot:
 3. Browse through the full list of services, make sure to   **check the boxes for the items that belong to your hardware manufacturers**  (such as Intel, AMD, and Qualcomm) and **uncheck the boxes for the rest** . Once finished, click **OK** to apply the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/esential.png)
@@ -251,20 +279,18 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-add-border-to-instagram-video-3-ways/"><u>[New] How to Add Border to Instagram Video? [3 Ways]</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-edge-advanced-photo-editing-strategies/"><u>[New] Instagram Edge Advanced Photo Editing Strategies</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-no-money-no-problem-learn-to-edit-videos-for-free-on-vimeo/"><u>[Updated] In 2024, No Money, No Problem! Learn to Edit Videos for FREE on Vimeo</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2023s-most-secretive-digital-treasure-hunt/"><u>2023'S Most Secretive Digital Treasure Hunt</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-navigating-net-neutrality/"><u>A Comprehensive Guide to Navigating Net Neutrality</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-10-free-and-best-text-to-speech-generators/"><u>Best 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/device-unlock-lava-blaze-pro-5g-by-drfone-android-unlock-android-unlock/"><u>Device unlock Lava Blaze Pro 5G</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-lava-yuva-2-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Lava Yuva 2.</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12-pro-4gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12 Pro 4GFRP Lock</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-5-tiktok-voice-generators-you-should-try/"><u>New 2024 Approved Top 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-10-robotic-voice-generators-with-comparison-table/"><u>New Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/update-6-best-voice-changers-you-cant-miss-for-2024/"><u>Update 6 Best Voice Changers You Cant Miss for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated 2024 Approved Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Updated Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-5-quandale-dingle-voice-generators/"><u>Updated Best 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-crafting-life-into-photos-motion-blur-on-face-images/"><u>[New] Crafting Life Into Photos Motion Blur on Face Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sky-high-savings-the-least-expensive-drones-on-market/"><u>[Updated] Sky-High Savings The Least Expensive Drones on Market</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-5-quandale-dingle-voice-generators/"><u>2024 Approved Top 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/best-practices-for-imovie-videos-entering-the-vimeo-realm-for-2024/"><u>Best Practices for iMovie Videos Entering the Vimeo Realm for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-navigate-and-network-during-a-twitter-discussion-event/"><u>How to Navigate and Network During a Twitter Discussion Event</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-fullscape-synergy-the-smart-mcn-picking-game/"><u>In 2024, FullScape Synergy The Smart MCN Picking Game</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unleashing-your-gaming-potential-with-win10-recordings/"><u>In 2024, Unleashing Your Gaming Potential with Win10 Recordings</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-6-free-talking-stock-photo-sites/"><u>New 2024 Approved Top 6 Free Talking Stock Photo Sites</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire-for-2024/"><u>New Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-celebrity-voice-generator-tools-to-transform-your-voice-for-2024/"><u>New Best Celebrity Voice Generator Tools to Transform Your Voice for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-nubia-red-magic-8s-proplus-by-drfone-android/"><u>Three Ways to Sim Unlock Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime/"><u>Updated 2024 Approved Guide to Discovering the Voice Generators/Changers with the Most Anime</u></a></li>
 </ul></div>
 

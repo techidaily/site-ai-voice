@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Isn't My MSI Mystic Light Functioning on Windows?"
-date: 2024-09-16T02:51:40.032Z
-updated: 2024-09-19T04:47:59.883Z
+date: 2024-09-19T16:53:09.654Z
+updated: 2024-09-23T17:05:36.175Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 
 If the game keeps crashing, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run the game as an administrator
 
  Some programs need administrator rights to work properly on your computer. If Insurgency: Sandstorm keeps crashing on startup, you can try running the game as an administrator. Here’s how:
@@ -56,6 +63,14 @@ If the game keeps crashing, move on to the next fix.
 2. **Right-click** Insurgency: Sandstorm and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Select the**LOCAL FILES** tab and click**Browse…** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-browse-local-files.jpg)
 4. Navigate to**Insurgency > Binaries > Win64** .
 5. Right-click the**InsurgencyClient-Win64-Shipping.exe** application and select**Properties** .  
@@ -63,16 +78,16 @@ If the game keeps crashing, move on to the next fix.
 6. Select the**Compatibility** tab, then check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Launch the game again to check if your problem is resolved.
 
 If the crashing issue remains, check out the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -86,6 +101,14 @@ If the crashing issue remains, check out the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
@@ -95,13 +118,6 @@ If the crashing issue remains, check out the next fix.
 
  If updating your graphics driver doesn’t help, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Reset the video settings
 
  Some players have reported that they fixed the crashing issue by resetting the video settings. You can give it a try. Here’s how:
@@ -109,6 +125,14 @@ If the crashing issue remains, check out the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then, type**%AppData%\\..\\Local** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/appdata-local.jpg)
 2. Navigate to**Insurgency > Saved > Config > WindowsClient** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Delete the**GameUserSettings.ini** file.
 
  Relaunch Insurgency: Sandstorm and all your video settings should be reset to default. Check if the crashing issue is resolved.
@@ -137,41 +161,44 @@ If the crashing issue persists, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Click**Change settings** and then click**Allow another app…** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. In the new window, click**Browse…** . Browse to**Steam > steamapps > common > sandstorm** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add-another-app-browse.jpg)
 5. Select**InsurgencyEAC.exe** application and click**Open** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**Network types…** , check**Private** and**Public** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/network-types.jpg)
 7. Click**Add** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add.jpg)
 8. Repeat step 3 to step 7 to add**InsurgencyClient-Win64-Shipping.exe** application. The file is located at **Steam > steamapps > common > sandstorm > Insurgency > Binaries > Win64** .
 
 Once done, relaunch the game to see if it crashes again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Change the screen resolution to 1080p (PS4 Pro)
 
@@ -198,18 +225,18 @@ Once done, relaunch the game to see if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-grandest-meme-makeover-utility/"><u>[New] 2024 Approved Grandest Meme Makeover Utility</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-ultimate-list-of-powerful-pc-screencasters/"><u>[Updated] 2024 Approved The Ultimate List of Powerful PC Screencasters</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-techniques-to-combine-mp3-tracks-on-windows-11/"><u>Efficient Techniques to Combine MP3 Tracks on Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-50plus-best-text-techniques-in-film-making/"><u>In 2024, 50+ Best Text Techniques in Film-Making</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-13-mini-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 13 mini when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-the-guide-to-learning-all-the-details-about-voice-cloning-for-2024/"><u>New The Guide to Learning All the Details About Voice Cloning for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-4-hatsune-miku-voice-ai-generators-for-all-times/"><u>New Top 4 Hatsune Miku Voice AI Generators for All Times</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-edge-with-microsofts-advanced-protection-technology-aguard-on-windows-11/"><u>Secure Edge with Microsoft's Advanced Protection Technology (Aguard) on Windows 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/success-how-to-repair-a-non-responsive-google-chrome-instance/"><u>Success! How to Repair a Non-Responsive Google Chrome Instance</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>Updated Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-from-novice-to-pro-a-guide-for-using-snapchat-for-businesses/"><u>[New] In 2024, From Novice to Pro A Guide for Using Snapchat for Businesses</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-smilesketcher-generate-memes-with-a-click/"><u>[New] SmileSketcher Generate Memes with a Click</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-effortless-screen-capture-in-dota-2-matches/"><u>[Updated] In 2024, Effortless Screen Capture in Dota 2 Matches</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-data-consumption-days-long-movie/"><u>2024 Approved Total Data Consumption Day's Long Movie</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire-for-2024/"><u>Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-of-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-12-mini-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 12 mini Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-tiktok-updating-numbers-effectively-for-2024/"><u>Mastering TikTok Updating Numbers Effectively for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-vn-video-editor-for-mac-the-ultimate-guide-to-installation-and-alternatives/"><u>New In 2024, VN Video Editor for Mac The Ultimate Guide to Installation and Alternatives</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-10-free-and-best-text-to-speech-generators/"><u>Updated In 2024, Top 10 Free and Best Text-to-Speech Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>Updated Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
 </ul></div>
 

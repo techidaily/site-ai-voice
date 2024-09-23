@@ -1,7 +1,7 @@
 ---
 title: "Tips and Tricks to Prevent Game Crashes of Dragon Age: Origins While Playing on Windows 10"
-date: 2024-09-13T02:09:33.391Z
-updated: 2024-09-18T21:14:21.066Z
+date: 2024-09-18T18:07:01.806Z
+updated: 2024-09-23T17:51:47.611Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 | **DIRECT X:** | DirectX 12                                  |
 
  If your PC fails to meet the minimum system requirements for The Division 2, you may need to upgrade your PC hardware.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Install the latest game patch
 
@@ -165,15 +172,28 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-127.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4)**Tick the box** next to**Disable fullscreen optimizations** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-128.png)
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
@@ -195,6 +215,13 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-150.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Settings** … in the**Performance** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-151.png)
@@ -204,10 +231,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-152.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5)**Check the box** next to**Automatically manage paging file size for all drives** . Then click OK to save the changes.
@@ -215,10 +242,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-153.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Do not disable the paging file or modify it to 0 MB or a static value** even if your PC has sufficient RAM, since if you doing that, it usually causes crashes in the game.
@@ -237,6 +264,13 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-155-1024x744.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)**Turn off Contact Shadows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-156-1024x776.png)
@@ -244,13 +278,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  4) Set**Particle Detail** to**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-157-1024x756.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Set**Reflection Quality** to**Low** .
 
@@ -260,6 +287,13 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-159-1024x759.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7)**Turn off Local Reflection Quality** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-160-1024x762.png)
@@ -267,13 +301,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  8) Set**Ambient Occlusion** to**Medium** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-161-1024x777.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  9) Set the value of**Object Detail** to**50** .
 
@@ -306,21 +333,21 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unboxing-logitechs-ultimate-4k-webcam/"><u>[New] 2024 Approved Unboxing Logitech's Ultimate 4K Webcam</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-decoding-youtubes-strategic-approach-to-short-form-video-promotion/"><u>[Updated] 2024 Approved Decoding YouTube's Strategic Approach to Short-Form Video Promotion</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-tecno-camon-20-frp-bypass-by-drfone-android/"><u>About Tecno Camon 20 FRP Bypass</u></a></li>
-<li><a href="https://techtrends.techidaily.com/anticipating-the-next-big-apple-announcement-essential-info-you-need-to-know/"><u>Anticipating the Next Big Apple Announcement – Essential Info You Need to Know</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://driver-download.techidaily.com/experience-gaming-evolution-with-the-updated-steelseries-control-panel-for-windows-11-free-download/"><u>Experience Gaming Evolution with the Updated SteelSeries Control Panel for Windows 11 – Free Download</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New 2024 Approved A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-5-tiktok-voice-generators-you-should-try/"><u>New In 2024, Top 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-update-6-best-voice-changers-you-cant-miss/"><u>New Update 6 Best Voice Changers You Cant Miss</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/next-gen-odyssey-explore-the-best-of-windows-10s-apps-and-games/"><u>Next-Gen Odyssey Explore the Best of Windows 10'S Apps & Games</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/snapchat-customer-service-communication-tips-for-prompt-issue-resolution/"><u>Snapchat Customer Service Communication Tips for Prompt Issue Resolution</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-insights-into-apples-upcoming-event-dates-confirmed-rumored-innovations-and-more/"><u>Unlocking Insights Into Apple's Upcoming Event – Dates Confirmed, Rumored Innovations & More</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-5-tiktok-voice-generators-you-should-try-for-2024/"><u>Updated Best 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-blur-faces-like-a-pro-top-free-apps-and-tutorials-for-photos-and-videos/"><u>Updated Blur Faces Like a Pro Top Free Apps and Tutorials for Photos and Videos</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Updated In 2024, A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/voicemod-ai-review-transforming-your-voice-in-real-time/"><u>Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-audio-archiving-strategies-on-apple-devices/"><u>[New] 2024 Approved Audio Archiving Strategies on Apple Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-how-to-guide-advanced-techniques-for-skype-screenshots-via-obs/"><u>[New] In 2024, How-To Guide Advanced Techniques for Skype Screenshots via OBS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-director-sound-and-picture-synthesis/"><u>[Updated] Expert Director Sound & Picture Synthesis</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>2024 Approved Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-a25-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy A25 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amds-ryzen-9000-hit-by-delay-chipmaker-halts-shipments-for-intense-quality-assurance-checks-promises-august-launch/"><u>AMD's Ryzen 9000 Hit by Delay: Chipmaker Halts Shipments for Intense Quality Assurance Checks, Promises August Launch</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/elevating-your-ppt-experience-tips-for-gmeet-users-laptopstablets-for-2024/"><u>Elevating Your PPT Experience Tips for GMeet Users, Laptops/Tablets for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-honor-magic-vs-2-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Honor Magic Vs 2 Phone?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-increase-video-playback-speed-on-instagram/"><u>In 2024, Increase Video Playback Speed on Instagram</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-5-quandale-dingle-voice-generators/"><u>In 2024, Top 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-a-comprehensive-list-of-the-top-spongebob-voice-generators-for-2024/"><u>New A Comprehensive List of The Top SpongeBob Voice Generators for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-6-mickey-mouse-voice-generators/"><u>New In 2024, Top 6 Mickey Mouse Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-the-most-straightforward-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>New The Most Straightforward Guide to Learning How to Clone Your Voice for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transform-your-livestreams-using-manycams-powerful-virtual-webcam-technology/"><u>Transform Your Livestreams Using ManyCam's Powerful Virtual Webcam Technology</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-the-best-text-voice-generators-for-all-platforms/"><u>Updated In 2024, The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Updated Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring Performance and Features of Asus RT-AC88U - A Comprehensive Gaming Router Assessment
-date: 2024-09-16T02:59:58.449Z
-updated: 2024-09-18T19:23:20.508Z
+date: 2024-09-16T19:42:21.420Z
+updated: 2024-09-23T18:39:37.940Z
 categories:
   - BestProducts
 description: This Article Describes Exploring Performance and Features of Asus RT-AC88U - A Comprehensive Gaming Router Assessment
@@ -71,6 +71,13 @@ Lifewire / Yoona Wagener
 
 Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design: An accessory that blends in
 
  The Halo band doesn’t overwhelm the senses. I tested a small-sized band in silver and appreciated the streamlined bracelet style form factor. The fabric strap, which is a mix of sweat-wicking synthetics, has an athleisure look and feel: sporty but not to the degree that it screams sport watch. Rounding out the minimalist look is one sole button on the side of the sensor unit, which is flanked by an[LED](https://www.lifewire.com/what-does-led-stand-for-4153820) indicator and one of two internal microphones. The other mic is located on the back, along with the optical sensor; it's largely undetectable if you manage a close fit.
@@ -100,16 +107,10 @@ Lifewire / Yoona Wagener
 ![Amazon Halo](https://www.lifewire.com/thmb/FjdFyV6Y4mTXNsqccZ4aEBJNpV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_05-e671ee9f77cc4cee8e2580a2dba449d5.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener.
@@ -123,10 +124,10 @@ Lifewire / Yoona Wagener
  The body fat scan is based on pictures uploaded to the app—and based on prompts from the app. While it felt invasive and isn’t a feature I’d seek out in a fitness tracker, it worked without issue. Amazon reports that this technology is twice as accurate as smart scales. For the right user who feels comfortable with this kind of data compilation, this feature also offers visualizations of how different body fat percentages would look on your frame and stores your scans for a look at trends over time. All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the[cloud](https://www.lifewire.com/what-is-cloud-computing-817770) , which Amazon assures is private and well secured.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Software: An essential and user-friendly mobile app
@@ -147,18 +148,18 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/fBsShcBruhAWkg-kTKPWkYUaImo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_04-ee532fbe8d2f4e8195e63ed9dd45611a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
 ## Price: A reasonable price for the feature set
 
  Retailing for just about $100, the Amazon Halo band certainly won’t break the bank for budget-minded shoppers. While the lack of display could be a deterrent, the solid mobile app provides convenient access to the detailed sleep, automatic activity tracking, and specialized tone of voice and body fat analysis the Halo provides.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Amazon Halo vs. WHOOP Strap 3
 
@@ -179,10 +180,10 @@ Lifewire / Yoona Wagener
 * [Ticwatch Pro](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -216,21 +217,20 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-complete-guide-to-downloading-setting-up-and-using-obs-on-macos/"><u>[New] In 2024, The Complete Guide to Downloading, Setting up and Using OBS on macOS</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-in-depth-analysis-of-gradual-audio-lowering-with-lumafusion/"><u>[Updated] In 2024, In-Depth Analysis of Gradual Audio Lowering with Lumafusion</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/advanced-web-marketing-empowered-by-cookiebot-tools/"><u>Advanced Web Marketing Empowered by Cookiebot Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bridging-the-gap-understanding-and-using-slug-lines-for-2024/"><u>Bridging the Gap Understanding & Using Slug Lines for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-lenovo-x1-carbon-graphics-and-system-drivers-on-windows-operating-systems/"><u>Effortless Installation of Lenovo X1 Carbon Graphics and System Drivers on Windows Operating Systems</u></a></li>
-<li><a href="https://article-helps.techidaily.com/from-amateurs-to-experts-kinemasters-step-guide-for-2024/"><u>From Amateurs to Experts KineMaster’s Step Guide for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-redmi-note-12-pro-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi Redmi Note 12 Pro 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photo-philosophers-guide-ios-and-android-writers-choice/"><u>In 2024, Photo Philosopher's Guide – iOS & Android Writers' Choice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-narrator-voice-generators/"><u>New 2024 Approved Best Narrator Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-the-guide-to-learning-all-the-details-about-voice-cloning/"><u>New In 2024, The Guide to Learning All the Details About Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-6-mickey-mouse-voice-generators-for-2024/"><u>New Top 6 Mickey Mouse Voice Generators for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/secure-the-best-oneplus-limited-time-offer-for-your-tech-essentials/"><u>Secure the Best OnePlus Limited-Time Offer for Your Tech Essentials!</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/system-alert-ideport0-controller-anomaly/"><u>System Alert: Ideport0 Controller Anomaly</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/troubleshooting-button-failures-on-iphones-learn-how-to-power-on-and-restart/"><u>Troubleshooting Button Failures on iPhones - Learn How to Power On and Restart</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-efficiency-a-guide-to-quick-rdc-in-win-11/"><u>Unlocking Efficiency: A Guide to Quick RDC in Win 11</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-the-guide-to-learning-all-the-details-about-voice-cloning/"><u>Updated In 2024, The Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-efficient-file-migration-pc-to-ios-device/"><u>[Updated] 2024 Approved Efficient File Migration PC to iOS Device</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mastering-your-tech-skills-unlock-macs-full-screen-recording-power-with-shortcuts/"><u>2024 Approved Mastering Your Tech Skills Unlock Mac's Full Screen Recording Power with Shortcuts</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-realme-11x-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Realme 11X 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/a-detailed-review-and-alternatives-of-vocaloid6-voice-generator-for-2024/"><u>A Detailed Review & Alternatives of VOCALOID6 Voice Generator for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-googles-wizard-bot-potential-cyber-threat-alert/"><u>Avoid Google's Wizard Bot — Potential Cyber Threat Alert</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-your-own-google-vr-glasses/"><u>Crafting Your Own Google VR Glasses</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/customize-your-youtube-experience-with-altered-pace/"><u>Customize Your YouTube Experience with Altered Pace</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-best-5-tiktok-voice-generators-you-should-try/"><u>In 2024, Best 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-a-list-of-the-top-spongebob-voice-generators-for-2024/"><u>New A List of The Top SpongeBob Voice Generators for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/online-gratuite-migration-von-ogg-dateien-zu-mp4-durch-movavi-perfekt-fur-sie/"><u>Online Gratuite Migration Von Ogg-Dateien Zu MP4 Durch Movavi - Perfekt Für Sie!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restore-your-privileges-on-steam-for-absent-files-easy-fixes-inside/"><u>Restore Your Privileges on Steam for Absent Files – Easy Fixes Inside!</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-authors-recommended-the-best-text-voice-generators-for-all-platforms-for-2024/"><u>Updated Authors Recommended The Best Text Voice Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-10-free-and-best-text-to-speech-generators/"><u>Updated Best 10 Free and Best Text-to-Speech Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-a-list-of-the-top-spongebob-voice-generators/"><u>Updated In 2024, A List of The Top SpongeBob Voice Generators</u></a></li>
 </ul></div>
 

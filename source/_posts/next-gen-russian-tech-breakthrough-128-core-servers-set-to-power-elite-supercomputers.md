@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Russian Tech Breakthrough: 128-Core Servers Set to Power Elite Supercomputers"
-date: 2024-09-17T00:05:51.373Z
-updated: 2024-09-18T20:04:25.682Z
+date: 2024-09-22T17:12:27.832Z
+updated: 2024-09-23T18:13:32.022Z
 tags:
   - desktop
 categories:
@@ -36,6 +36,13 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -59,28 +66,22 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-crafting-professional-broadcasts-mastering-obs-plus-zoom-techniques/"><u>[New] 2024 Approved Crafting Professional Broadcasts Mastering OBS + Zoom Techniques</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-celebrity-voice-generator-tools-you-cannot-miss/"><u>2024 Approved Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-macgo-ios-eraser-advantages-disadvantages-comparisons-and-frequently-asked-questions/"><u>Comprehensive Guide: Macgo iOS Eraser - Advantages, Disadvantages, Comparisons, and Frequently Asked Questions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-steps-to-restore-access-to-your-unseen-ssd-without-compromising-data/"><u>Effective Steps to Restore Access to Your Unseen SSD Without Compromising Data</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-honor-80-pro-straight-screen-edition-by-fonelab-android-recover-video/"><u>How to recover old videos from your Honor 80 Pro Straight Screen Edition</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-a-comprehensive-look-at-benq-sw320s-4k-features/"><u>In 2024, A Comprehensive Look at BenQ SW320's 4K Features</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-crafting-an-epic-unboxing-journey/"><u>In 2024, Crafting an Epic Unboxing Journey</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-real-time-ai-voice-changer-revolutionizing-communication/"><u>In 2024, Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>In 2024, Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>New Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/subtle-symmetry-balancing-visuals-like-a-pro/"><u>Subtle Symmetry Balancing Visuals Like a Pro</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>Updated In 2024, Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-5-tiktok-voice-generators-you-should-try/"><u>Updated In 2024, Top 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-excellent-apps-for-streamlined-igtv-vertical-cuts-for-2024/"><u>[New] Excellent Apps for Streamlined IGTV Vertical Cuts for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/30-must-try-mp4-gadgets-unveiled-for-2024/"><u>30 Must-Try MP4 Gadgets Unveiled for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-potential-issues-preventing-visual-lookup-from-working-correctly-on-ios-devices/"><u>6 Potential Issues Preventing Visual Lookup From Working Correctly on iOS Devices</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/authors-recommended-the-best-text-voice-generators-for-all-platforms-for-2024/"><u>Authors Recommended The Best Text Voice Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-setup-instructions-for-the-magic-mouse-compatible-with-windows-pcs/"><u>Complete Setup Instructions for the Magic Mouse Compatible with Windows PCs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-capability-and-durability-the-radpower-radcity-5-review-with-a-note-on-its-solid-build/"><u>Evaluating Capability & Durability: The RadPower RadCity ₤ 5 Review with a Note on Its Solid Build</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-turn-webm-into-avi-format-with-easy-steps/"><u>Free Online Converter: Turn WebM Into AVI Format with Easy Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gopro-max-versus-hero-11-ultimate-review-guide/"><u>GoPro Max Versus Hero 11 Ultimate Review Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-excessive-msmpengineexe-cpu-consumption-in-windows-10/"><u>How to Fix Excessive MsMpEngine.exe CPU Consumption in Windows 10</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-an-ultimate-guide-of-best-narrator-voice-generators/"><u>In 2024, An Ultimate Guide of Best Narrator Voice Generators</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-efficient-movie-file-management-in-windows-11-six-approaches/"><u>In 2024, Efficient Movie File Management in Windows 11 Six Approaches</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-revolutionizing-communication-real-time-ai-voice-changer/"><u>In 2024, Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-5-tiktok-voice-generators-you-should-try/"><u>New Best 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-6-darth-vader-ai-generators-for-all-platforms-for-2024/"><u>Top 6 Darth Vader AI Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-6-darth-vader-ai-generators-for-all-platforms/"><u>Updated 2024 Approved Top 6 Darth Vader AI Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-real-time-ai-voice-changer-revolutionizing-communication/"><u>Updated Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

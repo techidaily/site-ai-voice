@@ -1,7 +1,7 @@
 ---
 title: "Addressing the Issue: No More Crashes in Mir4 when Played on Windows Machines"
-date: 2024-09-14T20:36:45.819Z
-updated: 2024-09-18T16:56:54.851Z
+date: 2024-09-19T18:43:42.407Z
+updated: 2024-09-23T16:08:01.811Z
 tags:
   - win11
   - win10
@@ -42,7 +42,21 @@ thumbnail: https://thmb.techidaily.com/cd6606343976e20cf388b00d45efaf1c0dc2657ac
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it crashes again.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the problem persists, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -65,13 +79,6 @@ If the problem persists, take a look at the next fix below.
 
  If the latest graphics driver doesn’t give you luck, go ahead and try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Make sure your system is up to date
 
  Besides drivers, it’s also important you keep Windows up to date. The latest system updates offer bug fixes and sometimes a performance boost, which might make a difference in fixing the crashing issue.
@@ -82,19 +89,26 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -111,23 +125,9 @@ If your system is already up to date, you can try the next method.
 2. In the left pane, select**Visuals** . Then set**Object details** to**High** or lower.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now you can play and check if the crash stops.
 
  If changing graphics settings doesn’t give you luck, continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Increase your virtual memory
 
@@ -138,24 +138,39 @@ Now you can play and check if the crash stops.
 2. Under the **Performance**  section, click **Settings…** .  
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
@@ -171,6 +186,14 @@ Now you can play and check if the crash stops.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**%appdata%** and click**OK** .  
 ![how to clean uninstall Discord](https://images.drivereasy.com/wp-content/uploads/2021/07/appdata.jpg)
 2. Go to**AGS > New World** and delete the following:  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * The**savedata** folder  
    * The**user\_preload\_settings** file
 3. Now you can restart New World and see if the game crashes again.
@@ -194,17 +217,21 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-unboxing-the-power-of-yis-high-definition-cam/"><u>[New] In 2024, Unboxing the Power of YI's High Definition Cam</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-examining-the-unseen-history-of-your-social-media-activity/"><u>[Updated] Examining the Unseen History of Your Social Media Activity</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-infinix-note-30i-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Infinix Note 30i to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-game-plan-for-thriving-as-a-livestreamer-on-youtube/"><u>2024 Approved The Game Plan for Thriving as a Livestreamer on YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boosting-zoom-screen-sharpness-essential-tips-for-2024/"><u>Boosting Zoom Screen Sharpness Essential Tips for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-xs-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone XS to TV or PC? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/is-youtubes-monetization-routine-in-2024/"><u>Is YouTube’s Monetization Routine, In 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-6-free-talking-stock-photo-sites-for-2024/"><u>New Top 6 Free Talking Stock Photo Sites for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-validated-youtube-growth-solutions-for-2024/"><u>Top 8 Validated Youtube Growth Solutions for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unboxing-opportunities-the-marketing-planning-journey/"><u>Unboxing Opportunities The Marketing Planning Journey</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-latest-top-darth-vader-voice-generators-for-all-platforms/"><u>Updated In 2024, Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unlocking-clear-communication-zooms-best-transcription-services/"><u>[New] Unlocking Clear Communication Zoom's Best Transcription Services</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-delicate-process-of-unjoining-discords/"><u>[Updated] The Delicate Process of Unjoining Discords</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/comprehensive-review-of-the-oculus-quest-2-superior-virtual-reality-for-a-spectacular-price-point/"><u>Comprehensive Review of the Oculus Quest 2: Superior Virtual Reality for a Spectacular Price Point</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/cutting-edge-home-theater-top-10-players-in-24/"><u>Cutting-Edge Home Theater Top 10 Players in '24</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/easy-steps-record-audio-on-mac-using-audacity/"><u>Easy Steps Record Audio on Mac Using Audacity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-mobile-photographic-quality-accessory-selection-guide/"><u>Elevate Mobile Photographic Quality Accessory Selection Guide</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/expert-analysis-unveiling-imos-features-and-user-experience/"><u>Expert Analysis: Unveiling IMo's Features and User Experience</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/expert-gadget-guide-with-toms-hardware-digest/"><u>Expert Gadget Guide with Tom's Hardware Digest</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/explore-cutting-edge-technology-with-invaluable-insights-from-toms-hardware/"><u>Explore Cutting-Edge Technology with Invaluable Insights From Tom's Hardware</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/game-changing-diy-pc-build-faster-egpu-connection-with-direct-pcie-interface-vs-thunderbolt-4/"><u>Game-Changing DIY PC Build: Faster eGPU Connection with Direct PCIe Interface vs Thunderbolt 4</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-digital-signature-to-a-pdf-v13-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to add digital signature to a PDF v1.3 document</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-maximizing-ipad-audio-record-best-tips/"><u>In 2024, Maximizing iPad Audio Record Best Tips</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s6-features-like-s-pen-and-dex-mode-explored/"><u>In-Depth Analysis of the Samsung Galaxy Tab S6: Features Like S Pen & Dex Mode Explored</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/toms-computer-components-the-ultimate-guide/"><u>Tom's Computer Components - The Ultimate Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-pc-install-connexent-drivers-on-microsoft-windows-11-v2004/"><u>Update Your PC: Install Connexent Drivers on Microsoft Windows 11 V2004</u></a></li>
 </ul></div>
 

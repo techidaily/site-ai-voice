@@ -1,7 +1,7 @@
 ---
 title: Wholesome Eating Made Simple by ChatGPT
-date: 2024-09-18T00:14:45.899Z
-updated: 2024-09-19T00:59:26.056Z
+date: 2024-09-19T17:03:13.495Z
+updated: 2024-09-23T16:41:12.688Z
 tags:
   - chatgpt
   - open-ai
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![app store application open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-store-smartphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Like browser extensions, cybercriminals can also use ChatGPT's name to spread malicious apps. Malicious apps are nothing new and have been used for years to deploy malware, steal data, and monitor device activity. Now, ChatGPT's well-known name is being used to push malicious apps.
 
  In February 2023, it was found that cybercriminals had developed a fake ChatGPT app to spread Windows and Android malware. As reported by[Bleeping Computer](https://www.bleepingcomputer.com/news/security/hackers-use-fake-chatgpt-apps-to-push-windows-android-malware/) , malicious actors capitalized on OpenAI's ChatGPT Plus to convince users that they could sign up for a free version of the typically premium tool. The cybercriminals' goal here is to either steal credentials or deploy malware.
@@ -52,15 +59,22 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  To keep yourself safe from these apps, it's important to do background research on any given kind of software program to see if it has a positive reputation, or any reputation at all. Even if an app looks enticing, it's not worth the installation if you can't verify whether it is safe. Stick to trusted app stores and check user reviews before downloading any kind of app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Malware Created by ChatGPT
 
 ![black skull and bones flag on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malware-on-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There's been a lot of talk about AI and cybercrime in recent years, as many are concerned this technology may make it easier for malicious actors to scam and attack victims.
 
@@ -73,16 +87,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![Hacker phishing data from a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hacker-phishing-data.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Phishing attacks are often conducted using malicious websites. These sites are designed to log the keystrokes you enter so that valuable data can be stolen and exploited.
@@ -112,14 +120,22 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-capture-and-conquer-speedy-photos-on-windows-11/"><u>[New] Capture & Conquer Speedy Photos on Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-optimal-cinematography-best-lenses-for-immaculate-4k-output/"><u>[New] Optimal Cinematography Best Lenses for Immaculate 4K Output</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-y27s-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo Y27s Phone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-honor-magic-5-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Honor Magic 5 Is Unlocked</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-revolutionizing-communication-real-time-ai-voice-changer/"><u>New 2024 Approved Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>New In 2024, Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ps5-solid-state-drives-optimal-nvme-options-enhancing-console-performance/"><u>Top PS5 Solid State Drives: Optimal NVMe Options Enhancing Console Performance</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>Updated A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-10-free-ai-voice-generators-to-use-in-daily-life-for-2024/"><u>Updated Top 10 Free AI Voice Generators to Use in Daily Life for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-unveiling-the-secret-acquiring-twitter-gifs-effortlessly-on-pc-for-2024/"><u>[New] Unveiling the Secret Acquiring Twitter GIFs Effortlessly on PC for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-dissecting-the-lineage-of-microsofts-movie-maker-versions/"><u>2024 Approved Dissecting the Lineage of Microsoft's Movie Maker Versions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-spotify-listening-with-secure-speed-techniques/"><u>2024 Approved Streamlining Spotify Listening with Secure Speed Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/comparing-gopro-and-polaroids-video-editors-for-filmmakers-for-2024/"><u>Comparing GoPro & Polaroid's Video Editors for Filmmakers for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/easy-steps-to-translate-video-on-twitter-for-2024/"><u>Easy Steps to Translate Video on Twitter for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-honor-magic-6-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Honor Magic 6 Phones? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-cyclic-redundancy-check-failures-in-your-system/"><u>How to Resolve Cyclic Redundancy Check Failures in Your System</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-depth-analysis-of-moto-g-power-exceptional-longevity-and-performance/"><u>In-Depth Analysis of Moto G Power: Exceptional Longevity & Performance</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/marvels-avengers-a-balanced-review-between-greatness-and-ordinary/"><u>Marvel's Avengers: A Balanced Review Between Greatness and Ordinary</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/mastering-gadgets-and-hardware-essentials-on-toms-review-channel/"><u>Mastering Gadgets and Hardware Essentials on Tom's Review Channel</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/mastering-pc-builds-and-upgrades-with-toms-expertise/"><u>Mastering PC Builds and Upgrades with Tom's Expertise</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/navigating-tech-trends-comprehensive-reviews-by-toms-hardware-professionals/"><u>Navigating Tech Trends: Comprehensive Reviews by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/navigating-the-world-of-gadgets-and-pcs-at-toms-hardware-reviews/"><u>Navigating the World of Gadgets and PCs at Tom's Hardware Reviews</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/1723262389474-save-700-on-your-new-aurora-r16-pc-with-the-ultimate-alienware-bundle-deal-plus-grab-a-stunning-34-oled-monitor/"><u>Save $700 on Your New Aurora R16 PC with the Ultimate Alienware Bundle Deal - Plus, Grab a Stunning 34 OLED Monitor!</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-hardware-analysis/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-10-useful-settings-found-in-android-dev-mode-a-comprehensive-guide/"><u>Top 10 Useful Settings Found in Android Dev Mode: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-addresses-lol-bug-fixing-the-2024-player-reconnection-issue/"><u>Update Addresses LoL Bug: Fixing the 2024 Player Reconnection Issue</u></a></li>
 </ul></div>
 

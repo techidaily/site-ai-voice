@@ -1,7 +1,7 @@
 ---
 title: Optimize Your PC for Smooth CS2 Gameplay – Eliminate Lag & Frames Per Second Dips
-date: 2024-09-16T20:46:39.098Z
-updated: 2024-09-19T02:41:17.228Z
+date: 2024-09-21T18:27:11.019Z
+updated: 2024-09-23T17:17:21.040Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ If your Avatar: Frontiers of Pandora is stuttering and having low FPS issues, do
 7. **[Close resource-hungry programs](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Change the power mode
 
@@ -96,10 +103,10 @@ To do so, first visit the website of your GPU manufacturer:
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
@@ -109,13 +116,6 @@ To do so, first visit the website of your GPU manufacturer:
  Launch Avatar: Frontiers of Pandora again and see if the latest graphics driver helps to improve the FPS and stops the stuttering. If this fix doesn’t work for you, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Add Avatar to the exception list in Windows Security
 
@@ -128,18 +128,33 @@ To do so:
 2. Select **Virus & threat protection** from the left side pane, then select **Manage settings** under Virus & threat protection settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-26.png)
 3. Scroll down a bit to select **Add or remove exclusions** under the**Exclusions** section.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-27.png)
 4. Click **Add an exclusion** , then select **File** , and browse to the folder where you save the Avatar: Frontiers of Pandora execution file.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-29.png)
 5. There, you’ve successfully added**Avatar: Frontiers of Pandora** to the Windows Security exclusion list.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart Avatar: Frontiers of Pandora and see if its FPS still drops and stutters. If so, please move on.
 
@@ -170,6 +185,14 @@ To verify the game’s files on Ubisoft Connect:
 1. Open Ubisoft Connect, and find Avatar: Frontiers of Pandora under the**Games** tab.
 2. Select**Properties** , then**Verify files** under Local files.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-30.png)
 3. If prompted, select**Repair** . Ubisoft Connect will then download and restore any missing or corrupted files.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-32.png)
 4. Then launch Avatar: Frontiers of Pandora again to see if the problems are sorted.
 
@@ -188,13 +211,6 @@ If this still doesn’t help, please move on.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to `**Computer\HKEY_CURRENT_USER\System\GameConfigStore**` , then double-click the**GameDVR\_Enabled** entry on the right-side panel.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-48.png)
 4. Change the value to**0** , then click**OK** to save.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-49.png)
@@ -208,6 +224,13 @@ If this still doesn’t help, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Close resource-hungry programs
 
  If there are many bandwidth-intensive services and applications (such as background downloads, music streaming, or video streaming) running when Avatar: Frontiers of Pandora is running, please disable them, as their occupation of the network connection resource is likely the culprit to your low FPS and stuttering problems in game.
@@ -218,14 +241,14 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each resource-hogging application and click **End Task** to close them one by one.  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then run Avatar: Frontiers of Pandora again and see if the low FPS and stuttering issues are fixed. If the problem still remains, please move on to the next fix below.
 
@@ -250,12 +273,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ow-to-flip-your-video-collection-in-a-flash-for-2024/"><u>[New] How to Flip Your Video Collection in a Flash for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoid-downloading-google-bard-potential-risks-of-malware/"><u>Avoid Downloading Google Bard: Potential Risks of Malware</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-malfunctioning-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>Identify malfunctioning drivers with Windows Device Manager on Windows 10</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-gt-neo-5-se-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme GT Neo 5 SE Phone Pattern Lock</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-6-darth-vader-ai-generators-for-all-platforms/"><u>New Top 6 Darth Vader AI Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-6-darth-vader-ai-generators-for-all-platforms/"><u>Top 6 Darth Vader AI Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-6-free-talking-stock-photo-sites-for-2024/"><u>Top 6 Free Talking Stock Photo Sites for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-differences-between-standard-and-premium-youtube-viewing/"><u>[New] In 2024, The Differences Between Standard and Premium YouTube Viewing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-overcoming-sound-hurdles-in-zoom-calls/"><u>[New] Overcoming Sound Hurdles in Zoom Calls</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-a-clearer-sight-youtube-watching-tweets-at-1080p/"><u>[Updated] 2024 Approved A Clearer Sight YouTube, Watching Tweets at 1080P</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/addressing-the-issue-no-more-crashes-in-mir4-when-played-on-windows-machines/"><u>Addressing the Issue: No More Crashes in Mir4 when Played on Windows Machines</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/1723007012887-how-to-fix-directdraw-problems-successfully-top-tips-and-tricks/"><u>How to Fix DirectDraw Problems Successfully – Top Tips & Tricks!</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/how-to-stop-remnant-from-the-ashes-from-keeping-you-frustrated-with-constant-crashes/"><u>How to Stop Remnant: From the Ashes From Keeping You Frustrated with Constant Crashes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-x-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone X to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-learn-healthier-cooking-skills-with-chatgpt/"><u>Is It Possible to Learn Healthier Cooking Skills with ChatGPT?</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/overcoming-the-msvcr110dll-error-in-helldivers-2-expert-tips-for-a-smooth-gameplay/"><u>Overcoming the MSVCR110.dll Error in Helldivers 2: Expert Tips for a Smooth Gameplay</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/streaming-audio-integration-with-videos-at-no-cost-top-six-techniques/"><u>Streaming Audio Integration with Videos at No Cost Top Six Techniques</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/tips-and-tricks-to-prevent-game-crashes-of-dragon-age-origins-while-playing-on-windows-10/"><u>Tips and Tricks to Prevent Game Crashes of Dragon Age: Origins While Playing on Windows 10</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/troubleshooting-dolby-audio-start-up-problems-for-windows-10-users/"><u>Troubleshooting Dolby Audio Start-Up Problems for Windows 10 Users</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/troubleshooting-guide-why-isnt-my-msi-mystic-light-functioning-on-windows/"><u>Troubleshooting Guide: Why Isn't My MSI Mystic Light Functioning on Windows?</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/troubleshooting-tips-for-realtek-mic-issues-get-your-audio-up-and-running/"><u>Troubleshooting Tips for Realtek Mic Issues - Get Your Audio Up and Running!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlock-affordable-finds-in-your-area-explore-oodles-gratis-community-listings/"><u>Unlock Affordable Finds in Your Area - Explore Oodle's Gratis Community Listings!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-oppo-reno-10-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Oppo Reno 10 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

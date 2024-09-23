@@ -1,7 +1,7 @@
 ---
 title: "PC Troubleshooting Guide: Fix ARK: Sanctuary Über Wiki's Constant Crash Issues with 9 Solutions"
-date: 2024-09-16T16:45:39.525Z
-updated: 2024-09-19T04:17:27.762Z
+date: 2024-09-16T16:29:01.711Z
+updated: 2024-09-23T17:24:16.693Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ Century: Age of Ashes system requirements
 6. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Verify integrity of game files
 
  Century: Age of Ashes will crash if some of the game files are broken. Before trying anything more complicated, you can verify and repair game files easily in Steam:
@@ -66,6 +73,13 @@ Century: Age of Ashes system requirements
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Century: Age of Ashes after the verifying process is complete. See if the game crashes again. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -82,26 +96,19 @@ Century: Age of Ashes system requirements
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -110,13 +117,6 @@ Century: Age of Ashes system requirements
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Century: Age of Ashes again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -127,7 +127,22 @@ Century: Age of Ashes system requirements
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Century: Age of Ashes_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Nvidia GeForce Experience, Discord, etc.), make sure you’ve disabled the in-game overlay in those apps feature:
 
@@ -176,20 +191,6 @@ If this fix didn’t work, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)  
  Note: This is a paid service with a 60-day money-back guarantee, which means that you’ll need to buy the full version to start repairing.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Perform a clean boot
 
  Century: Age of Ashes will crash when there’s a certain app conflicting with it. If you don’t know exactly which app is conflicting with the game, just follow the steps below to perform a clean boot:
@@ -206,7 +207,28 @@ If this fix didn’t work, try the next fix, below.
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** Windows OS and launch Century: Age of Ashes to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -241,18 +263,21 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchat-anomaly-detecting-possible-block-or-mute/"><u>[New] 2024 Approved Snapchat Anomaly Detecting Possible Block or Mute</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-turn-fb-hd-videos-into-high-quality-mp4-free-online-method-unveiled/"><u>[New] 2024 Approved Turn FB HD Videos Into High-Quality MP4 – Free Online Method Unveiled</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-acclaimed-selections-discover-the-best-10-vimeo-file-harvesters/"><u>[Updated] 2024 Approved Acclaimed Selections Discover the Best 10 Vimeo File Harvesters</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-5-ai-voice-generators-online-supports-all-browsers/"><u>2024 Approved Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-ai-rap-voice-generators-you-should-try/"><u>2024 Approved Best AI Rap Voice Generators You Should Try</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-11r-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus 11R to Outlook | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-real-time-ai-voice-changer-revolutionizing-communication/"><u>New 2024 Approved Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-4-hatsune-miku-voice-ai-generators-for-all-times-for-2024/"><u>New Top 4 Hatsune Miku Voice AI Generators for All Times for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solve-the-repaired-dazzling-display-how-to-fix-screen-flicker/"><u>Solve the [REPAIRED] Dazzling Display: How to Fix Screen Flicker</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-apple-iphone-12-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your Apple iPhone 12 Is Unlocked</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-an-ultimate-guide-of-best-narrator-voice-generators/"><u>Updated In 2024, An Ultimate Guide of Best Narrator Voice Generators</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-expertly-blending-tracks-using-audacity-crossfade-tools-for-2024/"><u>[Updated] Expertly Blending Tracks Using Audacity Crossfade Tools for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-review-gopro-hero5-adventure-footage-for-2024/"><u>[Updated] The Ultimate Review GoPro Hero5 Adventure Footage for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/5-compelling-factors-against-downloading-a-chatgpt-mobile-app/"><u>5 Compelling Factors Against Downloading a ChatGPT Mobile App</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-rapid-ways-to-access-obliviated-reddit-content-for-2024/"><u>5 Rapid Ways to Access Obliviated Reddit Content for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/brush-up-your-youtube-videos-with-color-correction-for-2024/"><u>Brush Up Your Youtube Videos with Color Correction for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/do-electric-cars-outlast-gasoline-models-when-it-comes-to-long-term-usability/"><u>Do Electric Cars Outlast Gasoline Models When It Comes To Long-Term Usability?</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/how-to-resolve-the-darkened-interface-of-zoom-meetings-on-pc-a-definitive-2024-tutorial/"><u>How to Resolve the Darkened Interface of Zoom Meetings on PC: A Definitive 2024 Tutorial</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-play-40c-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor Play 40C Phones with/without a PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-mastering-media-your-step-by-step-video-tweet/"><u>In 2024, Mastering Media Your Step-by-Step Video Tweet</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/optimize-your-pc-for-smooth-cs2-gameplay-eliminate-lag-and-frames-per-second-dips/"><u>Optimize Your PC for Smooth CS2 Gameplay – Eliminate Lag & Frames Per Second Dips</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/optimizing-your-gaming-setup-to-combat-csgo-stuttering-issues/"><u>Optimizing Your Gaming Setup to Combat CS:GO Stuttering Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simplify-your-data-management-with-our-ultimate-technique-for-eradicating-duplicate-entries-in-excel-tables/"><u>Simplify Your Data Management with Our Ultimate Technique for Eradicating Duplicate Entries in Excel Tables</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/solving-the-not-enough-memory-trouble-for-a-smooth-god-of-war-experience/"><u>Solving the Not Enough Memory Trouble for a Smooth God of War Experience</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/turn-your-photos-into-a-beautiful-video-with-music-2023-tutorial/"><u>Turn Your Photos Into a Beautiful Video with Music 2023 Tutorial</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/ultimate-troubleshooting-steps-for-life-is-strange-true-colors-crashes-resolved/"><u>Ultimate Troubleshooting Steps for Life Is Strange: True Colors Crashes Resolved</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/wholesome-eating-made-simple-by-chatgpt/"><u>Wholesome Eating Made Simple by ChatGPT</u></a></li>
 </ul></div>
 

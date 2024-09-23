@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Mobility Meets High Performance: Experience the Unique Folding Keyboard with Embedded AMD Ryzen Desktop, Touchpad & Battery - Just Connect to Screen"
-date: 2024-09-16T04:45:42.163Z
-updated: 2024-09-19T01:10:54.186Z
+date: 2024-09-17T19:41:24.592Z
+updated: 2024-09-23T19:56:48.790Z
 tags:
   - desktop
 categories:
@@ -109,11 +109,25 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Crucial P5 Plus Tests](https://cdn.mos.cms.futurecdn.net/dVtKieHEMPgzXkpEJa7jcm-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We're going with 32GB of TeamGroup T-Force Zeus DDR4 RAM and we're stepping up to a 700W version of the[Thermaltake](https://www.tomshardware.com/tag/thermaltake) Smart power supply so we can support our higher wattage CPU and GPU.
 
  Our case is the Gamdias Aura GC1, a full-size ATX case that comes with four ARGB fans. The GC1 has a mesh front for optimal airflow and plenty of room for expansion.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best $1,000 PC Build for Gaming
 
@@ -143,6 +157,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![CPU 1080p performance for Ryzen 7 5700X3D](https://cdn.mos.cms.futurecdn.net/FubLpBjdNUCy6aXRouBReZ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Newegg)
 
  To support our Ryzen 7 57003XD, we're using a Gigabyte B550 UD AC motherboard. This board has built-in Wi-Fi 6 and it also has Q-Flash, which allows you to[update the BIOS](https://www.tomshardware.com/how-to/update-bios-on-a-pc) , before you install the CPU. This may be necessary as the 5700X3D just came out a few months ago.
@@ -154,6 +175,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
  For storage, we're stepping up to a faster, higher-capacity SSD: the 2TB version of WD Black SN580\. This PCIe 4.0 drive promises sequential read and write speeds of 4,150 MBps, along with random read / write IOPS of 600K and 750K respectively. It's not the fastest drive on the market, but it gets the job done.
 
 ![3DMark Storage for WD SN580](https://cdn.mos.cms.futurecdn.net/YduTXHRsvK8iHR2sEsSWHH-320-80.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -190,10 +218,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![RTX 4070 Spider-Man: Miles Morales Ray Tracing results](https://cdn.mos.cms.futurecdn.net/XgVebfNva528szwrGpaooB-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -208,13 +236,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![WD SN850X](https://cdn.mos.cms.futurecdn.net/Zgbo67f5diWaNQg29SQ3nQ-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  Our case for this build is the $99[Lian Li Lancool 216](https://www.tomshardware.com/reviews/lian-li-lancool-216-review) . When we reviewed the Lancool 216, we praised its included dual RGB 160mm front and single 140mm exhaust fans, excellent cable management and attractive looks. There's also plenty of room for a top-mounted radiator that's up to 360mm.
@@ -224,6 +245,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ## Best $2000 PC Build for Gaming
 
 ![Hyte Y40](https://cdn.mos.cms.futurecdn.net/4uhnTrJWRufEuBFQzenypi-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -247,6 +275,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![RTX 4070 Ti Super Charts](https://cdn.mos.cms.futurecdn.net/xLHYFZLdk36D2Rmd2iLYFa-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The AMD Ryzen 7 7800X3D offers a superior experience thanks to its 104MB of 3D cache, along with its 8 cores, 16 threads and 5-GHz boost clock. Yes, AMD makes the Ryzen 9 7950X3D which is even faster overall, but it costs a lot more money and either ties or comes in behind the 7800X3D on many gaming tests.
@@ -254,13 +289,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
  On our suite of[Windows 11](https://www.tomshardware.com/tag/windows-11) tests, running at 1080p with an RTX 4090 card, the 7800X3D averaged 224 fps, putting it slightly ahead of the Ryzen 9 7950X3D (222 fps) and way ahead of Intel's top-ranked Core i9-13900K (200 fps).
 
 ![Ryzen 7 7800X3D 1080p gaming tests](https://cdn.mos.cms.futurecdn.net/c5TiEiPPHBkLtGTfkp3Tyh-320-80.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -278,23 +306,9 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  To power all these high-end components, we're using a Corsair RM750e PSU which is 80+ Gold certified and fully modular.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best $4000+ PC Build for Gaming
 
 ![Fractal Design North XL](https://cdn.mos.cms.futurecdn.net/gohZoiw9QykbPm5kgrhfbi-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -338,6 +352,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Samsung 990 Pro 4TB Benchmarks](https://cdn.mos.cms.futurecdn.net/GArKvY8BSc22ZhDRwWyr2C-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We decided to go with a case that has a unique, premium look in the[Fractal Design North XL.](https://www.tomshardware.com/pc-components/pc-cases/fractal-design-north-xl-review) With its wood paneled front, this chassis looks more like a mid-century modern piece of furniture than a gaming PC, which is a nice subtle touch. However, it also has a tempered glass side panel which you can use to show off all of your RGB components (or you can buy it with a solid panel and no window). It also has fantastic thermal performance and plenty of room for more drives and fans. The XL model can accommodate up to an E-ATX motherboard, giving you plenty of room for future upgrades.
@@ -363,12 +384,25 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-voice.techidaily.com/in-2024-best-hatsune-miku-ai-voice-generators-for-all-times/"><u>In 2024, Best Hatsune Miku AI Voice Generators for All Times</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigate-with-ease-our-pick-of-the-best-7-traffic-applications/"><u>Navigate with Ease: Our Pick of the Best 7 Traffic Applications</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-celebrity-voice-generator-tools-you-cannot-miss-for-2024/"><u>New Best Celebrity Voice Generator Tools You Cannot Miss for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-role-of-slug-lines-in-seo-and-marketing-for-2024/"><u>The Role of Slug Lines in SEO & Marketing for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-secret-formula-become-an-insta-sensation-with-these-10-viral-techniques/"><u>The Secret Formula: Become an Insta-Sensation with These 10 Viral Techniques</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>Updated 2024 Approved Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-unleash-your-creativity-with-minitool-movie-maker-review-instructions-and-options/"><u>Updated Unleash Your Creativity with Minitool Movie Maker Review, Instructions, and Options</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-instantaneously-enhance-your-facebook-page-with-songs/"><u>[New] 2024 Approved Instantaneously Enhance Your Facebook Page with Songs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-hit-list-top-10-songs-in-one-place-for-2024/"><u>[New] Hit List Top 10 Songs in One Place for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-foremost-frame-starters-leading-16-youtube-videos-for-more-watchers/"><u>[Updated] Foremost Frame Starters Leading 16 YouTube Videos for More Watchers</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-celebrity-voice-generator-tools-you-cannot-miss-for-2024/"><u>Best Celebrity Voice Generator Tools You Cannot Miss for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/best-collection-for-enlivening-text-for-2024/"><u>Best Collection for Enlivening Text for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-and-explore-free-lightworks-software-options-top-lightworks-alternatives/"><u>Download & Explore Free Lightworks Software Options: Top Lightworks Alternatives</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-mac-a-comprehensive-guide-to-using-whatsapp/"><u>Mastering Mac: A Comprehensive Guide to Using WhatsApp</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-6-best-voice-changers/"><u>New 6 Best Voice Changers</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>New In 2024, Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>New The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-keyboards-glow-a-guide-for-troubleshooting-backlight-problems-on-mac-and-pc/"><u>Revive Your Keyboard's Glow: A Guide for Troubleshooting Backlight Problems on Mac and PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620192562-transform-your-ebook-with-confidence-the-ultimate-7-step-process-for-converting-epub-to-txt-now-working-flawlessly/"><u>Transform Your eBook with Confidence: The Ultimate 7-Step Process for Converting ePub to TXT - Now Working Flawlessly!</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-5-quandale-dingle-voice-generators/"><u>Updated 2024 Approved Best 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>Updated In 2024, The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>Updated In 2024, Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-latest-top-darth-vader-voice-generators-for-all-platforms-for-2024/"><u>Updated Latest Top Darth Vader Voice Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-real-time-ai-voice-changer-revolutionizing-communication-for-2024/"><u>Updated Real-Time AI Voice Changer Revolutionizing Communication for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-hardware-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall hardware drivers on Windows 11 & 10</u></a></li>
 </ul></div>
 
