@@ -1,7 +1,7 @@
 ---
 title: "Discover the New Ultra-Slim Lenovo Minicomputer: Yoga Portal AI with 14Th Gen Intel Processing, Comparable to ThinkCentre Neo"
-date: 2024-09-21T18:26:21.544Z
-updated: 2024-09-23T16:01:23.290Z
+date: 2024-09-20T23:36:03.815Z
+updated: 2024-09-27T21:41:09.508Z
 tags:
   - desktop
 categories:
@@ -37,10 +37,10 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,5 +64,22 @@ In an interesting turn of events, the first device boasting the highest-end vers
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-a-technical-dive-into-gesture-and-movement-sensors/"><u>[New] 2024 Approved A Technical Dive Into Gesture and Movement Sensors</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-behance-portfolio-image-constraints-for-2024/"><u>[New] Behance Portfolio Image Constraints for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-the-secrets-of-auditory-success-on-youtube-videos/"><u>[Updated] Unlock the Secrets of Auditory Success on YouTube Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bring-out-the-vibes-using-radial-blurs-in-your-projects/"><u>2024 Approved Bring Out the Vibes Using Radial Blurs in Your Projects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-mass-downloading-a-complete-look-at-tiktok-archives/"><u>2024 Approved Guide to Mass Downloading A Complete Look at TikTok Archives</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-non-functional-speakers-in-windows-11-step-by-step-solutions/"><u>Fixing Non-Functional Speakers in Windows 11: Step-by-Step Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-trends-with-expert-analysis-by-tom/"><u>Mastering Tech Trends with Expert Analysis by Tom</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-6-mickey-mouse-voice-generators/"><u>New 2024 Approved Top 6 Mickey Mouse Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-celebrity-voice-generator-tools-you-cannot-miss/"><u>New Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-5-ai-voice-generators-online-supports-all-browsers/"><u>New In 2024, Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-ai-rap-voice-generators-upgrade-your-rap/"><u>New Top AI Rap Voice Generators Upgrade Your Rap</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-resolving-headphone-connectivity-issues-in-windows-11/"><u>Solution Steps: Resolving Headphone Connectivity Issues in Windows 11</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Updated 2024 Approved A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-real-time-ai-voice-changer-revolutionizing-communication/"><u>Updated In 2024, Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-6-mickey-mouse-voice-generators/"><u>Updated In 2024, Top 6 Mickey Mouse Voice Generators</u></a></li>
+</ul></div>
 

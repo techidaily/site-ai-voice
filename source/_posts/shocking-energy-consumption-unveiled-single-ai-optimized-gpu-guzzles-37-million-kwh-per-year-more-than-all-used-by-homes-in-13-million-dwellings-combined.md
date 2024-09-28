@@ -1,7 +1,7 @@
 ---
 title: "Shocking Energy Consumption Unveiled: Single AI-Optimized GPU Guzzles 3.7 Million kWh Per Year, More Than All Used by Homes in 1.3 Million Dwellings Combined"
-date: 2024-09-22T18:53:54.408Z
-updated: 2024-09-23T16:02:12.382Z
+date: 2024-09-24T17:46:57.452Z
+updated: 2024-09-28T08:41:41.636Z
 tags:
   - desktop
 categories:
@@ -74,12 +74,33 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-premium-video-capturing-for-digital-screens/"><u>[New] In 2024, Premium Video Capturing for Digital Screens</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unleash-your-creativity-the-best-10-igtv-techniques-to-skyrocket-your-brand/"><u>[New] In 2024, Unleash Your Creativity The Best 10 IGTV Techniques to Skyrocket Your Brand</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-explore-the-best-free-online-video-capture-platforms/"><u>[Updated] In 2024, Explore the Best Free Online Video Capture Platforms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-spark-interest-everyones-free-with-our-youtube-banner-samples/"><u>[Updated] Spark Interest - Everyone's Free With Our YouTube Banner Samples</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-steering-clear-of-stereotypes-with-your-youtube-channel-name-for-2024/"><u>[Updated] Steering Clear of Stereotypes with Your YouTube Channel Name for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/abbyy-holt-zwei-zwei-qualifizierte-experten-ersetzen-die-aktuellen-fuhrungskrafte/"><u>ABBYY Holt Zwei: Zwei Qualifizierte Experten Ersetzen Die Aktuellen Führungskräfte</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-5-tiktok-voice-generators-you-should-try-for-2024/"><u>Best 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-voice-generators-and-changers-with-the-most-anime-voices-supported-for-2024/"><u>Best Voice Generators & Changers with The Most Anime Voices Supported for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-best-10-free-and-best-text-to-speech-generators/"><u>In 2024, Best 10 Free and Best Text-to-Speech Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-a-comprehensive-list-of-the-top-spongebob-voice-generators-for-2024/"><u>New A Comprehensive List of The Top SpongeBob Voice Generators for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-10-free-ai-voice-generators-to-use-in-daily-life-for-2024/"><u>New Best 10 Free AI Voice Generators to Use in Daily Life for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New In 2024, Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-woes-solved-fixing-the-rainbow-six-siege-black-display-problem/"><u>PC Gaming Woes Solved: Fixing the Rainbow Six Siege Black Display Problem</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/real-time-ai-voice-changer-revolutionizing-communication-for-2024/"><u>Real-Time AI Voice Changer Revolutionizing Communication for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-2023-line-up-of-best-pro-360cameras-reviewed-for-2024/"><u>The 2023 Line-Up of Best Pro 360°Cameras Reviewed for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-10-free-and-best-text-to-speech-generators-for-2024/"><u>Top 10 Free and Best Text-to-Speech Generators for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-essential-apple-watch-sleep-monitoring-applications/"><u>Top 5 Essential Apple Watch Sleep Monitoring Applications</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime/"><u>Updated In 2024, Guide to Discovering the Voice Generators/Changers with the Most Anime</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
