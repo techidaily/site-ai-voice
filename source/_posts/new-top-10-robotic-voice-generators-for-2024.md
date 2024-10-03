@@ -1,7 +1,7 @@
 ---
 title: New Top 10 Robotic Voice Generators for 2024
-date: 2024-09-27T01:53:00.475Z
-updated: 2024-09-28T02:40:57.264Z
+date: 2024-09-28T22:18:07.659Z
+updated: 2024-10-03T03:40:12.871Z
 tags: 
   - ai voice
 categories: 
@@ -129,10 +129,10 @@ Continuing its dominance in the text-to-speech market, Voicebooking offers vario
 ![voicebooking robotic voice generator](https://images.wondershare.com/virbo/article/top-robotic-voice-generators-in-2024-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Features
@@ -352,6 +352,13 @@ You will also discover significant information about the voices you can change w
 
 Now that you are aware of the tools that can provide you with versatile voice-changing and generating properties, you may want to learn more about them. You can discover more valuable information about these amazing tools from here:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. FineShare Online
 
 FineShare Online is a digital solution to change the voices in lossless quality. With this **Ghostface voice generator**, you can change the voices in the smoothest way. In addition, it comprehends more than 30 voices, categorized into celebrity, male & female, and roles. There is a specialized 48kHz voice recorder in it which lets you record audio in clearer quality.
@@ -401,6 +408,13 @@ As the name indicates, you can create the perfect real-time voice-changing audio
 This tool can change the voices on several platforms, such as Discord, OBS, and more. It also incorporates several types of AI Voices, such as The Narrator, Bob, Mothership, etc. One of the convenient things is you can use it to talk without interruptions or slurring.
 
 ![anime-voice-generator-4.jpg](https://images.wondershare.com/virbo/features/ai-voice/anime-voice-generator-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -630,6 +644,13 @@ Easily convert text into professional spokesperson videos in over 120+ voices & 
 
 ![article-product-download](https://images.wondershare.com/virbo/images2023/article-product-download.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 After careful consideration, it can be said that you can create optimized voice-changed videos by using voice generators/changers. There are diversified types of voice modifiers on the web, such as **Squidward AI voice** and more. All of them support some specific cartoon voices, which you can discover from the above-given table.
@@ -764,6 +785,19 @@ We hope that you have picked up several valuable tips in this article. With the 
 ### **1\. What is the best Eminem voice generator program?**
 
 Many tools allow users to transform their voices into Eminem and other celebrity characters. However, you should consider features like output quality, voice variety, pricing, and more.
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **2\. Can I use Eminem's AI voices for commercial use?**
 
@@ -910,13 +944,6 @@ With UberDuck's innovative features, enter the audio technology of the future an
 Voicify.AI is the gateway to co-composing engaging AI music covers with your favorite musicians. Discover which musicians have been the most chosen so far by visiting the trending model's area. When you've selected the ideal model, drag and drop your music onto Voicify, and watch as its advanced artificial intelligence automatically extracts the acapella.
 
 ![juice-wrld-ai-voice-generator.jpg](https://images.wondershare.com/virbo/features/ai-voice/juice-wrld-ai-voice-generator.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 With Voicify.AI, you may create original and captivating song covers that push the boundaries of creativity and go on a musical trip like never before. Bring out your inner artist and work with artificial intelligence to take your music to new heights.
 
@@ -1104,13 +1131,6 @@ Let’s delve into the steps required to use TikTok’s text to speech generator
 
 ![text-to-speech-tiktok-save.jpg](https://images.wondershare.com/virbo/features/marketing/text-to-speech-tiktok-save.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 2\. Try best 5 TikTok voice generators**
 
 Are you curious as to how you may utilize this functionality. We have five excellent examples that demonstrate how businesses just like yours are currently using TikTok text-to-speech.
@@ -1180,13 +1200,6 @@ Using Text to Speech Robot, you can choose from a variety of male and female voi
 ### 5\. Wavel.AI
 
 ![tiktok-text-to-speech-generator-wavelai.jpg](https://images.wondershare.com/virbo/features/marketing/tiktok-text-to-speech-generator-wavelai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 One of the greatest tools for AI voice generating in video making is Wavel.ai. From the convenience of your online browser, the editor enables you to cut, combine, import, and record video clips. Their text-to-speech function lets you input text and create AI-generated voiceovers for your video projects in addition to editing videos. You can also modify the speed, cut, and clip the audio created after inputting your text in the Wavel.ai editor.
 
@@ -1264,26 +1277,6 @@ Easily convert text into professional spokesperson videos in over 120+ voices & 
 
 ![article-product-download](https://images.wondershare.com/virbo/images2023/article-product-download.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 The sophistication of AI speech generators is rising, and a number of businesses claim that their AI is appropriate for voice cloning. TikTok currently boasts more than one billion monthly active users, making it one of the most widely used social media platforms globally. Even while the technology is still in its infancy, it's not impossible to picture a day when artificial intelligence-generated sounds are almost indistinguishable from human voices!
@@ -1317,6 +1310,13 @@ VOCALOID6 is an AI-powered music generator created by Yamaha. Through this, you 
 The interface of the **VOCALOID voice changer** is appreciative and straightforward. Thus, you will not face any difficulty while exploring and using this tool. Above all, it incorporates innovative algorithms along with blazing-fast processing speed. Through this, you can accomplish your task at a faster speed without adjusting everything manually.
 
 ![vocaloid6-voice-generator-1.jpg](https://images.wondershare.com/virbo/features/marketing/vocaloid6-voice-generator-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Compatibility of VOCALOID6
 
@@ -1407,13 +1407,6 @@ Speechify can also turn Docs, articles, or PDF files into speech without any mis
 
 ![vocaloid6-voice-generator-6.jpg](https://images.wondershare.com/virbo/features/marketing/vocaloid6-voice-generator-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. SpeechGen.io
 
 This innovative **VOCALOID software alternative** holds the potential for generating realistic AI voices. Through this, we can create realistic quality voices without any pronunciation mistakes. It also supports various languages, such as Persian, Basque, Irish, Greek, Spanish, English, Gujarati, and more. You can also select the AI voice of your choice from the options of Bart, Guy, Eric, Jack, and more.
@@ -1421,6 +1414,13 @@ This innovative **VOCALOID software alternative** holds the potential for genera
 Before selecting the voices, you can also hit the play icon to preview them. Besides this, it also lets you manage the audio metrics as you can customize the pitch of audio through this. It also has several built-in pitch options, including -20, -16, -8, -4, +2, +18, +20, and many more. The speed of audio can also be customized through this tool.
 
 ![vocaloid6-voice-generator-7.jpg](https://images.wondershare.com/virbo/features/marketing/vocaloid6-voice-generator-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -1484,6 +1484,13 @@ Using VOCALOID6 is not as complicated as it seems. The procedure for using the V
 
 ![vocaloid6-voice-generator-4.jpg](https://images.wondershare.com/virbo/features/marketing/vocaloid6-voice-generator-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: The Best Alternatives to VOCALOID6 Voice Changer
 
 Undoubtedly, the **VOCALOID voice generator** is an optimized quality tool. However, it is better to know its alternatives. Through this, you can experience reliable innovation and upgrades. It also gives a comparative analysis along with flexibility.
@@ -1499,13 +1506,6 @@ Virbo is a quality-optimized tool through which you can generate AI videos with 
 It also allows you to select languages based on gender and accent. Moreover, Virbo integrates a text-to-speech feature that helps you convert written text into expressive speech. You can also access professionally made video templates in Virbo, making your work easier than ever. In addition, it supports the royalty-free music track, which you can use in the videos.
 
 It shows compatibility on diversified platforms such as Online, Windows, Android, and iOS. You can even use its premium version on multiple devices without any problem. With the help of Virbo, you can also generate AI scripts for social media content. Furthermore, you can also optimize the script on a Windows computer.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Speechify
 
@@ -1539,22 +1539,20 @@ If you want to use this tool for generating AI voices, the steps are also mentio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-extensive-audit-unveiling-the-dji-inspire-1-drone/"><u>[New] Extensive Audit Unveiling the DJI Inspire 1 Drone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-expert-techniques-for-transforming-vimeo-media-into-mp4s-for-2024/"><u>[Updated] Expert Techniques for Transforming Vimeo Media Into MP4s for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oppo-k11-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Oppo K11 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/fading-audio-dynamics-a-logic-pro-approach/"><u>Fading Audio Dynamics A Logic Pro Approach</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/find-your-perfect-match-the-top-10-online-converters-list/"><u>Find Your Perfect Match The Top 10 Online Converters List</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-x50-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor X50 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insights-into-windows-patch-identification/"><u>Insights Into Window's Patch Identification</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>New A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-10-free-and-best-text-to-speech-generators/"><u>New Best 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-detailed-review-and-alternatives-of-vocaloid6-voice-generator-for-2024/"><u>New Detailed Review & Alternatives of VOCALOID6 Voice Generator for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime/"><u>New Guide to Discovering the Voice Generators/Changers with the Most Anime</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/premier-platforms-identifying-the-finest-ps2-emulation-tools-for-android/"><u>Premier Platforms Identifying the Finest PS2 Emulation Tools for Android</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-4-morgan-freeman-voice-generator-tools-for-voice-cloning-for-2024/"><u>Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-free-mkv-clipper-software-top-10-recommendations-for-2024/"><u>Updated Free MKV Clipper Software Top 10 Recommendations for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-5-quandale-dingle-voice-generators/"><u>Updated In 2024, Best 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-celebrity-voice-generator-tools-you-cannot-miss/"><u>Updated In 2024, Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Updated In 2024, Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlock-the-potential-of-your-camera-creating-stunning-slow-motion-videos-for-instagram/"><u>[New] In 2024, Unlock the Potential of Your Camera Creating Stunning Slow-Motion Videos for Instagram</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-leading-workplace-cloud-reservoirs-for-2024/"><u>[New] Leading Workplace Cloud Reservoirs for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/amds-instinct-mi300a-powers-hpe-el-capitan-the-path-to-the-quickest-supercomputer/"><u>AMD's Instinct MI300A Powers HPE El Capitan: The Path to the Quickest Supercomputer</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/asus-nuc-14-unleashing-new-power-with-up-to-core-i9-uhd-graphics-and-amd-ryzen-threadripper/"><u>Asus NUC 14: Unleashing New Power with Up to Core I9 UHD Graphics & AMD Ryzen Threadripper</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/comprehensive-review-of-the-oculus-quest-2-superior-virtual-reality-for-a-spectacular-price-point/"><u>Comprehensive Review of the Oculus Quest 2: Superior Virtual Reality for a Spectacular Price Point</u></a></li>
+<li><a href="https://win-superb.techidaily.com/convertissez-votre-fichier-avi-en-3gp-gratuitement-sur-le-web-avec-moviavi/"><u>Convertissez Votre Fichier AVI en 3GP Gratuitement Sur Le Web Avec Moviavi</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/expert-analysis-unveiling-imos-features-and-user-experience/"><u>Expert Analysis: Unveiling IMo's Features and User Experience</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/explore-cutting-edge-technology-with-invaluable-insights-from-toms-hardware/"><u>Explore Cutting-Edge Technology with Invaluable Insights From Tom's Hardware</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/game-changing-diy-pc-build-faster-egpu-connection-with-direct-pcie-interface-vs-thunderbolt-4/"><u>Game-Changing DIY PC Build: Faster eGPU Connection with Direct PCIe Interface vs Thunderbolt 4</u></a></li>
+<li><a href="https://fox-where.techidaily.com/harnessing-the-power-of-bootstrap-with-blk-design-system-by-creative-tim-the-ultimate-free-resource/"><u>Harnessing the Power of Bootstrap with BLK Design System by Creative Tim - The Ultimate Free Resource!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-y200-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo Y200</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-xr21-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia XR21 Phone Screen?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-narzo-n55-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme Narzo N55 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s6-features-like-s-pen-and-dex-mode-explored/"><u>In-Depth Analysis of the Samsung Galaxy Tab S6: Features Like S Pen & Dex Mode Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-the-internet-with-superior-artificn-intelligence-driven-search-tools/"><u>Navigate the Internet with Superior Artificn Intelligence-Driven Search Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Top 4 Hatsune Miku Voice AI Generators for All Times for 2024
-date: 2024-09-26T16:07:36.857Z
-updated: 2024-09-28T01:06:13.991Z
+date: 2024-10-01T18:45:41.264Z
+updated: 2024-10-02T23:33:59.649Z
 tags: 
   - ai voice
 categories: 
@@ -117,6 +117,19 @@ With just a few taps, you can create deep fake voices to upgrade your performanc
 | 1-Quarter Plan | $12.95 |
 | Lifetime Plan  | $39.95 |
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Voicemod
 
 It is one of the perfect choices through which you can express your emotions in your voice. This real-time **Hatsune Miku voice generator** also helps you build the sonic identity for versatile platforms. You can also use it to change the voices in real time on several applications such as Zoom, Skype, Roll20, Us, WhatsApp Desktop, and more.
@@ -151,6 +164,13 @@ iMyFone MagicMic also holds its name higher in the best-in-class **Hatsune Miku 
 You can also customize the voice to give a more personalized experience to the listeners. It also lets you adjust the voice metrics, which is quite beneficial.
 
 ![imyfone hatsune miku voice generator](https://images.wondershare.com/virbo/features/ai-voice/hatsune-miku-voice-generator-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -190,13 +210,6 @@ One of the best things about Virbo is it has the potential to create amazing qua
 * Clear Audio Quality
 * Spoken by Realistic Avatars
 * 300+ Accents & Languages
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -288,19 +301,6 @@ It is one of the perfect choices through which you can express your emotions in 
 Every person, such as content creator, gamer, streamer, and VTuber can use this tool to change their voices. It also aids in maintaining anonymity on several platforms.
 
 ![voicemod hatsune miku voice generator](https://images.wondershare.com/virbo/features/ai-voice/hatsune-miku-voice-generator-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -438,6 +438,19 @@ This **online AI voice generator** also lets you add a soundtrack in the backgro
 * **Personal**: $22.50/month
 * **Enterprise**: Contact Sales
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Murf.ai
 
 Murf.ai is a simple AI voice generator that comes with more than 120 AI voices. The user interface of this tool is vibrant and well-organized. It offers 100% natural AI voices to generate professional voices. It also supports more than 20 languages that you can select accordingly. Moreover, there are multiple accents in a few languages, like English, Spanish, and Portuguese.
@@ -656,13 +669,6 @@ This tool can be used in various cases. For example, you can create voice narrat
 
 ![top-ai-voice-generators-online-5.jpg](https://images.wondershare.com/virbo/images2023/tts/top-ai-voice-generators-online-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Key Features
 
 1. This online AI voice generator is compatible with many editing software. For instance, it supports Adobe, Audacity, iMovie, Apple Motion, etc.
@@ -711,6 +717,13 @@ Thanks to the AI, large quantities of voice samples and specialized equipment ar
 ### 1\. Speechify
 
 ![speechify-robotic-voice-generator.jpg](https://images.wondershare.com/virbo/images2023/virboai3/speechify-robotic-voice-generator.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Any text may be converted into speech with Speechify. The web-based platform can convert PDFs, emails, documents, and articles into audio files that may be listened to instead of being read. You may pick from over 30 realistic-sounding voices and change the reading pace using this tool.
 
@@ -902,13 +915,6 @@ In the first step, proceed by downloading the Virbo software from the [link](htt
 
 ![virbo-robotic-voice-generator-interface.jpg](https://images.wondershare.com/virbo/images2023/virboai3/virbo-robotic-voice-generator-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### **Step 2: Create Video for Robotic Voice**
 
 Click on the Create Video button and it will take you into the Virbo editor after the successful login using your Wondershare ID.
@@ -944,6 +950,13 @@ AI-powered speech producing products are abundant on the market. Finding the ide
 [Generate Voice Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 ![virbo-voice-generator.jpg](https://images.wondershare.com/virbo/images2023/virboai3/virbo-voice-generator.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **What is** **Virbo**
 
@@ -987,10 +1000,10 @@ After that, click on the Export button and proceed with downloading the robotic 
 ![virbo-robotic-voice-generator-export-video.jpg](https://images.wondershare.com/virbo/images2023/virboai3/virbo-robotic-voice-generator-export-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Generate Voice Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
@@ -1397,6 +1410,13 @@ It can also read all types of documents, such as PDF, Word, emails, and more. Th
 
 ![free-and-best-text-to-speech-generator-4.jpg](https://images.wondershare.com/virbo/images2023/new/free-and-best-text-to-speech-generator-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Notevibes
 
 With over 221 male and female voices, you can create perfect text-to-speech videos in no time. It also integrates 25+ languages, which is quite convenient. This **free AI text-to-speech generator** allows you to make speeches in personalized languages. Moreover, you can also preview the speeches before actually using them.
@@ -1585,6 +1605,13 @@ This **free AI voice generator text-to-speech** has an extremely straightforward
 This online tool can also help you manage the speed of the converted audio and remove the background audio for optimized quality. There are numerous voice emotion samples in it, such as happy, sad, excited, and more. It also lets you download the voice files on the device without facing any difficulty.
 
 ![free-and-best-text-to-speech-generator-11.jpg](https://images.wondershare.com/virbo/images2023/new/free-and-best-text-to-speech-generator-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. SpeechGen.io
 
@@ -1909,13 +1936,6 @@ You have a choice to start a new video or pick a pre-made template for your rap 
 
 ![step1-to-use-the-best-rap-voice-generator.jpg](https://images.wondershare.com/virbo/features/ai-voice/step1-to-use-the-best-rap-voice-generator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 3 Choose your avatar and rap voice
 
 Select an avatar for your rap voice. Male, female, and multiple styles, including casual, western, and eastern, are all available on Virbo. Choose the one that best expresses the style and personality you desire for your rap. Click on Apply to adjust the avatar on all storyboards.
@@ -2008,13 +2028,6 @@ This voice generator can also help you with the soundboard. You can also use Voi
 
 * Windows
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. WooTechy Soundbot
 
 Changing voices with more than 250 voice filters is one of the specialties of this **Darth Vader AI voice generator**. WooTechy Soundbot also has 600 plus sound effects, which can make your audio more unique. If you wish to create audio memes, its in-built 200+ voice memes can assist you. Above all, it allows you to work on recently recorded or real-time audio.
@@ -2099,13 +2112,6 @@ Moreover, you can also generate AI avatar-integrated videos with this. Over 150 
 
 [Generate Voice Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 As discussed in this article, if you are a big fan of Darth Vader, you can also create several projects in his voice. You also learned about this particular character from the above discussion. There are diversified **Darth Vader AI voice generators** on several platforms. For online voice changing, you can use FineShare Online Voice Changer or TopMediaAi Voice Changer.
@@ -2124,20 +2130,22 @@ Moreover, UnicTool MagicVox and WooTechy Soundbot can help you change your voice
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-watermark-instagram-photos/"><u>[New] 2024 Approved How to Watermark Instagram Photos</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>2024 Approved A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-can-craft-jokes-but-can-ai-make-us-laugh/"><u>ChatGPT Can Craft Jokes, But Can AI Make Us Laugh?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/discover-the-top-8-services-to-amplify-video-content-for-2024/"><u>Discover the Top 8 Services to Amplify Video Content for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-audio-aficionados-curated-selection-of-free-lut-links/"><u>In 2024, Audio Aficionados' Curated Selection of Free LUT Links</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-ultimate-iphone-slideshow-apps-ranked-6-13/"><u>In 2024, Ultimate iPhone Slideshow Apps Ranked #6-13</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-6-free-talking-stock-photo-sites/"><u>New In 2024, Top 6 Free Talking Stock Photo Sites</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-5-tiktok-voice-generators-you-should-try-for-2024/"><u>New Top 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-nba-2k23-crashing-issues-on-pc-top-7-tips-and-tricks/"><u>Solved: How to Fix NBA 2K23 Crashing Issues on PC - Top 7 Tips & Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solutions-customize-windows-menu-for-instant-removal/"><u>Swift Solutions: Customize Windows Menu for Instant Removal</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-awake-averse-pc-windows-1011-locked-in-slumber/"><u>The Awake-Averse PC: Windows 10/11 Locked in Slumber</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-playbook-for-youtube-brand-development-and-expansion-for-2024/"><u>The Ultimate Playbook for YouTube Brand Development and Expansion for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-10-robotic-voice-generators-for-2024/"><u>Top 10 Robotic Voice Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated In 2024, Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-the-most-direct-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>Updated The Most Direct Guide to Learning How to Clone Your Voice for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-swap-periscopes-lens-innovative-video-platforms-for-smartphones/"><u>[Updated] In 2024, Swap Periscope's Lens Innovative Video Platforms for Smartphones</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-visual-storytelling-crafting-compelling-narratives-in-youtube-videos/"><u>[Updated] Visual Storytelling Crafting Compelling Narratives in YouTube Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Redmi Note 12 Pro 4G</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unleashing-potential-current-vr-innovations/"><u>2024 Approved Unleashing Potential Current VR Innovations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-repairing-malfunctioning-mic-in-headsets/"><u>Effective Solutions for Repairing Malfunctioning Mic in Headsets</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-itel-p40plus-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Itel P40+ to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mobile-gpt-rethink-your-downloading-decision/"><u>Mobile GPT: Rethink Your Downloading Decision</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-revolutionizing-communication-real-time-ai-voice-changer/"><u>New 2024 Approved Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>New In 2024, Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New In 2024, Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-5-quandale-dingle-voice-generators-for-2024/"><u>New Top 5 Quandale Dingle Voice Generators for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/step-by-step-zoom-livestream-setup-guide-for-youtube-enthusiasts/"><u>Step-by-Step Zoom Livestream Setup Guide for YouTube Enthusiasts</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-celebrity-voice-generator-tools-you-cannot-miss/"><u>Updated 2024 Approved Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>Updated 2024 Approved Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>Updated Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime-for-2024/"><u>Updated Guide to Discovering the Voice Generators/Changers with the Most Anime for 2024</u></a></li>
 </ul></div>
 

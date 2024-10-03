@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Russian Tech Breakthrough: 128-Core Servers Set to Power Elite Supercomputers"
-date: 2024-09-22T06:16:53.292Z
-updated: 2024-09-28T05:15:29.038Z
+date: 2024-09-30T12:12:18.161Z
+updated: 2024-10-03T01:27:23.923Z
 tags:
   - desktop
 categories:
@@ -37,10 +37,10 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,18 +66,18 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boost-your-channels-a-guide-to-best-youtube-seo-resources/"><u>[New] In 2024, Boost Your Channels A Guide to Best YouTube SEO Resources</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unlock-visual-storytelling-potential-with-snapchat-edits/"><u>[New] Unlock Visual Storytelling Potential with Snapchat Edits</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-virtual-broadcast-battleground-obs-versus-shadowgl-for-2024/"><u>[New] Virtual Broadcast Battleground OBS Versus ShadowGL for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-crafting-visual-narratives-adding-memorable-story-emoji-images-for-2024/"><u>[Updated] Crafting Visual Narratives Adding Memorable Story Emoji Images for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>2024 Approved A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-non-functional-voice-chat-feature-on-rainbow-six-siege-a-guide-for-gamers/"><u>Fixing the Non-Functional Voice Chat Feature on Rainbow Six Siege - A Guide for Gamers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-5-tiktok-voice-generators-you-should-try-for-2024/"><u>New Top 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/swaying-symbols-dynamic-animation-for-text-effects-for-2024/"><u>Swaying Symbols Dynamic Animation for Text Effects for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-10-robotic-voice-generators-for-2024/"><u>Top 10 Robotic Voice Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated In 2024, Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Updated Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-superior-web-recording-gear/"><u>[New] In 2024, Superior Web Recording Gear</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-supercharge-your-pc-with-these-win-10-tricks/"><u>[Updated] Supercharge Your PC with These Win 10 Tricks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-unveiling-the-power-of-magix-clip-studio/"><u>2024 Approved Unveiling the Power of MAGIX Clip Studio</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>Best 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-saturation-perfection-tool/"><u>In 2024, Saturation Perfection Tool</u></a></li>
+<li><a href="https://article-files.techidaily.com/inside-the-innovative-world-of-intova-x-for-2024/"><u>Inside the Innovative World of Intova X for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-4-hatsune-miku-voice-ai-generators-for-all-times-for-2024/"><u>Top 4 Hatsune Miku Voice AI Generators for All Times for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-12-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 12 Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-5-quandale-dingle-voice-generators/"><u>Updated Top 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-mediatransiosusb/"><u>WinX MediaTransでiOSデバイスをUSBメモリーに変える：使い方詳しく解説</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/be-earnings-guide-policy-overhaul-explained-for-2024/"><u>YouTube Earnings Guide Policy Overhaul Explained for 2024</u></a></li>
 </ul></div>
 
