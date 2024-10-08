@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Russian Tech Breakthrough: 128-Core Servers Set to Power Elite Supercomputers"
-date: 2024-09-30T12:12:18.161Z
-updated: 2024-10-03T01:27:23.923Z
+date: 2024-10-03T17:02:59.888Z
+updated: 2024-10-08T16:40:31.325Z
 tags:
   - desktop
 categories:
@@ -37,10 +37,10 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,18 +66,21 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-superior-web-recording-gear/"><u>[New] In 2024, Superior Web Recording Gear</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-supercharge-your-pc-with-these-win-10-tricks/"><u>[Updated] Supercharge Your PC with These Win 10 Tricks</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-unveiling-the-power-of-magix-clip-studio/"><u>2024 Approved Unveiling the Power of MAGIX Clip Studio</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>Best 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-saturation-perfection-tool/"><u>In 2024, Saturation Perfection Tool</u></a></li>
-<li><a href="https://article-files.techidaily.com/inside-the-innovative-world-of-intova-x-for-2024/"><u>Inside the Innovative World of Intova X for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-4-hatsune-miku-voice-ai-generators-for-all-times-for-2024/"><u>Top 4 Hatsune Miku Voice AI Generators for All Times for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-12-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 12 Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-5-quandale-dingle-voice-generators/"><u>Updated Top 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winx-mediatransiosusb/"><u>WinX MediaTransでiOSデバイスをUSBメモリーに変える：使い方詳しく解説</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/be-earnings-guide-policy-overhaul-explained-for-2024/"><u>YouTube Earnings Guide Policy Overhaul Explained for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-live-event-success-expertly-selecting-5-recording-hardware/"><u>[New] 2024 Approved Live Event Success Expertly Selecting 5 Recording Hardware</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-seamless-fb-video-to-mp3-audio-conversion-techniques/"><u>[New] 2024 Approved Seamless FB Video to MP3 Audio Conversion Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-audio-selection-tips-for-impactful-unboxing-clips/"><u>[Updated] In 2024, Audio Selection Tips for Impactful Unboxing Clips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-inspirational-metaverse-sayings-arvr-edition-for-2024/"><u>[Updated] Inspirational Metaverse Sayings AR/VR Edition for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-mastering-access-to-royalty-free-design-tools-for-2024/"><u>[Updated] Mastering Access to Royalty-Free Design Tools for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-real-time-ai-voice-changer-revolutionizing-communication/"><u>2024 Approved Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-10-free-and-best-text-to-speech-generators-for-2024/"><u>Best 10 Free and Best Text-to-Speech Generators for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a24-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A24 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-10-robotic-voice-generators/"><u>In 2024, Top 10 Robotic Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-ai-rap-voice-generators-upgrade-your-rap/"><u>In 2024, Top AI Rap Voice Generators Upgrade Your Rap</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-jaco-smartpro-digital-tire-inflator-evaluation-the-portable-and-high-performance-option-for-your-wheels/"><u>In-Depth Jaco SmartPro Digital Tire Inflator Evaluation – The Portable & High-Performance Option for Your Wheels</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/restful-reelings-audiovisual-storytelling/"><u>Restful Reelings Audiovisual Storytelling</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-free-audio-samples-for-youtube-creators-for-2024/"><u>Top Free Audio Samples for YouTube Creators for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>Updated 2024 Approved The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-latest-top-darth-vader-voice-generators-for-all-platforms/"><u>Updated Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-6-free-talking-stock-photo-sites-for-2024/"><u>Updated Top 6 Free Talking Stock Photo Sites for 2024</u></a></li>
 </ul></div>
 

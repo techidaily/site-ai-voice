@@ -1,7 +1,7 @@
 ---
 title: "Shocking Energy Consumption Unveiled: Single AI-Optimized GPU Guzzles 3.7 Million kWh Per Year, More Than All Used by Homes in 1.3 Million Dwellings Combined"
-date: 2024-10-01T10:16:03.160Z
-updated: 2024-10-03T07:41:50.275Z
+date: 2024-10-07T19:49:37.580Z
+updated: 2024-10-08T16:53:42.736Z
 tags:
   - desktop
 categories:
@@ -76,29 +76,31 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-how-to-enable-grid-view-on-google-meet-to-see-every-participant/"><u>[New] 2024 Approved How to Enable Grid View on Google Meet to See Every Participant?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-altering-screenshot-file-types-on-a-macintosh-for-2024/"><u>[New] Altering Screenshot File Types on a Macintosh for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-imagecapture-reviews-hub/"><u>[New] ImageCapture Reviews Hub</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ransform-ideas-into-engaging-movies-using-youtube-editor/"><u>[New] Transform Ideas Into Engaging Movies Using YouTube Editor</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-waveforms-and-windows-mac-sound-recording/"><u>[Updated] 2024 Approved Waveforms and Windows Mac Sound Recording</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-uncluttered-program-w10-screenshot-maker/"><u>[Updated] Uncluttered Program W10 Screenshot Maker</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-top-4-hatsune-miku-voice-ai-generators-for-all-times/"><u>2024 Approved Top 4 Hatsune Miku Voice AI Generators for All Times</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/definitive-fixes-overcoming-windows-media-player-server-error-woes-on-windows-os/"><u>Definitive Fixes: Overcoming Windows Media Player Server Error Woes on Windows OS</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/dive-into-social-media-streams-watching-facebook-live-on-roku-for-2024/"><u>Dive Into Social Media Streams Watching Facebook Live on Roku for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime/"><u>In 2024, Guide to Discovering the Voice Generators/Changers with the Most Anime</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>New In 2024, The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>New In 2024, Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-5-ai-voice-generators-online-supports-all-browsers/"><u>New Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/the-most-straightforward-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>The Most Straightforward Guide to Learning How to Clone Your Voice for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-10-free-ai-voice-generators-to-use-in-daily-life-for-2024/"><u>Top 10 Free AI Voice Generators to Use in Daily Life for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-6-must-have-journaling-applications-for-organized-note-taking/"><u>Top 6 Must-Have Journaling Applications for Organized Note Taking</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-laughlenslab-pixelpunchers/"><u>[New] 2024 Approved LaughLensLab PixelPunchers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hacks-create-youtube-shorts-thumbnails-that-stand-out-quickly/"><u>[Updated] In 2024, Hacks Create YouTube Shorts Thumbnails That Stand Out Quickly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-unboxing-magic-7-ways/"><u>[Updated] Transforming Unboxing Magic 7 Ways</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-ai-rap-voice-generators-upgrade-your-rap/"><u>2024 Approved Top AI Rap Voice Generators Upgrade Your Rap</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bridging-worlds-fusing-photos-into-majestic-tiles-for-2024/"><u>Bridging Worlds Fusing Photos Into Majestic Tiles for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dirt-5-pc-performance-fix-resolve-frequent-game-crashes-easily/"><u>Dirt 5 PC Performance Fix: Resolve Frequent Game Crashes Easily</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-the-best-text-voice-generators-for-all-platforms/"><u>In 2024, The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-5-tiktok-voice-generators-you-should-try/"><u>In 2024, Top 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-your-first-stride-into-snapseed-land/"><u>Navigating Your First Stride Into Snapseed Land</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>New Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>New Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>New Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-10-robotic-voice-generators-with-comparison-table-for-2024/"><u>Top 10 Robotic Voice Generators (with Comparison Table) for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-6-mickey-mouse-voice-generators-for-2024/"><u>Top 6 Mickey Mouse Voice Generators for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unwrapping-utopia-creating-magical-unboxing-moments-for-2024/"><u>Unwrapping Utopia Creating Magical Unboxing Moments for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Updated A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

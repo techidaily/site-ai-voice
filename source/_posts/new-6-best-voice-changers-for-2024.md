@@ -1,7 +1,7 @@
 ---
 title: New 6 Best Voice Changers for 2024
-date: 2024-10-01T18:21:34.074Z
-updated: 2024-10-03T04:27:33.088Z
+date: 2024-10-03T18:16:27.266Z
+updated: 2024-10-08T20:07:46.601Z
 tags: 
   - ai voice
 categories: 
@@ -58,6 +58,13 @@ Below are the steps to generate AI voiceovers with **Wondershare Virbo**:
 
 ## **Part 3\. A look at the top 6 AI voice changers**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tool 1: Voicemod
 
 ![voicemod ai voice changer](https://images.wondershare.com/virbo/article/ai-voice-changer-1.jpg)
@@ -93,13 +100,6 @@ Cons:
 ### Tool 3: Genny by Lovo.ai
 
 ![genny ai voice changer](https://images.wondershare.com/virbo/article/ai-voice-changer-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here is another **AI voice changer online** tool to generate AI voices quickly and easily. After creating a profile, you only have to enter the text you want to convert to AI voices, and this program will do the rest. This voice changer comes with multiple effects for males and females. You can filter the AI voice effects by age, such as mature or young adult.
 
@@ -259,19 +259,6 @@ Cons:
 ### Tool 4\. HitPaw Voice Changer
 
 ![hitpaw ai voice changer](https://images.wondershare.com/virbo/article/ai-voice-changer-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 HitPaw Voice Changer is a Mac/Win app that handles voice-changing tasks perfectly. For example, this simple-to-use program lets you sound like your favorite video game character in titles like League of Legends, Call of Duty, Rocket League, and more. It also works with voice apps like WhatsApp, Zoom, Skype, VR Chat, etc. Moreover, it’s embedded with a noise remover to ensure you create crisp-clear audio.
 
@@ -343,13 +330,6 @@ There are tons of text-to-speech tools on the web, yet you cannot try every sing
 8. **Natural Reader**
 9. **Text to Voice**
 10. **SpeechGen.io**
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Virbo
 
@@ -457,13 +437,6 @@ There are several factors that you have to keep in mind for selecting the best-i
 
 You should also get language support along with intelligent pronunciation metrics with this. Other than that, make sure you are selecting a free tool, but if you want to buy the premium versions, the tool's features should be exceptional.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. **Which tool is known to be the exceptionally optimized and professional-grade text-to-speech generator?**
 
 Virbo is a tool that holds versatile recommendations and is known to be exceptionally helpful for generating speech from text. With this, you can make speeches on any topic with human-like voices. It also lets you manage the accent and language as per your need.
@@ -557,6 +530,13 @@ Simplified also supports multiple languages, voices, and emotions to add to the 
 
 ![free-and-best-text-to-speech-generator-8.jpg](https://images.wondershare.com/virbo/images2023/new/free-and-best-text-to-speech-generator-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Voicemaker
 
 This **free AI text-to-voice generator** can help you make interactive speeches with lossless quality. It also integrates two AI engine models: Standard TTs and Neural TTs. There are more than 50 plus languages in it which can vary per region. You can also select the voices from its in-built AI voices. This often includes Joey, Justin, Kendra, Kimberly, and more.
@@ -581,6 +561,19 @@ This online tool can also help you manage the speed of the converted audio and r
 
 ![free-and-best-text-to-speech-generator-11.jpg](https://images.wondershare.com/virbo/images2023/new/free-and-best-text-to-speech-generator-11.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. SpeechGen.io
 
 SpeechGen.io is a reliable **free AI voice generator text-to-speech** software. It has more than 30 languages, and you can select the language of your choice without facing complexities. SpeechGen.io also lets you choose the suitable AI Voice from its built-in voices. You also have an option for managing the pitch and speed of the spoken voices.
@@ -588,13 +581,6 @@ SpeechGen.io is a reliable **free AI voice generator text-to-speech** software. 
 Furthermore, you can either import the text from the device or you have the chance to generate text from this tool. It also lets users download speeches in MP3 or WAV formats. There is also a possibility to use multiple voices with one text.
 
 ![free-and-best-text-to-speech-generator-12.jpg](https://images.wondershare.com/virbo/images2023/new/free-and-best-text-to-speech-generator-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Frequently Asked Questions About Free Text to Voice Generators
 
@@ -892,6 +878,13 @@ Voicemod AI is a Windows/Mac program designed to change your voice in real-time.
 
 So, where can you use the AI voices on this program? Voicemod is a pretty flexible program that allows you to achieve quite a lot. That’s because this program will modulate your voice in real-time, allowing you to shake things up on Discord group chats, Skype video calls, Steam gaming sessions, and other applications. You can even use it to create unique YouTube content and carve out your brand.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part II. Features and Capabilities
 
 You must be asking yourself why we singled out Voicemod AI of all the AI voice modulation programs out there. The thing is that Voicemod comes with special features that can make your voice stand out in the group. Also, this tool is designed to give you a seamless voice-changing session. Let’s look at some of its shining points!
@@ -1088,6 +1081,19 @@ Are you feeling confused about the selection of AI voice generators? In this sec
 
 Customizability gives you an edge to generate an AI voice of your choice. A customizable AI voice generator provides different options that you can modify. For example, it can offer options to specify volume, pitch, rate, and pauses in the AI voice. By doing so, you can produce the desired AI voice by adjusting the settings according to your needs.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Multiple AI Voices and Languages
 
 One of the most important features of **speech synthesizer online** is the supported AI voices and languages. There should be a wide variety of AI voices that you can use according to different situations. The tones and accents of the AI voices should also be available in multiple regions.
@@ -1237,6 +1243,13 @@ Are you feeling confused about the selection of AI voice generators? In this sec
 
 Customizability gives you an edge to generate an AI voice of your choice. A customizable AI voice generator provides different options that you can modify. For example, it can offer options to specify volume, pitch, rate, and pauses in the AI voice. By doing so, you can produce the desired AI voice by adjusting the settings according to your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Multiple AI Voices and Languages
 
 One of the most important features of **speech synthesizer online** is the supported AI voices and languages. There should be a wide variety of AI voices that you can use according to different situations. The tones and accents of the AI voices should also be available in multiple regions.
@@ -1283,13 +1296,6 @@ Murf.ai is a simple AI voice generator that comes with more than 120 AI voices. 
 Once you have typed the textual content, the tool will instantly generate the results. Furthermore, you can produce attractive voiceovers by determining the pitch, pauses, and pronunciation of your script. Thus, you should try Murf.ai to fetch quality results.
 
 ![top-ai-voice-generators-online-2.jpg](https://images.wondershare.com/virbo/images2023/tts/top-ai-voice-generators-online-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -1469,6 +1475,19 @@ Last but definitely not least, use Voicer to transform your voice into multiple 
 ### Cons
 
 1. Only three free voices.
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Bonus Tip: How to Easily Transform Text to Human-Like AI Voice \[Recommended\]**
 
@@ -1651,6 +1670,13 @@ Yes, creating Morgan Freeman's voice in varying languages is possible. Most AI v
 
 Are you looking for a **celebrity AI voice generator free**? This is the right learning spot for you. We will discuss the best AI-powered celebrity voice generator tools for online and offline use. In this article, you will realize your dream of looking, acting, and sounding like your favorite celebrity crush in video or audio. Let's jump in!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part 1\. What Is a Celebrity Voice Generator Online Free?**
 
 First, you must define a celebrity before choosing an **AI celebrity voice generator for free**. A celebrity is someone with a lot of public recognition through media coverage. Put simply, celebrity personalities are famous and notable people in society. These people are popular in industries like politics, music, entertainment, sports, and so on.
@@ -1742,13 +1768,6 @@ Below are the steps:
 **Step 3.** Now it's time to make some adjustments to your video. You can adjust the audio language, speed, pitch, and volume. This tool also lets you turn off subtitles, add a new background, rotate, and more.
 
 ![celebrity-ai-voice-generator-free-7.jpg](https://images.wondershare.com/virbo/features/ai-voice/celebrity-ai-voice-generator-free-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4.** Click the **Preview** button to cross-check the video and make further edits if needed. Sounds good? Tap the **Export** button to save the voice video in MP4 or WebM format.
 
@@ -1858,13 +1877,6 @@ Some celebrity voices are more widely used than others, depending on your prefer
 ### 2\. **What is the best free celebrity voice generator?**
 
 There are many things to look for in the best **free celebrity voice generator**. First and foremost, an AI voice generator tool must allow you to create voices in multiple tones and languages. Also, it should be simple to use and offer several customization options, like adding subtitles, stickers, background effects, and more. Use Virbo to enjoy all these features and more.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. **Are AI-generated celebrity voices different from human impersonators?**
 
@@ -2273,16 +2285,21 @@ As for the best-in-class **free voiceover generator**, you can find the introduc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-essential-1-5-iphone-podcast-platforms-unveiled/"><u>[New] In 2024, Essential #1-#5 iPhone Podcast Platforms Unveiled</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/correcting-iphone-camera-focusing-errors-effectively/"><u>Correcting iPhone Camera Focusing Errors Effectively</u></a></li>
-<li><a href="https://blog-min.techidaily.com/create-animated-movie-from-gifs-for-free-on-movavicom/"><u>Create Animated Movie From GIFs for Free on Movavi.com</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-updates-hanging-endlessly-at-100/"><u>How to Fix Windows Updates Hanging Endlessly at 100%</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-troubleshooting-shorts-the-non-displaying-thumbnail/"><u>In 2024, Troubleshooting Shorts The Non-Displaying Thumbnail</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>New 2024 Approved Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-efficient-methods-to-use-the-recording-app-on-samsung-s10s9-phones-for-2024/"><u>New Efficient Methods to Use the Recording App on Samsung S10/S9 Phones for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-4-hatsune-miku-voice-ai-generators-for-all-times/"><u>New In 2024, Top 4 Hatsune Miku Voice AI Generators for All Times</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>Updated The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-full-reveal-on-camstudios-recording-capabilities/"><u>[New] 2024 Approved Full Reveal on CamStudio's Recording Capabilities</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-experience-classic-ps1-games-with-leading-emulators/"><u>[New] Experience Classic PS1 Games with Leading Emulators</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-kinemasters-guide-to-fluid-film-segments/"><u>[New] In 2024, Kinemaster's Guide to Fluid Film Segments</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-tv-explained-essential-knowledge-for-all-viewers/"><u>[New] In 2024, YouTube TV Explained Essential Knowledge for All Viewers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-lens-legends-library-your-query-guide/"><u>[Updated] In 2024, Lens Legends' Library Your Query Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-shopping-spree-chronicles-the-editors-blueprint-for-2024/"><u>[Updated] Shopping Spree Chronicles The Editor's Blueprint for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/6-best-voice-changers-for-2024/"><u>6 Best Voice Changers for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-4-morgan-freeman-voice-generator-tools-for-voice-cloning-for-2024/"><u>Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/facilitate-lexmark-drivers-latest-release/"><u>Facilitate Lexmark Drivers' Latest Release</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-screen-success-brand-endorsement-strategies/"><u>In 2024, Screen Success Brand Endorsement Strategies</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>In 2024, The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-5-quandale-dingle-voice-generators/"><u>New 2024 Approved Top 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-5-tiktok-voice-generators-you-should-try/"><u>Top 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-update-6-best-voice-changers-you-cant-miss/"><u>Updated In 2024, Update 6 Best Voice Changers You Cant Miss</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>Updated Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
 </ul></div>
 
