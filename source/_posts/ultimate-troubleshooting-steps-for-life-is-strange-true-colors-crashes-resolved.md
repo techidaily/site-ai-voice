@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Troubleshooting Steps for Life Is Strange: True Colors Crashes Resolved"
-date: 2024-10-04T20:17:42.250Z
-updated: 2024-10-08T19:52:51.243Z
+date: 2024-10-08T18:50:36.661Z
+updated: 2024-10-15T00:48:42.420Z
 tags:
   - win11
   - win10
@@ -60,34 +60,27 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
@@ -111,31 +104,18 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -147,8 +127,22 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -173,22 +167,24 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-youtube-to-high-definition-prime-downloader-choices/"><u>[New] From YouTube to High Definition Prime Downloader Choices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-detecting-my-follower-flight-on-insta/"><u>[New] In 2024, Detecting My Follower Flight on Insta</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-screen-capturing-on-iphoneipad-updated-strategies-for-2024/"><u>[Updated] Screen Capturing on iPhone/iPad Updated Strategies for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-capture-one-advanced-techniques/"><u>2024 Approved Capture One Advanced Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-fast-techniques-to-recover-deleted-reddit-posts/"><u>2024 Approved Fast Techniques to Recover Deleted Reddit Posts</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>In 2024, Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-real-time-ai-voice-changer-revolutionizing-communication/"><u>In 2024, Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-practices-to-personalize-snapchat-video-playback/"><u>In 2024, Top Practices to Personalize Snapchat Video Playback</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>New 2024 Approved Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-10-robotic-voice-generators/"><u>New 2024 Approved Top 10 Robotic Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning-for-2024/"><u>New Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-a-list-of-the-top-spongebob-voice-generators/"><u>New In 2024, A List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://win-blog.techidaily.com/smooth-gaming-experience-fixes-for-stuttering-issues-in-baldurs-gate/"><u>Smooth Gaming Experience: Fixes for Stuttering Issues in Baldur's Gate</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/understanding-and-resolving-microphone-voice-pickup-problems/"><u>Understanding and Resolving Microphone Voice Pickup Problems</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unshakable-imagery-techniques-for-2024/"><u>Unshakable Imagery Techniques for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-6-best-voice-changers/"><u>Updated 6 Best Voice Changers</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-6-mickey-mouse-voice-generators/"><u>Updated Top 6 Mickey Mouse Voice Generators</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-navigating-the-complex-world-of-video-text-implementation-vimeo/"><u>[New] 2024 Approved Navigating the Complex World of Video Text Implementation (Vimeo)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hdtv-revolution-comparing-the-leading-8k-tv-brands/"><u>[Updated] HDTV Revolution Comparing the Leading 8K TV Brands</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-art-of-optimization-boosting-your-youtube-video-rankings/"><u>[Updated] The Art of Optimization Boosting Your YouTube Video Rankings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mambos-in-the-mangroves/"><u>2024 Approved Mambos in the Mangroves</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-methods-to-take-screenshots-on-acer-tablets-and-laptops-comprehensive-guide/"><u>Easy Methods to Take Screenshots on Acer Tablets & Laptops - Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortlessly-convert-tiff-files-to-jpg-gratis-master-the-art-of-image-editing-with-movavis-tool/"><u>Effortlessly Convert TIFF Files to JPG Gratis - Master the Art of Image Editing with Movavi's Tool</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-hid-keyboard-driver-downloads-and-refreshes-at-a-glance/"><u>Hassle-Free HID Keyboard Driver Downloads and Refreshes at a Glance</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-best-hatsune-miku-ai-voice-generators-for-all-times/"><u>In 2024, Best Hatsune Miku AI Voice Generators for All Times</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v29-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V29 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-samsung-galaxy-z-flip-5-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Samsung Galaxy Z Flip 5 Data? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-top-picks-for-zero-price-mp3-fusion-technology/"><u>In 2024, Top Picks for Zero-Price MP3 Fusion Technology</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New 2024 Approved Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-celebrity-voice-generator-tools-you-cannot-miss-for-2024/"><u>New Best Celebrity Voice Generator Tools You Cannot Miss for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>New In 2024, Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-hatsune-miku-ai-voice-generators-for-all-times/"><u>New In 2024, Best Hatsune Miku AI Voice Generators for All Times</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New In 2024, Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>Updated 2024 Approved Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-guide-to-learning-all-the-details-about-voice-cloning/"><u>Updated 2024 Approved The Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-celebrity-voice-generator-tools-to-transform-your-voice-for-2024/"><u>Updated Best Celebrity Voice Generator Tools to Transform Your Voice for 2024</u></a></li>
 </ul></div>
 

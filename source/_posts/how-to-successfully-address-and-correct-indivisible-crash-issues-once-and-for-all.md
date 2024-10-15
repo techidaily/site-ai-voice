@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Address and Correct 'Indivisible' Crash Issues Once and For All
-date: 2024-10-05T17:15:38.555Z
-updated: 2024-10-08T18:00:01.488Z
+date: 2024-10-12T01:09:39.573Z
+updated: 2024-10-14T23:57:59.909Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 
 If that doesn’t work for you, try the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -38,19 +45,6 @@ If that doesn’t work for you, try the fixes below.
 3. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Store troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Run a full scan of your PC](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Allow Minecraft installer through firewall
 
@@ -63,26 +57,26 @@ If that doesn’t work for you, try the fixes below.
 3. Click**Firewall & network protection** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/firewall-and-network-protection.png)
 4. Scroll down and find**Allow an app through firewall** . Then click it.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/allow-an-app-through-firewall.png)
 5. Make sure Minecraft is on the list and the**Private** and**Public** options are checked. If it’s not on the list, that means Minecraft doesn’t have access and you’ll need to click on the**Change settings** button. Then follow the on-screen instructions to add the Minecraft executable file to the list.
 
  After applying the changes, try installing Minecraft and check if it’s working properly. If your problem persists, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Download & install all Windows updates
 
@@ -97,21 +91,7 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates.png)
 4. Click **Restart now**  to restart your PC or you can **Schedule the restart** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then try to double-click on the downloaded package and see if you can install Minecraft now. If you’ve still having the issue, try the next fix below.
 
@@ -127,6 +107,13 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-all-de.jpg)
@@ -134,6 +121,13 @@ If that doesn’t work for you, try the fixes below.
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer. Upon the reboot, try to install Minecraft to see if you can do it successfully. If it fails, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run Windows Store troubleshooter
 
@@ -145,19 +139,19 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/troubleshoot-windows-11.png)
 3. Click**Other troubleshooters** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/other-troubleshooter.png)
 4. Click on the**Run** button next to**Windows Store Apps** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-apps-run-troubleshooter.png)
 
  Then wait for it to detect and troubleshoot your issues. If it fails to identify them, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Run a full scan of your PC
 
@@ -194,20 +188,20 @@ If that doesn’t work for you, try the fixes below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-explore-the-best-apps-for-effortless-youtube-to-webm-conversion/"><u>[New] In 2024, Explore the Best Apps for Effortless YouTube to WebM Conversion</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-peek-into-pixel-play-resolution-basics-explained/"><u>[Updated] Peek Into Pixel Play Resolution Basics Explained</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-5-ai-voice-generators-online-supports-all-browsers/"><u>2024 Approved Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-top-6-free-talking-stock-photo-sites/"><u>2024 Approved Top 6 Free Talking Stock Photo Sites</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-gaps-of-lost-connectivity-in-windows/"><u>Bridging Gaps of Lost Connectivity in Windows</u></a></li>
-<li><a href="https://facebook.techidaily.com/dissecting-facebooks-whitelisting-strategy/"><u>Dissecting Facebook's Whitelisting Strategy</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-best-celebrity-voice-generator-tools-you-cannot-miss/"><u>In 2024, Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/tment-insights-15-must-see-youtube-channels-for-2024/"><u>Investment Insights 15 Must-See YouTube Channels for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-5-ai-voice-generators-online-supports-all-browsers/"><u>New Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>New The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
-<li><a href="https://win-dash.techidaily.com/simple-steps-find-and-install-dell-laptop-model-d3100-latest-driver/"><u>Simple Steps: Find and Install DELL Laptop Model D3100 Latest Driver</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nsiders-manual-posting-youtube-videos-on-yourfb-page-for-2024/"><u>The Insider's Manual Posting YouTube Videos on YourFB Page for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-5-quandale-dingle-voice-generators-for-2024/"><u>Top 5 Quandale Dingle Voice Generators for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-honor-x9b-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Honor X9b without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-an-ultimate-guide-of-best-narrator-voice-generators/"><u>Updated In 2024, An Ultimate Guide of Best Narrator Voice Generators</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-focusing-the-lens-detailed-film-techniques/"><u>[New] Focusing the Lens Detailed Film Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-mac-tools-for-screen-capture-discovering-the-top-5/"><u>[New] In 2024, Essential Mac Tools for Screen Capture, Discovering the Top 5</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-perfect-gifs-essential-virtual-meet-scenes/"><u>[Updated] In 2024, Perfect GIFs Essential Virtual Meet Scenes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-top-value-360-cameras-delivering-cost-effective-coverage/"><u>2024 Approved Top Value 360° Cameras Delivering Cost-Effective Coverage</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-10-free-and-best-text-to-speech-generators/"><u>Best 10 Free and Best Text-to-Speech Generators</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-recover-wininetdll-and-overcome-file-not-present-mishaps/"><u>How to Recover Wininet.dll and Overcome File Not Present Mishaps</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New 2024 Approved Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-5-tiktok-voice-generators-you-should-try/"><u>New 2024 Approved Top 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protecting-privacy-understanding-how-neural-network-inversion-can-expose-chatbots/"><u>Protecting Privacy: Understanding How Neural Network Inversion Can Expose Chatbots</u></a></li>
+<li><a href="https://blog-min.techidaily.com/real-time-streaming-discover-the-power-of-manycam-professional-live-video-editing-and-virtual-camera-solutions/"><u>Real-Time Streaming: Discover the Power of ManyCam - Professional Live Video Editing and Virtual Camera Solutions</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/update-6-best-voice-changers-you-cant-miss-for-2024/"><u>Update 6 Best Voice Changers You Cant Miss for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated 2024 Approved Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Updated Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-5-quandale-dingle-voice-generators/"><u>Updated Best 5 Quandale Dingle Voice Generators</u></a></li>
 </ul></div>
 
