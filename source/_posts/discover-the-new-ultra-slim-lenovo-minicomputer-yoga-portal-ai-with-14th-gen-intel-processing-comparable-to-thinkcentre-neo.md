@@ -1,7 +1,7 @@
 ---
 title: "Discover the New Ultra-Slim Lenovo Minicomputer: Yoga Portal AI with 14Th Gen Intel Processing, Comparable to ThinkCentre Neo"
-date: 2024-10-09T23:03:09.092Z
-updated: 2024-10-14T16:07:28.835Z
+date: 2024-10-18T17:22:45.431Z
+updated: 2024-10-20T16:18:34.037Z
 tags:
   - desktop
 categories:
@@ -37,16 +37,10 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -72,18 +66,24 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-boost-your-content-reach-the-expert-guide-to-youtubes-featured-channels/"><u>[New] 2024 Approved Boost Your Content Reach The Expert Guide to Youtube's Featured Channels</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-enhance-your-music-library-top-6-free-ios-apps-for-audio-conversion-for-2024/"><u>[Updated] Enhance Your Music Library Top 6 Free iOS Apps for Audio Conversion for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-navigating-text-customization-for-video-content-with-windows-photos/"><u>[Updated] In 2024, Navigating Text Customization for Video Content with Windows Photos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-top-techniques-for-broadcasting-fb-live-on-cable-for-2024/"><u>[Updated] Top Techniques for Broadcasting FB Live on Cable for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-first-steps-in-youtube-profitability-starting-a-channel-and-revenue-streams/"><u>2024 Approved First Steps in YouTube Profitability Starting a Channel & Revenue Streams</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-motorola-moto-g-5g-2023-easily-by-drfone-android/"><u>In 2024, How To Unlock a Motorola Moto G 5G (2023) Easily?</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-10-free-and-best-text-to-speech-generators/"><u>In 2024, Top 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/motorolas-answer-to-the-iphone-a-comprehensive-review-of-a-cost-effective-counterpart/"><u>Motorola's Answer to the iPhone: A Comprehensive Review of a Cost-Effective Counterpart</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-the-guide-to-learning-all-the-details-about-voice-cloning/"><u>New The Guide to Learning All the Details About Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/the-guide-to-learning-all-the-details-about-voice-cloning-for-2024/"><u>The Guide to Learning All the Details About Voice Cloning for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-6-best-voice-changers/"><u>Updated 2024 Approved 6 Best Voice Changers</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-10-robotic-voice-generators/"><u>Updated In 2024, Top 10 Robotic Voice Generators</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-cost-assessment-for-producing-track-driven-videos-for-2024/"><u>[New] Cost Assessment for Producing Track-Driven Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-projecting-facebook-videos-onto-your-home-entertainment-system/"><u>[New] In 2024, Projecting Facebook Videos Onto Your Home Entertainment System</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-a-compre-folio-for-understanding-du-recorders-features-for-2024/"><u>[Updated] A Compre Folio for Understanding Du Recorder's Features for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-level-behavior-tips-for-youtube-users/"><u>[Updated] In 2024, High-Level Behavior Tips for YouTube Users</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-5-ai-voice-generators-online-supports-all-browsers/"><u>2024 Approved Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/data-delivery-drive-top-tactics-to-computerize-files-for-2024/"><u>Data Delivery Drive Top Tactics to Computerize Files for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-repair-stop-error-0x000003d-a-comprehensive-troubleshooting-guide/"><u>How to Repair STOP Error 0X00000^3D: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-realme-11-proplus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Realme 11 Pro+ to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>In 2024, Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>In 2024, Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-live-screen-record-on-chrome-pcs/"><u>In 2024, Live Screen Record on Chrome PCs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-10-robotic-voice-generators-with-comparison-table/"><u>New 2024 Approved Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>New In 2024, Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New In 2024, Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://program-issues.techidaily.com/obs-no-longer-freezing-on-recording-heres-how-you-fixed-it/"><u>OBS No Longer Freezing on Recording? Here’s How You Fixed It!</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/revolutionizing-communication-real-time-ai-voice-changer/"><u>Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-a-list-of-the-top-spongebob-voice-generators-for-2024/"><u>Updated A List of The Top SpongeBob Voice Generators for 2024</u></a></li>
 </ul></div>
 

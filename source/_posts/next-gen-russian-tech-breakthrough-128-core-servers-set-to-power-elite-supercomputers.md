@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Russian Tech Breakthrough: 128-Core Servers Set to Power Elite Supercomputers"
-date: 2024-10-12T23:42:46.010Z
-updated: 2024-10-14T18:18:39.091Z
+date: 2024-10-13T17:19:56.255Z
+updated: 2024-10-20T16:04:05.878Z
 tags:
   - desktop
 categories:
@@ -37,10 +37,10 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,24 +66,20 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-5-tiktok-voice-generators-you-should-try/"><u>2024 Approved Best 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-dive-deep-into-durability-gopro-hero5-vs-hero5-session/"><u>2024 Approved Dive Deep Into Durability GoPro Hero5 vs Hero5 Session</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>2024 Approved The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-vimeo-vs-youtube-dissecting-the-streamers-choices/"><u>2024 Approved Vimeo vs YouTube Dissecting the Streamers' Choices</u></a></li>
-<li><a href="https://article-files.techidaily.com/5-highest-rated-vr-gear-for-uavs-for-2024/"><u>5 Highest-Rated VR Gear for UAVs for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/download-over-8-unique-ios-design-templates-from-creative-tim-free-resources/"><u>Download Over 8 Unique iOS Design Templates From Creative Tim - Free Resources</u></a></li>
-<li><a href="https://facebook.techidaily.com/eliminate-online-echoes-erasing-discussion-footprints-from-your-posts/"><u>Eliminate Online Echoes: Erasing Discussion Footprints From Your Posts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-xs-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone XS Max? | Stellar</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-se-2020-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone SE (2020)? Complete Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-instagram-your-complete-guide-to-making-a-mark-with-reels/"><u>In 2024, Mastering Instagram Your Complete Guide to Making a Mark With Reels</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>In 2024, Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-features-of-llama-2-with-ease/"><u>Navigating the Features of Llama 2 with Ease</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-celebrity-voice-generator-tools-to-transform-your-voice/"><u>New 2024 Approved Best Celebrity Voice Generator Tools to Transform Your Voice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>New In 2024, Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime/"><u>New In 2024, Guide to Discovering the Voice Generators/Changers with the Most Anime</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-dolby-sound-problems-under-windows-11/"><u>Troubleshooting Dolby Sound Problems Under Windows 11</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>Updated 2024 Approved Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-6-darth-vader-ai-generators-for-all-platforms-for-2024/"><u>Updated Top 6 Darth Vader AI Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-exclusive-list-of-best-video-chat-apps-for-iphone-and-android/"><u>[New] Exclusive List of Best Video Chat Apps for iPhone and Android</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-can-you-create-animated-facebook-ads-with-high-roi/"><u>[Updated] How Can You Create Animated Facebook Ads With High ROI?</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/authors-recommended-the-best-text-voice-generators-for-all-platforms-for-2024/"><u>Authors Recommended The Best Text Voice Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-lenovo-thinkpad-x1-nano-evaluation-your-go-to-slim-and-powerful-notebook/"><u>Comprehensive Lenovo ThinkPad X1 Nano Evaluation - Your Go-To Slim and Powerful Notebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-ultimate-list-of-12-free-mac-music-downloaders-ranked/"><u>Discover the Ultimate List of 12 Free Mac Music Downloaders Ranked!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-asus-vivobook-n-novel-review-miniaturized-power-in-an-affordable-package/"><u>Evaluating the Asus Vivobook N Novel Review: Miniaturized Power in an Affordable Package</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-revolutionizing-communication-real-time-ai-voice-changer/"><u>In 2024, Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-samsungs-affordable-oled-tv-the-budget-friendly-alternative-to-the-s95d-at-900-cheaper-insights-from-zdnet/"><u>Introducing Samsung's Affordable OLED TV: The Budget-Friendly Alternative to the S95D at $900 Cheaper - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-openais-grip-on-chatgpt-waning/"><u>Is OpenAI's Grip on ChatGPT Waning?</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-6-best-voice-changers/"><u>New In 2024, 6 Best Voice Changers</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-celebrity-voice-generator-tools-you-cannot-miss/"><u>New In 2024, Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-10-robotic-voice-generators/"><u>New Top 10 Robotic Voice Generators</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/personalizzazione-avanzata-per-la-posta-elettronica-con-microsoft-outlook-su-windows-11-tutorial-esaustivo/"><u>Personalizzazione Avanzata per La Posta Elettronica Con Microsoft Outlook Su Windows 11: Tutorial Esaustivo</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-audio-equipment-for-crystal-clear-4k-video-capture/"><u>Top Audio Equipment for Crystal Clear 4K Video Capture</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-hatsune-miku-ai-voice-generators-for-all-times/"><u>Updated Best Hatsune Miku AI Voice Generators for All Times</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Best 5 AI Voice Generators Online (Supports All Browsers)
-date: 2024-10-02T20:35:53.266Z
-updated: 2024-10-08T19:52:00.051Z
+date: 2024-10-16T16:35:32.743Z
+updated: 2024-10-20T17:37:31.645Z
 tags: 
   - ai voice
 categories: 
@@ -48,6 +48,13 @@ Furthermore, the cost-effectiveness of voice generators is also a major factor. 
 ## Part 2: 5 Most Reliable AI Voice Generator Online Tools
 
 Have you ever tried an AI voice generator for creating professional video content? In this part of the article, we will discuss the top **5 online AI** **voice generators** which can produce quality results.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Synthesia
 
@@ -177,6 +184,13 @@ Are you feeling confused about the selection of AI voice generators? In this sec
 ### 1\. Customizing Options
 
 Customizability gives you an edge to generate an AI voice of your choice. A customizable AI voice generator provides different options that you can modify. For example, it can offer options to specify volume, pitch, rate, and pauses in the AI voice. By doing so, you can produce the desired AI voice by adjusting the settings according to your needs.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Multiple AI Voices and Languages
 
@@ -334,13 +348,6 @@ The interface of the **VOCALOID voice changer** is appreciative and straightforw
 
 ![vocaloid6-voice-generator-1.jpg](https://images.wondershare.com/virbo/features/marketing/vocaloid6-voice-generator-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Compatibility of VOCALOID6
 
 **VOCALOID voice generator free** is a tool that always places the needs of users before anything else. For this reason, it supports compatibility with major operating systems. The below-given table will help you understand the compatibility of VOCALOID 6:
@@ -472,13 +479,6 @@ One of the best things about the VOCALOID voice generator is it has over 11 audi
 
 VOCALOID synthesizer includes 4 voicebanks which give flexibility for music creation. There is the latest synthesis engine in it which lets you create realistic music with a natural tone. You can customize several audio metrics and join multiple sounds together.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. ARA 2 and SMF EXPORTING
 
 There is a specialized integration in VOCALOID6, which is known as ARA2\. It can also work as a replacement for rewiring. ARA2 is compatible with DAWs which is very convenient. Through SMF EXPORTING, you can export your MIDI files from VOCALOID6.
@@ -579,6 +579,13 @@ Now that we know the uses of AI voice cloning let’s list some of the best voic
 
 ####
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. FineShare Online Voice Cloner
 
 ![fineshare real time ai voice changer](https://images.wondershare.com/virbo/article/real-time-ai-voice-changer-1.jpg)
@@ -650,6 +657,13 @@ Using AI real time voice changer could even be more fun with [Wondershare Virbo]
 
 ![export the ai voice on virbo](https://images.wondershare.com/virbo/article/real-time-ai-voice-changer-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Final Words**
 
 We hope that you enjoyed reading this post. You can harness endless possibilities with a **real-time AI voice changer**, as we have discussed here. Most of these apps are available to use for free. Remember to try out **Wondershare Virbo**’s brand-new Talking Photo feature. Have fun!
@@ -663,6 +677,13 @@ A **real time voice changer AI** is a program that has been extensively trained 
 Usually, AI voice changers use machine learning algorithms to transform live voices recorded using your microphone easily. However, sometimes, you may need to enter a text data prompt using speech-to-text AI voice cloning services. Whichever model you choose, the speech training model can take a few minutes or hours to clone your voice.
 
 But AI voice cloners don’t work independently. Instead, these tools allow you to make post-processing adjustments to make your AI voice sound how you want it. For example, you can make sound adjustments like pitch, tone, emotion, etc. Overall, the AI voice cloning process is pretty complex, although the process on your side may take just a few clicks.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 2\. Popular applications of real-time AI voice changers**
 
@@ -706,6 +727,13 @@ Cons:
 ### 2\. Metavoice Studio
 
 ![metavoice real time ai voice changer](https://images.wondershare.com/virbo/article/real-time-ai-voice-changer-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 MetaVoice Studio is another excellent online voice app to help you create engaging, unique, and high-quality AI voices. This tool can integrate into your connected microphone to transform your voice in real time without sacrificing human emotions. It can change your identity on 800+ platforms, including DAW, Zoom, Google Meet, Discord, and more.
 
@@ -778,13 +806,6 @@ Using a narrator voice generator helps you save time. With a few clicks of a but
 ### **2\. Cost-Effectiveness**
 
 When compared to voice actors, using a narrator voice generator may significantly decrease costs. Professional voice actors deliver customized narration of the highest caliber, but their services can be expensive, especially for projects requiring a lot of audio. While a narrator voice generator automates the translating of text process into voiceover, it provides a more affordable alternative.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **3\. Multilingual Support**
 
@@ -1017,6 +1038,13 @@ Go to [Voicebooking](https://www.voicebooking.com/en/free-voice-over-generator) 
 
 ![register-yourself-to-the-software](https://images.wondershare.com/virbo/features/ai-voice/register-yourself-to-the-software.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **Step 2: Give a name to your project**
 
 Give your project a name to get started. Select the language you want to use and the voice that best matches the tone and style of your project. Then time to enter your script into the text area.
@@ -1028,13 +1056,6 @@ Give your project a name to get started. Select the language you want to use and
 Make the voice unique. Test the narration's pitch and speed, and make any necessary adjustments. Make sure the voice is the ideal fit for your project.
 
 ![verify-the-pitch-and-speed](https://images.wondershare.com/virbo/features/ai-voice/verify-the-pitch-and-speed.bmp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **Step 4: Add emphasis to your narration**
 
@@ -1108,13 +1129,6 @@ What can talking photos be used for? Talking photos can be used for fun as well 
 * Your social media shares can become that much more interesting and engaging.
 * Presentations and financial charts and graphs could be made easier to understand.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Where Can You Download Talking Stock Photos For Free?
 
 “Okay, I’m sold on talking photos! Where can I get them?”
@@ -1141,13 +1155,6 @@ If Getty’s 7,935,000 talking photos didn’t fit the bill, maybe Shutterstock 
 
 ![unsplash talking photos](https://images.wondershare.com/virbo/article/2024/04/talking-stock-photo-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Unsplash has been making a splash since 2013 with high-quality stock imagery for everyone. So much so, that in 2021, it was acquired by Getty Images. Unsplash users will not have a lot to work with in terms of talking photos, though. The repository seems to be somewhat small at the moment at over 1700 talking photos only.
 
 #### 2.4: Pexels
@@ -1159,6 +1166,13 @@ Pexels was founded in Germany just about a decade ago in 2014 and has since grow
 #### 2.5: Pixabay
 
 ![pixabay talking photos](https://images.wondershare.com/virbo/article/2024/04/talking-stock-photo-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Pixabay is another German startup that has been serving the internet community since 2010\. Pixabay houses over 4.4 million photos and stock imagery, out of which over 3000 are talking photos. Not a great database, admittedly, but still worth a look if you are not satisfied with the others! Pixabay, like Pexels in 2018, was acquired by Canva in 2019.
 
@@ -1236,13 +1250,6 @@ You can view it there and download to your disk by clicking Download Video.
 
 [Generate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Closing Words
 
 Talking photos are the next frontier in digital communication and expression. Harnessing the power of generative artificial intelligence, talking photos present never-before opportunities to not only engage people but engage with people. The education sector can use talking photos to make comprehension easier for children by making interactive, expressive talking photos that can explain complex concepts in a fun new way while corporates and businesses can use the power of talking photos to better engage with their audiences in a new way that captures and retains their interest. Inter-personally, talking photos can be used to have fun with friends and family in a completely new way! No more drab images, talking photos are the fun new way to express!
@@ -1278,19 +1285,6 @@ Filme iMyFone gives users the ability to make video-based memes with its 1000+ v
 One of the greatest online voice changer tools is the TopMediai application, which you should try. Users may easily use the text-to-speech feature or input their recording from the device into the web interface. Users may record their voices using the application's over 50 easily accessible effects and then apply the desired sound quality. There are built-in effects in TopMediai for producing a sound effect that resembles Quandale Dingle.
 
 Users often turn to TopMediai for their voice-changing needs. You may choose one and make a unique soundboard with it, then use it for internet streaming or other activities. Users just need to record a small speech clip and choose an effect for playback in order to utilize this program. You may alter your voice further with the built-in editor of TopMediai.
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. FakeYou
 
@@ -1437,22 +1431,19 @@ Quandale Dingle's likenesses as memes are often shared, and fans have tried to i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-analysis-of-best-no-fee-livestream-options-on-all-devices/"><u>2024 Approved In-Depth Analysis of Best No-Fee LiveStream Options on All Devices</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>2024 Approved Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/accelerando-la-codificacion-de-video-con-hevch265-tecnicas-para-una-mejora-en-velocidad/"><u>Accelerando La Codificación De Video Con HEVC/H.265 - Técnicas Para Una Mejora en Velocidad</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/cutting-edge-5k-displays-the-best-8-selections-for-you/"><u>Cutting-Edge 5K Displays The Best 8 Selections for You</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-itel-p40-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Itel P40</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-nokia-g310-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Nokia G310</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-oneplus-12r-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass OnePlus 12R FRP In 3 Different Ways</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-harnessing-imovies-capabilities-for-youtube-video-perfection/"><u>In 2024, Harnessing iMovie's Capabilities for YouTube Video Perfection</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Honor Magic 5? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>New 2024 Approved Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-5-quandale-dingle-voice-generators/"><u>New Best 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>New In 2024, Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-ai-rap-voice-generators-you-should-try/"><u>New In 2024, Best AI Rap Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>New In 2024, The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/simple-routines-for-documenting-digital-dialogues-on-os-xpc/"><u>Simple Routines for Documenting Digital Dialogues on OS X/PC</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-best-text-voice-generators-for-all-platforms/"><u>Updated 2024 Approved The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-10-robotic-voice-generators/"><u>Updated Top 10 Robotic Voice Generators</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-digital-dialogue-diaries-the-full-year-tweets-summary/"><u>[New] 2024 Approved Digital Dialogue Diaries The Full-Year Tweets Summary</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-bi-panel-screen-transcription-for-2024/"><u>[New] Bi-Panel Screen Transcription for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-thankful-innovations-premium-and-budget-outro-themes/"><u>[New] Thankful Innovations Premium & Budget Outro Themes</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>2024 Approved Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/guide-to-discovering-the-voice-generatorschangers-with-the-most-anime-for-2024/"><u>Guide to Discovering the Voice Generators/Changers with the Most Anime for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-tecno-camon-30-pro-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Tecno Camon 30 Pro 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-non-functional-speakerheadphone-connections-in-windows/"><u>Tackling Non-Functional Speaker/Headphone Connections in WINDOWS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-xiaomi-redmi-note-12t-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Xiaomi Redmi Note 12T Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-2024-scanners-polices-choice-revealed/"><u>Top 2024 Scanners: Police's Choice Revealed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-itel-s23plus-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Itel S23+ to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>Updated 2024 Approved The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>Updated In 2024, Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
 </ul></div>
 
