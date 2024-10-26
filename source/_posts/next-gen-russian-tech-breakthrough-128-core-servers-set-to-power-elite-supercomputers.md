@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Russian Tech Breakthrough: 128-Core Servers Set to Power Elite Supercomputers"
-date: 2024-10-13T17:19:56.255Z
-updated: 2024-10-20T16:04:05.878Z
+date: 2024-10-24T03:17:17.756Z
+updated: 2024-10-26T04:59:45.486Z
 tags:
   - desktop
 categories:
@@ -37,10 +37,10 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,20 +66,20 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-exclusive-list-of-best-video-chat-apps-for-iphone-and-android/"><u>[New] Exclusive List of Best Video Chat Apps for iPhone and Android</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-how-can-you-create-animated-facebook-ads-with-high-roi/"><u>[Updated] How Can You Create Animated Facebook Ads With High ROI?</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/authors-recommended-the-best-text-voice-generators-for-all-platforms-for-2024/"><u>Authors Recommended The Best Text Voice Generators for All Platforms for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-lenovo-thinkpad-x1-nano-evaluation-your-go-to-slim-and-powerful-notebook/"><u>Comprehensive Lenovo ThinkPad X1 Nano Evaluation - Your Go-To Slim and Powerful Notebook</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-the-ultimate-list-of-12-free-mac-music-downloaders-ranked/"><u>Discover the Ultimate List of 12 Free Mac Music Downloaders Ranked!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-the-asus-vivobook-n-novel-review-miniaturized-power-in-an-affordable-package/"><u>Evaluating the Asus Vivobook N Novel Review: Miniaturized Power in an Affordable Package</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-revolutionizing-communication-real-time-ai-voice-changer/"><u>In 2024, Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-samsungs-affordable-oled-tv-the-budget-friendly-alternative-to-the-s95d-at-900-cheaper-insights-from-zdnet/"><u>Introducing Samsung's Affordable OLED TV: The Budget-Friendly Alternative to the S95D at $900 Cheaper - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-openais-grip-on-chatgpt-waning/"><u>Is OpenAI's Grip on ChatGPT Waning?</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-6-best-voice-changers/"><u>New In 2024, 6 Best Voice Changers</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-celebrity-voice-generator-tools-you-cannot-miss/"><u>New In 2024, Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-10-robotic-voice-generators/"><u>New Top 10 Robotic Voice Generators</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/personalizzazione-avanzata-per-la-posta-elettronica-con-microsoft-outlook-su-windows-11-tutorial-esaustivo/"><u>Personalizzazione Avanzata per La Posta Elettronica Con Microsoft Outlook Su Windows 11: Tutorial Esaustivo</u></a></li>
-<li><a href="https://article-posts.techidaily.com/top-audio-equipment-for-crystal-clear-4k-video-capture/"><u>Top Audio Equipment for Crystal Clear 4K Video Capture</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-hatsune-miku-ai-voice-generators-for-all-times/"><u>Updated Best Hatsune Miku AI Voice Generators for All Times</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-essential-iphoneandroid-apps-for-aspiring-creators-for-2024/"><u>[Updated] Essential iPhone/Android Apps for Aspiring Creators for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-funimate-for-android-gamers-unlocking-the-apk-secret/"><u>[Updated] Funimate for Android Gamers - Unlocking the APK Secret</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/a-comprehensive-list-of-the-top-spongebob-voice-generators-for-2024/"><u>A Comprehensive List of The Top SpongeBob Voice Generators for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enabling-and-customizing-auto-calculate-and-parallel-processing/"><u>Enabling & Customizing Auto-Calculate & Parallel Processing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-cutting-edge-recording-win-11s-superior-camcorders/"><u>In 2024, Cutting-Edge Recording Win 11'S Superior Camcorders</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maintaining-data-integrity-while-switching-to-earlier-android-app-versions-the-ultimate-how-to-guide/"><u>Maintaining Data Integrity While Switching to Earlier Android App Versions: The Ultimate How-To Guide</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New 2024 Approved Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>New In 2024, A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New In 2024, Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>New Top 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/premium-glion-dolly-e-scooter-an-in-depth-cost-and-performance-analysis/"><u>Premium Glion Dolly E-Scooter: An In-Depth Cost & Performance Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/snag-essential-tech-upgrades-with-unmatched-deals-this-amazon-prime-event/"><u>Snag Essential Tech Upgrades with Unmatched Deals This Amazon Prime Event</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-ai-rap-voice-generators-you-should-try/"><u>Updated 2024 Approved Best AI Rap Voice Generators You Should Try</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-transform-your-video-footage-shape-size-and-more/"><u>Updated In 2024, Transform Your Video Footage Shape, Size, and More</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-the-best-text-voice-generators-for-all-platforms-for-2024/"><u>Updated The Best Text Voice Generators for All Platforms for 2024</u></a></li>
 </ul></div>
 
