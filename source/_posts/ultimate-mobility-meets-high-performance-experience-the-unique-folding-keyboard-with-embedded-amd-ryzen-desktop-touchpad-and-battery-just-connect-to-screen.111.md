@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Mobility Meets High Performance: Experience the Unique Folding Keyboard with Embedded AMD Ryzen Desktop, Touchpad & Battery - Just Connect to Screen"
-date: 2024-10-23T12:07:37.386Z
-updated: 2024-10-25T16:41:36.772Z
+date: 2024-10-26T17:13:37.290Z
+updated: 2024-11-01T03:51:07.626Z
 tags:
   - desktop
 categories:
@@ -27,15 +27,22 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  Also note that we don't include the cost of an operating system, because you can get[Windows for Free or Cheap](https://www.tomshardware.com/reviews/get-windows-10-free-or-cheap,5717.html) . Nor do we include the price of peripherals such as the[best gaming monitors](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.html) ,[best gaming keyboards](https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards) or[best gaming mouse](https://www.tomshardware.com/best-picks/best-gaming-mouse) . And if you've never made a computer before, see our article on[how to build a PC](https://www.tomshardware.com/how-to/build-a-pc) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best $500 PC Build for Gaming
 
 ![Cooler Master MasterBox Q300L](https://cdn.mos.cms.futurecdn.net/Zoebn2FkWQprjxmm7jKxZS-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Image credit: Newegg)
@@ -117,10 +124,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Crucial P5 Plus Tests](https://cdn.mos.cms.futurecdn.net/dVtKieHEMPgzXkpEJa7jcm-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -158,10 +165,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![CPU 1080p performance for Ryzen 7 5700X3D](https://cdn.mos.cms.futurecdn.net/FubLpBjdNUCy6aXRouBReZ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Image credit: Newegg)
@@ -176,13 +183,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![3DMark Storage for WD SN580](https://cdn.mos.cms.futurecdn.net/YduTXHRsvK8iHR2sEsSWHH-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  We're going with the[Phanteks XT Pro](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-3971734713525887260%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fblack-phanteks-xt-mid-tower%252Fp%252F11-854-132) as our case, because it has a quality, mesh design, room for up to a 360mm AIO up top and the ability to support back-connecting motherboards, should you get one in the future. For $20, you can get the[Phanteks XT Pro Ultra](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2132366878660750340%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fblack-phanteks-xt-mid-tower%252Fp%252FN82E16811854133) , which comes with four ARGB fans.
@@ -192,6 +192,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ## Best $1,500 PC Build for Gaming
 
 ![Lian Li Lancool 216](https://cdn.mos.cms.futurecdn.net/Km4g6hf6hy2XkxhB88oxBR-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -217,6 +224,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![RTX 4070 Spider-Man: Miles Morales Ray Tracing results](https://cdn.mos.cms.futurecdn.net/XgVebfNva528szwrGpaooB-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We're also upgrading the CPU to[Intel's Core i5-14600KF](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) , an overclockable processor that has 6 performance cores, 8 efficiency cores, 20 threads and a boost clock of 5.3 GHz. That's before you attempt to overclock it.
@@ -229,25 +243,11 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![WD SN850X](https://cdn.mos.cms.futurecdn.net/Zgbo67f5diWaNQg29SQ3nQ-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  Our case for this build is the $99[Lian Li Lancool 216](https://www.tomshardware.com/reviews/lian-li-lancool-216-review) . When we reviewed the Lancool 216, we praised its included dual RGB 160mm front and single 140mm exhaust fans, excellent cable management and attractive looks. There's also plenty of room for a top-mounted radiator that's up to 360mm.
 
  Our power supply is a 750-watt Corsair CX750M. This 80 Plus Gold certified PSU packs enough power to support our GPU with plenty of juice to spare. However, it's not fully modular, with some of the wires being built-in.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best $2000 PC Build for Gaming
 
@@ -275,6 +275,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![RTX 4070 Ti Super Charts](https://cdn.mos.cms.futurecdn.net/xLHYFZLdk36D2Rmd2iLYFa-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The AMD Ryzen 7 7800X3D offers a superior experience thanks to its 104MB of 3D cache, along with its 8 cores, 16 threads and 5-GHz boost clock. Yes, AMD makes the Ryzen 9 7950X3D which is even faster overall, but it costs a lot more money and either ties or comes in behind the 7800X3D on many gaming tests.
@@ -282,13 +289,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
  On our suite of[Windows 11](https://www.tomshardware.com/tag/windows-11) tests, running at 1080p with an RTX 4090 card, the 7800X3D averaged 224 fps, putting it slightly ahead of the Ryzen 9 7950X3D (222 fps) and way ahead of Intel's top-ranked Core i9-13900K (200 fps).
 
 ![Ryzen 7 7800X3D 1080p gaming tests](https://cdn.mos.cms.futurecdn.net/c5TiEiPPHBkLtGTfkp3Tyh-320-80.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -342,6 +342,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Ryzen 7 7950X3D Charts](https://cdn.mos.cms.futurecdn.net/DiWoGh9Fc2ovFWFiYuJeuG-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We're using an Asus ROG Strix X670E-E motherboard, which comes with built-in Wi-Fi 6E, four M.2 slots for storage and 18+2 power stages. To cool the Ryzen 9 7950X3D, we're using a 360mm Lian-Li Galahad II Trinity 360mm AIO. When we[reviewed the Galahad II](https://www.tomshardware.com/reviews/lian-li-galahad-ii-performance-360) , we found that it had the absolute best performance of any all-in-one cooler we've ever tested.
@@ -357,13 +364,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
  We decided to go with a case that has a unique, premium look in the[Fractal Design North XL.](https://www.tomshardware.com/pc-components/pc-cases/fractal-design-north-xl-review) With its wood paneled front, this chassis looks more like a mid-century modern piece of furniture than a gaming PC, which is a nice subtle touch. However, it also has a tempered glass side panel which you can use to show off all of your RGB components (or you can buy it with a solid panel and no window). It also has fantastic thermal performance and plenty of room for more drives and fans. The XL model can accommodate up to an E-ATX motherboard, giving you plenty of room for future upgrades.
 
  With these high-end components, we don't want to skimp on the power supply, and having something that's fit for a future graphics card upgrade makes sense. We're going with a full 1000-watts of power and the Corsair HX1000\. This power supply is 80+ Platinum certified and fully modular.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Finding Discounts on the Best PC Components
 
@@ -384,24 +384,16 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/upercharge-youtube-traffic-with-key-hash-tags/"><u>[New] Supercharge YouTube Traffic with Key Hash Tags</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-quickstep-into-viral-audio-youtubes-short-musical-journey/"><u>[Updated] In 2024, The Quickstep Into Viral Audio YouTube's Short Musical Journey</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unleash-potential-in-online-collaboration-using-snap-photography-for-2024/"><u>[Updated] Unleash Potential in Online Collaboration Using Snap Photography for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>2024 Approved Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-5-tiktok-voice-generators-you-should-try/"><u>Best 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-realme-c33-2023-by-drfone-android/"><u>How to Bypass FRP from Realme C33 2023?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/icloud-photo-deletion-without-affecting-your-iphones-gallery-how-to/"><u>ICloud Photo Deletion Without Affecting Your iPhone's Gallery - How To</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Xiaomi Redmi Note 12 4G</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oneplus-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On OnePlus Device</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-next-gen-gloves-top-picks-to-immerse-in-vr-worlds/"><u>[New] Next-Gen Gloves Top Picks to Immerse in VR Worlds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-hand-tracker-potential-guide/"><u>[New] Unlock Hand Tracker Potential Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-viral-stardom-quick-simple-strategies-for-instagram-success/"><u>[Updated] 2024 Approved Mastering Viral Stardom Quick, Simple Strategies for Instagram Success</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-step-by-step-guide-to-multilingual-chatgpt-use/"><u>A Step-by-Step Guide to Multilingual ChatGPT Use</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-empower-everyday-narratives-free-extensions-and-mobile-magic/"><u>In 2024, Empower Everyday Narratives – Free Extensions & Mobile Magic</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>New 2024 Approved Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/new-best-5-quandale-dingle-voice-generators/"><u>New Best 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>New In 2024, Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-ai-rap-voice-generators-you-should-try/"><u>New In 2024, Best AI Rap Voice Generators You Should Try</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-s-best-free-audio-editors-for-m4a-files/"><u>New In 2024, S Best Free Audio Editors for M4A Files</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/new-in-2024-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>New In 2024, The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pop-culture-with-a-click-using-kinemaster/"><u>Pop Culture with a Click Using KineMaster</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-selection-your-guide-to-best-tv-streaming-choices-for-2024/"><u>Prime Selection Your Guide to Best TV Streaming Choices for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-resolution-quick-tips-for-a-stable-wwe-gameplay/"><u>Rapid Resolution: Quick Tips for a Stable WWE Gameplay</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-best-text-voice-generators-for-all-platforms/"><u>Updated 2024 Approved The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-10-robotic-voice-generators/"><u>Updated Top 10 Robotic Voice Generators</u></a></li>
 </ul></div>
 

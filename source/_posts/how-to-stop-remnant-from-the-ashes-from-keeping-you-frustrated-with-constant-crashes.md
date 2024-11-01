@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Remnant: From the Ashes From Keeping You Frustrated with Constant Crashes"
-date: 2024-10-21T23:27:43.472Z
-updated: 2024-10-25T20:59:41.596Z
+date: 2024-10-28T03:44:35.211Z
+updated: 2024-10-31T19:47:15.299Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2:**Disable your antivirus temporarily**
 
  The_Remnant_ crash is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -62,16 +69,10 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
@@ -124,13 +125,6 @@ If your problem persists, then move on to the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Verify the integrity of your game files
 
  This issue might happen when one or more outdated or corrupted game files are conflicting with the game. To fix it, follow the instructions below to validate your game files:
@@ -140,6 +134,13 @@ If your problem persists, then move on to the next fix below.
 **2)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Right-click**Remnant: From the Ashes** and select **Properties.**
 
@@ -162,10 +163,10 @@ If your problem persists, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-585.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Paste**%LOCALAPPDATA%\\Remnant\\Saved\\Config\\WindowsNoEditor** on the address bar, then press the**Enter key** on your keyboard.
@@ -177,10 +178,10 @@ If your problem persists, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-591.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Copy and paste the following text at the bottom.
@@ -212,19 +213,6 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-214.png)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-607.png)
@@ -240,10 +228,10 @@ If the game is still unplayable, read on and try the fix below.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 9: Reinstall_Remnant_ and/or Steam
@@ -260,6 +248,13 @@ If the game is still unplayable, read on and try the fix below.
 **2)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Right-click**Remnant: From the Ashes** and select **Uninstall.**
 
@@ -281,6 +276,13 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
@@ -297,13 +299,6 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
@@ -311,13 +306,6 @@ If the game is still unplayable, read on and try the fix below.
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **8)[](https://store.steampowered.com/about/) [Download](https://store.steampowered.com/about/) [](https://store.steampowered.com/about/)**  and install Steam.
 
@@ -354,24 +342,15 @@ If the game is still unplayable, read on and try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-swiftly-transferring-twitters-videography-onto-instagram-canvas/"><u>[New] 2024 Approved Swiftly Transferring Twitter's Videography Onto Instagram Canvas</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-for-social-media-savants-distinguishing-between-igtv-and-youtube/"><u>[New] In 2024, For Social Media Savants Distinguishing Between IGTV & YouTube</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>2024 Approved The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>2024 Approved Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoiding-common-pitfalls-when-leveraging-chatgpt-as-a-learner/"><u>Avoiding Common Pitfalls When Leveraging ChatGPT as a Learner</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/briskly-learn-tagalog-short-effective-daily-study-hours/"><u>Briskly Learn Tagalog: Short, Effective Daily Study Hours</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-pc-wont-exit-windows-10-properly/"><u>Effective Fixes for When Your PC Won't Exit Windows 10 Properly</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/excellent-ios-options-for-emulating-top-notch-psp-games-for-2024/"><u>Excellent iOS Options for Emulating Top-Notch PSP Games for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/guide-to-discovering-the-voice-generatorschangers-with-the-most-anime-for-2024/"><u>Guide to Discovering the Voice Generators/Changers with the Most Anime for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ideal-enhancements-to-boost-the-functionality-of-chatgpts-marketplace/"><u>Ideal Enhancements to Boost the Functionality of ChatGPT's Marketplace</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-15-plus-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone 15 Plus from iCloud</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-update-6-best-voice-changers-you-cant-miss/"><u>New 2024 Approved Update 6 Best Voice Changers You Cant Miss</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transforming-visual-narratives-with-creative-use-of-luts-in-pro-for-2024/"><u>Transforming Visual Narratives with Creative Use of LUTs in Pro for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unlock-earnings-the-guide-to-successful-vimeo-monetization-for-2024/"><u>Unlock Earnings The Guide to Successful Vimeo Monetization for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-guide-to-learning-all-the-details-about-voice-cloning/"><u>Updated 2024 Approved The Guide to Learning All the Details About Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>Updated 2024 Approved The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-celebrity-voice-generator-tools-to-transform-your-voice/"><u>Updated Best Celebrity Voice Generator Tools to Transform Your Voice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>Updated In 2024, Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-harnessing-power-in-pixels-top-10-instagram-video-ad-mastery-techniques-for-2024/"><u>[New] Harnessing Power in Pixels Top 10 Instagram Video Ad Mastery Techniques for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-premium-planet-friendly-recording-software-for-2024/"><u>[New] Premium, Planet-Friendly Recording Software for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-securing-your-stylized-content-insta-photo-watermarking-basics-for-2024/"><u>[New] Securing Your Stylized Content Insta Photo Watermarking Basics for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-conversion-of-quicktime-mov-videos-to-webm-for-the-web-discover-7-helpful-techniques/"><u>Effortless Conversion of QuickTime MOV Videos to WebM for the Web - Discover 7 Helpful Techniques</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-online-engagement-through-smart-cookiebot-strategies/"><u>Enhanced Online Engagement Through Smart Cookiebot Strategies</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>New In 2024, Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New In 2024, Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/revolutionizing-communication-real-time-ai-voice-changer/"><u>Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-modern-warfare-dev-error-6aster-solutions-for-playstation-xbox-and-pc-gamers/"><u>Troubleshooting Modern Warfare Dev Error 6Aster: Solutions for PlayStation, Xbox, & PC Gamers</u></a></li>
 </ul></div>
 

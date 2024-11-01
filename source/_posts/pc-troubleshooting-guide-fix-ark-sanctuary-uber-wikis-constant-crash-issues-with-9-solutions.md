@@ -1,7 +1,7 @@
 ---
 title: "PC Troubleshooting Guide: Fix ARK: Sanctuary Über Wiki's Constant Crash Issues with 9 Solutions"
-date: 2024-10-24T11:18:13.202Z
-updated: 2024-10-25T19:33:36.836Z
+date: 2024-10-30T02:48:46.522Z
+updated: 2024-10-31T23:58:18.806Z
 tags:
   - win11
   - win10
@@ -64,9 +64,23 @@ Century: Age of Ashes system requirements
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Century: Age of Ashes after the verifying process is complete. See if the game crashes again. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -87,28 +101,15 @@ Century: Age of Ashes system requirements
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -129,6 +130,19 @@ Century: Age of Ashes system requirements
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Nvidia GeForce Experience, Discord, etc.), make sure you’ve disabled the in-game overlay in those apps feature:
 
@@ -156,10 +170,10 @@ Century: Age of Ashes system requirements
 If this fix didn’t work, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Repair corrupted system files
@@ -185,17 +199,10 @@ If this fix didn’t work, try the next fix, below.
  Note: This is a paid service with a 60-day money-back guarantee, which means that you’ll need to buy the full version to start repairing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Perform a clean boot
@@ -213,21 +220,14 @@ If this fix didn’t work, try the next fix, below.
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -267,24 +267,15 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-audiblefromtwitvid-direct-audio-conversion/"><u>[Updated] 2024 Approved AudibleFromTwitVid Direct Audio Conversion</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-craft-captivating-facebook-coverage/"><u>2024 Approved Craft Captivating Facebook Coverage</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-insights-augmented-reality-and-virtual-wisdom/"><u>2024 Approved Innovative Insights Augmented Reality & Virtual Wisdom</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/closer-look-easy-methods-to-zoom-in-minecraft/"><u>Closer Look Easy Methods to Zoom in Minecraft</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-action-shooting-basics-buying-guide-for-new-film-enthusiasts/"><u>In 2024, Action Shooting Basics – Buying Guide for New Film Enthusiasts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-vloggers-guide-to-going-viral-with-hilarious-reactions-3-must-know-strategies/"><u>[Updated] In 2024, Vlogger’s Guide to Going Viral with Hilarious Reactions – 3 Must-Know Strategies</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-forward-to-reverse-mastering-video-reversal-in-final-cut-pro/"><u>2024 Approved From Forward to Reverse Mastering Video Reversal in Final Cut Pro</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-top-10-eye-catching-text-in-media/"><u>2024 Approved Top 10 Eye-Catching Text in Media</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-elgoog-website-evaluation-the-definitive-reflection/"><u>Comprehensive ElgooG Website Evaluation: The Definitive Reflection</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making/"><u>How to Create Engaging Visual Hooks A Guide to Video Thumbnail Making</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/in-2024-best-narrator-voice-generators/"><u>In 2024, Best Narrator Voice Generators</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/new-2024-approved-latest-top-darth-vader-voice-generators-for-all-platforms/"><u>New 2024 Approved Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>New 2024 Approved Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>New In 2024, Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>New In 2024, Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
-<li><a href="https://driver-download.techidaily.com/new-release-dolby-sound-enhancement-drivers-for-windows-11-10-and-81/"><u>New Release: Dolby Sound Enhancement Drivers for Windows 11, 10, and 8.1</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-like-a-pro-15-universal-fixes-for-quick-iphone-recovery-across-all-models/"><u>Troubleshoot Like a Pro: 15 Universal Fixes for Quick iPhone Recovery Across All Models</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-6-free-talking-stock-photo-sites/"><u>Updated 2024 Approved Top 6 Free Talking Stock Photo Sites</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-detailed-review-and-alternatives-of-vocaloid6-voice-generator-for-2024/"><u>Updated Detailed Review & Alternatives of VOCALOID6 Voice Generator for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-4-hatsune-miku-voice-ai-generators-for-all-times/"><u>Updated Top 4 Hatsune Miku Voice AI Generators for All Times</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-ai-rap-voice-generators-upgrade-your-rap-for-2024/"><u>Updated Top AI Rap Voice Generators Upgrade Your Rap for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winxvideo-ai-mastery-step-by-step-tutorial-and-ultimate-user-guide/"><u>Winxvideo AI Mastery: Step-by-Step Tutorial and Ultimate User Guide</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-10-robotic-voice-generators-with-comparison-table/"><u>New In 2024, Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-best-of-free-top-10-mp4-video-editing-software-for-2024/"><u>New The Best of Free Top 10 MP4 Video Editing Software for 2024</u></a></li>
 </ul></div>
 

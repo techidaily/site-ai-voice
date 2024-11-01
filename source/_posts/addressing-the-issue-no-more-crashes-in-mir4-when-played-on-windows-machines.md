@@ -1,7 +1,7 @@
 ---
 title: "Addressing the Issue: No More Crashes in Mir4 when Played on Windows Machines"
-date: 2024-10-21T04:48:03.316Z
-updated: 2024-10-25T18:25:40.778Z
+date: 2024-10-29T19:29:28.724Z
+updated: 2024-10-31T16:02:54.756Z
 tags:
   - win11
   - win10
@@ -41,23 +41,30 @@ thumbnail: https://thmb.techidaily.com/cd6606343976e20cf388b00d45efaf1c0dc2657ac
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it crashes again.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If the problem persists, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -81,6 +88,13 @@ If the problem persists, take a look at the next fix below.
 
  If the latest graphics driver doesn’t give you luck, go ahead and try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Make sure your system is up to date
 
  Besides drivers, it’s also important you keep Windows up to date. The latest system updates offer bug fixes and sometimes a performance boost, which might make a difference in fixing the crashing issue.
@@ -99,6 +113,13 @@ Here’s how you can check for updates manually:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the updates, restart your PC and check if New World crashes again.
@@ -113,21 +134,7 @@ If your system is already up to date, you can try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select**Visuals** . Then set**Object details** to**High** or lower.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can play and check if the crash stops.
 
@@ -141,34 +148,27 @@ Now you can play and check if the crash stops.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the **Performance**  section, click **Settings…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
@@ -177,10 +177,10 @@ Now you can play and check if the crash stops.
  If this trick doesn’t do the trick for you, take a look at the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Delete specific game files
@@ -216,24 +216,22 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-essential-writing-habits-for-successful-fb-campaigns-for-2024/"><u>[New] Essential Writing Habits for Successful FB Campaigns for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-framefusion-matrix-the-ultimate-montage-craft/"><u>[New] FrameFusion Matrix The Ultimate Montage Craft</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-live-stream-perfection-an-experts-take-on-webcams-for-2024/"><u>[New] Live Stream Perfection An Expert's Take on WebCams for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-video-framing-mastery-letterbox-technique-for-social-media-content-for-2024/"><u>[New] Video Framing Mastery Letterbox Technique for Social Media Content for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-pitch-perfect-techniques-for-integrating-tunes-into-vimeo-videos/"><u>[Updated] In 2024, Pitch Perfect Techniques for Integrating Tunes Into Vimeo Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-essential-360-professionals-cameras-update/"><u>2024 Approved Essential 360° Professionals' Cameras Update</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-top-10-robotic-voice-generators-with-comparison-table/"><u>2024 Approved Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-brawlers-the-right-control-for-fighting-games/"><u>Digital Brawlers: The Right Control for Fighting Games</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>In 2024, Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/journey-through-the-apex-of-english-with-mondly/"><u>Journey Through the Apex of English with Mondly</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-a-list-of-the-top-spongebob-voice-generators/"><u>New A List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning-for-2024/"><u>New Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-celebrity-voice-generator-tools-to-transform-your-voice/"><u>New Best Celebrity Voice Generator Tools to Transform Your Voice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-a-list-of-the-top-spongebob-voice-generators/"><u>New In 2024, A List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-the-best-text-voice-generators-for-all-platforms-for-2024/"><u>New The Best Text Voice Generators for All Platforms for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-fixing-unsupported-devices-warning/"><u>Quick Guide: Fixing Unsupported Devices Warning</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revive-your-ps5-controller-solutions-when-it-refuses-to-charge/"><u>Revive Your PS5 Controller: Solutions When It Refuses to Charge</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-6-best-voice-changers/"><u>Updated 6 Best Voice Changers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-optimize-your-memory-perfecting-iphone-album-organization-and-icloud-backup-for-2024/"><u>[New] Optimize Your Memory Perfecting iPhone Album Organization and iCloud Backup for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/eamlessly-incorporating-yt-clips-in-slideshows-via-ppt/"><u>[New] Seamlessly Incorporating YT Clips in Slideshows via PPT</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterful-approaches-to-applying-digital-video-effects-online/"><u>2024 Approved Masterful Approaches to Applying Digital Video Effects Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/decision-dos-and-donts-choosing-your-next-monitor/"><u>Decision Dos & Don'ts: Choosing Your Next Monitor</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-upgrade-device-drivers-on-windows-10-with-ease/"><u>Efficiently Upgrade Device Drivers on Windows 10 with Ease</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-update-your-lenovo-ideapad-100-drivers-with-ease-on-windows-10/"><u>Find & Update Your Lenovo IdeaPad 100 Drivers with Ease on Windows 10</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-best-hatsune-miku-ai-voice-generators-for-all-times/"><u>In 2024, Best Hatsune Miku AI Voice Generators for All Times</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-htc-u23-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass HTC U23 FRP</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New 2024 Approved Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-update-6-best-voice-changers-you-cant-miss/"><u>New 2024 Approved Update 6 Best Voice Changers You Cant Miss</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-celebrity-voice-generator-tools-you-cannot-miss-for-2024/"><u>New Best Celebrity Voice Generator Tools You Cannot Miss for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-hatsune-miku-ai-voice-generators-for-all-times/"><u>New In 2024, Best Hatsune Miku AI Voice Generators for All Times</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/step-by-step-tutorial-on-efficient-viu-video-extraction-for-offline-viewing-with-dependable-software/"><u>Step-by-Step Tutorial on Efficient Viu Video Extraction for Offline Viewing with Dependable Software</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>Updated 2024 Approved Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-guide-to-learning-all-the-details-about-voice-cloning/"><u>Updated 2024 Approved The Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-celebrity-voice-generator-tools-to-transform-your-voice-for-2024/"><u>Updated Best Celebrity Voice Generator Tools to Transform Your Voice for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-rated-free-video-editing-apps-with-effects-for-mobile/"><u>Updated In 2024, Top-Rated Free Video Editing Apps with Effects for Mobile</u></a></li>
 </ul></div>
 

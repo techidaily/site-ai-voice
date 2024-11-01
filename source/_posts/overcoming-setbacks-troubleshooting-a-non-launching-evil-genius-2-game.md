@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Setbacks: Troubleshooting a Non-Launching Evil Genius 2 Game"
-date: 2024-10-23T18:09:57.988Z
-updated: 2024-10-25T16:33:52.547Z
+date: 2024-10-30T03:46:32.373Z
+updated: 2024-10-31T16:23:44.742Z
 tags:
   - win11
   - win10
@@ -55,10 +55,10 @@ It is really upset when you want to play **Rocket League but it won’t launch**
 7. **[Delete d3d9.dll file](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Rename your Rocket League folder
@@ -82,13 +82,6 @@ According to users, this easy fix would help you solve the problem.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Click**Apply > OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Run the game and check whether the issue is solved or not.
 
 ### Fix 3: Verify game files**(Steam users only)**
@@ -98,6 +91,13 @@ According to users, this easy fix would help you solve the problem.
 1. Open the Steam client and navigate to **the LIBRARY tab** , then **right-click** on**Rocket League** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-1.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-2.png)
 3. Launch Rocket League to check.
@@ -110,21 +110,20 @@ According to users, this easy fix would help you solve the problem.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/setting.jpg)
 2. Choose the**In-Game** tab, uncheck these boxes to disable the Overlay options. Then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/settings.jpg)
 3. Run the game to check.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Change compatibility mode
@@ -138,13 +137,6 @@ According to users, this easy fix would help you solve the problem.
 4. Click **OK** then run Rocket League to check.
 
  If this fix doesn’t help, don’t worry, move to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Update your graphics card driver
 
@@ -175,18 +167,32 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether the problem is resolved or not.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Delete d3d9.dll file
@@ -219,24 +225,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-dissecting-the-metaverse-vs-multi-meva-landscape-expert-guide/"><u>[New] In 2024, Dissecting the Metaverse Vs. Multi-Meva Landscape (Expert Guide)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-obs-enhancing-integrating-a-timed-countdown-mechanism-for-2024/"><u>[Updated] Obs Enhancing Integrating a Timed Countdown Mechanism for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premium-picks-recommended-portals-for-tapping-snapchat-tunes/"><u>[Updated] Premium Picks Recommended Portals for Tapping Snapchat Tunes</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-latest-top-darth-vader-voice-generators-for-all-platforms/"><u>2024 Approved Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-cinema-teasers-compilation/"><u>2024 Approved Top Cinema Teasers Compilation</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-install-game-launchers-on-your-steam-deck/"><u>How to Install Game Launchers on Your Steam Deck</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-red-magic-8s-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Red Magic 8S Pro to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-trouplem-cam-input-not-detected-problem-in-snap-app/"><u>How to Trouplem Cam Input Not Detected Problem in Snap App</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>In 2024, Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sightline-synopsis-study/"><u>In 2024, Sightline Synopsis Study</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-voice-generators-and-changers-with-the-most-anime-voices-supported-for-2024/"><u>New Best Voice Generators & Changers with The Most Anime Voices Supported for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime-for-2024/"><u>New Guide to Discovering the Voice Generators/Changers with the Most Anime for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-10-free-and-best-text-to-speech-generators/"><u>New Top 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-10-robotic-voice-generators-with-comparison-table-for-2024/"><u>New Top 10 Robotic Voice Generators (with Comparison Table) for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>New Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>New Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-10-ios-videos-premier-iphone-and-ipad-players/"><u>Top 10 iOS Videos Premier iPhone & iPad Players</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-thawing-your-frozen-macbook-air-quick-fixes-and-tips/"><u>Ultimate Guide: Thawing Your Frozen MacBook Air - Quick Fixes & Tips</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-ai-rap-voice-generators-upgrade-your-rap/"><u>Updated Top AI Rap Voice Generators Upgrade Your Rap</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-biscuit-broadcast-expert-review-of-frosty-film-recorder/"><u>[Updated] Biscuit Broadcast Expert Review of Frosty Film Recorder</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-projects-with-free-video-intros/"><u>[Updated] Streamline Projects with Free Video Intros</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/6-best-voice-changers/"><u>6 Best Voice Changers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-11-proplus-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme 11 Pro+</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-4-hatsune-miku-voice-ai-generators-for-all-times/"><u>In 2024, Top 4 Hatsune Miku Voice AI Generators for All Times</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-update-6-best-voice-changers-you-cant-miss/"><u>In 2024, Update 6 Best Voice Changers You Cant Miss</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-real-time-ai-voice-changer-revolutionizing-communication/"><u>New In 2024, Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/slowing-down-action-iphone-filmmaking-tricks-for-2024/"><u>Slowing Down Action IPhone Filmmaking Tricks for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-5-tiktok-voice-generators-you-should-try-for-2024/"><u>Updated Top 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
 </ul></div>
 

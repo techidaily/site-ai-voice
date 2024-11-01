@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Isn't My MSI Mystic Light Functioning on Windows?"
-date: 2024-10-19T06:52:15.802Z
-updated: 2024-10-26T02:29:42.688Z
+date: 2024-10-25T18:03:55.770Z
+updated: 2024-11-01T02:04:55.709Z
 tags:
   - win11
   - win10
@@ -31,6 +31,19 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 6. **[Allow the game through Windows Firewall](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Change the screen resolution to 1080p (PS4 Pro)](https://www.drivereasy.com/knowledge/solved-insurgency-sandstorm-keeps-crashing/#Fix7)**
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify integrity of game files
 
  If your game files are missing or corrupted, you’re likely to encounter the crashing issue when playing Insurgency: Sandstorm. To make sure the game is correctly installed on your PC, you can scan and repair your game files via Steam. Here’s how:
@@ -42,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
@@ -57,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 If the game keeps crashing, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run the game as an administrator
@@ -74,35 +80,28 @@ If the game keeps crashing, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Select the**LOCAL FILES** tab and click**Browse…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-browse-local-files.jpg)
 4. Navigate to**Insurgency > Binaries > Win64** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Right-click the**InsurgencyClient-Win64-Shipping.exe** application and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.jpg)
 6. Select the**Compatibility** tab, then check**Run this program as an administrator** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch the game again to check if your problem is resolved.
 
@@ -120,6 +119,13 @@ If the crashing issue remains, check out the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
@@ -139,10 +145,10 @@ If the crashing issue remains, check out the next fix.
 2. Navigate to**Insurgency > Saved > Config > WindowsClient** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Delete the**GameUserSettings.ini** file.
@@ -177,21 +183,14 @@ If the crashing issue persists, go ahead with the next fix.
 3. Click**Change settings** and then click**Allow another app…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. In the new window, click**Browse…** . Browse to**Steam > steamapps > common > sandstorm** .  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add-another-app-browse.jpg)
 5. Select**InsurgencyEAC.exe** application and click**Open** .
@@ -199,6 +198,13 @@ If the crashing issue persists, go ahead with the next fix.
 6. Click**Network types…** , check**Private** and**Public** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/network-types.jpg)
 7. Click**Add** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add.jpg)
 8. Repeat step 3 to step 7 to add**InsurgencyClient-Win64-Shipping.exe** application. The file is located at **Steam > steamapps > common > sandstorm > Insurgency > Binaries > Win64** .
@@ -230,24 +236,20 @@ Once done, relaunch the game to see if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-from-vids-to-dollars-navigating-youtubes-monetization-landscape/"><u>[New] 2024 Approved From Vids to Dollars Navigating YouTube's Monetization Landscape</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-implementing-real-time-transcriptions-in-reels-and-stories-for-2024/"><u>[New] Implementing Real-Time Transcriptions in Reels and Stories for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unleash-vibrance-in-video-summaries-with-neons-on-thumbnails/"><u>[Updated] Unleash Vibrance in Video Summaries with Neons on Thumbnails</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-posting-youtube-videos-to-your-facebook-feed/"><u>2024 Approved Posting YouTube Videos to Your Facebook Feed</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/6-best-voice-changers/"><u>6 Best Voice Changers</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/6-best-voice-changers-for-2024/"><u>6 Best Voice Changers for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/a-comprehensible-approach-to-personal-branding-in-the-youtube-sphere/"><u>A Comprehensible Approach to Personal Branding in the YouTube Sphere</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-4-morgan-freeman-voice-generator-tools-for-voice-cloning-for-2024/"><u>Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/edit-your-images-like-a-pro-with-movavi-photo-editor-for-mac-get-instant-access-free-trial/"><u>Edit Your Images Like a Pro with Movavi Photo Editor for Mac: Get Instant Access - Free Trial!</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>In 2024, The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-4-hatsune-miku-voice-ai-generators-for-all-times/"><u>In 2024, Top 4 Hatsune Miku Voice AI Generators for All Times</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastery-guide-to-fixing-deathloop-freezes-enhance-performance-on-pc-and-console/"><u>Mastery Guide to Fixing Deathloop Freezes – Enhance Performance on PC & Console</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-5-quandale-dingle-voice-generators/"><u>New 2024 Approved Top 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/orchestrating-ai-harmony-with-human-intentions/"><u>Orchestrating AI: Harmony with Human Intentions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/personalized-computing-choices-is-building-or-shopping-for-a-new-pc-best-for-you/"><u>Personalized Computing Choices: Is Building Or Shopping For A New PC Best for You?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/spiritual-soundtracks-finding-and-tuning-for-ringtones-for-2024/"><u>Spiritual Soundtracks Finding & Tuning for Ringtones for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-update-6-best-voice-changers-you-cant-miss/"><u>Updated In 2024, Update 6 Best Voice Changers You Cant Miss</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-5-tiktok-voice-generators-you-should-try-for-2024/"><u>Updated Top 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>Updated Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-scrutinizing-the-importance-of-honesty-in-online-self-portraits/"><u>[New] 2024 Approved Scrutinizing the Importance of Honesty in Online Self-Portraits</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-copyright-confusion-suddenly-no-more-videos-for-2024/"><u>[Updated] Copyright Confusion Suddenly No More Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-understanding-the-inner-workings-of-youtube-post-upload/"><u>[Updated] Understanding the Inner Workings of YouTube Post-Upload</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-xs-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone XS and iPad Securely</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gk-quiz-kings-court-a-look-at-2024s-best-platforms/"><u>GK Quiz Kings' Court - A Look at 2024'S Best Platforms</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-c50-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco C50 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator-for-2024/"><u>New A Detailed Review & Alternatives of VOCALOID6 Voice Generator for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>New In 2024, Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>New The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-accessing-games-on-a-disconnected-steam-server/"><u>Step-by-Step Solution: Accessing Games on a Disconnected Steam Server</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-honor-magic-6-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Honor Magic 6 without backup.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-sites-to-download-copyright-free-meditation-music/"><u>Top 10 Sites to Download Copyright-Free Meditation Music</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-5-quandale-dingle-voice-generators/"><u>Updated 2024 Approved Best 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>Updated In 2024, The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-real-time-ai-voice-changer-revolutionizing-communication-for-2024/"><u>Updated Real-Time AI Voice Changer Revolutionizing Communication for 2024</u></a></li>
 </ul></div>
 

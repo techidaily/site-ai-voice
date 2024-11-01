@@ -1,7 +1,7 @@
 ---
 title: "Shocking Energy Consumption Unveiled: Single AI-Optimized GPU Guzzles 3.7 Million kWh Per Year, More Than All Used by Homes in 1.3 Million Dwellings Combined"
-date: 2024-10-21T17:07:36.808Z
-updated: 2024-10-26T08:46:09.016Z
+date: 2024-10-29T19:21:41.842Z
+updated: 2024-10-31T18:36:58.082Z
 tags:
   - desktop
 categories:
@@ -76,35 +76,27 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-lg-vr-360-review-a-new-dimension-of-gaming/"><u>[New] In 2024, LG VR 360 Review A New Dimension of Gaming</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-snappy-and-simple-steps-for-posting-short-videos-online/"><u>[New] In 2024, Snappy and Simple Steps for Posting Short Videos Online</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unlocking-potential-mastering-facebooks-best-practices-for-video-advertising/"><u>[Updated] 2024 Approved Unlocking Potential Mastering Facebook's Best Practices for Video Advertising</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-smooth-integration-of-youtube-playlists-via-web-tech/"><u>[Updated] Smooth Integration of YouTube Playlists via Web Tech</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtubes-highest-paying-content-creator-for-2024/"><u>[Updated] YouTube's Highest Paying Content Creator for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-5-tiktok-voice-generators-you-should-try-for-2024/"><u>Best 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-movie-trailer-editing-tools-for-windows-and-macos/"><u>Best Movie Trailer Editing Tools for Windows and macOS</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-voice-generators-and-changers-with-the-most-anime-voices-supported-for-2024/"><u>Best Voice Generators & Changers with The Most Anime Voices Supported for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-best-10-free-and-best-text-to-speech-generators/"><u>In 2024, Best 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-a-comprehensive-list-of-the-top-spongebob-voice-generators-for-2024/"><u>New A Comprehensive List of The Top SpongeBob Voice Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-10-free-ai-voice-generators-to-use-in-daily-life-for-2024/"><u>New Best 10 Free AI Voice Generators to Use in Daily Life for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New In 2024, Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://win-blog.techidaily.com/next-level-gaming-experience-fixing-division-2s-performance-glitches-fps-and-stutter/"><u>Next-Level Gaming Experience: Fixing Division 2'S Performance Glitches (FPS & Stutter)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/real-time-ai-voice-changer-revolutionizing-communication-for-2024/"><u>Real-Time AI Voice Changer Revolutionizing Communication for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-10-free-and-best-text-to-speech-generators-for-2024/"><u>Top 10 Free and Best Text-to-Speech Generators for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726222836643-vob-movavi/"><u>VOB 파일을 쉽게 사용: Movavi 동영상 변환기를 다운로드하여 원룰륨 비디오에 속성 추가</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>2024 Approved Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire-for-2024/"><u>Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-13-how-to-unlock-a-disabled-iphone-13-drfone-by-drfone-ios/"><u>Disabled iPhone 13 How to Unlock a Disabled iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-constant-freezes-and-crashes-for-necromunda-hired-gun-on-windows-pcs/"><u>Fixing Constant Freezes and Crashes for Necromunda: Hired Gun on Windows PCs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/flipped-frames-understanding-instagram-video-orientation-for-2024/"><u>Flipped Frames Understanding Instagram Video Orientation for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-listings-for-easy-access-to-youtube-intro-files/"><u>In 2024, Essential Listings for Easy Access to YouTube Intro Files</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-5-quandale-dingle-voice-generators/"><u>In 2024, Top 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-task-runner-error-code-0x8007000f-in-winos/"><u>Mastery over Task Runner Error Code 0X8007000f in WinOS</u></a></li>
+<li><a href="https://win-info.techidaily.com/microsofts-surprising-discovery-true-employee-happiness-unveiled/"><u>Microsoft's Surprising Discovery: True Employee Happiness Unveiled</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-6-mickey-mouse-voice-generators/"><u>New In 2024, Top 6 Mickey Mouse Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-the-most-straightforward-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>New The Most Straightforward Guide to Learning How to Clone Your Voice for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/tips-to-triple-your-instagram-video-viewers-for-2024/"><u>Tips to Triple Your Instagram Video Viewers for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-the-best-text-voice-generators-for-all-platforms/"><u>Updated In 2024, The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Updated Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
