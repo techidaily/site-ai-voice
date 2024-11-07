@@ -1,7 +1,7 @@
 ---
 title: Solving the Not Enough Memory Trouble for a Smooth God of War Experience
-date: 2024-10-25T21:55:53.623Z
-updated: 2024-11-01T05:43:16.462Z
+date: 2024-11-03T17:59:19.778Z
+updated: 2024-11-06T20:01:56.939Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
  If you have trouble updating the game, you might just need a simple reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify the integrity of game files
 
  You can’t expect your game to work fine if there’re files missing or broken. So first you need to**run a scan of your game folder** .
@@ -49,7 +42,21 @@ Here’s how to do it on the Epic Games client:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can try again and see if Civ 6 launches.
 
@@ -69,16 +76,10 @@ If this doesn’t help, you can take a look at the next fix below.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -86,6 +87,13 @@ If this doesn’t help, you can take a look at the next fix below.
  After updating your graphics driver, restart your computer and check if Civ 6 works now.
 
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -95,34 +103,13 @@ If this doesn’t help, you can take a look at the next fix below.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all the system updates, check if you can get Civ 6 working now.
 
 If this solution doesn’t help, you can continue to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
 
@@ -135,17 +122,31 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
@@ -162,13 +163,6 @@ If a clean boot doesn’t help, you can check out the next fix.
 1. Go to the support page of Microsoft. Under the**Visual Studio 2015, 2017 and 2019 section** , click**vc\_redist.x64.exe** and download the installer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/latest-c.jpg)
 2. Open the installer and follow the on-screen instructions to install.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
 
@@ -199,21 +193,18 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-decoding-automatic-high-dynamic-range-auto-hdr-in-windows-11/"><u>[Updated] In 2024, Decoding Automatic High Dynamic Range (Auto HDR) in Windows 11</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-professional-window-capturer-version-11/"><u>[Updated] Professional Window Capturer - Version 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-evolving-realities-the-modern-vr-sphere/"><u>2024 Approved Evolving Realities The Modern VR Sphere</u></a></li>
-<li><a href="https://games-able.techidaily.com/4-fundamental-improvements-for-maximizing-xbox-player-loyalty/"><u>4 Fundamental Improvements for Maximizing Xbox Player Loyalty</u></a></li>
-<li><a href="https://win-forum.techidaily.com/goodnotes-on-windows-arrives-my-long-awaited-journey-to-an-enhanced-note-taking-adventure/"><u>GoodNotes on Windows Arrives - My Long-Awaited Journey to an Enhanced Note-Taking Adventure</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-best-5-quandale-dingle-voice-generators/"><u>In 2024, Best 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/mastering-funimate-easy-video-download-tutorial/"><u>Mastering Funimate Easy Video Download Tutorial</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-social-media-marketing-a-step-by-step-guide/"><u>[New] Mastering Social Media Marketing A Step-by-Step Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-quick-and-easy-twitter-to-snapchat-video-sharing-tips/"><u>[Updated] In 2024, Quick & Easy Twitter to Snapchat Video Sharing Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/deciphering-and-resolving-wan-port-errors-on-xp/"><u>Deciphering and Resolving WAN Port Errors on XP</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-plus-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 Plus to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hunt-for-the-cream-of-the-crop-roku-bargains-on-prime-day-extravaganza/"><u>Hunt for the Cream of the Crop Roku Bargains on Prime Day Extravaganza</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/identifying-inauthentic-connections-recognizing-false-friend-invites/"><u>Identifying Inauthentic Connections: Recognizing False Friend Invites</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/new-in-2024-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>New In 2024, The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
-<li><a href="https://win11.techidaily.com/re-enabling-disabled-recycle-bin-on-win11/"><u>Re-Enabling Disabled Recycle Bin on Win11</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-gt-neo-5-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme GT Neo 5 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/top-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>Top 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-hamachi-service-stopped-complications/"><u>Understanding and Fixing 'Hamachi Service Stopped' Complications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-list-leading-wi-fi-expanders-for-superior-coverage-2024-edition/"><u>Ultimate List: Leading Wi-Fi Expanders for Superior Coverage, 2024 Edition</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/updated-best-celebrity-voice-generator-tools-you-cannot-miss-for-2024/"><u>Updated Best Celebrity Voice Generator Tools You Cannot Miss for 2024</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/updated-best-narrator-voice-generators/"><u>Updated Best Narrator Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/updated-top-6-darth-vader-ai-generators-for-all-platforms/"><u>Updated Top 6 Darth Vader AI Generators for All Platforms</u></a></li>
 </ul></div>
 

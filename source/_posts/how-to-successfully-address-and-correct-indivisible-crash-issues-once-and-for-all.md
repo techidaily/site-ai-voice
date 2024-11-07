@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Address and Correct 'Indivisible' Crash Issues Once and For All
-date: 2024-10-25T23:58:14.622Z
-updated: 2024-11-01T00:49:41.515Z
+date: 2024-11-01T01:52:55.946Z
+updated: 2024-11-06T20:12:00.852Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ If that doesn’t work for you, try the fixes below.
 5. **[Run a full scan of your PC](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Allow Minecraft installer through firewall
@@ -56,6 +56,13 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/windows-11-privacy-and-security.png)
 3. Click**Firewall & network protection** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/firewall-and-network-protection.png)
 4. Scroll down and find**Allow an app through firewall** . Then click it.  
 
@@ -63,19 +70,6 @@ If that doesn’t work for you, try the fixes below.
 5. Make sure Minecraft is on the list and the**Private** and**Public** options are checked. If it’s not on the list, that means Minecraft doesn’t have access and you’ll need to click on the**Change settings** button. Then follow the on-screen instructions to add the Minecraft executable file to the list.
 
  After applying the changes, try installing Minecraft and check if it’s working properly. If your problem persists, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Download & install all Windows updates
 
@@ -87,30 +81,10 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-windows-update.png)
 3. Click **Check for updates** . If there are any updates available, Windows will download them.  
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates.png)
 4. Click **Restart now**  to restart your PC or you can **Schedule the restart** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then try to double-click on the downloaded package and see if you can install Minecraft now. If you’ve still having the issue, try the next fix below.
 
@@ -130,6 +104,19 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-all-de.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer. Upon the reboot, try to install Minecraft to see if you can do it successfully. If it fails, move on to the next fix.
@@ -145,23 +132,23 @@ If that doesn’t work for you, try the fixes below.
 3. Click**Other troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/other-troubleshooter.png)
 4. Click on the**Run** button next to**Windows Store Apps** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-apps-run-troubleshooter.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then wait for it to detect and troubleshoot your issues. If it fails to identify them, try the next fix below.
 
@@ -176,6 +163,13 @@ If that doesn’t work for you, try the fixes below.
 3. If it detects any issues on your PC, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
 
@@ -200,22 +194,19 @@ If that doesn’t work for you, try the fixes below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-unpackaging-text-magic-the-best-after-effects-plugin-guide/"><u>[New] Unpackaging Text Magic The Best After Effects Plugin Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-perfect-process-iphones-podcast-downloading-technique/"><u>[New] Unveiling the Perfect Process IPhone's Podcast Downloading Technique</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-audible-magic-cropping-and-edits-in-canva-videos/"><u>2024 Approved Crafting Audible Magic Cropping and Edits in Canva Videos</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/a-list-of-the-top-spongebob-voice-generators-for-2024/"><u>A List of The Top SpongeBob Voice Generators for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-apple-iphone-15-plus-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From Apple iPhone 15 Plus - 4 Easy Ways</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-set-up-dell-g15-graphics-card-drivers-on-your-pc-compatible-with-windows-os/"><u>Download and Set Up Dell G15 Graphics Card Drivers on Your PC - Compatible with Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-use-of-resources-windows-application-size/"><u>Efficient Use of Resources: Windows Application Size</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-thriving-in-the-world-of-instavids-design-an-impactful-strategy/"><u>In 2024, Thriving in the World of InstaVids Design an Impactful Strategy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installation-guide-logitech-hd-c270-driver-update-for-windows-11-users/"><u>Installation Guide: Logitech HD C270 Driver Update for Windows 11 Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/mastering-teamsnap-essential-photography-tips-for-2024/"><u>Mastering TeamSnap Essential Photography Tips for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-update-6-best-voice-changers-you-cant-miss/"><u>New In 2024, Update 6 Best Voice Changers You Cant Miss</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-6-free-talking-stock-photo-sites/"><u>New Top 6 Free Talking Stock Photo Sites</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-podcasts-vs-youtube-making-an-informed-media-decision/"><u>[New] Podcasts Vs. YouTube Making an Informed Media Decision</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-elevate-your-content-premier-youtube-rank-tracker-apps-for-2024/"><u>[Updated] Elevate Your Content Premier YouTube Rank Tracker Apps for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-futuristic-feature-unveiling-mac-via-applewatch/"><u>[Updated] Futuristic Feature Unveiling Mac via AppleWatch</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-ultimate-tutorial-for-sharing-photos-from-phone-memory/"><u>2024 Approved The Ultimate Tutorial for Sharing Photos From Phone Memory</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/6-best-voice-changers/"><u>6 Best Voice Changers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-cost-effective-hp-15-laptop-is-it-efficient-with-its-amd-processor/"><u>Evaluating the Cost-Effective HP 15 Laptop – Is It Efficient with Its AMD Processor?</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-speakers-working-again-resolving-audio-problems-in-windows-7/"><u>Get Your Speakers Working Again: Resolving Audio Problems in Windows 7</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcp-in-the-spotlight-10-acclaimed-movies/"><u>In 2024, FCP in the Spotlight 10 Acclaimed Movies</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-4-hatsune-miku-voice-ai-generators-for-all-times/"><u>In 2024, Top 4 Hatsune Miku Voice AI Generators for All Times</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-update-6-best-voice-changers-you-cant-miss/"><u>In 2024, Update 6 Best Voice Changers You Cant Miss</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-real-time-ai-voice-changer-revolutionizing-communication/"><u>New In 2024, Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/the-ultimate-guide-to-learning-all-the-details-about-voice-cloning-for-2024/"><u>The Ultimate Guide to Learning All the Details About Voice Cloning for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-5-tiktok-voice-generators-you-should-try-for-2024/"><u>Top 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Updated 2024 Approved Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-5-quandale-dingle-voice-generators/"><u>Updated In 2024, Top 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>Updated Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-choices-animation-friendly-3d-model-tools-for-2024/"><u>Top Choices Animation-Friendly 3D Model Tools for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-5-tiktok-voice-generators-you-should-try-for-2024/"><u>Updated Top 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
 </ul></div>
 

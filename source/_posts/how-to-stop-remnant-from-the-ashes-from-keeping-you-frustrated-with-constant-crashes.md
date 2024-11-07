@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Remnant: From the Ashes From Keeping You Frustrated with Constant Crashes"
-date: 2024-10-28T03:44:35.211Z
-updated: 2024-10-31T19:47:15.299Z
+date: 2024-11-01T17:05:03.490Z
+updated: 2024-11-07T01:11:44.924Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2:**Disable your antivirus temporarily**
 
  The_Remnant_ crash is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -67,13 +60,6 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 **2)**  Right-click the **Steam icon** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
@@ -125,6 +111,13 @@ If your problem persists, then move on to the next fix below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Verify the integrity of your game files
 
  This issue might happen when one or more outdated or corrupted game files are conflicting with the game. To fix it, follow the instructions below to validate your game files:
@@ -136,10 +129,10 @@ If your problem persists, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Right-click**Remnant: From the Ashes** and select **Properties.**
@@ -162,13 +155,6 @@ If your problem persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-585.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Paste**%LOCALAPPDATA%\\Remnant\\Saved\\Config\\WindowsNoEditor** on the address bar, then press the**Enter key** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-586.png)
@@ -176,13 +162,6 @@ If your problem persists, then move on to the next fix below.
 **3)** Right-click**Engine.ini** , select**Open With** , then click**Notepad** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-591.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Copy and paste the following text at the bottom.
 
@@ -193,15 +172,42 @@ If your problem persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-609.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** On your keyboard, press the**Ctrl key** and**S** at the same time to save the changes. Then, close the Window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.png)
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Relaunch your game to test your issue.
 
 If the game is still unplayable, read on and try the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Run your game in compatibility mode
 
@@ -221,18 +227,18 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-608.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Relaunch your game to check if your issue had been resolved.
 
  If this didn’t work for you, repeat steps above to**disable the compatibility mode** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall_Remnant_ and/or Steam
 
@@ -248,13 +254,6 @@ If the game is still unplayable, read on and try the fix below.
 **2)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Right-click**Remnant: From the Ashes** and select **Uninstall.**
 
@@ -276,13 +275,6 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
@@ -303,6 +295,13 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
@@ -312,6 +311,13 @@ If the game is still unplayable, read on and try the fix below.
 **9)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **10)**  Move the backup **steamapps folder** to your current directory location.
 
@@ -342,15 +348,15 @@ If the game is still unplayable, read on and try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-harnessing-power-in-pixels-top-10-instagram-video-ad-mastery-techniques-for-2024/"><u>[New] Harnessing Power in Pixels Top 10 Instagram Video Ad Mastery Techniques for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-premium-planet-friendly-recording-software-for-2024/"><u>[New] Premium, Planet-Friendly Recording Software for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-securing-your-stylized-content-insta-photo-watermarking-basics-for-2024/"><u>[New] Securing Your Stylized Content Insta Photo Watermarking Basics for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-conversion-of-quicktime-mov-videos-to-webm-for-the-web-discover-7-helpful-techniques/"><u>Effortless Conversion of QuickTime MOV Videos to WebM for the Web - Discover 7 Helpful Techniques</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-online-engagement-through-smart-cookiebot-strategies/"><u>Enhanced Online Engagement Through Smart Cookiebot Strategies</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>New In 2024, Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New In 2024, Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/revolutionizing-communication-real-time-ai-voice-changer/"><u>Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-modern-warfare-dev-error-6aster-solutions-for-playstation-xbox-and-pc-gamers/"><u>Troubleshooting Modern Warfare Dev Error 6Aster: Solutions for PlayStation, Xbox, & PC Gamers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-boosting-your-voices-impact-free-user-friendly-changes-available/"><u>[New] In 2024, Boosting Your Voice's Impact – Free, User-Friendly Changes Available</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-video-app-selection-for-immersive-viewing-on-ios/"><u>[New] Top Video App Selection for Immersive Viewing on iOS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-crafting-compelling-youtube-content-through-split-screens/"><u>[Updated] In 2024, Crafting Compelling YouTube Content Through Split-Screens</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-cutting-to-a-consensus-in-news-endings/"><u>2024 Approved Cutting to a Consensus in News Endings</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>In 2024, Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>In 2024, Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/navigating-video-posts-on-tiktok-from-a-computer-for-2024/"><u>Navigating Video Posts on TikTok From a Computer for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-10-robotic-voice-generators-with-comparison-table/"><u>New 2024 Approved Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-troubleshooting-of-windows-10-system-restore-problem-error-0x80070091/"><u>Successful Troubleshooting of Windows 10 System Restore Problem (Error 0X80070091)</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-a-list-of-the-top-spongebob-voice-generators-for-2024/"><u>Updated A List of The Top SpongeBob Voice Generators for 2024</u></a></li>
 </ul></div>
 
