@@ -1,7 +1,7 @@
 ---
 title: "Shocking Energy Consumption Unveiled: Single AI-Optimized GPU Guzzles 3.7 Million kWh Per Year, More Than All Used by Homes in 1.3 Million Dwellings Combined"
-date: 2024-11-04T21:57:01.484Z
-updated: 2024-11-06T23:13:20.772Z
+date: 2024-11-15T05:15:36.873Z
+updated: 2024-11-17T00:22:11.142Z
 tags:
   - desktop
 categories:
@@ -76,33 +76,31 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-viral-hits-the-top-10-music-videos-on-fb-now/"><u>[New] Viral Hits The Top 10 Music Videos on FB Now</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-unlocking-tiktok-video-potential-with-zoom/"><u>2024 Approved Unlocking TikTok Video Potential with Zoom</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/capture-professional-livestreams-with-manycam-advanced-features-for-virtual-webcams-and-more/"><u>Capture Professional Livestreams with ManyCam: Advanced Features for Virtual Webcams and More!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-possibilities-how-apples-future-plans-include-a-household-robotic-aide/"><u>Exploring the Possibilities: How Apple's Future Plans Include a Household Robotic Aide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-division-2-freezing-issues-a-swift-and-simple-tutorial/"><u>Fixing Division 2 Freezing Issues: A Swift and Simple Tutorial</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-secret-behind-the-blue-status-update-sticker/"><u>In 2024, The Secret Behind the Blue Status Update Sticker</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mp3-konvertering-pa-gaffelens-plats-denna-gratis-effektiva-online-losningen-med-konvertera/"><u>MP3-Konvertering På Gaffelens Plats: Denna Gratis, Effektiva Online Lösningen Med Konvertera</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>New 2024 Approved Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-5-tiktok-voice-generators-you-should-try/"><u>New Top 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-itunes-iphone-compatibility-issues-on-windows-11/"><u>Resolved! Troubleshooting Itunes-iPhone Compatibility Issues on Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-15-capcut-substitutes-for-both-pc-and-web-usage-ultimate-list/"><u>Top 15 CapCut Substitutes for Both PC and Web Usage: Ultimate List</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-5-quandale-dingle-voice-generators/"><u>Top 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-celebrity-voice-generator-tools-to-transform-your-voice/"><u>Updated 2024 Approved Best Celebrity Voice Generator Tools to Transform Your Voice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>Updated The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-guide-to-finding-free-westeros-ringtones/"><u>[New] The Ultimate Guide to Finding Free Westeros Ringtones</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728510231522-windows/"><u>「快速复制私人数据：在不启动Windows的情况下进行操作方法（详解）」</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/expert-opinion-the-pros-and-cons-of-using-google-maps-for-iphone-users/"><u>Expert Opinion: The Pros and Cons of Using Google Maps for iPhone Users</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/how-to-successfully-address-and-correct-indivisible-crash-issues-once-and-for-all/"><u>How to Successfully Address and Correct 'Indivisible' Crash Issues Once and For All</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-oppo-reno-11-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Oppo Reno 11 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/overcoming-the-msvcr110dll-error-in-helldivers-2-expert-tips-for-a-smooth-gameplay/"><u>Overcoming the MSVCR110.dll Error in Helldivers 2: Expert Tips for a Smooth Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-mouse-pad-problems-in-windows-10-how-to-restore-scroll-functionality/"><u>Resolving Mouse Pad Problems in Windows 10 – How to Restore Scroll Functionality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/spinning-stars-olympic-ice-celebrations-for-2024/"><u>Spinning Stars Olympic Ice Celebrations for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/tips-and-tricks-to-prevent-game-crashes-of-dragon-age-origins-while-playing-on-windows-10/"><u>Tips and Tricks to Prevent Game Crashes of Dragon Age: Origins While Playing on Windows 10</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/troubleshooting-guide-why-isnt-my-msi-mystic-light-functioning-on-windows/"><u>Troubleshooting Guide: Why Isn't My MSI Mystic Light Functioning on Windows?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/tune-into-unlimited-radio-stations-enjoy-free-access-and-real-time-airplay-via-internet-radio-player/"><u>Tune Into Unlimited Radio Stations - Enjoy Free Access and Real-Time Airplay via Internet Radio Player</u></a></li>
+<li><a href="https://techidaily.com/unable-to-save-excel-2007-workbook-issue-fix-2024-stellar-by-stellar-guide/"><u>Unable to Save Excel 2007 Workbook Issue Fix 2024 | Stellar</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1977004">
+<span id="1977020">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
