@@ -1,7 +1,7 @@
 ---
 title: Wholesome Eating Made Simple by ChatGPT
-date: 2024-11-14T05:36:12.609Z
-updated: 2024-11-16T23:02:55.140Z
+date: 2024-11-21T21:02:13.147Z
+updated: 2024-11-26T18:17:01.867Z
 tags:
   - chatgpt
   - open-ai
@@ -17,9 +17,17 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  ChatGPT has become a mainstream tool around the world, offering an AI chatbot service to billions. But the popularity of this chatbot is now being capitalized upon by cybercriminals looking to swindle unsuspecting users. So, what kinds of ChatGPT scams should you be looking out for?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. ChatGPT Email Scams
 
 ![picture of mail app icon on iphone menu screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-mail-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Email has been used as a scam vector for many years, be it to spread malware, blackmail victims, or steal valuable information. Now, ChatGPT's name is being used in email scams to trick recipients.
 
@@ -28,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  Say, for instance, a cybercriminal is not fluent in English but wants to target English-speaking individuals. Using ChatGPT, they can have a flawless phishing email written for them, without any spelling or grammatical errors. Well-written phishing emails can more effectively swindle victims, as it fuels the air of legitimacy that the malicious sender is trying to imitate.
 
  In general, using ChatGPT to write phishing emails can streamline the scam process for cybercriminals, which may cause phishing attacks to grow in frequency overall.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Fake ChatGPT Browser Extensions
 
@@ -49,28 +50,22 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  So, it's crucial that you verify the legitimacy of a ChatGPT extension before downloading it. Also keep an eye out for discrete differences in the names of extensions, as a malicious extension can be listed under a very similar name in order to trick users.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Fake ChatGPT Apps
 
 ![app store application open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-store-smartphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Like browser extensions, cybercriminals can also use ChatGPT's name to spread malicious apps. Malicious apps are nothing new and have been used for years to deploy malware, steal data, and monitor device activity. Now, ChatGPT's well-known name is being used to push malicious apps.
 
  In February 2023, it was found that cybercriminals had developed a fake ChatGPT app to spread Windows and Android malware. As reported by[Bleeping Computer](https://www.bleepingcomputer.com/news/security/hackers-use-fake-chatgpt-apps-to-push-windows-android-malware/) , malicious actors capitalized on OpenAI's ChatGPT Plus to convince users that they could sign up for a free version of the typically premium tool. The cybercriminals' goal here is to either steal credentials or deploy malware.
 
  To keep yourself safe from these apps, it's important to do background research on any given kind of software program to see if it has a positive reputation, or any reputation at all. Even if an app looks enticing, it's not worth the installation if you can't verify whether it is safe. Stick to trusted app stores and check user reviews before downloading any kind of app.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Malware Created by ChatGPT
 
@@ -87,10 +82,7 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![Hacker phishing data from a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hacker-phishing-data.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Phishing attacks are often conducted using malicious websites. These sites are designed to log the keystrokes you enter so that valuable data can be stolen and exploited.
@@ -120,22 +112,22 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-new-horizons-windows-11s-latest-advances/"><u>[Updated] 2024 Approved New Horizons Windows 11'S Latest Advances</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-explore-the-ultimate-list-of-free-youtube-channel-starters/"><u>[Updated] Explore the Ultimate List of Free YouTube Channel Starters</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/combatting-global-warming-top-5-innovative-tech-solutions-unveiled-by-zdnet/"><u>Combatting Global Warming: Top 5 Innovative Tech Solutions Unveiled by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-correctly-address-and-resolve-missing-binkw32dll-messages/"><u>How to Correctly Address and Resolve Missing Binkw32.dll Messages</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enable-the-volume-mixer-in-the-action-center-in-windows-11/"><u>How to Enable the Volume Mixer in the Action Center in Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-best-ai-rap-voice-generators-you-should-try/"><u>In 2024, Best AI Rap Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>In 2024, Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>In 2024, Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/master-the-art-of-iphone-image-rotation-effortless-methods-for-2024/"><u>Master the Art of iPhone Image Rotation - Effortless Methods for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-celebrity-voice-generator-tools-to-transform-your-voice/"><u>New In 2024, Best Celebrity Voice Generator Tools to Transform Your Voice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime/"><u>New In 2024, Guide to Discovering the Voice Generators/Changers with the Most Anime</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire-for-2024/"><u>New Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-custom-subtitles-to-netflix/"><u>Updated In 2024, How to Add Custom Subtitles to Netflix</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-10-robotic-voice-generators-with-comparison-table/"><u>Updated Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-global-tech-pioneers-think-about-ai-the-collective-view-of-the-top-10/"><u>What Global Tech Pioneers Think About AI - The Collective View of the Top 10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-best-image-safekeepers-online-for-2024/"><u>[New] Best Image Safekeepers Online for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-essential-iphone-photo-tricks-to-transform-your-landscapes-for-2024/"><u>[New] Essential iPhone Photo Tricks to Transform Your Landscapes for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-signs-youre-not-in-someones-contact-list-for-2024/"><u>[New] Signs You're Not in Someone's Contact List for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-role-in-creative-writing-explore-6-effective-techniques/"><u>ChatGPT's Role in Creative Writing: Explore 6 Effective Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-between-the-pros-and-cons-samsung-galaxy-s23-vs-iphone-14-making-the-right-purchase-decision/"><u>Choosing Between the Pros and Cons: Samsung Galaxy S23 vs iPhone 14 - Making The Right Purchase Decision!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-how-to-retrieve-your-gps-tracking-data-from-ios-devices-a-simple-walkthrough-for-iphoneipad-users/"><u>Discover How to Retrieve Your GPS Tracking Data From iOS Devices - A Simple Walkthrough for iPhone/iPad Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-oppo-reno-8t-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Oppo Reno 8T to Protect Your Individual Information</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-a-list-of-the-top-spongebob-voice-generators/"><u>In 2024, A List of The Top SpongeBob Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>In 2024, Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mobile-connectivity-explained-the-role-of-a-phone-service-provider/"><u>Mobile Connectivity Explained: The Role of a Phone Service Provider</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>New Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-latest-top-darth-vader-voice-generators-for-all-platforms-for-2024/"><u>New Latest Top Darth Vader Voice Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/speech-to-text-efficient-conversion-techniques-for-microsoft-word-users-for-2024/"><u>Speech to Text Efficient Conversion Techniques for Microsoft Word Users for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-10-free-ai-voice-generators-to-use-in-daily-life-for-2024/"><u>Updated Best 10 Free AI Voice Generators to Use in Daily Life for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>Updated In 2024, The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>Updated In 2024, Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning-for-2024/"><u>Updated Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning for 2024</u></a></li>
 </ul></div>
 

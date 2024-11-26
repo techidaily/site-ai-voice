@@ -1,7 +1,7 @@
 ---
 title: "Game-Changing DIY PC Build: Faster eGPU Connection with Direct PCIe Interface vs Thunderbolt 4"
-date: 2024-11-13T21:06:17.391Z
-updated: 2024-11-16T22:29:27.030Z
+date: 2024-11-22T16:55:42.961Z
+updated: 2024-11-26T19:17:37.633Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -48,6 +52,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  There's also MSI AI Engine, which adjusts performance based on AI. Then there's AI Frozr, which does the same thing for cooling.
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -70,22 +78,16 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-laughlens-creator-for-2024/"><u>[Updated] LaughLens Creator for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/ace-your-gameplay-unpacking-the-premium-yet-affordable-performance-of-the-acer-predator-orion-5000/"><u>Ace Your Gameplay: Unpacking the Premium Yet Affordable Performance of the Acer Predator Orion 5000</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722857935822-are-you-having-trouble-accessing-discord-lets-figure-out-if-its-down-globally-or-just-for-your-account/"><u>Are You Having Trouble Accessing Discord? Let's Figure Out if It's Down Globally or Just for Your Account.</u></a></li>
-<li><a href="https://fox-access.techidaily.com/delving-into-asmrs-potential-upsides/"><u>Delving Into ASMR's Potential Upsides</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortless-setup-guide-downloading-realtek-asio-drivers-for-your-windows-10-system/"><u>Effortless Setup Guide: Downloading RealTek Asió Drivers for Your Windows 10 System</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/get-the-best-of-both-worlds-affordable-intel-i5-gtx-4060-nzxt-gaming-pc-at-59month-or-indulge-in-luxury-with-core-i7-and-rtx-4070-ti-for-169-a-month/"><u>Get the Best of Both Worlds! Affordable Intel I5, GTX 4060 NZXT Gaming PC at $59/Month or Indulge in Luxury with Core I7 and RTX 4070 Ti for $169 a Month.</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/navigating-the-world-of-technology-at-toms-hardware-realm/"><u>Navigating the World of Technology at Tom's Hardware Realm</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unboxing-apples-latest-addition-to-pro-studios-is-the-27-inch-5k-screen-worth-its-cost-insider-tips-and-analysis-by-zdnet-experts/"><u>Unboxing Apple's Latest Addition to Pro Studios – Is the 27-Inch 5K Screen Worth Its Cost? Insider Tips and Analysis by ZDNet Experts</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/unlocking-the-world-of-electronics-with-toms-hardware-wisdom/"><u>Unlocking the World of Electronics with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Which Pokémon can Evolve with a Moon Stone For Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-must-know-facts-for-asmr-enthusiasts/"><u>[Updated] Must-Know Facts for ASMR Enthusiasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-orchestrating-pictures-with-musical-accompaniment/"><u>[Updated] Orchestrating Pictures with Musical Accompaniment</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-starting-points-for-motion-visual-creation/"><u>[Updated] Starting Points for Motion Visual Creation</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-5-tiktok-voice-generators-you-should-try-for-2024/"><u>Best 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-voice-generators-and-changers-with-the-most-anime-voices-supported-for-2024/"><u>Best Voice Generators & Changers with The Most Anime Voices Supported for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-s17-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New In 2024, Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://fox-place.techidaily.com/protect-your-digital-footprint-steps-to-securely-wipe-an-external-hdd-on-windows-10/"><u>Protect Your Digital Footprint: Steps to Securely Wipe an External HDD on Windows 10</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-10-free-and-best-text-to-speech-generators-for-2024/"><u>Top 10 Free and Best Text-to-Speech Generators for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-teaching-approach-the-8-main-motivators-for-educators-to-embrace-artificial-intelligence/"><u>Transform Your Teaching Approach: The 8 Main Motivators for Educators to Embrace Artificial Intelligence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/whimsical-video-downloader-score/"><u>Whimsical Video Downloader Score</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

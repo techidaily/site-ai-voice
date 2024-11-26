@@ -1,7 +1,7 @@
 ---
 title: "Shocking Energy Consumption Unveiled: Single AI-Optimized GPU Guzzles 3.7 Million kWh Per Year, More Than All Used by Homes in 1.3 Million Dwellings Combined"
-date: 2024-11-15T05:15:36.873Z
-updated: 2024-11-17T00:22:11.142Z
+date: 2024-11-20T20:29:11.693Z
+updated: 2024-11-26T18:46:14.028Z
 tags:
   - desktop
 categories:
@@ -53,6 +53,10 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -76,31 +80,20 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-guide-to-finding-free-westeros-ringtones/"><u>[New] The Ultimate Guide to Finding Free Westeros Ringtones</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728510231522-windows/"><u>「快速复制私人数据：在不启动Windows的情况下进行操作方法（详解）」</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/expert-opinion-the-pros-and-cons-of-using-google-maps-for-iphone-users/"><u>Expert Opinion: The Pros and Cons of Using Google Maps for iPhone Users</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/how-to-successfully-address-and-correct-indivisible-crash-issues-once-and-for-all/"><u>How to Successfully Address and Correct 'Indivisible' Crash Issues Once and For All</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-oppo-reno-11-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Oppo Reno 11 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme GT Neo 5 SE? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/overcoming-the-msvcr110dll-error-in-helldivers-2-expert-tips-for-a-smooth-gameplay/"><u>Overcoming the MSVCR110.dll Error in Helldivers 2: Expert Tips for a Smooth Gameplay</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-mouse-pad-problems-in-windows-10-how-to-restore-scroll-functionality/"><u>Resolving Mouse Pad Problems in Windows 10 – How to Restore Scroll Functionality</u></a></li>
-<li><a href="https://extra-support.techidaily.com/spinning-stars-olympic-ice-celebrations-for-2024/"><u>Spinning Stars Olympic Ice Celebrations for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/tips-and-tricks-to-prevent-game-crashes-of-dragon-age-origins-while-playing-on-windows-10/"><u>Tips and Tricks to Prevent Game Crashes of Dragon Age: Origins While Playing on Windows 10</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/troubleshooting-guide-why-isnt-my-msi-mystic-light-functioning-on-windows/"><u>Troubleshooting Guide: Why Isn't My MSI Mystic Light Functioning on Windows?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/tune-into-unlimited-radio-stations-enjoy-free-access-and-real-time-airplay-via-internet-radio-player/"><u>Tune Into Unlimited Radio Stations - Enjoy Free Access and Real-Time Airplay via Internet Radio Player</u></a></li>
-<li><a href="https://techidaily.com/unable-to-save-excel-2007-workbook-issue-fix-2024-stellar-by-stellar-guide/"><u>Unable to Save Excel 2007 Workbook Issue Fix 2024 | Stellar</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-review-how-toolwiz-stacks-up-in-photo-app-landscape/"><u>[Updated] 2024 Approved Review How Toolwiz Stacks Up in Photo App Landscape</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/ace-your-gameplay-unpacking-the-premium-yet-affordable-performance-of-the-acer-predator-orion-5000/"><u>Ace Your Gameplay: Unpacking the Premium Yet Affordable Performance of the Acer Predator Orion 5000</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/amds-instinct-mi300a-powers-hpe-el-capitan-the-path-to-the-quickest-supercomputer/"><u>AMD's Instinct MI300A Powers HPE El Capitan: The Path to the Quickest Supercomputer</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/custom-pc-with-internal-coffee-machine-features-fully-equipped-roaster-and-grinder-for-tech-and-brew-enthusiasts/"><u>Custom PC with Internal Coffee Machine Features: Fully Equipped Roaster and Grinder for Tech & Brew Enthusiasts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-steps-for-installing-the-latest-xp-pen-driver-software/"><u>Easy Steps for Installing the Latest XP-PEN Driver Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-guide-to-converting-vob-files-to-wmv-format-using-windows/"><u>Effortless Guide to Converting VOB Files to WMV Format Using Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enhancing-zoom-sessions-with-video-filters-a-guide/"><u>Enhancing Zoom Sessions with Video Filters A Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-reasons-integrating-chatgpt-into-job-hunting-strategies/"><u>Essential Reasons: Integrating ChatGPT Into Job Hunting Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-visionos-enhancements-we-anticipate-from-apples-keynote-announcement-this-week-insights/"><u>Essential VisionOS Enhancements We Anticipate From Apple's Keynote Announcement This Week - Insights</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/get-the-best-of-both-worlds-affordable-intel-i5-gtx-4060-nzxt-gaming-pc-at-59month-or-indulge-in-luxury-with-core-i7-and-rtx-4070-ti-for-169-a-month/"><u>Get the Best of Both Worlds! Affordable Intel I5, GTX 4060 NZXT Gaming PC at $59/Month or Indulge in Luxury with Core I7 and RTX 4070 Ti for $169 a Month.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guia-paso-a-paso-para-conversion-de-vob-a-mp4-sin-problemas-en-sistemas-windows-10mac/"><u>Guía Paso a Paso Para Conversión De VOB a MP4 Sin Problemas en Sistemas Windows 10/Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-quick-and-simple-ways-to-take-a-capture-of-your-screen/"><u>How To: Quick & Simple Ways to Take a Capture of Your Screen</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-crafting-a-winning-windowsmac-skype-chat-circle/"><u>In 2024, Crafting a Winning Windows/Mac Skype Chat Circle</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/navigating-the-world-of-technology-at-toms-hardware-realm/"><u>Navigating the World of Technology at Tom's Hardware Realm</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/unlocking-the-world-of-electronics-with-toms-hardware-wisdom/"><u>Unlocking the World of Electronics with Tom's Hardware Wisdom</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Button Failures on iPhones - Learn How to Power On and Restart
-date: 2024-11-13T21:15:14.877Z
-updated: 2024-11-17T07:08:19.223Z
+date: 2024-11-25T21:16:39.157Z
+updated: 2024-11-26T18:25:42.541Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/23e666886afecfc048aeb4d50e179c98091d3b2c2
 
  The steps to restart iPhones are simple but vary according to the different sets of models. This guide shows you how you can restart any iPhone. It even shows you how to restart an iPhone if the buttons are broken and not working.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Restart an iPhone With Face ID
 
 ![How to Restart iPhone With Face ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-face-id.png)
@@ -31,23 +35,9 @@ thumbnail: https://thmb.techidaily.com/23e666886afecfc048aeb4d50e179c98091d3b2c2
 
  You have successfully restarted your iPhone with Face ID. Enter the device passcode to unlock it and get to the Home Screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Restart an iPhone With a Home Button
 
 ![How to Restart iPhone With Home Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-home-button.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Follow these steps to restart iPhone 6, 6S, 7, 8, and SE (2nd generation):
 
@@ -62,14 +52,11 @@ You have successfully restarted your iPhone with a Home button.
 
 ![How to Restart iPhone With Top Power Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-top-power-button.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you're using iPhone SE (1st generation), 5S, 5C, 5, 4S, 4, or earlier models, the steps are the same as above (for devices with the Home button). Just make sure to press the**Power button** on the top of the device instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Restart an iPhone if the Buttons Are Broken or Not Working
 
@@ -88,16 +75,21 @@ You have successfully restarted your iPhone with a Home button.
 
 ![iPhone Settings app showing General option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-general-option.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPhone Settings app showing Shut Down](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-shut-down.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iPhone Power off screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-power-off-screen.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -111,13 +103,6 @@ Close
 4. You'll see a pop-up on your screen. Tap**Restart** to confirm. Your iPhone will now turn off and turn on again all by itself.
 
 ![using siri to restart iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/muo-in-article-image-1200px-by-600px-21-ratio-23.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Often Should You Restart Your iPhone?
 
@@ -146,18 +131,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unlock-the-potential-of-slow-motion-creation-a-comprehensive-guide-to-impressive-instagram-videos/"><u>[New] 2024 Approved Unlock the Potential of Slow-Motion Creation A Comprehensive Guide to Impressive Instagram Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-debut-video-capture-review-for-2024/"><u>[Updated] Debut Video Capture Review for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-effortlessly-connect-vlc-for-networked-video-streaming/"><u>[Updated] Effortlessly Connect VLC for Networked Video Streaming</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/efficient-updates-boost-intels-graphics-win11-compatible/"><u>Efficient Updates: Boost Intels Graphics, Win11 Compatible</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-play-pokemon-games-on-your-iphone-or-ipad/"><u>How to Play Pokémon Games on Your iPhone or iPad</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>In 2024, Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>In 2024, Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-your-mac-a-complete-guide-to-leveraging-preview-features/"><u>Mastering Your Mac A Complete Guide to Leveraging Preview Features</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-10-robotic-voice-generators-with-comparison-table/"><u>New 2024 Approved Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/time-view-count-detectors-for-2024/"><u>Real-Time View Count Detectors for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/revolutionizing-communication-real-time-ai-voice-changer/"><u>Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-a-list-of-the-top-spongebob-voice-generators-for-2024/"><u>Updated A List of The Top SpongeBob Voice Generators for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/yamaha-mtrx-driver-windows-and-linux-instructions/"><u>Yamaha MTRX Driver - Windows & Linux Instructions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-enhancing-video-performance-in-instagram-reels-mobile/"><u>[New] 2024 Approved Enhancing Video Performance in Instagram Reels (Mobile)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-deciphering-your-pathway-to-youtubes-maker-land/"><u>[New] In 2024, Deciphering Your Pathway to YouTube's Maker Land</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-pulse-pounding-perfection-create-compelling-tiktok-videos-with-templates-for-2024/"><u>[New] Pulse-Pounding Perfection Create Compelling TikTok Videos with Templates for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-comparing-livestream-tools-is-streamlabs-the-answer-to-your-broadcast-needs/"><u>[Updated] 2024 Approved Comparing Livestream Tools Is Streamlabs the Answer to Your Broadcast Needs?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-efficiently-using-skypes-screen-share-feature-in-telecommuting-for-2024/"><u>[Updated] Efficiently Using Skype's Screen-Share Feature in Telecommuting for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-best-celebrity-voice-generator-tools-you-cannot-miss/"><u>2024 Approved Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x90s-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo X90S Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>In 2024, Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-transcribe-speech-absolutely-gratis/"><u>In 2024, Transcribe Speech, Absolutely Gratis</u></a></li>
+<li><a href="https://win-bits.techidaily.com/recover-missing-disk-partitions-quickly-on-windows-n-step-by-step-tutorial-video/"><u>Recover Missing Disk Partitions Quickly on Windows N: Step-by-Step Tutorial (Video)</u></a></li>
+<li><a href="https://win11.techidaily.com/top-6-tricks-for-unfreezing-right-click-menus-on-windows/"><u>Top 6 Tricks for Unfreezing Right-Click Menus on Windows</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>Updated In 2024, Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-5-tiktok-voice-generators-you-should-try/"><u>Updated In 2024, Top 5 TikTok Voice Generators You Should Try</u></a></li>
 </ul></div>
 
