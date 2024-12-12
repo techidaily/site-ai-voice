@@ -1,7 +1,7 @@
 ---
 title: "Resident Evil Village and PC Compatibility: Solving Runtime Errors"
-date: 2024-12-03T19:11:03.189Z
-updated: 2024-12-06T01:54:12.575Z
+date: 2024-12-07T03:25:12.453Z
+updated: 2024-12-11T22:58:15.544Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 ## Resident Evil Village PC Stability Fixes - Get Uninterrupted Gaming
 
 The long awaited horror game**Resident Evil Village** (RE8) is finally out now. However, according to reports, quite a lot of players have been experiencing game crashing at startup or whilst in game problem. If you’re in the same dilemma, don’t worry. It isn’t too hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Resident Evil Village Crashing on PC
 
@@ -54,19 +58,19 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your PC specs have been up to the mark but Resident Evil Village still crashes, please move on to **Fix 2** , below to begin troubleshooting.
 
@@ -82,10 +86,6 @@ To check the specs of your PC:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -106,10 +106,6 @@ You can disable Steam overlay with the following steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-steam-properties-1.jpg)
 3. In the **GENERAL** section, uncheck the **Enable Steam Overlay while in-game** box.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Disable-the-Steam-Overlay-for-Resident-Evil-Village-2.jpg)
 4. Run Resident Evil Village to see if the crashing problem is fixed. If it doesn’t cut it, please try**Fix 4** , below.
 
@@ -124,6 +120,10 @@ Here’s how:
 2. Click **Yes**  when UAC prompts for permissions to proceed.
 
  After that, launch Resident Evil Village game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 5** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify game integrity on Steam
 
@@ -153,7 +153,15 @@ Here’s how to close background apps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  RE8 still crashes? Don’t worry – there’s a couple more fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable HDR in RE 8 and Windows
 
@@ -176,27 +184,23 @@ Here’s how to close background apps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/desk.cpl_.png)
 2. Scroll to the Windows HD Color section and turn the toggle for**Play HDR games and apps** to**Of** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/windows-hdr-off.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have disabled HDR, run the game in the client and see if it still crashes. If it’s still on-going, please move on to **Fix 8** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Install the latest patch
 
  The game crash is likely to be a bug that comes along previous updates, which requires to be patched in the next release. To check if this is the case, you can install the latest patch, then run the game again to see if the crashing problem ceases.
 
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to **Fix 9** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9: Perform a clean boot
 
@@ -213,19 +217,15 @@ Here are the steps to perform a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services-1.png)
 3. Browse through the full list of services, make sure to   **check the boxes for the items that belong to your hardware manufacturers**  (such as Intel, AMD, and Qualcomm) and **uncheck the boxes for the rest** . Once finished, click **OK** to apply the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/esential.png)
 4. Restart your computer, then test to see if the game still crashes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * **If Resident Evil Village stops crashing** , you can try repeating these steps, disabling half of the services each time until you pinpoint the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Resident Evil Village still crashes** , please continue to **Fix 10** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 10: **Reinstall Resident Evil Village and Steam**
 
@@ -253,19 +253,15 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-comprehensive-walkthrough-using-every-feature-in-macs-preview-software/"><u>[Updated] 2024 Approved Comprehensive Walkthrough Using Every Feature in Mac's Preview Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-find-your-favorite-with-these-top-5-iphone-podcast-services/"><u>[Updated] Find Your Favorite with These Top 5 iPhone Podcast Services</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-finest-digital-voice-recorders/"><u>[Updated] In 2024, Finest Digital Voice Recorders</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-secure-and-sync-your-cinematic-recordings-across-platforms/"><u>[Updated] In 2024, Secure and Sync Your Cinematic Recordings Across Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/exclusive-list-of-windows-most-reliable-usage-monitors/"><u>Exclusive List of Windows' Most Reliable Usage Monitors</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>In 2024, A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>New A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-10-free-and-best-text-to-speech-generators/"><u>New Best 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-detailed-review-and-alternatives-of-vocaloid6-voice-generator-for-2024/"><u>New Detailed Review & Alternatives of VOCALOID6 Voice Generator for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/seamless-streaming-tackle-instagram-video-woes-for-2024/"><u>Seamless Streaming Tackle Instagram Video Woes for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-domain-services-errors-affecting-print-on-w11/"><u>Tackling Domain Services Errors Affecting Print on W11</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-rated-server-backup-software-updated-selection/"><u>Top-Rated Server Backup Software: Updated Selection</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>Updated 2024 Approved A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-billion-views-video-hall-youtubes-top-ever-watches/"><u>[New] 2024 Approved Billion-Views Video Hall YouTube's Top Ever Watches</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-released-caught-in-the-web-of-missing-shorts/"><u>[New] 2024 Approved Released Caught in the Web of Missing Shorts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-crafting-cinematic-tales-in-documentary-scripts/"><u>[New] Crafting Cinematic Tales in Documentary Scripts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-cutting-edge-pc-editing-techniques-enhancing-your-youtube-presence/"><u>2024 Approved Cutting-Edge PC Editing Techniques Enhancing Your YouTube Presence</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-honor-magic-5-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Honor Magic 5 Device</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-5-ai-voice-generators-online-supports-all-browsers/"><u>In 2024, Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/macs-best-picks-elite-4k-monitor-showdown/"><u>Mac's Best Picks Elite 4K Monitor Showdown</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-10-free-and-best-text-to-speech-generators/"><u>New In 2024, Best 10 Free and Best Text-to-Speech Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-the-most-direct-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>New The Most Direct Guide to Learning How to Clone Your Voice for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>Updated Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
 </ul></div>
 

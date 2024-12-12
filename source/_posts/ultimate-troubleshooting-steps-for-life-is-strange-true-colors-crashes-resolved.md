@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Troubleshooting Steps for Life Is Strange: True Colors Crashes Resolved"
-date: 2024-11-29T08:12:58.795Z
-updated: 2024-12-06T11:11:14.459Z
+date: 2024-12-06T10:41:42.852Z
+updated: 2024-12-11T17:01:31.476Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/5db3fyzhzw851-1200x471.png)
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -65,21 +61,25 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 2. Click**Change adapter options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -87,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -113,7 +109,11 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -152,22 +152,24 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-from-raw-footage-to-broadcast-gold-twitch-recording-techniques/"><u>[New] 2024 Approved From Raw Footage to Broadcast Gold Twitch Recording Techniques</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-conducting-collaborative-discussions-in-a-hassle-free-manner-via-skype-across-operating-systems/"><u>[New] Conducting Collaborative Discussions in a Hassle-Free Manner via Skype Across Operating Systems</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-measure-the-performance-of-igtv-videos/"><u>[New] How to Measure the Performance of IGTV Videos?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-transcription-made-simple-at-no-cost/"><u>[Updated] In 2024, Transcription Made Simple At No Cost</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-perfectly-timed-instagram-content-our-list-of-the-top-8-schedulers/"><u>[Updated] Perfectly Timed Instagram Content - Our List of the Top 8 Schedulers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-effortless-post-scheduling-our-list-of-top-8-apps-iosandroid-compatible/"><u>2024 Approved Effortless Post Scheduling Our List of Top 8 Apps, iOS/Android-Compatible</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-the-best-text-voice-generators-for-all-platforms/"><u>2024 Approved The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/effortless-drive-cleanup-with-bitraser-available-now-for-immediate-purchase/"><u>Effortless Drive Cleanup with BitRaser – Available Now for Immediate Purchase</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-ai-depths-power-less-to-powerful/"><u>Exploring AI Depths: Power-Less to Powerful</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-google-pixel-fold-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Google Pixel Fold to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-best-narrator-voice-generators/"><u>In 2024, Best Narrator Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-latest-top-darth-vader-voice-generators-for-all-platforms/"><u>New 2024 Approved Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>New 2024 Approved Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-10-robotic-voice-generators-with-comparison-table/"><u>New In 2024, Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>New In 2024, Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Updated 2024 Approved Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-5-quandale-dingle-voice-generators/"><u>Updated In 2024, Best 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-rapidly-enhance-your-content-reach-with-simple-steps/"><u>[New] 2024 Approved Rapidly Enhance Your Content Reach with Simple Steps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-estimating-24-hour-films-data-footprint/"><u>[Updated] Estimating 24-Hour Film's Data Footprint</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-tiktok-content-mastery-learn-to-alter-digit-scenes-effectively/"><u>[Updated] In 2024, TikTok Content Mastery Learn to Alter Digit Scenes Effectively</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>2024 Approved Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-5-quandale-dingle-voice-generators/"><u>Best 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-5-tiktok-voice-generators-you-should-try/"><u>Best 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-iphone-13-pro-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and iPhone 13 Pro without Apple Account</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-explore-unrestricted-stock-content-in-key-4-video-channels/"><u>In 2024, Explore Unrestricted Stock Content in Key 4 Video Channels</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavis-no-cost-solution-how-to-change-mp4-audio-m4a-to-vob-video-online-easily/"><u>Movavi's No-Cost Solution: How to Change MP4 Audio (M4A) to VOB Video Online Easily</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-5-quandale-dingle-voice-generators/"><u>New Best 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>New In 2024, Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-ai-rap-voice-generators-you-should-try/"><u>New In 2024, Best AI Rap Voice Generators You Should Try</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-roku-no-problem-watch-your-favorite-shows-on-the-roku-channel-with-these-alternatives/"><u>No Roku? No Problem! Watch Your Favorite Shows on the Roku Channel with These Alternatives</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/safeguarding-against-crypto-scams-effective-strategies-by-yl-computing/"><u>Safeguarding Against Crypto-Scams: Effective Strategies by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-the-problem-dealing-with-non-functional-winplusshiftpluss-in-windows-versions-11-and-10/"><u>Solve the Problem: Dealing With Non-Functional Win+Shift+S in Windows Versions 11 & 10</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-10-robotic-voice-generators-with-comparison-table/"><u>Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-your-windows-computers-non-functional-built-in-camera/"><u>Troubleshooting Steps: Resolving Your Windows Computer's Non-Functional Built-In Camera</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-ai-rap-voice-generators-upgrade-your-rap/"><u>Updated 2024 Approved Top AI Rap Voice Generators Upgrade Your Rap</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-10-robotic-voice-generators/"><u>Updated Top 10 Robotic Voice Generators</u></a></li>
 </ul></div>
 

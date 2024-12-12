@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Russian Tech Breakthrough: 128-Core Servers Set to Power Elite Supercomputers"
-date: 2024-12-01T23:25:54.411Z
-updated: 2024-12-05T20:29:08.385Z
+date: 2024-12-10T02:32:15.350Z
+updated: 2024-12-11T16:44:30.373Z
 tags:
   - desktop
 categories:
@@ -16,7 +16,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
@@ -41,7 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -67,22 +67,21 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhancing-youtube-popularity-editing-and-optimizing-content-metadata/"><u>[New] In 2024, Enhancing YouTube Popularity Editing & Optimizing Content Metadata</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-youtubes-earnings-explained-making-money-from-ads/"><u>2024 Approved YouTube’s Earnings Explained Making Money From Ads</u></a></li>
-<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-11-pro-max-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off Apple iPhone 11 Pro Max without Password</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-narrator-voice-generators-for-2024/"><u>Best Narrator Voice Generators for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-mp4-to-ogv-conversion-no-cost/"><u>Effortless MP4 to OGV Conversion (No Cost)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-synergy-between-humans-and-computers-through-gestures/"><u>In 2024, Synergy Between Humans & Computers Through Gestures</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/life-q30-headphones-with-anc-a-cost-effective-review/"><u>Life Q30 Headphones with ANC - A Cost-Effective Review</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-latest-top-darth-vader-voice-generators-for-all-platforms/"><u>New In 2024, Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-your-iphone-wi-fi-sharing-issues-a-step-by-step-fix-for-non-working-hotspot-feature/"><u>Solving Your iPhone Wi-Fi Sharing Issues - A Step-by-Step Fix for Non-Working Hotspot Feature</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/the-guide-to-learning-all-the-details-about-voice-cloning/"><u>The Guide to Learning All the Details About Voice Cloning</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-gadget-analysis-by-toms-hardware-stay-informed/"><u>Ultimate Gadget Analysis by Tom's Hardware - Stay Informed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-exceptional-4th-of-july-promotions-for-phones-and-plans-insights/"><u>Unveiling Exceptional 4Th of July Promotions for Phones and Plans Insights</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-5-quandale-dingle-voice-generators-for-2024/"><u>Updated Best 5 Quandale Dingle Voice Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-ai-rap-voice-generators-you-should-try/"><u>Updated In 2024, Best AI Rap Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-the-guide-to-learning-all-the-details-about-voice-cloning/"><u>Updated The Guide to Learning All the Details About Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-the-most-straightforward-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>Updated The Most Straightforward Guide to Learning How to Clone Your Voice for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-6-mickey-mouse-voice-generators-providing-efficient-results-for-2024/"><u>Updated Top 6 Mickey Mouse Voice Generators Providing Efficient Results for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-5-step-plan-for-clearing-overexposed-iphone-hd-videos-using-premiere-pro/"><u>[New] In 2024, 5 Step Plan for Clearing Overexposed iPhone HD Videos Using Premiere Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-record-video-on-google-hangouts/"><u>[Updated] How to Record Video on Google Hangouts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-premier-10-moba-titles-for-android-devotees/"><u>2024 Approved Premier 10 MOBA Titles for Android Devotees</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-shortcuts-to-turn-off-instagrams-igtv/"><u>2024 Approved Shortcuts to Turn Off Instagram's IGTV</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-10-robotic-voice-generators/"><u>2024 Approved Top 10 Robotic Voice Generators</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airdrop-failing-rectify-it-swiftly-using-these-16-essential-tricks/"><u>AirDrop Failing? Rectify It Swiftly Using These 16 Essential Tricks!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-v27-pro-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo V27 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-6-mickey-mouse-voice-generators/"><u>In 2024, Top 6 Mickey Mouse Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>New 2024 Approved The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning-for-2024/"><u>New The Ultimate Guide to Learning All the Details About Voice Cloning for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/signature-strategies-to-resolve-visual-issues/"><u>Signature Strategies to Resolve Visual Issues</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-4-hatsune-miku-voice-ai-generators-for-all-times/"><u>Top 4 Hatsune Miku Voice AI Generators for All Times</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>Updated 2024 Approved Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-v30-lite-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo V30 Lite 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Addressing the Issue: No More Crashes in Mir4 when Played on Windows Machines"
-date: 2024-12-02T09:46:27.070Z
-updated: 2024-12-06T13:16:43.487Z
+date: 2024-12-09T05:33:15.935Z
+updated: 2024-12-11T17:46:47.470Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/cd6606343976e20cf388b00d45efaf1c0dc2657ac
 
  If you happen to be one of them, don’t worry. Here’re some working fixes that could bring back your game without frying your graphics card.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the charm.
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/cd6606343976e20cf388b00d45efaf1c0dc2657ac
 4. [**Change in-game graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Increase your virtual memory**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Delete specific game files](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of game files
 
@@ -43,15 +51,7 @@ thumbnail: https://thmb.techidaily.com/cd6606343976e20cf388b00d45efaf1c0dc2657ac
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it crashes again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If the problem persists, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -66,6 +66,10 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
@@ -76,7 +80,7 @@ If the problem persists, take a look at the next fix below.
  If the latest graphics driver doesn’t give you luck, go ahead and try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure your system is up to date
@@ -89,8 +93,16 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
@@ -102,10 +114,6 @@ Here’s how you can check for updates manually:
  Once you’ve installed all the updates, restart your PC and check if New World crashes again.
 
 If your system is already up to date, you can try the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Change in-game graphics settings
 
@@ -130,32 +138,20 @@ Now you can play and check if the crash stops.
 2. Under the **Performance**  section, click **Settings…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this trick doesn’t do the trick for you, take a look at the next solution.
 
@@ -168,6 +164,10 @@ Now you can play and check if the crash stops.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**%appdata%** and click**OK** .  
 ![how to clean uninstall Discord](https://images.drivereasy.com/wp-content/uploads/2021/07/appdata.jpg)
 2. Go to**AGS > New World** and delete the following:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
    * The**savedata** folder  
    * The**user\_preload\_settings** file
@@ -192,22 +192,17 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-upset-timeline-trail-on-tiktok-undo-recent-loadout/"><u>[New] In 2024, Upset Timeline Trail on TikTok – Undo Recent Loadout</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>2024 Approved The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>2024 Approved Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-top-10-robotic-voice-generators-with-comparison-table/"><u>2024 Approved Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/backtracking-live-on-twitch-fifteen-ingenious-ways-to-revamp-streams/"><u>Backtracking Live on Twitch Fifteen Ingenious Ways to Revamp Streams</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-digital-resources-for-mastery-in-prompt-crafting/"><u>Essential Digital Resources for Mastery in Prompt Crafting</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-the-best-text-voice-generators-for-all-platforms-for-2024/"><u>New The Best Text Voice Generators for All Platforms for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/record-videos-flawlessly-on-your-computer-discover-10-complimentary-methods-with-movavi/"><u>Record Videos Flawlessly on Your Computer: Discover 10 Complimentary Methods with Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-the-for-you-recommendations-on-instagram/"><u>Step-by-Step Guide: Removing the 'For You' Recommendations on Instagram</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/transformez-vos-videos-avec-la-technologie-avancee-de-winxvideo-edition-montage-and-conversion-facile/"><u>Transformez Vos Vidéos Avec La Technologie Avancée De Winxvideo : Édition, Montage & Conversion Facile</u></a></li>
-<li><a href="https://win-able.techidaily.com/unraveling-network-snags-expert-strategies-for-resolving-new-world-connectivity-problems/"><u>Unraveling Network Snags: Expert Strategies for Resolving New World Connectivity Problems</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unveiling-the-process-for-achieving-facebooks-trusted-marker-for-2024/"><u>Unveiling the Process for Achieving Facebook's Trusted Marker for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>Updated 2024 Approved The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>Updated In 2024, Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-virtual-classrooms-future-learning-unleashed/"><u>[New] 2024 Approved Virtual Classrooms Future Learning Unleashed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-improving-online-sessions-with-increased-zoom-for-2024/"><u>[New] Improving Online Sessions with Increased Zoom for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-journey-into-av1-the-newcomers-guidebook/"><u>[New] Journey Into AV1 The Newcomer's Guidebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-brisksnatch-slowframe-capture-for-2024/"><u>[Updated] BriskSnatch SlowFrame Capture for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-constructing-visually-captivating-photo-collections/"><u>[Updated] Constructing Visually Captivating Photo Collections</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-timeless-tech-posed-shots-of-old-iphone-x/"><u>[Updated] In 2024, Timeless Tech Posed Shots of Old iPhone X</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blitz-games-leading-lightning-fast-titles-for-laptopsphones-for-2024/"><u>Blitz Games Leading Lightning-Fast Titles for Laptops/Phones for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/differences-unveiled-ar-vs-vr-vs-mr-vs-xr-explained/"><u>Differences Unveiled: AR Vs. VR Vs. MR Vs. XR Explained</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/the-most-direct-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>The Most Direct Guide to Learning How to Clone Your Voice for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated 2024 Approved Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-10-free-and-best-text-to-speech-generators/"><u>Updated In 2024, Best 10 Free and Best Text-to-Speech Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-5-tiktok-voice-generators-you-should-try/"><u>Updated In 2024, Best 5 TikTok Voice Generators You Should Try</u></a></li>
 </ul></div>
 

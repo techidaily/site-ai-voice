@@ -1,7 +1,7 @@
 ---
 title: Head-to-Head Analysis of the Apple Watch S9 and Fitbit Charge 6 Features
-date: 2024-11-30T09:55:42.740Z
-updated: 2024-12-05T17:41:43.078Z
+date: 2024-12-05T16:19:37.579Z
+updated: 2024-12-12T08:37:08.018Z
 categories:
   - BestProducts
 description: This Article Describes Head-to-Head Analysis of the Apple Watch S9 and Fitbit Charge 6 Features
@@ -18,7 +18,7 @@ thumbnail: https://www.lifewire.com/thmb/iDI11o-Tz1aGQycZmwm5SDGA5sQ=/400x300/fi
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/bJGZVvLPIuXJptw8uPYtObxbpMQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
@@ -47,10 +47,6 @@ thumbnail: https://www.lifewire.com/thmb/iDI11o-Tz1aGQycZmwm5SDGA5sQ=/400x300/fi
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/EEEMCdq2FsBPMcT8nPUgndDIw4A=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
 
 [View On Amazon](https://www.amazon.com/dp/B078WG6DBH/?tag=lifewire-onsite-prod-20&ascsubtag=4796693%7Cn899f0376278d4881a5af76b596b54aa000%7CB078WG6DBH) [View On EBay](https://www.ebay.com/itm/Sony-XBR65X850F-65-Inch-4K-Ultra-HD-Smart-LED-TV-2018-Model/312237520273)
@@ -73,10 +69,6 @@ thumbnail: https://www.lifewire.com/thmb/iDI11o-Tz1aGQycZmwm5SDGA5sQ=/400x300/fi
 
  Though Sony panels are sometimes on the expensive end of the spectrum, there are some older Sony 4K TVs that can be had for a nice little discount. One such TV is Sony’s XBR65X850F from their X850F series. This specific model has now been replaced by the X850G, but that doesn’t mean you necessarily need to go with the most current model. In fact, snagging one of these earlier generation sets can save you some cash without forcing you to compromise too much.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: Standard Sony**
 
  The XBR65X850F's design is a combination of sleek and workmanlike. The stand on this Sony is pretty common for TVs these days, with two V-shaped feet that stick out to either side. While they look aluminum, these are actually plastic too, with merely an aluminum finish. They are decently steady, but we noticed a bit of wobble if you move the TV around. It should be plenty sturdy for most, though you will need a fairly wide stand for them to rest on since they stick out so far. There’s also no room for adjusting the unit up or down, but they’re tall enough to fit a soundbar underneath if you want. They also flip open on the top if you want to use them for some clever cable management.
@@ -84,7 +76,7 @@ thumbnail: https://www.lifewire.com/thmb/iDI11o-Tz1aGQycZmwm5SDGA5sQ=/400x300/fi
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/v7wi7isxu06LAoWNZK3dJ908mCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-4-cb1a370bd78244b383c802010a570313.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
@@ -101,11 +93,19 @@ thumbnail: https://www.lifewire.com/thmb/iDI11o-Tz1aGQycZmwm5SDGA5sQ=/400x300/fi
 
  On the front of the screen, the bezels are a little thicker than some of the 4K TVs we’ve reviewed, but they’re pretty thin and shouldn’t distract. There’s your standard anti-glare coating found on the screen here too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Stick to the on-screen instructions**
 
  Setting up pretty much any modern-day smart TV is an easy process, so just stick to the on-screen instructions and you’ll be golden. Go ahead and unpack it all, tear off that plastic film, plug in the power cable, and turn on the device.
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vvIZMf3BNAr8JmiDAVdv4o3ceHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-2-7eabd63fb6c0415ab75fd927d664a841.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -121,10 +121,6 @@ thumbnail: https://www.lifewire.com/thmb/iDI11o-Tz1aGQycZmwm5SDGA5sQ=/400x300/fi
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/r5reh9LkA7QvieX1JzBg5J8qNjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-5-00a73edbf91c48c6aa2718ab211f2e5d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
 
  However, IPS panels are notoriously bad for black uniformity and backlight bleed, which can cause clouding around the edges. We found this to be the case on our XBR65X850F, and while not unusable, it’s probably not the best option for viewing in dark environments because of this. The TV does have solid gray uniformity however, with no dirty screen effect. This is a huge boon if you’re a big sports fan.
@@ -139,11 +135,11 @@ thumbnail: https://www.lifewire.com/thmb/iDI11o-Tz1aGQycZmwm5SDGA5sQ=/400x300/fi
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vRvHMYGCPPg8nNrLBKdXwLPfwzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-3-9f0e77e7fa1d4533877316afb591cc71.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Audio Quality: Loud, but distorted**
 
@@ -172,6 +168,10 @@ thumbnail: https://www.lifewire.com/thmb/iDI11o-Tz1aGQycZmwm5SDGA5sQ=/400x300/fi
  On Sony’s website, the 65-inch model we tested here is listed at $1,300, the 75 at $2,300, and the 85 at a whopping $4,000\. Now these prices aren’t exactly accurate, especially since these are an older series. Typically you can find the 65-inch for about $1,100 or so. The other models are also heavily discounted depending on where you look, so definitely shop around. It’s likely that you can snag them for even less during sales.
 
  But how do these prices stack up against comparable TVs from competitors like LG or Samsung? Taking a quick look around online, you can easily save a few hundred dollars by going with a comparable LG TV, while Samsung was pretty closely matched with Sony. In the end, the price for the X850F series isn’t the best bang for your buck, but it ain’t bad either.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Sony XBR65X850F vs. Samsung UN65RU8000**
 
@@ -220,22 +220,17 @@ thumbnail: https://www.lifewire.com/thmb/iDI11o-Tz1aGQycZmwm5SDGA5sQ=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-youtubes-comment-analysis/"><u>[Updated] Mastering YouTube's Comment Analysis</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-proven-ways-to-archive-your-whatsapp-chat-history-efficiently/"><u>[Updated] Proven Ways to Archive Your WhatsApp Chat History Efficiently</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>2024 Approved A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/experience-next-level-data-collection-and-targeting-powered-by-cookiebot/"><u>Experience Next-Level Data Collection and Targeting Powered by Cookiebot</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-yuva-3-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Yuva 3 Pro Devices | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-12-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the Apple iPhone 12 Without Previous Owner?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v27-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V27 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://win-tips.techidaily.com/small-but-mighty-unpacking-the-cost-effective-speed-of-latest-sandisk-usbs-at-zdnet/"><u>Small but Mighty: Unpacking the Cost-Effective Speed of Latest SanDisk USBs at ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-for-utilizing-photo-cutout-features-on-your-iphones-ios-16/"><u>The Ultimate Tutorial for Utilizing Photo Cutout Features on Your iPhone's iOS 16</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-10-robotic-voice-generators/"><u>Top 10 Robotic Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-10-robotic-voice-generators-for-2024/"><u>Top 10 Robotic Voice Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-ai-rap-voice-generators-you-should-try-for-2024/"><u>Updated Best AI Rap Voice Generators You Should Try for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated In 2024, Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning-for-2024/"><u>Updated The Ultimate Guide to Learning All the Details About Voice Cloning for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Updated Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-breaking-barriers-a-comprehensive-guide-to-dispute-reporting-without-confrontation-on-discord/"><u>[New] 2024 Approved Breaking Barriers A Comprehensive Guide to Dispute Reporting Without Confrontation on Discord</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tap-into-endless-visual-archives-from-top-4-video-platforms/"><u>2024 Approved Tap Into Endless Visual Archives From Top 4 Video Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire-for-2024/"><u>Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/full-day-power-ultimate-tips-for-extending-your-macbooks-battery-life-insights/"><u>Full-Day Power: Ultimate Tips for Extending Your MacBook's Battery Life - Insights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x8b-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Honor X8b Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-methods-to-resuscitate-windows-photo-viewer-on-latest-os/"><u>In 2024, Methods to Resuscitate Windows Photo Viewer on Latest OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-regrettable-path-to-a-3500-card-ownership/"><u>The Regrettable Path to a $3,500 Card Ownership</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-list-all-rounder-camcorders/"><u>Ultimate List All-Rounder Camcorders</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-the-best-text-voice-generators-for-all-platforms/"><u>Updated In 2024, The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-10-free-and-best-text-to-speech-generators/"><u>Updated In 2024, Top 10 Free and Best Text-to-Speech Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>Updated Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
 </ul></div>
 

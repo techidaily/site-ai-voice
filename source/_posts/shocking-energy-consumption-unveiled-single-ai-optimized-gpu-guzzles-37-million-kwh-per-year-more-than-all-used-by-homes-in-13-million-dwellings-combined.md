@@ -1,7 +1,7 @@
 ---
 title: "Shocking Energy Consumption Unveiled: Single AI-Optimized GPU Guzzles 3.7 Million kWh Per Year, More Than All Used by Homes in 1.3 Million Dwellings Combined"
-date: 2024-12-02T10:03:10.849Z
-updated: 2024-12-06T00:12:01.120Z
+date: 2024-12-11T04:09:07.587Z
+updated: 2024-12-11T16:09:19.495Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,16 +80,24 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-best-macos-sierra-tools-for-optimized-video-transformation/"><u>[New] In 2024, Best macOS Sierra Tools for Optimized Video Transformation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-digital-humorist-hub/"><u>[New] In 2024, Digital Humorist Hub</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-lut-techniques-for-professional-color-grading-and-correction/"><u>[Updated] LUT Techniques for Professional Color Grading and Correction</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-rapid-clip-maker-with-preloaded-narration-option/"><u>[Updated] Rapid Clip Maker with Preloaded Narration Option</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-ultimate-guide-to-iphones-free-photo-boosting-software/"><u>In 2024, The Ultimate Guide to iPhone’s FREE Photo Boosting Software</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-youtube-masterclass-beginners-kit-free-courses-collection/"><u>In 2024, YouTube Masterclass Beginners Kit Free Courses Collection</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>New 2024 Approved The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-5-quandale-dingle-voice-generators/"><u>Top 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-celebrity-voice-generator-tools-to-transform-your-voice/"><u>Updated 2024 Approved Best Celebrity Voice Generator Tools to Transform Your Voice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-narrator-voice-generators/"><u>Updated In 2024, Best Narrator Voice Generators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-10plus-slow-motion-video-editing-software/"><u>Updated Top 10+ Slow Motion Video Editing Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-capturing-your-desktop-in-winoses-effortlessly/"><u>[New] In 2024, Capturing Your Desktop in WinOSes Effortlessly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-navigating-through-vlcs-recording-options/"><u>[New] Navigating Through VLC's Recording Options</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-discover-times-tales-top-10-historical-channels-to-study-with/"><u>[Updated] 2024 Approved Discover Time's Tales Top 10 Historical Channels to Study With</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-soundtrack-strategy-amplifying-unboxing-content-for-2024/"><u>[Updated] The Soundtrack Strategy Amplifying Unboxing Content for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>2024 Approved A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-6-mickey-mouse-voice-generators/"><u>2024 Approved Top 6 Mickey Mouse Voice Generators</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/cyberpunk-2077-and-windows-11-ensuring-your-gpu-is-fully-utilized-problem-solved/"><u>Cyberpunk 2077 and Windows 11: Ensuring Your GPU Is Fully Utilized - Problem Solved!</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-the-monotone-interface-8-fixes-for-windows/"><u>Eradicating the Monotone Interface: 8 Fixes for Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-nab-the-early-bird-spidey-edition/"><u>How to Nab the Early Bird Spidey Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-error-0x80041015-in-microsoft-office/"><u>How to Reset Error 0X80041015 in Microsoft Office</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-lenovo-thinkphone-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Lenovo ThinkPhone to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/jpegpbm-movavi/"><u>JPEG格式網頁中文PBM轉換無償服務 - Movavi</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-5-ai-voice-generators-online-supports-all-browsers/"><u>New 2024 Approved Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>New Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-6-free-talking-stock-photo-sites-for-2024/"><u>New Top 6 Free Talking Stock Photo Sites for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-6-mickey-mouse-voice-generators/"><u>Top 6 Mickey Mouse Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-latest-top-darth-vader-voice-generators-for-all-platforms/"><u>Updated In 2024, Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
 </ul></div>
 

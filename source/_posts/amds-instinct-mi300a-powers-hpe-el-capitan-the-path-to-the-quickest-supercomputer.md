@@ -1,7 +1,7 @@
 ---
 title: "AMD's Instinct MI300A Powers HPE El Capitan: The Path to the Quickest Supercomputer"
-date: 2024-12-02T07:09:33.698Z
-updated: 2024-12-05T16:25:08.138Z
+date: 2024-12-06T07:02:11.039Z
+updated: 2024-12-12T01:00:03.023Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
  The case itself looks like a conventional carrying case. The outer shell appears to be hard plastic, with metal supporting rails filling the lips of the case. The case features two latching mechanisms and a mechanism to attach a lock for[security](https://www.tomshardware.com/tag/security) . You can transport the travel case by rolling it on its two wheels or with another handle that allows you to carry it like a briefcase.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -58,19 +58,20 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-essential-buying-tips-for-high-end-360-camera-systems/"><u>[New] 2024 Approved Essential Buying Tips for High-End 360 Camera Systems</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-best-facebook-practices-videographers-dilemrante/"><u>[Updated] Best Facebook Practices Videographer's Dilemrante</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-enhance-your-content-creation-with-these-top-12-cameras/"><u>[Updated] In 2024, Enhance Your Content Creation with These Top 12 Cameras</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-most-acclaimed-cloud-services-on-android-platform/"><u>[Updated] In 2024, The Most Acclaimed Cloud Services on Android Platform</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-top-ai-rap-voice-generators-upgrade-your-rap/"><u>2024 Approved Top AI Rap Voice Generators Upgrade Your Rap</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-the-best-text-voice-generators-for-all-platforms/"><u>In 2024, The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-5-tiktok-voice-generators-you-should-try/"><u>In 2024, Top 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-x100-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo X100 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-10-robotic-voice-generators-with-comparison-table-for-2024/"><u>Top 10 Robotic Voice Generators (with Comparison Table) for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-ai-enhanced-virtual-crime-sleuthing-interactive-murder-mysteries/"><u>Top 4 AI-Enhanced Virtual Crime Sleuthing: Interactive Murder Mysteries</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-mods-latest-innovation-the-intuitive-and-practical-e-bike-sidecar/"><u>Unveiling Mod's Latest Innovation: The Intuitive and Practical E-Bike Sidecar</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Updated A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/your-daily-diary-staying-fresh-and-avoiding-common-mistakes-for-2024/"><u>Your Daily Diary Staying Fresh & Avoiding Common Mistakes for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/bes-visual-impact-crafting-effective-thumbnails/"><u>YouTube's Visual Impact Crafting Effective Thumbnails</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-10-best-live-streaming-apps-for-android-and-iphone/"><u>[New] FREE 10 Best Live Streaming Apps for Android and iPhone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-insights-where-to-invest-in-youtube-creator-revenue/"><u>[Updated] Expert Insights Where to Invest in YouTube Creator Revenue</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-craft-engaging-titlescaptions-with-microsofts-photos-app-win-11/"><u>2024 Approved Craft Engaging Titles/Captions with Microsoft's Photos App (Win 11)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-infinix-zero-5g-2023-turbo-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/expert-opinion-the-pros-and-cons-of-using-google-maps-for-iphone-users/"><u>Expert Opinion: The Pros and Cons of Using Google Maps for iPhone Users</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/exploring-performance-and-features-of-asus-rt-ac88u-a-comprehensive-gaming-router-assessment/"><u>Exploring Performance and Features of Asus RT-AC88U - A Comprehensive Gaming Router Assessment</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/how-to-successfully-address-and-correct-indivisible-crash-issues-once-and-for-all/"><u>How to Successfully Address and Correct 'Indivisible' Crash Issues Once and For All</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-max-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS Max To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-11-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 11 in the Best Ways</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/overcoming-setbacks-troubleshooting-a-non-launching-evil-genius-2-game/"><u>Overcoming Setbacks: Troubleshooting a Non-Launching Evil Genius 2 Game</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/piece-by-piece-crafting-the-mosaic-photo-collage-way-for-2024/"><u>Piece-by-Piece Crafting The Mosaic Photo Collage Way for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/reflect-on-one-misconception-about-cultural-relativism-mentioned-in-class-then-describe-how-you-would-address-this-misunderstanding-with-someone-from-a-diff22/"><u>Reflect on One Misconception About Cultural Relativism Mentioned in Class, Then Describe How You Would Address This Misunderstanding with Someone From a Different Culture.</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/tips-and-tricks-to-prevent-game-crashes-of-dragon-age-origins-while-playing-on-windows-10/"><u>Tips and Tricks to Prevent Game Crashes of Dragon Age: Origins While Playing on Windows 10</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/troubleshooting-guide-why-isnt-my-msi-mystic-light-functioning-on-windows/"><u>Troubleshooting Guide: Why Isn't My MSI Mystic Light Functioning on Windows?</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimative-losung-fur-festplattenloschprogramme-professionelles-formatieren-mit-systemdatenverlust-garantie/"><u>Ultimative Lösung Für Festplattenlöschprogramme: Professionelles Formatieren Mit Systemdatenverlust-Garantie!</u></a></li>
 </ul></div>
 

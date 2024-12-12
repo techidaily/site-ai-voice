@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the MSVCR110.dll Error in Helldivers 2: Expert Tips for a Smooth Gameplay"
-date: 2024-11-29T02:35:02.939Z
-updated: 2024-12-05T23:11:58.772Z
+date: 2024-12-08T12:22:19.919Z
+updated: 2024-12-12T08:43:01.072Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
  The most anticipated racer of the year, Forza Horizon 5, was premiered on November 5th and officially released on the 9th. Like any new title, you can expect that it comes with bugs and glitches. Many players are actually reporting**severe lags and connection issues** while playing Forza Horizon 5\. If you’re in the same boat, no worries! We’ve prepared a few working fixes for you to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. In the **Network**  column, select the bandwidth-hogging program(s), then click **End Task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/close-bandwidth-hogging-program.jpg)
 
  Hopefully the lagging issue doesn’t return after you close the bandwidth-hogging programs. If that’s the case, we’d suggest you play FH5 with the least programs running in the background according to your internet service capacity. Or, consult your internet service provider and consider upgrading your plan.
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
 If the lagging issue persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Test your internet connection
@@ -90,10 +94,6 @@ If the lagging issue persists, try the next fix.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -113,11 +113,15 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Forza Horizon 5 is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Forza Horizon 5 in the exception list, follow the steps below to unblock the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Add Forza Horizon 5 to the exception list
@@ -132,10 +136,6 @@ If the lagging issue persists, try the next fix.
 4. Find Forza Horizon 5 on the list,**tick the checkbox of Private network** , and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block Forza Horizon 5 when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If the lagging issue persists, try the next fix.
 
@@ -157,6 +157,10 @@ If this fix doesn’t help with your problem, try the next fix.
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1: Flush your DNS
 
  Flushing DNS will clear the DNS cache from your PC. When the DNS cache is removed, your PC will need to obtain the data from the DNS server every time it needs to access a new website. This may solve the lagging issue in Forza Horizon 5 if it’s triggered by invalid or corrupt DNS cache data
@@ -169,7 +173,7 @@ Here’s how to do it:
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
@@ -178,7 +182,11 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -189,16 +197,8 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
@@ -212,7 +212,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this fix doesn’t solve your problem, no worries, there’s one more fix you can try.
@@ -245,16 +245,21 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ptimal-video-techniques-to-dominate-freefire-vlogs/"><u>[New] Optimal Video Techniques to Dominate FreeFire Vlogs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/begin-recording-webcam-via-vlc/"><u>Begin Recording Webcam via VLC</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tless-media-transition-from-mp3-to-youtube-video-posting/"><u>Effortless Media Transition From MP3 to YouTube Video Posting</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/lol-gaming-on-air-top-3-recording-methods/"><u>LOL Gaming On Air Top 3 Recording Methods</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>New In 2024, Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-5-quandale-dingle-voice-generators/"><u>Updated 2024 Approved Best 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>Updated In 2024, Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-latest-top-darth-vader-voice-generators-for-all-platforms-for-2024/"><u>Updated Latest Top Darth Vader Voice Generators for All Platforms for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-real-time-ai-voice-changer-revolutionizing-communication-for-2024/"><u>Updated Real-Time AI Voice Changer Revolutionizing Communication for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-discovering-those-who-left-my-instagram-circle/"><u>[Updated] 2024 Approved Discovering Those Who Left My Instagram Circle</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-illustration-insights-elevating-text-in-three-dimensions/"><u>[Updated] 2024 Approved Illustration Insights Elevating Text in Three Dimensions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-violation-woes-abrupt-creative-cut-off/"><u>[Updated] In 2024, Violation Woes Abrupt Creative Cut-Off</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-spotlight-on-the-top-8-authentic-video-promotion-methods/"><u>[Updated] Spotlight on the Top 8 Authentic Video Promotion Methods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-guide-to-screen-recording-on-a-dell-workstation/"><u>[Updated] The Ultimate Guide to Screen Recording on a Dell Workstation</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>In 2024, Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-cultivate-classics-essential-farming-game-lists/"><u>In 2024, Cultivate Classics Essential Farming Game Lists</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>In 2024, Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New In 2024, A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-5-quandale-dingle-voice-generators/"><u>New In 2024, Top 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/real-time-ai-voice-changer-revolutionizing-communication/"><u>Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
+<li><a href="https://games-able.techidaily.com/revel-in-retro-gaming-a-comprehensive-guide-to-ps3-emulators-on-pc/"><u>Revel in Retro Gaming: A Comprehensive Guide to PS3 Emulators on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-guide-to-achieving-smoother-graphics-and-better-response-times-with-elevated-fps-in-tainted-grail-conquer-your-battles/"><u>The Ultimate Guide to Achieving Smoother Graphics and Better Response Times with Elevated FPS in Tainted Grail - Conquer Your Battles</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated 2024 Approved Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>Updated Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-repair-mastery-5-easy-methods/"><u>Windows Repair Mastery: 5 Easy Methods</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Address and Correct 'Indivisible' Crash Issues Once and For All
-date: 2024-12-01T00:01:31.549Z
-updated: 2024-12-05T16:18:00.601Z
+date: 2024-12-09T12:12:51.059Z
+updated: 2024-12-12T00:30:14.737Z
 tags:
   - win11
   - win10
@@ -27,7 +27,15 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-library-1200x834.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If that doesn’t work for you, try the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -38,10 +46,6 @@ If that doesn’t work for you, try the fixes below.
 3. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Store troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Run a full scan of your PC](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Allow Minecraft installer through firewall
 
@@ -62,7 +66,7 @@ If that doesn’t work for you, try the fixes below.
  After applying the changes, try installing Minecraft and check if it’s working properly. If your problem persists, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Download & install all Windows updates
@@ -79,16 +83,16 @@ If that doesn’t work for you, try the fixes below.
 4. Click **Restart now**  to restart your PC or you can **Schedule the restart** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
 
- Then try to double-click on the downloaded package and see if you can install Minecraft now. If you’ve still having the issue, try the next fix below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Then try to double-click on the downloaded package and see if you can install Minecraft now. If you’ve still having the issue, try the next fix below.
 
 ## 3\. Update your device drivers
 
@@ -106,13 +110,13 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-all-de.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer. Upon the reboot, try to install Minecraft to see if you can do it successfully. If it fails, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run Windows Store troubleshooter
 
@@ -123,10 +127,6 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/troubleshoot-windows-11.png)
 3. Click**Other troubleshooters** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/other-troubleshooter.png)
 4. Click on the**Run** button next to**Windows Store Apps** .  
@@ -148,7 +148,7 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
@@ -174,20 +174,17 @@ If that doesn’t work for you, try the fixes below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ree-youtube-earning-predictors/"><u>[New] Free YouTube Earning Predictors</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-subtle-sounds-clear-vision-audio-cleanup-methods-reviewed/"><u>[Updated] Subtle Sounds, Clear Vision Audio Cleanup Methods Reviewed</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/6-best-voice-changers-for-2024/"><u>6 Best Voice Changers for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-4-morgan-freeman-voice-generator-tools-for-voice-cloning-for-2024/"><u>Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/driving-performance-up-surface-pro-4-in-windows-os/"><u>Driving Performance Up: Surface Pro 4 in Windows OS</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/fast-track-your-czech-through-online-resources/"><u>Fast Track Your Czech Through Online Resources</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-mov-saving-on-the-go-top-six-tips-to-improve-your-workflow-in-windows-11/"><u>In 2024, .MOV Saving on the Go - Top Six Tips to Improve Your Workflow in Windows 11</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>In 2024, The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-5-quandale-dingle-voice-generators/"><u>New 2024 Approved Top 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://windows11.techidaily.com/revitalize-memory-integrity-for-secure-systems-on-win11/"><u>Revitalize Memory Integrity for Secure Systems on Win11</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-5-tiktok-voice-generators-you-should-try/"><u>Top 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unveiling-virtual-worlds-metaverse-versus-omniverse-explained/"><u>Unveiling Virtual Worlds Metaverse Versus Omniverse Explained</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime/"><u>Updated Guide to Discovering the Voice Generators/Changers with the Most Anime</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-update-6-best-voice-changers-you-cant-miss/"><u>Updated In 2024, Update 6 Best Voice Changers You Cant Miss</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-revolutionizing-facebook-advertising-through-creative-insight/"><u>[Updated] 2024 Approved Revolutionizing Facebook Advertising Through Creative Insight</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-speedy-vimeo-videos-at-a-glance/"><u>[Updated] In 2024, Speedy Vimeo Videos at a Glance</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-top-8-authentic-youtube-growth-tools/"><u>2024 Approved Top 8 Authentic YouTube Growth Tools</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-ai-rap-voice-generators-you-should-try/"><u>Best AI Rap Voice Generators You Should Try</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/breakfast-brilliance-achieving-ideal-fried-egg-texture-worldwide-91-characters/"><u>Breakfast Brilliance: Achieving Ideal Fried Egg Texture Worldwide (91 Characters)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bringing-your-lenovo-mouse-pad-back-to-life-comprehensive-solutions-for-windows-10-8-and-7/"><u>Bringing Your Lenovo Mouse Pad Back to Life – Comprehensive Solutions for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-realme-10t-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Realme 10T 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-honor-magic-v2-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Honor Magic V2 Phone Hassle-Free</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-revolutionizing-communication-real-time-ai-voice-changer/"><u>New Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-6-darth-vader-ai-generators-for-all-platforms-for-2024/"><u>New Top 6 Darth Vader AI Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/professional-tips-for-editing-and-refining-instagram-videos-for-2024/"><u>Professional Tips for Editing and Refining Instagram Videos for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated In 2024, Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
 </ul></div>
 
