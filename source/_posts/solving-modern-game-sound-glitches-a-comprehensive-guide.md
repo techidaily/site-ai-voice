@@ -1,7 +1,7 @@
 ---
 title: "Solving Modern Game Sound Glitches: A Comprehensive Guide"
-date: 2024-12-12T16:21:40.555Z
-updated: 2024-12-18T16:54:16.429Z
+date: 2024-12-20T10:07:30.994Z
+updated: 2024-12-27T00:10:36.862Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 ## Immersive Gaming Reinstated: WoW Sound Glitch Corrected
 
 If you’re playing _World of Warcraft(WoW)_ and the audio cuts out abruptly, or there is no sound at all, you’re not alone! Many players are reporting it. But the good news is that you can fix it. Here are 8 fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -41,10 +45,6 @@ If you’re playing _World of Warcraft(WoW)_ and the audio cuts out abruptly, or
 
 If your cables and volume are okay, move on to the fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Set your audio device to Default Device
 
  If you’re connecting to an audio device using USB or HDMI, make sure both the recording and playback devices you are using are set to Default Device in Windows. Here is how to do it:
@@ -65,11 +65,11 @@ If your cables and volume are okay, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-677.png)
 
- If the sound is still not working on_WoW_ , or your audio device is already set as Default Device, check the fix below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If the sound is still not working on_WoW_ , or your audio device is already set as Default Device, check the fix below.
 
 ### Fix 3: Disable Audio Enhancements
 
@@ -81,12 +81,16 @@ To disable the Audio Enhancements, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-664.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Type**mmsys.cpl** , then press the Enter key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-668.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Right-click the audio device you want to use, then select Properties.
@@ -101,9 +105,17 @@ To disable the Audio Enhancements, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-685.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click**APPLY > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-684.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If turning off Audio Enhancements didn’t fix your issue, read on and try the fix below.
 
@@ -145,13 +157,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: **Reset the game settings**
 
@@ -169,13 +181,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-647.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Relaunch the Battle.net launcher and your game.
 
  If the audio is still missing in _WoW_ , then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Close unnecessary background programs
 
@@ -222,10 +234,6 @@ OR
 
  Try launching _WoW_ again to see if the sound works properly now. If not, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Clear temporary game files
 
  Corrupted game files can also trigger audio issues. To see if that’s the problem for you, try resetting your user interface to default settings. Follow the instructions below:
@@ -240,29 +248,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-650.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Open the**World of Warcraft folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-652.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Open the_**retail**_ **or** _**classic**_ **folder** (depending on which game version you’re running).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-656.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Rename the**Cache, Interface,** and**WTF folders** to**CacheOld, InterfaceOld,** and**WTFOld** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-657.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** Relaunch_WoW_ to test your issue.
 
@@ -281,7 +281,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click **Uninstall a program** .
@@ -321,22 +321,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-how-to-effortlessly-eradicate-unwanted-youtube-post-comments/"><u>[Updated] In 2024, How to Effortlessly Eradicate Unwanted Youtube Post-Comments</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-windows-desktop-snapshot-learn-it-for-free-today/"><u>[Updated] In 2024, Windows Desktop Snapshot Learn It for Free Today</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-no-money-no-problem-learn-to-edit-videos-for-free-on-vimeo/"><u>[Updated] No Money, No Problem! Learn to Edit Videos for FREE on Vimeo</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-inaugural-zooid-creations-ranked/"><u>2024 Approved Inaugural Zooid Creations Ranked</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-top-6-mickey-mouse-voice-generators/"><u>2024 Approved Top 6 Mickey Mouse Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-guide-upcoming-compatibility-of-apple-watch-with-watchos-11-models-included-and-excluded/"><u>Comprehensive Guide: Upcoming Compatibility of Apple Watch with WatchOS 11 - Models Included & Excluded</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-revolutionize-your-recording-experience-top-18-cam-tools-showcase/"><u>In 2024, Revolutionize Your Recording Experience - Top 18 Cam Tools Showcase</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New In 2024, Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-10-free-and-best-text-to-speech-generators/"><u>New In 2024, Top 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>New Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-5-quandale-dingle-voice-generators-for-2024/"><u>New Top 5 Quandale Dingle Voice Generators for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-m34-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy M34 Phone Now with These Tips</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/resolving-scan-operation-errors-expert-solutions-from-yl-computings-software-suite/"><u>Resolving Scan Operation Errors: Expert Solutions From YL Computing's Software Suite</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/setting-up-and-correcting-windows-10s-invisible-audio-equipment/"><u>Setting Up & Correcting Windows 10'S Invisible Audio Equipment</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-narrator-voice-generators-for-2024/"><u>Updated Best Narrator Voice Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-update-6-best-voice-changers-you-cant-miss/"><u>Updated Update 6 Best Voice Changers You Cant Miss</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-getting-started-audacitys-guide-to-microphone-use-on-mac-for-2024/"><u>[Updated] Getting Started Audacity's Guide to Microphone Use on Mac for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-elevate-your-live-experience-top-10-choices/"><u>[Updated] How to Elevate Your Live Experience Top 10 Choices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-intense-meetings-perfect-your-screen-focus-in-msteams/"><u>2024 Approved Intense Meetings Perfect Your Screen Focus in MSTEAMS</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/2024-gifgif/"><u>2024年に人気! GIF制作ツールガイドとシンプルなGIF作成手順</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/advanced-web-marketing-empowered-by-cookiebot-tools/"><u>Advanced Web Marketing Empowered by Cookiebot Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-nvidia-geforce-rtx-3080-ti-drivers-latest-version-for-windows-11-8-and-7/"><u>Download NVIDIA GeForce RTX 3080 Ti Drivers - Latest Version for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/expert-opinion-the-pros-and-cons-of-using-google-maps-for-iphone-users/"><u>Expert Opinion: The Pros and Cons of Using Google Maps for iPhone Users</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/exploring-performance-and-features-of-asus-rt-ac88u-a-comprehensive-gaming-router-assessment/"><u>Exploring Performance and Features of Asus RT-AC88U - A Comprehensive Gaming Router Assessment</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/how-to-successfully-address-and-correct-indivisible-crash-issues-once-and-for-all/"><u>How to Successfully Address and Correct 'Indivisible' Crash Issues Once and For All</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/overcoming-setbacks-troubleshooting-a-non-launching-evil-genius-2-game/"><u>Overcoming Setbacks: Troubleshooting a Non-Launching Evil Genius 2 Game</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/srt-to-sub-magic-three-effective-ways-for-2024/"><u>SRT to SUB Magic Three Effective Ways for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/system-alert-ideport0-controller-anomaly/"><u>System Alert: Ideport0 Controller Anomaly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-technique-for-checking-your-macbooks-thermal-performance/"><u>The Ultimate Technique for Checking Your MacBook's Thermal Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-apple-watch-sleep-tracking-applications-you-must-try/"><u>Top 5 Apple Watch Sleep Tracking Applications You Must Try</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-tech-talking-experience-with-chrome-and-ai/"><u>Transform Your Tech Talking Experience, With Chrome & AI</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/troubleshooting-button-failures-on-iphones-learn-how-to-power-on-and-restart/"><u>Troubleshooting Button Failures on iPhones - Learn How to Power On and Restart</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/troubleshooting-guide-why-isnt-my-msi-mystic-light-functioning-on-windows/"><u>Troubleshooting Guide: Why Isn't My MSI Mystic Light Functioning on Windows?</u></a></li>
 </ul></div>
 

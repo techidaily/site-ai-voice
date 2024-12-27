@@ -1,7 +1,7 @@
 ---
 title: "AMD's Instinct MI300A Powers HPE El Capitan: The Path to the Quickest Supercomputer"
-date: 2024-12-14T17:38:13.970Z
-updated: 2024-12-18T18:35:31.404Z
+date: 2024-12-23T06:44:48.643Z
+updated: 2024-12-27T09:54:57.324Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
  The case itself looks like a conventional carrying case. The outer shell appears to be hard plastic, with metal supporting rails filling the lips of the case. The case features two latching mechanisms and a mechanism to attach a lock for[security](https://www.tomshardware.com/tag/security) . You can transport the travel case by rolling it on its two wheels or with another handle that allows you to carry it like a briefcase.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -58,22 +58,15 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-compare-metaverse-vs-omniverse-an-ultimate-guide/"><u>[New] Compare Metaverse Vs. Omniverse An Ultimate Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-synchronized-screenscapes-youtube-clips-in-tv-loops/"><u>[New] In 2024, Synchronized Screenscapes YouTube Clips in TV Loops</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-samurai-warriors-5-keeps-crashing-on-pc/"><u>[SOLVED] Samurai Warriors 5 Keeps Crashing on PC</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-virtual-battlegrounds-oculus-htc-and-playstation-face-off-for-2024/"><u>[Updated] Virtual Battlegrounds Oculus, HTC & PlayStation Face-Off for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-revolutionizing-communication-real-time-ai-voice-changer/"><u>2024 Approved Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-the-guide-to-learning-all-the-details-about-voice-cloning/"><u>2024 Approved The Guide to Learning All the Details About Voice Cloning</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-free-rotate-and-merge-videos-on-android/"><u>How to Free Rotate and Merge Videos on Android</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-through-vrs-digital-storyscapes/"><u>In 2024, Navigating Through VR's Digital Storyscapes</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-streamline-your-income-youtubes-new-rules/"><u>In 2024, Streamline Your Income YouTube's New Rules</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-10-free-and-best-text-to-speech-generators/"><u>New 2024 Approved Best 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-ai-rap-voice-generators-you-should-try/"><u>New 2024 Approved Best AI Rap Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New 2024 Approved Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://win-net.techidaily.com/techniques-simples-pour-recuperer-facilement-ton-contenu-sur-une-carte-sd/"><u>Techniques Simples Pour Récupérer Facilement Ton Contenu Sur Une Carte SD</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-y78plus-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo Y78+ Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-real-time-ai-voice-changer-revolutionizing-communication/"><u>Updated 2024 Approved Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-5-tiktok-voice-generators-you-should-try/"><u>Updated 2024 Approved Top 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-4-hatsune-miku-voice-ai-generators-for-all-times-for-2024/"><u>Updated Top 4 Hatsune Miku Voice AI Generators for All Times for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-mastering-the-seamless-transition-from-obs-to-facebook-live/"><u>[Updated] In 2024, Mastering the Seamless Transition From OBS to Facebook Live</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-leveraging-luts-advanced-ae-editing-guide-for-2024/"><u>[Updated] Leveraging LUTs Advanced AE Editing Guide for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>2024 Approved Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-mastering-the-art-of-youtube-video-submissions-for-maximum-reach/"><u>2024 Approved Mastering the Art of YouTube Video Submissions for Maximum Reach</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ignite-fitness-goals-with-the-ultimate-music-mix/"><u>In 2024, Ignite Fitness Goals with the Ultimate Music Mix</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New 2024 Approved Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-stereolithography-micronics-unveils-portable-cost-effective-desktop-3d-printer-at-2999-price-tag/"><u>The Future of Stereolithography: Micronics Unveils Portable, Cost-Effective Desktop 3D Printer at $2,999 Price Tag</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-your-palworld-account-top-6-hacks-for-fixing-eos-login-difficulties/"><u>Unlock Your Palworld Account: Top 6 Hacks for Fixing EOS Login Difficulties</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-ai-rap-voice-generators-you-should-try/"><u>Updated 2024 Approved Best AI Rap Voice Generators You Should Try</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-hatsune-miku-ai-voice-generators-for-all-times-for-2024/"><u>Updated Best Hatsune Miku AI Voice Generators for All Times for 2024</u></a></li>
 </ul></div>
 

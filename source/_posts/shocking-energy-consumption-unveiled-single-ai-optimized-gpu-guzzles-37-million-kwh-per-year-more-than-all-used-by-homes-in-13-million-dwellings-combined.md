@@ -1,7 +1,7 @@
 ---
 title: "Shocking Energy Consumption Unveiled: Single AI-Optimized GPU Guzzles 3.7 Million kWh Per Year, More Than All Used by Homes in 1.3 Million Dwellings Combined"
-date: 2024-12-11T22:02:16.246Z
-updated: 2024-12-18T22:04:43.518Z
+date: 2024-12-19T22:46:08.500Z
+updated: 2024-12-27T08:16:21.546Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,20 +80,19 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-elite-inventory-optimal-auto-surveillance-cams/"><u>[New] Elite Inventory Optimal Auto Surveillance Cams</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-shrinking-volume-levels-seamlessly-in-lumafusion/"><u>2024 Approved Shrinking Volume Levels Seamlessly in Lumafusion</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/emojis-as-financial-cues-the-aftermath-of-activision-hacking-and-chatgpt-powered-ai-implications-for-todays-workforce-and-economy/"><u>Emojis as Financial Cues, the Aftermath of Activision Hacking, and ChatGPT-Powered AI: Implications for Today's Workforce & Economy</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-experience-the-full-dragon-ball-z-saga-a-viewers-roadmap/"><u>How to Experience the Full Dragon Ball Z Saga – A Viewer’s Roadmap</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v11-document-with-electronic-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.1 document with electronic signature service</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/money-saving-heavens-storage-service-big-file-batches/"><u>Money-Saving Heavens Storage Service - Big File Batches</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-the-best-text-voice-generators-for-all-platforms/"><u>New 2024 Approved The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>New Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/the-best-text-voice-generators-for-all-platforms/"><u>The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire-for-2024/"><u>Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-6-mickey-mouse-voice-generators-for-2024/"><u>Top 6 Mickey Mouse Voice Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-an-ultimate-guide-of-best-narrator-voice-generators/"><u>Updated An Ultimate Guide of Best Narrator Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>Updated Best 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/1728486894329-windows-1011/"><u>パーティションテーブル修復: Windows 10と11におすすめの解決策</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>2024 Approved Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-how-to-download-whatsapp-ringtone-and-customize-it-on-ios-and-android/"><u>2024 Approved How To Download WhatsApp Ringtone And Customize It On iOS And Android</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ate-chart-watcher-master-your-video-rankings-for-2024/"><u>Accurate Chart Watcher Master Your Video Rankings for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/holy-stone-hs170-predator-minimal-rc-helicopter-drone-top-budget-friendly-choice-reviewed/"><u>Holy Stone HS1,70 Predator Minimal RC Helicopter Drone: Top Budget-Friendly Choice Reviewed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-functionality-in-a-laptop-with-no-output/"><u>How to Restore Sound Functionality in a Laptop with No Output</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-5-ai-voice-generators-online-supports-all-browsers/"><u>In 2024, Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-10-free-and-best-text-to-speech-generators/"><u>New In 2024, Best 10 Free and Best Text-to-Speech Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-the-most-direct-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>New The Most Direct Guide to Learning How to Clone Your Voice for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/optimierung-der-bilderwechselfrequenz-mit-kunstlicher-intelligenz-seamless-frames-and-boosted-performance/"><u>Optimierung Der Bilderwechselfrequenz Mit Künstlicher Intelligenz – Seamless Frames & Boosted Performance</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/professionele-wegwijzer-voor-samsung-datamigration-naar-windows-11-zeker-download-en-handleiding/"><u>Professionele Wegwijzer Voor Samsung-Datamigration Naar Windows 11: Zeker Download en Handleiding</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-cross-platform-functionality-playing-with-android-apps-on-a-windows-10-machine/"><u>Unlocking Cross-Platform Functionality: Playing with Android Apps on a Windows 10 Machine</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>Updated Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-are-photoautotrophs-essential-in-agriculture/"><u>Why Are Photoautotrophs Essential in Agriculture?</u></a></li>
 </ul></div>
 
