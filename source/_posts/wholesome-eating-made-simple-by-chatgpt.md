@@ -1,7 +1,7 @@
 ---
 title: Wholesome Eating Made Simple by ChatGPT
-date: 2024-12-19T19:47:40.780Z
-updated: 2024-12-26T19:28:10.716Z
+date: 2025-01-03T18:20:07.608Z
+updated: 2025-01-05T17:52:43.065Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  ChatGPT has become a mainstream tool around the world, offering an AI chatbot service to billions. But the popularity of this chatbot is now being capitalized upon by cybercriminals looking to swindle unsuspecting users. So, what kinds of ChatGPT scams should you be looking out for?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. ChatGPT Email Scams
 
 ![picture of mail app icon on iphone menu screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-mail-1.jpg)
@@ -29,13 +33,13 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  In general, using ChatGPT to write phishing emails can streamline the scam process for cybercriminals, which may cause phishing attacks to grow in frequency overall.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Fake ChatGPT Browser Extensions
 
 ![chatgpt open on computer monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-open-monitor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Browser extensions are a popular and convenient tool used by millions, but malicious, phony versions of this software are also used to install malware and steal data. The case is no different for ChatGPT.
 
@@ -45,9 +49,17 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  So, it's crucial that you verify the legitimacy of a ChatGPT extension before downloading it. Also keep an eye out for discrete differences in the names of extensions, as a malicious extension can be listed under a very similar name in order to trick users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Fake ChatGPT Apps
 
 ![app store application open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-store-smartphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Like browser extensions, cybercriminals can also use ChatGPT's name to spread malicious apps. Malicious apps are nothing new and have been used for years to deploy malware, steal data, and monitor device activity. Now, ChatGPT's well-known name is being used to push malicious apps.
 
@@ -60,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![black skull and bones flag on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malware-on-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There's been a lot of talk about AI and cybercrime in recent years, as many are concerned this technology may make it easier for malicious actors to scam and attack victims.
@@ -69,17 +81,9 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  This malware was not highly complex, and no severely dangerous malware, such as ransomware, has been identified as a product of ChatGPT. But ChatGPT's ability to write even simple malware programs opens a door to people who want to get into cybercrime but do not have much, or any, technical expertise. In any case, this new AI-powered capability may prove to be a big issue in the near future.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. ChatGPT Phishing Sites
 
 ![Hacker phishing data from a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hacker-phishing-data.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Phishing attacks are often conducted using malicious websites. These sites are designed to log the keystrokes you enter so that valuable data can be stolen and exploited.
 
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  Alternatively, you may receive an email from a user claiming to be a ChatGPT staff member, stating that your ChatGPT account requires some form of verification. This email will likely include a link to a webpage where you can log into your account and complete the verification, or so the sender claims.
 
  In reality, the link you click on leads to a malicious webpage that can steal any data you enter, including your login credentials. Now, another person can access your ChatGPT account and view your prompt history, account details, and other sensitive data. It's important to know[how to spot phishing scams](https://www.makeuseof.com/top-signs-phishing-scams/) in order to avoid this kind of cybercrime.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Scams Are Worryingly Common
 
@@ -112,24 +112,22 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-stream-mastery-top-rated-tech-and-devices-guide-for-creators/"><u>[Updated] YouTube Stream Mastery Top-Rated Tech & Devices Guide for Creators</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-poco-f5-pro-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Poco F5 Pro 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/combatting-filesystem-crashes-in-win11/"><u>Combatting FileSystem Crashes in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-sync-software-windows-and-android-unite/"><u>Essential Sync Software: Windows & Android Unite</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-srt-to-the-future-mastering-xmlssattml-transforms/"><u>From SRT to the Future Mastering XML/SSA/TTML Transforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-the-guide-to-learning-all-the-details-about-voice-cloning/"><u>In 2024, The Guide to Learning All the Details About Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>In 2024, Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-honor-80-pro-straight-screen-edition-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Honor 80 Pro Straight Screen Edition Phone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New 2024 Approved Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-5-tiktok-voice-generators-you-should-try/"><u>New 2024 Approved Top 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-hatsune-miku-ai-voice-generators-for-all-times-for-2024/"><u>New Best Hatsune Miku AI Voice Generators for All Times for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>New The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-6-mickey-mouse-voice-generators-providing-efficient-results-for-2024/"><u>New Top 6 Mickey Mouse Voice Generators Providing Efficient Results for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/record-panel-wide-digital-view-for-2024/"><u>Record Panel-Wide Digital View for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-strategies-for-archiving-irretrievable-tiktok-footage/"><u>Step-by-Step Strategies for Archiving Irretrievable TikTok Footage</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-of-the-finest-running-watches/"><u>Ultimate Selection of the Finest Running Watches</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Updated Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-celebrity-voice-generator-tools-you-cannot-miss/"><u>Updated Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/value-meets-quality-a-deep-dive-into-the-pruveeo-f5-full-hd-dashcam-is-it-a-steal/"><u>Value Meets Quality: A Deep Dive Into the Pruveeo F5 Full HD Dashcam - Is It a Steal?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-steps-to-activate-windows-11-auto-hdr-option/"><u>[New] In 2024, Steps to Activate Windows 11 Auto-HDR Option</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/an-ultimate-guide-of-best-narrator-voice-generators/"><u>An Ultimate Guide of Best Narrator Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-5-ai-voice-generators-online-supports-all-browsers/"><u>Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/boost-your-fitness-journey-the-fitbit-versa-3-comes-equipped-with-built-in-gps-and-wellness-tools-to-keep-you-driven/"><u>Boost Your Fitness Journey: The Fitbit Versa 3 Comes Equipped With Built-In GPS and Wellness Tools to Keep You Driven</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evaluating-inshot-is-it-truly-top-notch-in-2024/"><u>Evaluating InShot Is It Truly Top-Notch, In 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-canon-scan-software-in-minutes-for-pcs/"><u>Get Canon Scan Software in Minutes for PCs</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-x50i-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-constant-usb-device-not-detected-alerts-on-your-computer-solved/"><u>How to Resolve Constant 'USB Device Not Detected' Alerts on Your Computer (SOLVED)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/master-class-on-samsung-galaxy-note-9-a-benchmark-for-big-screen-mobile-devices/"><u>Master Class on Samsung Galaxy Note 9 - A Benchmark for Big-Screen Mobile Devices</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>New 2024 Approved A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-a-list-of-the-top-spongebob-voice-generators/"><u>New 2024 Approved A List of The Top SpongeBob Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>New 2024 Approved Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-best-of-the-best-top-5-online-stop-motion-creators/"><u>New The Best of the Best Top 5 Online Stop Motion Creators</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125939-9781609256135-old-world-witchcraft/"><u>Old World Witchcraft | Free Book</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Updated In 2024, Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-4-hatsune-miku-voice-ai-generators-for-all-times/"><u>Updated In 2024, Top 4 Hatsune Miku Voice AI Generators for All Times</u></a></li>
 </ul></div>
 

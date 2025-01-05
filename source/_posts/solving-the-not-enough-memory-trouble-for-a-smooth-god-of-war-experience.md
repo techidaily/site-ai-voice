@@ -1,7 +1,7 @@
 ---
 title: Solving the Not Enough Memory Trouble for a Smooth God of War Experience
-date: 2024-12-24T20:52:45.466Z
-updated: 2024-12-26T20:17:31.302Z
+date: 2025-01-04T19:16:27.164Z
+updated: 2025-01-05T18:05:29.167Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
  If you have trouble updating the game, you might just need a simple reboot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify the integrity of game files
 
  You can’t expect your game to work fine if there’re files missing or broken. So first you need to**run a scan of your game folder** .
@@ -46,11 +42,11 @@ Here’s how to do it on the Epic Games client:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can try again and see if Civ 6 launches.
 
@@ -76,6 +72,10 @@ If this doesn’t help, you can take a look at the next fix below.
 
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  Civ 6 has been out for several years now, so it’s possible it’ll run into compatibility issues with the latest Windows 10\. Microsoft releases system updates for Windows 10 on a regular basis. It’s important to**make sure you install all the system updates** .
@@ -84,14 +84,10 @@ If this doesn’t help, you can take a look at the next fix below.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -99,6 +95,10 @@ If this doesn’t help, you can take a look at the next fix below.
  Once you’ve installed all the system updates, check if you can get Civ 6 working now.
 
 If this solution doesn’t help, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
 
@@ -108,6 +108,10 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
@@ -115,15 +119,11 @@ If this solution doesn’t help, you can continue to the next one.
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
@@ -140,10 +140,6 @@ If a clean boot doesn’t help, you can check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/latest-c.jpg)
 2. Open the installer and follow the on-screen instructions to install.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
 
 ### Fix 6: Switch your DirectX version
@@ -151,6 +147,10 @@ If a clean boot doesn’t help, you can check out the next fix.
  According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -173,19 +173,22 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-fortnite-thumbnail-for-free-and-easy/"><u>[Updated] 2024 Approved How to Make Fortnite Thumbnail for Free and Easy</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-silent-steppes-righteous-quests-games-like-the-samurai-odyssey/"><u>[Updated] In 2024, Silent Steppes, Righteous Quests Games Like the Samurai Odyssey</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-10-free-and-best-text-to-speech-generators/"><u>2024 Approved Best 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-celebrity-voice-generator-tools-to-transform-your-voice/"><u>2024 Approved Best Celebrity Voice Generator Tools to Transform Your Voice</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-money-potential-a-beginners-guide-on-periscope/"><u>2024 Approved Unlocking Money Potential A Beginner's Guide on Periscope</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ring-engagement-your-essential-list-of-15-opener-templates-for-2024/"><u>Mastering Engagement Your Essential List of 15 Opener Templates for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-6-darth-vader-ai-generators-for-all-platforms/"><u>New Top 6 Darth Vader AI Generators for All Platforms</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/polishing-the-final-product-perfect-for-instagrams-audience/"><u>Polishing the Final Product Perfect for Instagram's Audience</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/premium-sound-picks-for-content-creators/"><u>Premium Sound Picks for Content Creators</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-local-vs-non-local-debate-a-comprehensive-overview-of-llms/"><u>The Local vs Non-Local Debate: A Comprehensive Overview of LLMs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/time-management-using-timestamps-to-amplify-views-on-youtube-for-2024/"><u>Time Management Using Timestamps to Amplify Views on YouTube for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-6-darth-vader-ai-generators-for-all-platforms/"><u>Top 6 Darth Vader AI Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-6-free-talking-stock-photo-sites-for-2024/"><u>Top 6 Free Talking Stock Photo Sites for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-6-mickey-mouse-voice-generators/"><u>Updated 2024 Approved Top 6 Mickey Mouse Voice Generators</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-ultimate-chart-watcher-rank-tracking-of-youtube-videos/"><u>[New] 2024 Approved Ultimate Chart Watcher Rank Tracking of YouTube Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-how-to-fix-iphone-camera-not-focusing-problem/"><u>[New] In 2024, How to Fix iPhone Camera Not Focusing Problem</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-cracking-the-code-to-niche-celeb-content-creators-on-insta/"><u>2024 Approved Cracking the Code to Niche Celeb Content Creators on Insta</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-5-tiktok-voice-generators-you-should-try/"><u>2024 Approved Top 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-6-darth-vader-ai-generators-for-all-platforms/"><u>2024 Approved Top 6 Darth Vader AI Generators for All Platforms</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-90-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor 90 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comedy-collection-a-1992-review-of-the-goofys/"><u>In 2024, 'Comedy Collection' A 1992 Review of The Goofys</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/latest-top-darth-vader-voice-generators-for-all-platforms/"><u>Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/obs-crash-fix-how-to-stabilize-your-streaming-setup-on-pcs-running-windows-11-or-10/"><u>Obs Crash Fix - How to Stabilize Your Streaming Setup on PCs Running Windows 11 or 10</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/revolutionizing-communication-real-time-ai-voice-changer-for-2024/"><u>Revolutionizing Communication Real-Time AI Voice Changer for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/speedy-no-cost-dvd-converter-quickly-unlock-your-entire-movie-collection/"><u>Speedy No-Cost DVD Converter: Quickly Unlock Your Entire Movie Collection!</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/the-best-text-voice-generators-for-all-platforms-for-2024/"><u>The Best Text Voice Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-narrator-voice-generators/"><u>Updated 2024 Approved Best Narrator Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Updated In 2024, Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>Updated In 2024, Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windows-10-compatible-ultimate-guide-to-swift-and-easy-conversion-of-dvds-to-mp4-files-with-winx-free-dvd-ripper/"><u>Windows 10 Compatible: Ultimate Guide to Swift & Easy Conversion of DVDs to MP4 Files with WinX Free DVD Ripper</u></a></li>
 </ul></div>
 

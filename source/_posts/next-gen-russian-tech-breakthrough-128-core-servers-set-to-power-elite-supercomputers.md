@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Russian Tech Breakthrough: 128-Core Servers Set to Power Elite Supercomputers"
-date: 2024-12-25T22:01:42.610Z
-updated: 2024-12-27T08:58:53.803Z
+date: 2025-01-03T17:39:51.396Z
+updated: 2025-01-05T18:27:48.566Z
 tags:
   - desktop
 categories:
@@ -16,7 +16,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
@@ -41,7 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -67,18 +67,18 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-enhance-your-channels-image-adding-watermarks-and-logos-to-video-posts/"><u>[Updated] In 2024, Enhance Your Channel's Image Adding Watermarks & Logos to Video Posts</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-top-4-hatsune-miku-voice-ai-generators-for-all-times/"><u>2024 Approved Top 4 Hatsune Miku Voice AI Generators for All Times</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-clock-display-window-10-and-11-guide/"><u>Adjusting Clock Display: Window 10 & 11 Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mg2900-printer-software-update-and-driver-download-information/"><u>Canon MG2900 Printer Software Update & Driver Download Information</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-tom-a-hardware-perspective/"><u>Exploring Computer Components with Tom - A Hardware Perspective</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/exploring-vmwares-vms-licensing-schemes-essential-insights-for-your-infrastructure/"><u>Exploring VMware's VMS Licensing Schemes: Essential Insights for Your Infrastructure</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime/"><u>In 2024, Guide to Discovering the Voice Generators/Changers with the Most Anime</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/master-the-art-of-permanently-disconnect-from-tiktok/"><u>Master the Art of Permanently Disconnect From TikTok</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>New In 2024, Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reimagine-your-pc-top-10-uses-for-windows-powertoy-tools/"><u>Reimagine Your PC: Top 10 Uses for Windows PowerToy Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solution-for-dealing-with-missing-wmvcoredll-errors/"><u>Step-by-Step Solution for Dealing with Missing Wmvcore.dll Errors</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-detailed-review-and-alternatives-of-vocaloid6-voice-generator-for-2024/"><u>Updated Detailed Review & Alternatives of VOCALOID6 Voice Generator for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-becoming-a-confident-content-creator-youtubes-top-tips/"><u>[New] 2024 Approved Becoming a Confident Content Creator YouTube's Top Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-chuckle-inducing-cover-versions/"><u>[New] In 2024, Chuckle-Inducing Cover Versions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-elevate-your-social-media-presence-360-degree-image-integration-on-android-and-ios/"><u>[New] In 2024, Elevate Your Social Media Presence 360-Degree Image Integration on Android & iOS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-streamline-your-videography-journey-choose-from-the-top-8-free-tools/"><u>[New] In 2024, Streamline Your Videography Journey Choose From the Top 8 Free Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ideo-traffic-triumph-key-youtube-seo-tools/"><u>[New] Video Traffic Triumph - Key YouTube SEO Tools</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>2024 Approved Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-new-frontiers-in-social-commerce-on-facebook/"><u>Exploring New Frontiers in Social Commerce on Facebook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-redmi-note-12t-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Redmi Note 12T Pro?</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>New 2024 Approved Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-the-most-direct-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>New The Most Direct Guide to Learning How to Clone Your Voice for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-best-text-voice-generators-for-all-platforms/"><u>Updated 2024 Approved The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-voice-generators-and-changers-with-the-most-anime-voices-supported-for-2024/"><u>Updated Best Voice Generators & Changers with The Most Anime Voices Supported for 2024</u></a></li>
 </ul></div>
 

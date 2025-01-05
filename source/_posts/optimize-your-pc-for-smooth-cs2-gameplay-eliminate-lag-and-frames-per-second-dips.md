@@ -1,7 +1,7 @@
 ---
 title: Optimize Your PC for Smooth CS2 Gameplay – Eliminate Lag & Frames Per Second Dips
-date: 2024-12-22T18:08:48.805Z
-updated: 2024-12-26T20:47:07.835Z
+date: 2025-01-04T21:46:24.941Z
+updated: 2025-01-05T19:46:26.071Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ If your Avatar: Frontiers of Pandora is stuttering and having low FPS issues, do
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-52.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes for the low FPS and stuttering problem in Avatar: Frontiers of Pandora
 
  You don’t have to try all the following fixes: simply work your way down the list until you find the one that does the trick to fix the low FPS and stuttering problems with Avatar: Frontiers of Pandora for you.
@@ -37,10 +33,6 @@ If your Avatar: Frontiers of Pandora is stuttering and having low FPS issues, do
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Change the power mode
 
  The default power plan in Windows strikes a balance between power consumption and PC performance, which is a good choice most of the time, especially when you’re not using resource-hungry applications a lot. But games usually need more resources than other regular software programs, so it’s not a bad idea to switch to the **High performance**  plan to see if it helps to drive the FPS and fix the stuttering problems.
@@ -51,14 +43,14 @@ To change the power mode:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run Avatar: Frontiers of Pandora to see if the frame rate is higher, and if the stuttering issue is improved. If the problem remains still, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Update Windows
 
@@ -71,28 +63,28 @@ To make sure that you have the latest available updates installed:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then try your Avatar: Frontiers of Pandora again to see if it still stutters and its FPS still drops. If the problem remains, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Update graphics card driver
 
  An outdated or incorrect display card driver could also be the culprit to the low FPS and stuttering problem in Avatar: Frontiers of Pandora, so if the above methods don’t help to improve the FPS or the stuttering situation, it’s likely that you have a corrupted or outdated graphics driver. So you should update your drivers to see if it helps.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -105,6 +97,10 @@ To do so, first visit the website of your GPU manufacturer:
 * **[Intel](https://downloadcenter.intel.com/product/80939/Graphics)**
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Update your graphics driver automatically (Recommended)
 
@@ -141,7 +137,7 @@ To do so:
 3. Scroll down a bit to select **Add or remove exclusions** under the**Exclusions** section.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-27.png)
@@ -151,7 +147,7 @@ To do so:
 5. There, you’ve successfully added**Avatar: Frontiers of Pandora** to the Windows Security exclusion list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart Avatar: Frontiers of Pandora and see if its FPS still drops and stutters. If so, please move on.
@@ -165,10 +161,6 @@ To do so:
 * **[Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)**
 * **[Ubisoft Connect](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5.1**Epic Games Launcher**
 
 To verify the game’s files on Epic Games Launcher:
@@ -177,14 +169,18 @@ To verify the game’s files on Epic Games Launcher:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-28.png)
 2. Click **Verify** to start verifying the game files.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-29.png)
 3. Wait for validation to complete. (It may take a while to verify all your files.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. When the validation is done, run your Avatar: Frontiers of Pandora again to see if the problems are fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5.2 Ubisoft Connect
 
@@ -215,18 +211,22 @@ If this still doesn’t help, please move on.
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-48.png)
 4. Change the value to**0** , then click**OK** to save.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-49.png)
 5. Then go to`**Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\ApplicationManagement\AllowGameDVR**` , and double-click**value** on the right-side panel.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-50.png)
 6. Change the value to**0** and click**OK** to save.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-51.png)
 7. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Avatar: Frontiers of Pandora again to see if the above changes help to fix the FPS dropping and stuttering problems. If not, please restore your computer to the previous state with the restore point you created in step 1, then move on to the next fix.
 
@@ -267,22 +267,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-essential-tips-for-successful-hulu-capturing-on-various-platforms/"><u>[New] 2024 Approved Essential Tips for Successful Hulu Capturing on Various Platforms</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-10-ultimate-webcam-reviews-for-informed-buyers/"><u>[New] In 2024, 10 Ultimate Webcam Reviews for Informed Buyers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-identifying-the-most-versatile-cam-top-12-screen-swivel-gadgets/"><u>[New] In 2024, Identifying the Most Versatile Cam Top 12 Screen Swivel Gadgets</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-ultimate-7-private-film-access-tools/"><u>[New] In 2024, Ultimate 7 Private Film Access Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-securing-privacy-encryption-and-security-tips-in-zoom-for-windows-11/"><u>[Updated] In 2024, Securing Privacy Encryption and Security Tips in Zoom for Windows 11</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-perfectly-permanent-images-instagram-photowatermark-techniques/"><u>[Updated] Perfectly Permanent Images Instagram Photowatermark Techniques</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-an-ultimate-guide-of-best-narrator-voice-generators/"><u>2024 Approved An Ultimate Guide of Best Narrator Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-6-darth-vader-ai-generators-for-all-platforms/"><u>New 2024 Approved Top 6 Darth Vader AI Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-voice-generators-and-changers-with-the-most-anime-voices-supported-for-2024/"><u>New Best Voice Generators & Changers with The Most Anime Voices Supported for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-diverse-template-for-2024/"><u>New Diverse Template for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime-for-2024/"><u>New Guide to Discovering the Voice Generators/Changers with the Most Anime for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-10-robotic-voice-generators-with-comparison-table-for-2024/"><u>New Top 10 Robotic Voice Generators (with Comparison Table) for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/redefining-visual-storytelling-with-vidas-advanced-tools-for-2024/"><u>Redefining Visual Storytelling with Vida's Advanced Tools for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-ultimate-guide-to-capturing-and-editing-high-quality-slow-motion-videos-for-instagram-for-2024/"><u>The Ultimate Guide to Capturing and Editing High-Quality Slow Motion Videos for Instagram for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-a-comprehensive-list-of-the-top-spongebob-voice-generators-for-2024/"><u>Updated A Comprehensive List of The Top SpongeBob Voice Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-ai-rap-voice-generators-upgrade-your-rap/"><u>Updated Top AI Rap Voice Generators Upgrade Your Rap</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-update-6-best-voice-changers-you-cant-miss-for-2024/"><u>Updated Update 6 Best Voice Changers You Cant Miss for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-elaborate-survey-gopro-silver-sensor-hero4-testing/"><u>[New] In 2024, Elaborate Survey GoPro Silver Sensor HERO4 Testing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-step-by-step-creating-stellar-content-for-facebook-stories/"><u>[Updated] In 2024, Step-by-Step Creating Stellar Content for Facebook Stories</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-ai-rap-voice-generators-you-should-try/"><u>Best AI Rap Voice Generators You Should Try</u></a></li>
+<li><a href="https://windows11.techidaily.com/deterring-windows-auto-update-alerts/"><u>Deterring Windows Auto-Update Alerts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-iphone-cinematography-nine-crucial-tips-to-perfect-videos/"><u>In 2024, Professional iPhone Cinematography Nine Crucial Tips to Perfect Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ticklishtones-selecting-the-best-ringtones-for-smiles/"><u>In 2024, TicklishTones Selecting the Best Ringtones for Smiles</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>In 2024, Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/leading-edge-top-5-modern-video-capture-solutions-for-2024/"><u>Leading Edge Top 5 Modern Video Capture Solutions for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mastery-of-screen-recording-top-6-on-mac-systems-for-2024/"><u>Mastery of Screen Recording Top 6 on Mac Systems for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>New Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-revolutionizing-communication-real-time-ai-voice-changer/"><u>New Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-6-darth-vader-ai-generators-for-all-platforms-for-2024/"><u>New Top 6 Darth Vader AI Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210821420-9781684983766-the-devil-has-a-son/"><u>The Devil Has a Son | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-launching-fullscreen-gaming-on-pcs/"><u>Tips for Launching Fullscreen Gaming on PCs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/understanding-iseebell-video-doorbells-insightful-review-below-50/"><u>Understanding ISeeBell Video Doorbells: Insightful Review Below $50</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-10-free-ai-voice-generators-to-use-in-daily-life-for-2024/"><u>Updated Best 10 Free AI Voice Generators to Use in Daily Life for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated In 2024, Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>Updated In 2024, The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning-for-2024/"><u>Updated Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning for 2024</u></a></li>
 </ul></div>
 

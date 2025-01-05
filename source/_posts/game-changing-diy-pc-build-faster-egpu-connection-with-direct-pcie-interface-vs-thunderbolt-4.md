@@ -1,7 +1,7 @@
 ---
 title: "Game-Changing DIY PC Build: Faster eGPU Connection with Direct PCIe Interface vs Thunderbolt 4"
-date: 2024-12-24T22:48:08.934Z
-updated: 2024-12-26T21:45:24.364Z
+date: 2025-01-04T22:00:43.558Z
+updated: 2025-01-05T20:19:16.548Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,19 +78,18 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-avoiding-virtual-reality-nausea-tips-and-tricks/"><u>[New] Avoiding Virtual Reality Nausea Tips and Tricks</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-achieve-more-engagement-on-youtube-learn-the-best-thumbnail-size-for-2024/"><u>[Updated] Achieve More Engagement on YouTube Learn the Best Thumbnail Size for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>2024 Approved A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-compelling-content-for-spotifys-ad-revenue/"><u>2024 Approved Crafting Compelling Content for Spotify's Ad Revenue</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-reno-10-proplus-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo Reno 10 Pro+ 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-edge-2023-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 2023 Phone without Any Data Loss</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installazione-e-conversione-di-file-snd-in-formato-mp3-o-m4a-con-moviemaker-servizio-online-gratuito/"><u>Installazione E Conversione Di File SND in Formato MP3 O M4A Con MovieMaker: Servizio Online Gratuito</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-rectify-unresponsive-ccleaner-on-windows-os/"><u>Methods to Rectify Unresponsive CCleaner on Windows OS</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-6-free-talking-stock-photo-sites/"><u>New In 2024, Top 6 Free Talking Stock Photo Sites</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-5-tiktok-voice-generators-you-should-try-for-2024/"><u>New Top 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/seamless-gameplay-instant-cure-for-amd-and-tarkov-hiccup/"><u>Seamless Gameplay: Instant Cure for AMD & Tarkov Hiccup</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-10-robotic-voice-generators-for-2024/"><u>Top 10 Robotic Voice Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated In 2024, Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-the-most-direct-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>Updated The Most Direct Guide to Learning How to Clone Your Voice for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-momentum-in-motion-top-20-instagram-ideas-for-mentoring-the-masses/"><u>[Updated] 2024 Approved Momentum in Motion Top 20 Instagram Ideas for Mentoring the Masses</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-6s-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone 6s? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-se-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone SE IMEI Checker</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/how-to-zoom-in-on-roblox/"><u>How to Zoom in on Roblox</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-8-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 8 to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-realme-gt-5-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Realme GT 5? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3mp4/"><u>MP3オーディオに画像添付できる高速MP4動画変換ツールの選び方</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-5-tiktok-voice-generators-you-should-try/"><u>New Top 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-m3-macbook-air-unveiled-how-apples-latest-entry-in-affordable-ai-computing-stacks-up-insights-from-a-comprehensive-review-by-zdnet/"><u>The M3 MacBook Air Unveiled: How Apple's Latest Entry in Affordable AI Computing Stacks Up - Insights From a Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-5-quandale-dingle-voice-generators/"><u>Top 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-celebrity-voice-generator-tools-to-transform-your-voice/"><u>Updated 2024 Approved Best Celebrity Voice Generator Tools to Transform Your Voice</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-narrator-voice-generators/"><u>Updated In 2024, Best Narrator Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>Updated The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
 </ul></div>
 

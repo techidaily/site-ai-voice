@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Troubleshooting Steps for Life Is Strange: True Colors Crashes Resolved"
-date: 2024-12-23T09:30:12.625Z
-updated: 2024-12-27T06:37:07.179Z
+date: 2024-12-31T20:58:35.330Z
+updated: 2025-01-05T20:59:55.117Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Configure your DNS settings
 
  When you use your ISP’s (Internet Service Provider) default DNS server, some possible issues like crowded cache could cause the server connection failure. What you can do is switching to a public DNS server to solve the problem. We’ll use the Google DNS server as an example. Here’s how:
@@ -60,11 +68,15 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
@@ -72,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -98,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -109,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -152,19 +152,16 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-joke-junctions-brainstorming-7-hilarious-youtube-storylines/"><u>[New] In 2024, Joke Junctions Brainstorming 7 Hilarious YouTube Storylines</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-interweaving-art-and-science-in-colors/"><u>[New] Interweaving Art and Science in Colors</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-best-in-class-business-data-cradle/"><u>[Updated] 2024 Approved Best in Class Business Data Cradle</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-expertise-in-iphone-photography-understanding-dimensions/"><u>[Updated] 2024 Approved Expertise in iPhone Photography Understanding Dimensions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-echoes-in-the-room-mac-sound-studio-for-2024/"><u>[Updated] Echoes in the Room Mac Sound Studio for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-snapshot-into-the-heart-of-video-edits-filmoras-top-10/"><u>[Updated] In 2024, Snapshot Into the Heart of Video Edits - Filmora’s Top 10</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-latest-top-darth-vader-voice-generators-for-all-platforms/"><u>2024 Approved Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-notch-meme-editing-suite/"><u>2024 Approved Top-Notch Meme Editing Suite</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/affordable-high-quality-asmr-recording-devices-revealed/"><u>Affordable, High-Quality ASMR Recording Devices Revealed</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/frame-rate-conversion-20mb-video-specs/"><u>Frame Rate Conversion 20MB Video Specs</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>In 2024, Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-10-free-and-best-text-to-speech-generators/"><u>New Top 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>New Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>New Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-best-drones-for-gopro-for-2024/"><u>[New] Best Drones for GoPro for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-animated-text-in-video-landscapes/"><u>[New] The Art of Animated Text in Video Landscapes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-3-strategies-for-capturing-real-time-sports-events-online/"><u>[New] Top 3 Strategies for Capturing Real-Time Sports Events Online</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600651185-windowsstellar-data-recovery/"><u>無料で安全なWindows用データ回復ツール：Stellar Data Recoveryの使い方</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-10-free-and-best-text-to-speech-generators-for-2024/"><u>Best 10 Free and Best Text-to-Speech Generators for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-infinix-note-30-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Infinix Note 30 Phone? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-ai-rap-voice-generators-upgrade-your-rap/"><u>In 2024, Top AI Rap Voice Generators Upgrade Your Rap</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-motorola-razr-40-ultra-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Motorola Razr 40 Ultra to Gmail | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>Updated 2024 Approved The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-latest-top-darth-vader-voice-generators-for-all-platforms/"><u>Updated Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
 </ul></div>
 

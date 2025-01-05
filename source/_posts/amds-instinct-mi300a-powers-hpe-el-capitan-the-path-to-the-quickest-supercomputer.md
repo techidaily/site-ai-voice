@@ -1,7 +1,7 @@
 ---
 title: "AMD's Instinct MI300A Powers HPE El Capitan: The Path to the Quickest Supercomputer"
-date: 2024-12-23T06:44:48.643Z
-updated: 2024-12-27T09:54:57.324Z
+date: 2025-01-04T19:15:21.608Z
+updated: 2025-01-05T16:29:51.811Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
  The case itself looks like a conventional carrying case. The outer shell appears to be hard plastic, with metal supporting rails filling the lips of the case. The case features two latching mechanisms and a mechanism to attach a lock for[security](https://www.tomshardware.com/tag/security) . You can transport the travel case by rolling it on its two wheels or with another handle that allows you to carry it like a briefcase.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -58,15 +58,17 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-mastering-the-seamless-transition-from-obs-to-facebook-live/"><u>[Updated] In 2024, Mastering the Seamless Transition From OBS to Facebook Live</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-leveraging-luts-advanced-ae-editing-guide-for-2024/"><u>[Updated] Leveraging LUTs Advanced AE Editing Guide for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>2024 Approved Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-mastering-the-art-of-youtube-video-submissions-for-maximum-reach/"><u>2024 Approved Mastering the Art of YouTube Video Submissions for Maximum Reach</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ignite-fitness-goals-with-the-ultimate-music-mix/"><u>In 2024, Ignite Fitness Goals with the Ultimate Music Mix</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New 2024 Approved Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-stereolithography-micronics-unveils-portable-cost-effective-desktop-3d-printer-at-2999-price-tag/"><u>The Future of Stereolithography: Micronics Unveils Portable, Cost-Effective Desktop 3D Printer at $2,999 Price Tag</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-your-palworld-account-top-6-hacks-for-fixing-eos-login-difficulties/"><u>Unlock Your Palworld Account: Top 6 Hacks for Fixing EOS Login Difficulties</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-ai-rap-voice-generators-you-should-try/"><u>Updated 2024 Approved Best AI Rap Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-hatsune-miku-ai-voice-generators-for-all-times-for-2024/"><u>Updated Best Hatsune Miku AI Voice Generators for All Times for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unmatched-collection-10-excellent-platforms-for-vimeo-video-downloaders/"><u>[New] 2024 Approved Unmatched Collection 10 Excellent Platforms for Vimeo Video Downloaders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transcribing-spoken-words-in-minutes-using-auto-transcribe-and-office-suite-tools/"><u>[New] Transcribing Spoken Words in Minutes Using Auto-Transcribe and Office Suite Tools</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>2024 Approved Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-comprehensive-techniques-to-download-thousands-of-tiktok-videos/"><u>2024 Approved Comprehensive Techniques to Download Thousands of TikTok Videos</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>2024 Approved Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-nvidia-drivers-for-the-powerful-rtx-1650-supers-graphics-card-compatible-with-windows-11/"><u>Download Updated NVIDIA Drivers for the Powerful RTX 1650 Supers Graphics Card Compatible with Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mobile-mastery-high-shots-with-your-smartphone/"><u>In 2024, Mobile Mastery High Shots with Your Smartphone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/maximize-yandex-translate-in-video-translation-and-beyond/"><u>Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-5-tiktok-voice-generators-you-should-try/"><u>New 2024 Approved Best 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-poco-x5-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Poco X5 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-10-free-and-best-text-to-speech-generators/"><u>Updated 2024 Approved Top 10 Free and Best Text-to-Speech Generators</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Shocking Energy Consumption Unveiled: Single AI-Optimized GPU Guzzles 3.7 Million kWh Per Year, More Than All Used by Homes in 1.3 Million Dwellings Combined"
-date: 2024-12-19T22:46:08.500Z
-updated: 2024-12-27T08:16:21.546Z
+date: 2024-12-30T21:09:29.407Z
+updated: 2025-01-05T17:18:47.932Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,19 +80,22 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>2024 Approved Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-how-to-download-whatsapp-ringtone-and-customize-it-on-ios-and-android/"><u>2024 Approved How To Download WhatsApp Ringtone And Customize It On iOS And Android</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ate-chart-watcher-master-your-video-rankings-for-2024/"><u>Accurate Chart Watcher Master Your Video Rankings for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/holy-stone-hs170-predator-minimal-rc-helicopter-drone-top-budget-friendly-choice-reviewed/"><u>Holy Stone HS1,70 Predator Minimal RC Helicopter Drone: Top Budget-Friendly Choice Reviewed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-functionality-in-a-laptop-with-no-output/"><u>How to Restore Sound Functionality in a Laptop with No Output</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-5-ai-voice-generators-online-supports-all-browsers/"><u>In 2024, Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-10-free-and-best-text-to-speech-generators/"><u>New In 2024, Best 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-the-most-direct-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>New The Most Direct Guide to Learning How to Clone Your Voice for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/optimierung-der-bilderwechselfrequenz-mit-kunstlicher-intelligenz-seamless-frames-and-boosted-performance/"><u>Optimierung Der Bilderwechselfrequenz Mit Künstlicher Intelligenz – Seamless Frames & Boosted Performance</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/professionele-wegwijzer-voor-samsung-datamigration-naar-windows-11-zeker-download-en-handleiding/"><u>Professionele Wegwijzer Voor Samsung-Datamigration Naar Windows 11: Zeker Download en Handleiding</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-cross-platform-functionality-playing-with-android-apps-on-a-windows-10-machine/"><u>Unlocking Cross-Platform Functionality: Playing with Android Apps on a Windows 10 Machine</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>Updated Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-are-photoautotrophs-essential-in-agriculture/"><u>Why Are Photoautotrophs Essential in Agriculture?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-instructions-removing-videos-from-youtubes-watchlater/"><u>[New] Instructions Removing Videos From YouTube's Watchlater</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-capturing-life-in-motion-top-9-smartphone-props-for-dynamic-cinematography/"><u>[Updated] 2024 Approved Capturing Life in Motion Top 9 Smartphone Props for Dynamic Cinematography</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-practices-for-streaming-athletic-games-real-time/"><u>[Updated] In 2024, Best Practices for Streaming Athletic Games Real-Time</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-method-for-removing-downloaded-youtube-videos/"><u>[Updated] Method for Removing Downloaded YouTube Videos</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/asus-nuc-14-unleashing-new-power-with-up-to-core-i9-uhd-graphics-and-amd-ryzen-threadripper/"><u>Asus NUC 14: Unleashing New Power with Up to Core I9 UHD Graphics & AMD Ryzen Threadripper</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/comprehensive-review-of-the-oculus-quest-2-superior-virtual-reality-for-a-spectacular-price-point/"><u>Comprehensive Review of the Oculus Quest 2: Superior Virtual Reality for a Spectacular Price Point</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/expert-analysis-unveiling-imos-features-and-user-experience/"><u>Expert Analysis: Unveiling IMo's Features and User Experience</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/expert-gadget-guide-with-toms-hardware-digest/"><u>Expert Gadget Guide with Tom's Hardware Digest</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/explore-cutting-edge-technology-with-invaluable-insights-from-toms-hardware/"><u>Explore Cutting-Edge Technology with Invaluable Insights From Tom's Hardware</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/game-changing-diy-pc-build-faster-egpu-connection-with-direct-pcie-interface-vs-thunderbolt-4/"><u>Game-Changing DIY PC Build: Faster eGPU Connection with Direct PCIe Interface vs Thunderbolt 4</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s6-features-like-s-pen-and-dex-mode-explored/"><u>In-Depth Analysis of the Samsung Galaxy Tab S6: Features Like S Pen & Dex Mode Explored</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-users-solve-your-contacts-app-issues-with-these-easy-3-step-fixes/"><u>IPhone Users! Solve Your Contacts App Issues with These Easy 3-Step Fixes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-galaxy-s24plus-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Galaxy S24+</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-troubled-windows-registry-with-effective-solutions/"><u>Tackling Troubled Windows Registry with Effective Solutions</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/toms-computer-components-the-ultimate-guide/"><u>Tom's Computer Components - The Ultimate Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/touchpad-not-working-issues-on-windows-1011-solved/"><u>Touchpad Not Working Issues on Windows 10/11 [Solved]</u></a></li>
 </ul></div>
 
