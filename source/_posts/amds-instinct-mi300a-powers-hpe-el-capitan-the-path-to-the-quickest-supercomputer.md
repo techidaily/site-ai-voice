@@ -1,7 +1,7 @@
 ---
 title: "AMD's Instinct MI300A Powers HPE El Capitan: The Path to the Quickest Supercomputer"
-date: 2025-01-04T19:15:21.608Z
-updated: 2025-01-05T16:29:51.811Z
+date: 2025-01-09T08:49:14.186Z
+updated: 2025-01-12T07:09:32.465Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
  The case itself looks like a conventional carrying case. The outer shell appears to be hard plastic, with metal supporting rails filling the lips of the case. The case features two latching mechanisms and a mechanism to attach a lock for[security](https://www.tomshardware.com/tag/security) . You can transport the travel case by rolling it on its two wheels or with another handle that allows you to carry it like a briefcase.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -58,17 +58,24 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unmatched-collection-10-excellent-platforms-for-vimeo-video-downloaders/"><u>[New] 2024 Approved Unmatched Collection 10 Excellent Platforms for Vimeo Video Downloaders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transcribing-spoken-words-in-minutes-using-auto-transcribe-and-office-suite-tools/"><u>[New] Transcribing Spoken Words in Minutes Using Auto-Transcribe and Office Suite Tools</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>2024 Approved Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-comprehensive-techniques-to-download-thousands-of-tiktok-videos/"><u>2024 Approved Comprehensive Techniques to Download Thousands of TikTok Videos</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>2024 Approved Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-updated-nvidia-drivers-for-the-powerful-rtx-1650-supers-graphics-card-compatible-with-windows-11/"><u>Download Updated NVIDIA Drivers for the Powerful RTX 1650 Supers Graphics Card Compatible with Windows 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mobile-mastery-high-shots-with-your-smartphone/"><u>In 2024, Mobile Mastery High Shots with Your Smartphone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/maximize-yandex-translate-in-video-translation-and-beyond/"><u>Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-5-tiktok-voice-generators-you-should-try/"><u>New 2024 Approved Best 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-poco-x5-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Poco X5 Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-10-free-and-best-text-to-speech-generators/"><u>Updated 2024 Approved Top 10 Free and Best Text-to-Speech Generators</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-thrifty-pc-display-saving-programs/"><u>[New] 2024 Approved Thrifty PC Display Saving Programs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unleash-your-creativity-innovative-online-crop-strategies/"><u>[New] 2024 Approved Unleash Your Creativity - Innovative Online Crop Strategies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-simple-screen-recorder-for-windows-10-download/"><u>[New] In 2024, Simple Screen Recorder for Windows 10 Download</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-total-kinetic-analysis-exploration/"><u>[Updated] Total Kinetic Analysis Exploration</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-youtube-simplified-methods-for-cc-and-subtitle-integration/"><u>[Updated] Unlocking YouTube Simplified Methods for CC and Subtitle Integration</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-5-quandale-dingle-voice-generators-for-2024/"><u>Best 5 Quandale Dingle Voice Generators for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-setting-up-seamless-network-video-broadcasts-with-vlc/"><u>In 2024, Setting Up Seamless Network Video Broadcasts with VLC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/laugh-out-loud-a-step-by-step-meme-building-for-2024/"><u>Laugh Out Loud A Step-by-Step Meme Building for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>New 2024 Approved The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-real-time-ai-voice-changer-revolutionizing-communication-for-2024/"><u>New Real-Time AI Voice Changer Revolutionizing Communication for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-d3dx92edll-file-not-found-issue/"><u>Resolving the d3dx9_2e.dll File Not Found Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-fixing-the-isarcextract-error-on-windows-11/"><u>Unveiling the Secrets: Fixing the ISArcExtract Error on Windows 11</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/update-6-best-voice-changers-you-cant-miss/"><u>Update 6 Best Voice Changers You Cant Miss</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-an-ultimate-guide-of-best-narrator-voice-generators/"><u>Updated 2024 Approved An Ultimate Guide of Best Narrator Voice Generators</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-trim-and-split-divx-videos-with-these-free-tools/"><u>Updated 2024 Approved Trim and Split Divx Videos with These Free Tools</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated In 2024, Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-10-robotic-voice-generators-with-comparison-table/"><u>Updated In 2024, Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Updated In 2024, Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-revolutionizing-communication-real-time-ai-voice-changer-for-2024/"><u>Updated Revolutionizing Communication Real-Time AI Voice Changer for 2024</u></a></li>
 </ul></div>
 
