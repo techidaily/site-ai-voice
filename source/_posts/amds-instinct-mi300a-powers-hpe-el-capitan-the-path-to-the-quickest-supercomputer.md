@@ -1,7 +1,7 @@
 ---
 title: "AMD's Instinct MI300A Powers HPE El Capitan: The Path to the Quickest Supercomputer"
-date: 2025-01-09T08:49:14.186Z
-updated: 2025-01-12T07:09:32.465Z
+date: 2025-01-17T05:16:32.139Z
+updated: 2025-01-18T00:40:05.475Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
  The case itself looks like a conventional carrying case. The outer shell appears to be hard plastic, with metal supporting rails filling the lips of the case. The case features two latching mechanisms and a mechanism to attach a lock for[security](https://www.tomshardware.com/tag/security) . You can transport the travel case by rolling it on its two wheels or with another handle that allows you to carry it like a briefcase.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -58,24 +58,18 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-thrifty-pc-display-saving-programs/"><u>[New] 2024 Approved Thrifty PC Display Saving Programs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-unleash-your-creativity-innovative-online-crop-strategies/"><u>[New] 2024 Approved Unleash Your Creativity - Innovative Online Crop Strategies</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-simple-screen-recorder-for-windows-10-download/"><u>[New] In 2024, Simple Screen Recorder for Windows 10 Download</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-total-kinetic-analysis-exploration/"><u>[Updated] Total Kinetic Analysis Exploration</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-youtube-simplified-methods-for-cc-and-subtitle-integration/"><u>[Updated] Unlocking YouTube Simplified Methods for CC and Subtitle Integration</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-5-quandale-dingle-voice-generators-for-2024/"><u>Best 5 Quandale Dingle Voice Generators for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-setting-up-seamless-network-video-broadcasts-with-vlc/"><u>In 2024, Setting Up Seamless Network Video Broadcasts with VLC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/laugh-out-loud-a-step-by-step-meme-building-for-2024/"><u>Laugh Out Loud A Step-by-Step Meme Building for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>New 2024 Approved The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-real-time-ai-voice-changer-revolutionizing-communication-for-2024/"><u>New Real-Time AI Voice Changer Revolutionizing Communication for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-d3dx92edll-file-not-found-issue/"><u>Resolving the d3dx9_2e.dll File Not Found Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-fixing-the-isarcextract-error-on-windows-11/"><u>Unveiling the Secrets: Fixing the ISArcExtract Error on Windows 11</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/update-6-best-voice-changers-you-cant-miss/"><u>Update 6 Best Voice Changers You Cant Miss</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-an-ultimate-guide-of-best-narrator-voice-generators/"><u>Updated 2024 Approved An Ultimate Guide of Best Narrator Voice Generators</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-trim-and-split-divx-videos-with-these-free-tools/"><u>Updated 2024 Approved Trim and Split Divx Videos with These Free Tools</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated In 2024, Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-10-robotic-voice-generators-with-comparison-table/"><u>Updated In 2024, Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Updated In 2024, Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-revolutionizing-communication-real-time-ai-voice-changer-for-2024/"><u>Updated Revolutionizing Communication Real-Time AI Voice Changer for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-achieving-video-greatness-on-tiktok-with-smart-use-of-pre-made-templates/"><u>[New] In 2024, Achieving Video Greatness on TikTok with Smart Use of Pre-Made Templates</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-leading-the-pack-in-instagram-content-crafting-puzzle-feeds-for-2024/"><u>[New] Leading the Pack in Instagram Content Crafting Puzzle Feeds for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-mobile-asmr-must-have-apps/"><u>[Updated] Mastering Mobile ASMR Must-Have Apps</u></a></li>
+<li><a href="https://win-best.techidaily.com/beheben-sie-den-windows-fehlercode-0x8078006b-effiziente-losungsansatze/"><u>Beheben Sie Den Windows-Fehlercode 0X8078006B - Effiziente Lösungsansätze</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-the-guide-to-learning-all-the-details-about-voice-cloning/"><u>In 2024, The Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>In 2024, Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-googles-latest-innovation-gemini-ai-the-ultimate-challenger-of-gpt-4/"><u>Introducing Google's Latest Innovation: Gemini AI - The Ultimate Challenger of GPT-4</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-hatsune-miku-ai-voice-generators-for-all-times-for-2024/"><u>New Best Hatsune Miku AI Voice Generators for All Times for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>New The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/step-by-step-guide-converting-file-extensions-on-your-pc-tips-from-yl-computings-expert-team/"><u>Step-by-Step Guide: Converting File Extensions on Your PC - Tips From YL Computing's Expert Team</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-potential-of-past-play-retroarch-for-enhanced-gaming-achievements/"><u>Unlock Potential of Past Play: Retroarch for Enhanced Gaming Achievements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-ai-communication-the-ultimate-guide-to-leveraging-quoras-poe-feature/"><u>Unlocking AI Communication: The Ultimate Guide to Leveraging Quora’s Poé Feature</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-celebrity-voice-generator-tools-you-cannot-miss/"><u>Updated Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
 </ul></div>
 

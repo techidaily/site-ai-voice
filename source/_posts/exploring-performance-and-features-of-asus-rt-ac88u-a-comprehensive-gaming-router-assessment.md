@@ -1,7 +1,7 @@
 ---
 title: Exploring Performance and Features of Asus RT-AC88U - A Comprehensive Gaming Router Assessment
-date: 2025-01-11T00:27:14.476Z
-updated: 2025-01-11T19:50:06.435Z
+date: 2025-01-15T21:08:36.051Z
+updated: 2025-01-17T21:14:46.610Z
 categories:
   - BestProducts
 description: This Article Describes Exploring Performance and Features of Asus RT-AC88U - A Comprehensive Gaming Router Assessment
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/1cwxVTVFuN454F2RooFoDyxz1pg=/400x300/fi
 ## Amazon Halo
 
 ![Amazon Halo](https://www.lifewire.com/thmb/KDrlBicwDSsm8oahXwLC9cx5FSs=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_HeroSquare-2e5c3941b8fe49afbd7464f382164976.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -39,13 +43,13 @@ Lifewire / Yoona Wagener
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Amazon Halo
 
 ![Amazon Halo](https://www.lifewire.com/thmb/3Kfyp4XgBEtCuXPHAVw99RFqQs8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_HeroSquare-2e5c3941b8fe49afbd7464f382164976.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -75,6 +79,10 @@ Lifewire / Yoona Wagener
 
 Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design: An accessory that blends in
 
  The Halo band doesn’t overwhelm the senses. I tested a small-sized band in silver and appreciated the streamlined bracelet style form factor. The fabric strap, which is a mix of sweat-wicking synthetics, has an athleisure look and feel: sporty but not to the degree that it screams sport watch. Rounding out the minimalist look is one sole button on the side of the sensor unit, which is flanked by an[LED](https://www.lifewire.com/what-does-led-stand-for-4153820) indicator and one of two internal microphones. The other mic is located on the back, along with the optical sensor; it's largely undetectable if you manage a close fit.
@@ -83,11 +91,11 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/QHImxX0EsYwunnnS2aNtTX9j80s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_03-66da73beea854cd39f6c35c06975ef4e.jpg)
 
-Lifewire / Yoona Wagener
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Lifewire / Yoona Wagener
 
 ## Comfort: Streamlined but not immune to typical fit issues
 
@@ -100,7 +108,7 @@ Lifewire / Yoona Wagener
  As for water resistance, I didn’t test the 50-meter swimproof rating of the Halo in a pool, but I did shower with the device for three days. Despite the band’s moisture-wicking band material, it remained damp far longer than was comfortable and compared to a fast-drying silicone band. If you’re an avid swimmer or prefer not to remove your wearable while showering, the sport band option will most likely be the more desirable option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance: Constantly monitoring movement, not performance
@@ -121,10 +129,6 @@ Lifewire / Yoona Wagener
 
  The body fat scan is based on pictures uploaded to the app—and based on prompts from the app. While it felt invasive and isn’t a feature I’d seek out in a fitness tracker, it worked without issue. Amazon reports that this technology is twice as accurate as smart scales. For the right user who feels comfortable with this kind of data compilation, this feature also offers visualizations of how different body fat percentages would look on your frame and stores your scans for a look at trends over time. All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the[cloud](https://www.lifewire.com/what-is-cloud-computing-817770) , which Amazon assures is private and well secured.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Software: An essential and user-friendly mobile app
 
  Without a visual display to interact with, the accompanying Halo mobile app is absolutely essential to the user experience. It delivers helpful explanations and guidance that most users want. Compatible with[iOS](https://www.lifewire.com/what-is-ios-1994355) and[Android](https://www.lifewire.com/what-is-google-android-1616887) phones, the Halo app makes everything from the initial setup to body scanning and voice tracking straightforward. Sleep data is backed up by explanations as is the activity point tracking system. Automatically tracked workout data is also easily accessible and so is the option to manually upload workout activities (there are 38 to choose from, including an all-encompassing Other category).
@@ -144,7 +148,7 @@ Lifewire / Yoona Wagener
 ![Amazon Halo](https://www.lifewire.com/thmb/fBsShcBruhAWkg-kTKPWkYUaImo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_04-ee532fbe8d2f4e8195e63ed9dd45611a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
@@ -152,10 +156,6 @@ Lifewire / Yoona Wagener
 ## Price: A reasonable price for the feature set
 
  Retailing for just about $100, the Amazon Halo band certainly won’t break the bank for budget-minded shoppers. While the lack of display could be a deterrent, the solid mobile app provides convenient access to the detailed sleep, automatic activity tracking, and specialized tone of voice and body fat analysis the Halo provides.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Amazon Halo vs. WHOOP Strap 3
 
@@ -206,20 +206,17 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-tech-tips-for-perfect-video-captures/"><u>[New] 2024 Approved Tech Tips for Perfect Video Captures</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-professional-smoothness-blurring-the-video-backdrop-for-2024/"><u>[New] Professional Smoothness Blurring the Video Backdrop for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/6-best-voice-changers-for-2024/"><u>6 Best Voice Changers for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-15-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone 15 Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-4-morgan-freeman-voice-generator-tools-for-voice-cloning-for-2024/"><u>Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/best-practices-in-altering-igtv-video-titles-for-2024/"><u>Best Practices in Altering IGTV Video Titles for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/downloading-and-installing-evga-drivers-for-optimal-performance-in-windows/"><u>Downloading and Installing EVGA Drivers for Optimal Performance in Windows</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>In 2024, The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-5-quandale-dingle-voice-generators/"><u>New 2024 Approved Top 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-best-animated-video-creators-top-picks-for-online-success-for-2024/"><u>New Best Animated Video Creators Top Picks for Online Success for 2024</u></a></li>
-<li><a href="https://techidaily.com/sign-word-2019-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2019 Documents Online for Free</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-5-tiktok-voice-generators-you-should-try/"><u>Top 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-how-to-safely-rip-burn-and-copy-content-from-your-dvds-and-cds/"><u>Ultimate Guide: How To Safely Rip, Burn & Copy Content From Your DVDs And CDs</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-update-6-best-voice-changers-you-cant-miss/"><u>Updated In 2024, Update 6 Best Voice Changers You Cant Miss</u></a></li>
-<li><a href="https://common-error.techidaily.com/windowslinux-users-beware-how-to-tackle-unwarranted-high-cpu-usage-from-shell-infrastructures/"><u>Windows/Linux Users Beware – How to Tackle Unwarranted High CPU Usage From Shell Infrastructures!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-essential-distinctions-between-metaverse-and-multimeva/"><u>[Updated] The Essential Distinctions Between Metaverse and Multimeva</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bring-your-aoc-display-to-life-overcoming-connectivity-challenges-on-windows-11-systems/"><u>Bring Your AOC Display to Life: Overcoming Connectivity Challenges on Windows 11 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-crusader-kings-solved-ck3-sudden-closures-on-windows-os-expert-tips-and-solutions/"><u>Fixing Crusader Kings ([SOLVED] CK3) Sudden Closures on Windows OS - Expert Tips and Solutions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-13-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-must-visit-websites-for-text-design-elements-download/"><u>In 2024, Must-Visit Websites for Text Design Elements Download</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/latest-top-darth-vader-voice-generators-for-all-platforms-for-2024/"><u>Latest Top Darth Vader Voice Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-6-best-voice-changers-for-2024/"><u>New 6 Best Voice Changers for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ideo-editing-selections-for-social-media-for-2024/"><u>Pro Video Editing Selections for Social Media for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-solutions-freeing-up-stuck-windows-11-pins/"><u>Quick Solutions: Freeing Up Stuck Windows 11 PINs</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-a-list-of-the-top-spongebob-voice-generators/"><u>Updated 2024 Approved A List of The Top SpongeBob Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-an-ultimate-guide-of-best-narrator-voice-generators-for-2024/"><u>Updated An Ultimate Guide of Best Narrator Voice Generators for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-10-free-and-best-text-to-speech-generators-for-2024/"><u>Updated Top 10 Free and Best Text-to-Speech Generators for 2024</u></a></li>
 </ul></div>
 

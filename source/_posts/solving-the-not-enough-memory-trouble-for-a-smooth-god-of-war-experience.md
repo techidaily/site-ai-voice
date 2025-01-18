@@ -1,7 +1,7 @@
 ---
 title: Solving the Not Enough Memory Trouble for a Smooth God of War Experience
-date: 2025-01-09T23:41:58.648Z
-updated: 2025-01-12T03:15:24.432Z
+date: 2025-01-14T16:33:23.200Z
+updated: 2025-01-18T05:06:37.059Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
  Looks like the recent update of[Civilization VI](https://www.epicgames.com/store/en-US/p/sid-meiers-civilization-vi?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=cd14dcaa4f3443f19f7169a980559c62) didn’t go so well, and many gamers start reporting a**game not launching** issue. But annoying as the problem may be, it might not be so hard to fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  We’ve gathered the latest working fixes for your Civ 6 not launching issue. Simply work your way down until you find the one that gives you luck.
@@ -35,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 6. **[Switch your DirectX version](https://tools.techidaily.com/drivereasy/download/)**
 
  If you have trouble updating the game, you might just need a simple reboot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of game files
 
@@ -67,7 +67,7 @@ If this doesn’t help, you can take a look at the next fix below.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -76,6 +76,10 @@ If this doesn’t help, you can take a look at the next fix below.
 
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  Civ 6 has been out for several years now, so it’s possible it’ll run into compatibility issues with the latest Windows 10\. Microsoft releases system updates for Windows 10 on a regular basis. It’s important to**make sure you install all the system updates** .
@@ -83,10 +87,6 @@ If this doesn’t help, you can take a look at the next fix below.
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -104,37 +104,33 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
 If a clean boot doesn’t help, you can check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Install the latest Visual C++ redistributable
 
@@ -151,6 +147,10 @@ If a clean boot doesn’t help, you can check out the next fix.
  According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -173,22 +173,24 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-tutorial-incorporating-youtube-soundtracks-in-imovie/"><u>[New] 2024 Approved Tutorial Incorporating YouTube Soundtracks in iMovie</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/lash-the-size-efficient-techniques-for-reducing-youtube-video-lengths-for-2024/"><u>[New] Slash the Size Efficient Techniques for Reducing YouTube Video Lengths for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-engaging-local-audiences-with-social-media-videos/"><u>[Updated] Engaging Local Audiences with Social Media Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-bizarre-vertical-reversal-in-insta-videos-a-glitch/"><u>2024 Approved Bizarre Vertical Reversal in Insta Videos – A Glitch?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/catch-every-nfl-game-live-top-5-essential-streaming-services-for-football-fans/"><u>Catch Every NFL Game Live: Top 5 Essential Streaming Services for Football Fans</u></a></li>
-<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effective-techniques-to-convert-h264-video-format-to-h265-with-smaller-file-sizes-and-no-quality-degradation/"><u>Effective Techniques to Convert H.264 Video Format to H.265 With Smaller File Sizes and No Quality Degradation</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-best-narrator-voice-generators/"><u>In 2024, Best Narrator Voice Generators</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-insiders-guide-maximizing-windows-11-efficiency/"><u>In 2024, Insider's Guide Maximizing Windows 11 Efficiency</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-latest-top-darth-vader-voice-generators-for-all-platforms/"><u>New 2024 Approved Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>New 2024 Approved Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-10-robotic-voice-generators-with-comparison-table/"><u>New In 2024, Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>New In 2024, Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/precision-editing-picarts-techniques-for-background-subtraction-for-2024/"><u>Precision Editing PicArt's Techniques for Background Subtraction for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-6-free-talking-stock-photo-sites/"><u>Updated 2024 Approved Top 6 Free Talking Stock Photo Sites</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-4-hatsune-miku-voice-ai-generators-for-all-times/"><u>Updated Top 4 Hatsune Miku Voice AI Generators for All Times</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-ai-rap-voice-generators-upgrade-your-rap-for-2024/"><u>Updated Top AI Rap Voice Generators Upgrade Your Rap for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-2023-edition-of-effortless-instagram-filter-usage-unveiled/"><u>[New] In 2024, The 2023 Edition of Effortless Instagram Filter Usage Unveiled</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>2024 Approved Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-compatibility-errors-for-device-drivers-in-windows/"><u>Fixing Compatibility Errors for Device Drivers in Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/from-concept-to-screen-writing-a-winning-docu-script/"><u>From Concept to Screen Writing a Winning Docu-Script</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-a-disabled-printer-service-in-win/"><u>How to Reactivate a Disabled Printer Service in Win</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/how-to-seamlessly-post-pictures-from-your-phone/"><u>How To Seamlessly Post Pictures From Your Phone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>In 2024, Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-6-best-voice-changers/"><u>New 2024 Approved 6 Best Voice Changers</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-celebrity-voice-generator-tools-you-cannot-miss/"><u>New 2024 Approved Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-narrator-voice-generators/"><u>New Best Narrator Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-narrator-voice-generators-for-2024/"><u>New Best Narrator Voice Generators for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-sound-editing-with-these-4-strategies-to-normalize-wav-audio-files/"><u>Simplify Sound Editing with These 4 Strategies to Normalize WAV Audio Files</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-10-free-and-best-text-to-speech-generators/"><u>Top 10 Free and Best Text-to-Speech Generators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-10-tools-for-youtube-to-webm-conversion-for-2024/"><u>Top 10 Tools for YouTube to WebM Conversion for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-realme-c55-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Realme C55 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unleashing-potential-a-moto-z2-deep-dive/"><u>Unleashing Potential A Moto Z2 Deep Dive</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-the-best-text-voice-generators-for-all-platforms/"><u>Updated The Best Text Voice Generators for All Platforms</u></a></li>
 </ul></div>
 

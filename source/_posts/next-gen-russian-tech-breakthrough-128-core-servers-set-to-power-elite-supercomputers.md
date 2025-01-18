@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Russian Tech Breakthrough: 128-Core Servers Set to Power Elite Supercomputers"
-date: 2025-01-05T00:37:41.413Z
-updated: 2025-01-12T01:25:58.952Z
+date: 2025-01-13T19:35:03.142Z
+updated: 2025-01-18T05:35:23.010Z
 tags:
   - desktop
 categories:
@@ -16,7 +16,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
@@ -41,7 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -67,24 +67,20 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-list-of-top-5-pc-screen-grabbers-ranked-1-5-for-2024/"><u>[New] The Ultimate List of Top 5 PC Screen Grabbers Ranked #1-#5 for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-students-guide-to-historical-channels-1-10/"><u>[Updated] Ultimate Students' Guide to Historical Channels #1-10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/10-good-places-to-find-music-for-podcast-intro-for-2024/"><u>10 Good Places to Find Music for Podcast Intro for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-unraveling-the-apple-podcast-app-submission-system/"><u>2024 Approved Unraveling the Apple Podcast App Submission System</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/android-recording-at-your-fingertips-explore-our-top-8-free-choices-for-2024/"><u>Android Recording at Your Fingertips – Explore Our Top 8 Free Choices for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-5-quandale-dingle-voice-generators/"><u>Best 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exciting-internet-adventures-discover-these-7-amazing-games-for-kids/"><u>Exciting Internet Adventures: Discover These 7 Amazing Games for Kids</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>New 2024 Approved Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>New Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-hatsune-miku-ai-voice-generators-for-all-times/"><u>New Best Hatsune Miku AI Voice Generators for All Times</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-6-darth-vader-ai-generators-for-all-platforms/"><u>New In 2024, Top 6 Darth Vader AI Generators for All Platforms</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-10-robotic-voice-generators-with-comparison-table/"><u>Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-strategies-for-a-smooth-dota-2-experience-overcome-lag/"><u>Top Strategies for a Smooth Dota 2 Experience – Overcome Lag</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-connect-now-message-in-windows-bluetooth/"><u>Troubleshooting Connect Now Message in Windows Bluetooth</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-features-a-complete-assessment-of-third-gen-apple-tv-4k/"><u>Unveiling the Features: A Complete Assessment of Third Gen Apple TV 4K</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Updated 2024 Approved Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-hatsune-miku-ai-voice-generators-for-all-times/"><u>Updated 2024 Approved Best Hatsune Miku AI Voice Generators for All Times</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-10-free-and-best-text-to-speech-generators-for-2024/"><u>Updated Top 10 Free and Best Text-to-Speech Generators for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-secure-the-best-a-list-of-top-free-mac-screen-recorders/"><u>[New] 2024 Approved Secure the Best A List of Top Free Mac Screen Recorders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-of-both-worlds-androids-8-most-popular-free-and-paid-videomosaic-apps/"><u>Best of Both Worlds Android's 8 Most Popular Free & Paid Videomosaic Apps</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/enhancing-computing-performance-intels-latest-innovation-features-a-chiplet-to-chiplet-optical-link-at-4-tbps-speed/"><u>Enhancing Computing Performance: Intel's Latest Innovation Features a Chiplet-to-Chiplet Optical Link at 4 TBps Speed</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-criteria-for-approved-content-selection/"><u>Facebook's Criteria for Approved Content Selection</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/grab-your-deal-alienwares-gaming-powerhouse-with-rtx-4070-and-i7-cpu-for-only-1499-originally-1699/"><u>Grab Your Deal: Alienware's Gaming Powerhouse with RTX 4070 & I7 CPU for Only $1,499 - Originally $1,699!</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/head-to-head-analysis-of-the-apple-watch-s9-and-fitbit-charge-6-features/"><u>Head-to-Head Analysis of the Apple Watch S9 and Fitbit Charge 6 Features</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-data-realm-renaissance-pioneering-cloud-services-s-needs/"><u>In 2024, Data Realm Renaissance Pioneering Cloud Services 'S Needs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-harmonizing-hit-hits-building-the-perfect-youtube-soundtrack/"><u>In 2024, Harmonizing Hit Hits Building the Perfect YouTube Soundtrack</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-honor-90-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor 90 FRP?</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/inside-the-world-of-technology-guided-by-toms-hardware-experts/"><u>Inside the World of Technology - Guided by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-steelseries-gaming-mouse-drivers-instantly-online/"><u>Install SteelSeries Gaming Mouse Drivers Instantly Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/making-your-ps5-gaming-experience-social/"><u>Making Your PS5 Gaming Experience Social</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/navigate-tech-trends-with-confidence-using-toms-authoritative-guides/"><u>Navigate Tech Trends with Confidence Using Tom's Authoritative Guides</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-asus-rog-phone-8-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Asus ROG Phone 8 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/ultimate-mobility-meets-high-performance-experience-the-unique-folding-keyboard-with-embedded-amd-ryzen-desktop-touchpad-and-battery-just-connect-to-screen.111/"><u>Ultimate Mobility Meets High Performance: Experience the Unique Folding Keyboard with Embedded AMD Ryzen Desktop, Touchpad & Battery - Just Connect to Screen</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Shocking Energy Consumption Unveiled: Single AI-Optimized GPU Guzzles 3.7 Million kWh Per Year, More Than All Used by Homes in 1.3 Million Dwellings Combined"
-date: 2025-01-10T08:30:46.331Z
-updated: 2025-01-12T02:27:34.792Z
+date: 2025-01-12T00:09:50.060Z
+updated: 2025-01-18T06:01:20.697Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,22 +80,17 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-secret-sauce-of-compelling-tiktok-footage-on-mac/"><u>[New] 2024 Approved The Secret Sauce of Compelling TikTok Footage on Mac</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-creative-expression-adding-video-filters-in-zoom/"><u>[Updated] Mastering Creative Expression Adding Video Filters in Zoom</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-no-copyrights-required-best-10-melodies-for-zen-practice/"><u>2024 Approved No Copyrights Required - Best 10 Melodies for Zen Practice</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-5-tiktok-voice-generators-you-should-try-for-2024/"><u>Best 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-voice-generators-and-changers-with-the-most-anime-voices-supported-for-2024/"><u>Best Voice Generators & Changers with The Most Anime Voices Supported for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/elevate-your-online-meeting-with-customized-google-meet-for-2024/"><u>Elevate Your Online Meeting with Customized Google Meet for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-5-simple-steps-to-quickly-improve-your-filmmaking-skills/"><u>In 2024, 5 Simple Steps to Quickly Improve Your Filmmaking Skills</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>In 2024, Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-reimagining-gender-portrayal-in-social-media-images/"><u>In 2024, Reimagining Gender Portrayal in Social Media Images</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-12-pro-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 12 Pro</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New In 2024, Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-real-time-ai-voice-changer-revolutionizing-communication/"><u>New Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-ai-rap-voice-generators-upgrade-your-rap-for-2024/"><u>New Top AI Rap Voice Generators Upgrade Your Rap for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/preventing-a-metaphorical-meltdnac-overcoming-the-crash-of-an-atomic-heart-in-new-ventures/"><u>Preventing a Metaphorical Meltdnac: Overcoming the 'Crash of an Atomic Heart' In New Ventures</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-10-free-and-best-text-to-speech-generators-for-2024/"><u>Top 10 Free and Best Text-to-Speech Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime/"><u>Updated In 2024, Guide to Discovering the Voice Generators/Changers with the Most Anime</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rand-battlegrounds-mastery-of-marketing-metrics-on-youtube/"><u>[New] Brand Battlegrounds Mastery of Marketing Metrics on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-briefvideo-creator/"><u>[Updated] 2024 Approved BriefVideo Creator</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/a-list-of-the-top-spongebob-voice-generators-for-2024/"><u>A List of The Top SpongeBob Voice Generators for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convert-3gpp-images-into-gifs-for-free-with-movavis-web-tool/"><u>Convert 3GPP Images Into GIFs for Free with Movavi's Web Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-fixing-a-non-functional-computer-using-chatgpt/"><u>Effective Strategies for Fixing a Non-Functional Computer Using ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-archived-media-madvr-for-windows-enthusiasts/"><u>Enhance Archived Media: MadVR for Windows Enthusiasts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/govee-rgbif-illuminating-floor-lamp-product-review-and-smart-lighting-experience/"><u>Govee RGBiF Illuminating Floor Lamp - Product Review & Smart Lighting Experience</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capture-and-share-leading-the-charge-with-androids-best-8-free-tools/"><u>In 2024, Capture & Share - Leading the Charge with Android's Best 8 Free Tools</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-financial-verdict-on-buying-apple-tv/"><u>The Financial Verdict on Buying Apple TV</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Updated 2024 Approved Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-5-quandale-dingle-voice-generators/"><u>Updated In 2024, Top 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>Updated Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
 </ul></div>
 
