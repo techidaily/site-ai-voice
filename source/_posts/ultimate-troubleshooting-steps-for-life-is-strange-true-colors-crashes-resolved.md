@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Troubleshooting Steps for Life Is Strange: True Colors Crashes Resolved"
-date: 2025-01-22T10:11:12.891Z
-updated: 2025-01-23T21:19:19.981Z
+date: 2025-01-30T21:41:56.256Z
+updated: 2025-01-31T21:00:41.612Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 [4: Update your network driver](https://tools.techidaily.com/drivereasy/download/)
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection
 
@@ -68,11 +68,15 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
@@ -83,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
@@ -102,15 +106,15 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -152,22 +152,14 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-brand-identity-in-pictures-how-to-watermark-on-instagram/"><u>[New] Brand Identity in Pictures How to Watermark on Instagram</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-uncomplicated-gameplay-saving-in-warframe-for-2024/"><u>[New] Uncomplicated Gameplay Saving in Warframe for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-transforming-viewers-into-revenue-youtube-money-secrets-unveiled/"><u>[Updated] In 2024, Transforming Viewers Into Revenue YouTube Money Secrets Unveiled</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/datenrettung-eine-schritt-fur-schritt-anleitung-zum-wiederherstellen-geloschter-audiodateien/"><u>Datenrettung: Eine Schritt-Für-Schritt Anleitung Zum Wiederherstellen Gelöschter Audiodateien</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-drive-issue-solved-driver-responding/"><u>Display Drive Issue Solved: Driver Responding</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/enhancing-computing-performance-intels-latest-innovation-features-a-chiplet-to-chiplet-optical-link-at-4-tbps-speed/"><u>Enhancing Computing Performance: Intel's Latest Innovation Features a Chiplet-to-Chiplet Optical Link at 4 TBps Speed</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/head-to-head-analysis-of-the-apple-watch-s9-and-fitbit-charge-6-features/"><u>Head-to-Head Analysis of the Apple Watch S9 and Fitbit Charge 6 Features</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-snapit-share-it-in-order-on-ig/"><u>In 2024, SnapIt, Share It in Order on IG</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/1723262406618-lenovo-desktop-powerhouse-save-big-on-the-latest-legion-model-featuring-rtx-4080-gpu-for-just-under-3k/"><u>Lenovo Desktop Powerhouse: Save Big on the Latest Legion Model Featuring RTX 4080 GPU for Just Under $3K</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/motorola-mg7700-assessment-dependable-and-fast-performance/"><u>Motorola MG7700 Assessment - Dependable and Fast Performance</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/navigate-tech-trends-with-confidence-using-toms-authoritative-guides/"><u>Navigate Tech Trends with Confidence Using Tom's Authoritative Guides</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/navigating-high-performance-systems-a-deep-dive-by-toms-hardware/"><u>Navigating High-Performance Systems: A Deep Dive by Tom's Hardware</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-13-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 13 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-iphone-6-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on iPhone 6</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/ultimate-mobility-meets-high-performance-experience-the-unique-folding-keyboard-with-embedded-amd-ryzen-desktop-touchpad-and-battery-just-connect-to-screen.111/"><u>Ultimate Mobility Meets High Performance: Experience the Unique Folding Keyboard with Embedded AMD Ryzen Desktop, Touchpad & Battery - Just Connect to Screen</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/1722884777799-unveil-professional-photography-potential-get-yn560iv-now-at-a-savings/"><u>Unveil Professional Photography Potential: Get YN560IV Now at a Savings!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-emulate-action-with-kinetic-blur-effects/"><u>[New] 2024 Approved Emulate Action with Kinetic Blur Effects</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-optimal-settings-for-recording-movs-on-windows-11-systems-for-2024/"><u>[New] Optimal Settings for Recording MOVs on Windows 11 Systems for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-a-guide-to-conveniently-documenting-your-gaming-victories/"><u>2024 Approved A Guide to Conveniently Documenting Your Gaming Victories</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-access-to-newly-released-realtek-audio-drivers-optimized-for-windows-11107-users/"><u>Easy Access to Newly-Released Realtek Audio Drivers - Optimized for Windows 11/10/7 Users</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New 2024 Approved Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>New Top 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-assembling-the-perfect-gaming-machine-ideas-for-every-budget-under-and-above-1000/"><u>Ultimate Guide to Assembling the Perfect Gaming Machine : Ideas for Every Budget Under & Above $1,000</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-ai-rap-voice-generators-you-should-try/"><u>Updated 2024 Approved Best AI Rap Voice Generators You Should Try</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-hatsune-miku-ai-voice-generators-for-all-times-for-2024/"><u>Updated Best Hatsune Miku AI Voice Generators for All Times for 2024</u></a></li>
 </ul></div>
 

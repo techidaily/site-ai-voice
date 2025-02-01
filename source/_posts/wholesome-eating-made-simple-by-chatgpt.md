@@ -1,7 +1,7 @@
 ---
 title: Wholesome Eating Made Simple by ChatGPT
-date: 2025-01-22T11:09:44.475Z
-updated: 2025-01-24T00:58:30.965Z
+date: 2025-01-26T20:28:35.924Z
+updated: 2025-01-31T19:21:15.316Z
 tags:
   - chatgpt
   - open-ai
@@ -17,16 +17,12 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  ChatGPT has become a mainstream tool around the world, offering an AI chatbot service to billions. But the popularity of this chatbot is now being capitalized upon by cybercriminals looking to swindle unsuspecting users. So, what kinds of ChatGPT scams should you be looking out for?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. ChatGPT Email Scams
 
 ![picture of mail app icon on iphone menu screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-mail-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Email has been used as a scam vector for many years, be it to spread malware, blackmail victims, or steal valuable information. Now, ChatGPT's name is being used in email scams to trick recipients.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  In general, using ChatGPT to write phishing emails can streamline the scam process for cybercriminals, which may cause phishing attacks to grow in frequency overall.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Fake ChatGPT Browser Extensions
@@ -46,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![chatgpt open on computer monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-open-monitor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Browser extensions are a popular and convenient tool used by millions, but malicious, phony versions of this software are also used to install malware and steal data. The case is no different for ChatGPT.
@@ -77,13 +73,13 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  This malware was not highly complex, and no severely dangerous malware, such as ransomware, has been identified as a product of ChatGPT. But ChatGPT's ability to write even simple malware programs opens a door to people who want to get into cybercrime but do not have much, or any, technical expertise. In any case, this new AI-powered capability may prove to be a big issue in the near future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. ChatGPT Phishing Sites
 
 ![Hacker phishing data from a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hacker-phishing-data.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Phishing attacks are often conducted using malicious websites. These sites are designed to log the keystrokes you enter so that valuable data can be stolen and exploited.
 
@@ -92,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  Alternatively, you may receive an email from a user claiming to be a ChatGPT staff member, stating that your ChatGPT account requires some form of verification. This email will likely include a link to a webpage where you can log into your account and complete the verification, or so the sender claims.
 
  In reality, the link you click on leads to a malicious webpage that can steal any data you enter, including your login credentials. Now, another person can access your ChatGPT account and view your prompt history, account details, and other sensitive data. It's important to know[how to spot phishing scams](https://www.makeuseof.com/top-signs-phishing-scams/) in order to avoid this kind of cybercrime.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Scams Are Worryingly Common
 
@@ -112,24 +112,22 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-crafting-powerful-narratives-with-these-30-video-plans-for-2024/"><u>[New] Crafting Powerful Narratives with These 30 Video Plans for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-foremost-editing-software-for-mobile-creations-for-2024/"><u>[New] Foremost Editing Software for Mobile Creations for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-navigate-subtitle-installation-in-wmp-easily/"><u>[Updated] 2024 Approved Navigate Subtitle Installation in WMP Easily</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-effortless-podcast-livestream-guide/"><u>[Updated] In 2024, Effortless Podcast Livestream Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-definitive-guide-to-iptv-stream-preservation/"><u>[Updated] In 2024, The Definitive Guide to IPTV Stream Preservation</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-maximizing-audience-reach-prime-dissemination-days/"><u>[Updated] Maximizing Audience Reach Prime Dissemination Days</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-5-quandale-dingle-voice-generators/"><u>2024 Approved Best 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-hatsune-miku-ai-voice-generators-for-all-times/"><u>2024 Approved Best Hatsune Miku AI Voice Generators for All Times</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-video-files-to-mp3-a-focused-guide-for-pinterest-users/"><u>2024 Approved Transforming Video Files to MP3 A Focused Guide for Pinterest Users</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/cometbackup-providers/"><u>CometBackup Providers</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-mix-fold-3-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Mix Fold 3 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime/"><u>New 2024 Approved Guide to Discovering the Voice Generators/Changers with the Most Anime</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-5-quandale-dingle-voice-generators-for-2024/"><u>New Best 5 Quandale Dingle Voice Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-ai-rap-voice-generators-you-should-try/"><u>New Best AI Rap Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-narrator-voice-generators/"><u>New In 2024, Best Narrator Voice Generators</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-noise-cancelling-headphones-on-sale-in-march-2024-featured-by-zdnet/"><u>Top-Rated Noise-Cancelling Headphones on Sale in March 2024 - Featured by ZDNet</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/ultimate-guide-to-find-youtube-templates-vids/"><u>Ultimate Guide to Find Youtube Templates Vids</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>Updated In 2024, A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>Updated The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-youtube-streaming-a-guide-for-gamers-for-2024/"><u>[New] Mastering YouTube Streaming A Guide for Gamers for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-lensbisection-inspection/"><u>[Updated] LensBisection Inspection</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-a-list-of-the-top-spongebob-voice-generators/"><u>2024 Approved A List of The Top SpongeBob Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-best-5-tiktok-voice-generators-you-should-try/"><u>2024 Approved Best 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>2024 Approved The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-bodystream-error-here-are-seven-ways-to-fix-it/"><u>ChatGPT Bodystream Error? Here Are Seven Ways to Fix It</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dual-display-success-how-to-connect-and-configure-two-screens-on-windows-10/"><u>Dual Display Success: How to Connect & Configure Two Screens on Windows 10</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/elevate-stories-vibrancy-via-thoughtful-interactive-qandas-for-2024/"><u>Elevate Stories' Vibrancy via Thoughtful Interactive Q&As for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>New In 2024, Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://program-issues.techidaily.com/origin-app-wont-load-heres-how-to-fix-it/"><u>Origin App Won't Load? Here's How to Fix It!</u></a></li>
+<li><a href="https://win-help.techidaily.com/soluzione-guida-per-la-ricerca-della-cartella-programdata-in-windows-10-o-11/"><u>Soluzione Guida per La Ricerca Della Cartella 'ProgramData' In Windows 10 O 11</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-assassins-creed-syndicate-crashes-expert-advice/"><u>Ultimate Fixes for Assassin's Creed Syndicate Crashes - Expert Advice</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>Updated 2024 Approved Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-the-guide-to-learning-all-the-details-about-voice-cloning/"><u>Updated The Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-6-darth-vader-ai-generators-for-all-platforms-for-2024/"><u>Updated Top 6 Darth Vader AI Generators for All Platforms for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Remnant: From the Ashes From Keeping You Frustrated with Constant Crashes"
-date: 2025-01-23T10:43:13.275Z
-updated: 2025-01-23T19:34:14.353Z
+date: 2025-01-28T18:55:58.017Z
+updated: 2025-01-31T22:33:42.038Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/12dc2166b099f1b9b6e7bdda75dc13c8e66e7fa73
 ## Remnant: From the Ashes Update: Ending Frequent Game-Crash Episodes Once and for All
 
 _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After reading this article, you should be able to fix it…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -32,10 +36,6 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 7. **[Disable voice chat](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall_Remnant_ and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
 
@@ -65,6 +65,10 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
@@ -74,10 +78,6 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
  You can hopefully run the game without errors now. If this didn’t work for you, try the fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4:**Update your graphics driver**
 
@@ -96,7 +96,7 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -106,7 +106,7 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -119,6 +119,10 @@ If your problem persists, then move on to the next fix below.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5:**Install the latest game patch**
 
  The developers of_Remnant_ release regular game patches to resolve bugs. It’s possible that a recent patch has stopped_Remnant_ from launching correctly, and that a new patch is required to fix it.
@@ -126,10 +130,6 @@ If your problem persists, then move on to the next fix below.
  To check if there is any update, go to the **[Remnant site](https://www.remnantgame.com/en/about/)**  and search for the latest patch**.**  If a patch is available, install it, then run your game again to check whether the crashing problem has been fixed. If it hasn’t, or there was no new game patch available, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Verify the integrity of your game files
 
@@ -140,6 +140,10 @@ If your problem persists, then move on to the next fix below.
 **2)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click**Remnant: From the Ashes** and select **Properties.**
 
@@ -152,6 +156,10 @@ If your problem persists, then move on to the next fix below.
 **5)** Relaunch_Remnant_ to see if this has fixed your problem. If not, move on to the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7:**Disable voice ch** at
 
@@ -198,21 +206,17 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-214.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-607.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the list box below to select **Windows 7** , then click **OK** . (If you’re on Windows 10, you can also try running your game in Windows 8 mode.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-608.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
@@ -243,6 +247,10 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-247.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Download and install**Remnant** again.
 
 **6)** Relaunch your game to check if this has fixed your issue.
@@ -259,25 +267,13 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
@@ -290,6 +286,10 @@ If the game is still unplayable, read on and try the fix below.
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **8)[](https://store.steampowered.com/about/) [Download](https://store.steampowered.com/about/) [](https://store.steampowered.com/about/)**  and install Steam.
 
@@ -326,20 +326,22 @@ If the game is still unplayable, read on and try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-getting-your-foot-in-the-channels-door-must-haves-for-2024/"><u>[New] Getting Your Foot in the Channel's Door Must-Haves for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/aximizing-youtube-gains-a-comprehensive-approach-for-mobile-monetization-for-2024/"><u>[New] Maximizing YouTube Gains A Comprehensive Approach for Mobile Monetization for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-slidestream-creator-pro-macos/"><u>[Updated] 2024 Approved SlideStream Creator Pro (macOS)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-auditory-artistry-in-storytelling/"><u>2024 Approved Auditory Artistry in Storytelling</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/achieving-perfect-visibility-ideal-ps4-camera-setup-guide/"><u>Achieving Perfect Visibility: Ideal PS4 Camera Setup Guide</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-5-tiktok-voice-generators-you-should-try-for-2024/"><u>Best 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722867752229-discover-the-best-no-cost-movie-streamers-available-online-now/"><u>Discover the Best No-Cost Movie Streamers Available Online Now!</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-best-10-free-and-best-text-to-speech-generators/"><u>In 2024, Best 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-sony-xperia-1-v-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Sony Xperia 1 V to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-5-quandale-dingle-voice-generators/"><u>In 2024, Top 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-a-comprehensive-list-of-the-top-spongebob-voice-generators-for-2024/"><u>New A Comprehensive List of The Top SpongeBob Voice Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-10-free-ai-voice-generators-to-use-in-daily-life-for-2024/"><u>New Best 10 Free AI Voice Generators to Use in Daily Life for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-the-most-straightforward-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>New The Most Straightforward Guide to Learning How to Clone Your Voice for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/real-time-ai-voice-changer-revolutionizing-communication-for-2024/"><u>Real-Time AI Voice Changer Revolutionizing Communication for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/text-trends-top-10-modern-effects/"><u>Text Trends Top 10 Modern Effects</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-x-capture-pro-for-home-systems-for-2024/"><u>[Updated] X-Capture Pro for Home Systems for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/an-ultimate-guide-of-best-narrator-voice-generators-for-2024/"><u>An Ultimate Guide of Best Narrator Voice Generators for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/audiovisual-amplification-harness-no-cost-tools-for-dynamic-voice-effects-for-2024/"><u>Audiovisual Amplification Harness No-Cost Tools for Dynamic Voice Effects for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>In 2024, A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-nubia-red-magic-9-proplus-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Nubia Red Magic 9 Pro+ Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>In 2024, Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>In 2024, Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-unleashing-the-potential-of-maxoaks-premium-battery-pack-with-185wh50000mah-capacity/"><u>In-Depth Analysis: Unleashing the Potential of MaxOak's Premium Battery Pack with 185Wh/50000mAh Capacity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-shift-proven-methods-for-a-flawless-upgrade-to-the-latest-iphone-as-recommended-by-zdnet/"><u>Master the Shift: Proven Methods for a Flawless Upgrade to the Latest iPhone, as Recommended by ZDNet</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/mastering-mouse-configuration-tips-and-tricks-from-yl-software-experts/"><u>Mastering Mouse Configuration: Tips and Tricks From YL Software Experts</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New In 2024, A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-5-quandale-dingle-voice-generators/"><u>New In 2024, Top 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/troubleshooting-a-non-functioning-video-detector-during-download-process/"><u>Troubleshooting a Non-Functioning Video Detector During Download Process</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-8-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 8 Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated 2024 Approved Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>Updated Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
 </ul></div>
 

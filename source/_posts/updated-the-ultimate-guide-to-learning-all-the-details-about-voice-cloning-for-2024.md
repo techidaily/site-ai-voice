@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Guide to Learning All the Details About Voice Cloning for 2024
-date: 2025-01-21T06:51:14.691Z
-updated: 2025-01-23T17:23:53.119Z
+date: 2025-01-29T16:24:56.634Z
+updated: 2025-01-31T18:22:43.306Z
 tags: 
   - ai voice
 categories: 
@@ -248,10 +248,6 @@ PlayHT is a well-reputed **voice cloning software** that can produce dynamic clo
 
 ![voice-cloning-software-2.jpg](https://images.wondershare.com/virbo/features/ai-voice/voice-cloning-software-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 PlayHT also has an advanced script editor that facilitates the editing workflow. You can also try its text-to-speech feature that can generate AI voices with the best audio quality. Hence, you should try PlayHT to produce effective cloned voices in a comfortable environment.
 
 #### Pricing Plans
@@ -267,6 +263,10 @@ PlayHT also has an advanced script editor that facilitates the editing workflow.
 Speechify is an online **voice clone app** that offers multiple features to produce cloned and AI voices. For voice cloning, this tool only requires 30 seconds of audio recording. You can generate various takes and refine the results unlimited times. For customization, you can also adjust the volume and speed of the cloned voice. Moreover, you can also add human emotion to the voice by adding excitement, emphasis, and pauses.
 
 ![voice-cloning-software-3.jpg](https://images.wondershare.com/virbo/features/ai-voice/voice-cloning-software-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This tool also supports multiple languages such as German, English, Hindi, Spanish, Italian, etc. You can also find other helpful features on this tool, such as AI dubbing, AI voiceover, and AI video generator. Hence, Speechify is an all-rounder tool to generate cloned and AI voices.
 
@@ -311,6 +311,11 @@ On this tool, you can also find helpful features to dub your native voice in mor
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Best Text Voice Generators for All Platforms
 
@@ -422,13 +427,13 @@ Are you tired of reading out all the words in a text document, or do you wish to
 
 Discover the ultimate guide to the top text-to-voice (TTS) generators in the market. With this handpicked selection of text-to-voice voice generators, you can now quickly turn your text to voice outputs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Top 2 Text-to-Voice Generators to Use Online On Any Web Browser
 
 One of the easiest methods to convert text to voice is via the web. But how would you choose a suitable **text-to-voice generator** tool among the wide variety available? Here are our top 2 picks that can be easily used on any web browser.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Media.io
 
@@ -559,6 +564,10 @@ Luckily, VOCALOID software offers reliable and cost-efficient pricing plans for 
 
 **VOCALOID synthesizer** is a tool that is packed with amazing features. This tool's top-grade features can help you generate music in natural singing voices with few taps. You must be eager to discover the features of VOCALOID6 that can set it apart from its competitors. A few are discussed here for your better understanding of the tool:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Direction and Vocal Work
 
 With this optimized quality tool, you can edit the music's accents, rhythmic feel, and vibrato. Above all, you also have a chance to double the music to generate music harmony. This also helps you in giving a personalized outlook to your music tracks.
@@ -570,10 +579,6 @@ You can also mute and solo the parts with the in-built switches. Moreover, it al
 This software has the potential to produce new tracks for you. It can also replicate your singing style, so you don't have to compromise on your style. There are over 100 singing styles in it, and you can select one of your choices.
 
 In addition, it can generate naturally expressive tracks for the ease of the users. The VOCALO CHANGER lets you add your voice to its interface and change it as needed. You can also add it to the voice bank. Moreover, you can also zoom in on the projects to see the generated tracks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Language, Effects, and Customization
 
@@ -615,10 +620,6 @@ Undoubtedly, the **VOCALOID voice generator** is an optimized quality tool. Howe
 
 No worries if you have no idea about the reputable alternatives of the **VOCALOID synthesizer**. The below-discussed tools can serve as the best alternatives for VOCALOID software:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Virbo
 
 Virbo is a quality-optimized tool through which you can generate AI videos with AI avatar integration. The interface of this **VOCALOID voice generator** alternative is beyond amazing, and it also incorporates blazing-fast processing speed. Virbo supports 150+ real human avatars, along with 120+ voices and languages. You can also select the avatars based on their age and ethnicity.
@@ -645,10 +646,6 @@ Before selecting the voices, you can also hit the play icon to preview them. Bes
 
 ![vocaloid6-voice-generator-7.jpg](https://images.wondershare.com/virbo/features/marketing/vocaloid6-voice-generator-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 As discussed in this article, you can use **VOCALOID software** to generate AI voices. You can find significantly descriptive information about this amazing tool in the above article. The features of VOCALOID6, along with compatibility and pricing, are also described above.
@@ -660,10 +657,6 @@ Pricing of VOCALOID6
 Luckily, VOCALOID software offers reliable and cost-efficient pricing plans for users. You can also discover the budget-friendly pricing plans of VOCALOID6 here:
 
 * **VOCALOID6 for Windows/macOS:** $225
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: What are the Features Offered by VOCALOID6
 
@@ -699,6 +692,10 @@ In VOCALOID, you can access over 2000 editable phrases along with the audio samp
 
 Moreover, you can edit the music with its effective line tool. This helps in accomplishing smooth and consistent editing. There is a specialized note-editing tool that can make editing music notes easier than ever.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Use VOCALOID6 VOICE Changer | Step-by-Step Instructions
 
 Using VOCALOID6 is not as complicated as it seems. The procedure for using the VOCALOID6 voice changer without any mistakes is listed here for you:
@@ -738,10 +735,6 @@ Speechify is one of the popular AI voice generators on the web. Through this ama
 Speechify can also turn Docs, articles, or PDF files into speech without any mistakes. You can also use this for generating voiceovers, doing voice cloning, and dubbing existing files. It also has an extensive catalog of audiobooks that you can narrate in high-quality.
 
 ![vocaloid6-voice-generator-6.jpg](https://images.wondershare.com/virbo/features/marketing/vocaloid6-voice-generator-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. SpeechGen.io
 
@@ -821,6 +814,10 @@ Below are some of the advantages you’ll get with Voicemod Pro:
 
 ![voicemod ai pricing](https://images.wondershare.com/virbo/article/voicemod-ai-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tips: Try the Best Alternative to Voicemod AI - Virbo
 
 Voicemod might stand out as one of the best voice-changing software around. But, this program has a few drawbacks, primarily complex usability. Also, Voicemod only works with audio files and live microphone recordings. This begs the question: what if you want to add a voice effect to a video and share it online?
@@ -842,10 +839,6 @@ Follow these steps to create a video with AI voiceover on Wondershare Virbo:
 **Step 3\.** Next, tap the **Audio Scripts** button, then choose **Online Recording** to begin recording live voiceover on your video template. You can also upload a pre-recorded MP3/WAV file or extract audio from MP4.
 
 ![record a voiceover](https://images.wondershare.com/virbo/article/voicemod-ai-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4.** Preview the video and change the sound effects by choosing a new avatar if needed. If satisfied, tap **Export** to save your video template with AI voice. That was easy, right?
 
@@ -1022,10 +1015,6 @@ Day by day, the advancement of AI-powered tools is increasing drastically. Multi
 
 Here, we will discuss the top 6 software through which you will be too able to **clone your voice AI**. You can find the software, along with its introduction and key features, here:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Speechify
 
 Speechify is the best AI-powered tool that helps you make voice clones without compromising quality. You can use this effective tool to **clone your voice** in a customized manner. Whether you are a content creator, podcast maker, or video editor, this tool can help you.
@@ -1126,6 +1115,10 @@ Before selecting the tools, ensure they can provide reliable results without com
 
 A tool hold lets you create clones that can sound natural, along with having emotions and rhythms. You should also be able to adjust the audio metrics, inclusive of speed, tone, and pitch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Language Support and Understanding
 
 Make sure the tool you select can support the language you want in your cloned voices. Not only language, but should also support versatile accents to ensure flexibility. This is a crucial factor for having accuracy and reliability in the voice clones. Making global content can also get easier with this.
@@ -1181,10 +1174,6 @@ Alongside this, voice cloning can also provide urgent alters and notification se
 You can clone your voice and use it for authentication purposes. It can also help create voice-based security based on voice traits such as pitch. You can make the authentication of your accounts and facilities stronger through this. To give iconic performances, you can often use voice cloning in live performances.
 
 It can also open paths of communication for the users without ethical complications. You can give the best live performance experience to the users.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: The Best AI-Powered Tools to Clone Your Voice
 
@@ -1291,6 +1280,10 @@ Selecting the best software to **clone your voice** can be hectic. To save you f
 Before selecting the tools, ensure they can provide reliable results without compromising the quality. The quality of the voice clones generated with the AI software should encompass naturalness. This will help you to attract more listeners without any doubt.
 
 A tool hold lets you create clones that can sound natural, along with having emotions and rhythms. You should also be able to adjust the audio metrics, inclusive of speed, tone, and pitch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Language Support and Understanding
 
@@ -1476,6 +1469,10 @@ Below are some of the uses:
 * **Content creator:** Are you a content creator on YouTube, TikTok, Reels, and other platforms? You can use AI voice to create high-quality content with fun and engaging narrations. AI voices can also help create top-quality podcasts.
 * **Accessibility:** Not everyone is blessed with a celebrity voice. It’s even more challenging to create content for those with voice challenges. But with AI voice transformers, you can convert text to audio before adding your preferred voice effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 2\.** **Explore realistic AI voice generator**
 
 The AI voice generators listed above are undoubtedly helpful in what they do. However, consider [Wondershare Virbo](https://virbo.wondershare.com/) to enjoy more features when transforming your voice.
@@ -1640,6 +1637,10 @@ What is the difference between talking stock photos and talking stock images? Ph
 
 ![getty images talking photos](https://images.wondershare.com/virbo/article/2024/04/talking-stock-photo-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 What self-respecting journalist or newsreader does not know about Getty Images? Getty has a repertoire of over 7,935,000 high-quality talking photos for you to choose from. That all but guarantees that you will be able to find the ones you want and like.
 
 #### 2.2: Shutterstock
@@ -1756,14 +1757,17 @@ Talking photos are the next frontier in digital communication and expression. Ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-navigate-the-digital-world-prime-twitters-converters/"><u>[New] Navigate the Digital World Prime Twitters Converters</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/customize-your-mouse-and-touchpad-settings-using-windows-control-panel-tips-from-yl-software/"><u>Customize Your Mouse & Touchpad Settings Using Windows Control Panel - Tips From YL Software</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/essential-techniques-for-quiet-filming/"><u>Essential Techniques for Quiet Filming</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-se-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-5-tiktok-voice-generators-you-should-try/"><u>In 2024, Top 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>New Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>New Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-myth-taming-unalterable-chatgpt/"><u>The Myth: Taming Unalterable ChatGPT</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Updated A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-cross-device-synchronization-aligning-zoom-with-calendar-events-for-2024/"><u>[New] Cross-Device Synchronization Aligning Zoom with Calendar Events for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-beyond-acid-pro-innovative-vector-editors-reviewed/"><u>[New] In 2024, Beyond ACID Pro Innovative Vector Editors Reviewed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-essential-ios-video-editor-apps-top-10-best-to-know/"><u>[New] In 2024, Essential iOS Video Editor Apps Top 10 Best to Know</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-6-darth-vader-ai-generators-for-all-platforms/"><u>2024 Approved Top 6 Darth Vader AI Generators for All Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-strategy-for-wiping-out-all-favorite-tracks-from-your-spotify-profile/"><u>Comprehensive Strategy for Wiping Out All Favorite Tracks From Your Spotify Profile</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>In 2024, A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-samsung-galaxy-s23-fe-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Samsung Galaxy S23 FE to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-6-essential-video-dubbing-tools-for-pc-users-free-and-easy-to-use/"><u>New 2024 Approved 6 Essential Video Dubbing Tools for PC Users (Free and Easy to Use)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/perfecting-slow-motion-cinematography-for-social-media-engagement-on-instagram/"><u>Perfecting Slow Motion Cinematography for Social Media Engagement on Instagram</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>Updated 2024 Approved A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-narrator-voice-generators/"><u>Updated 2024 Approved Best Narrator Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-6-free-talking-stock-photo-sites/"><u>Updated Top 6 Free Talking Stock Photo Sites</u></a></li>
 </ul></div>
 

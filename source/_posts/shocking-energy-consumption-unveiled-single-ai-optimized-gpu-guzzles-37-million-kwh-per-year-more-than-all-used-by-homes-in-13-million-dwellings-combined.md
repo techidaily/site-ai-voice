@@ -1,7 +1,7 @@
 ---
 title: "Shocking Energy Consumption Unveiled: Single AI-Optimized GPU Guzzles 3.7 Million kWh Per Year, More Than All Used by Homes in 1.3 Million Dwellings Combined"
-date: 2025-01-17T19:58:20.516Z
-updated: 2025-01-24T08:45:38.045Z
+date: 2025-01-24T22:19:12.407Z
+updated: 2025-01-31T23:56:18.805Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,24 +80,18 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-method-for-recorded-instagram-stories/"><u>[New] 2024 Approved The Ultimate Method for Recorded Instagram Stories</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-depth-screen-capturing-a-resourceful-guide-for-dell-users-for-2024/"><u>[Updated] In-Depth Screen Capturing A Resourceful Guide for Dell Users for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-guide-to-achieving-flawless-screens-in-adobe-captivity-for-2024/"><u>[Updated] The Ultimate Guide to Achieving Flawless Screens in Adobe Captivity for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-5-ai-voice-generators-online-supports-all-browsers/"><u>Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-e-learning-leader-labeler/"><u>Elite E-Learning Leader Labeler</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oneplus-ace-2-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your OnePlus Ace 2 Pro Lock Screen Password</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-6-free-talking-stock-photo-sites/"><u>In 2024, Top 6 Free Talking Stock Photo Sites</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-reno-10-proplus-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo Reno 10 Pro+ 5G FRP Bypass</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-s24plus-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy S24+</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-copyright-claims-and-how-to-deal-with-a-strike/"><u>In 2024, YouTube Copyright Claims and How to Deal with a Strike?</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>New 2024 Approved Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-an-ultimate-guide-of-best-narrator-voice-generators-for-2024/"><u>New An Ultimate Guide of Best Narrator Voice Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-authors-recommended-the-best-text-voice-generators-for-all-platforms-for-2024/"><u>New Authors Recommended The Best Text Voice Generators for All Platforms for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/sidestep-do-not-have-sufficient-privileges-uninstall-on-windows/"><u>Sidestep 'Do Not Have Sufficient Privileges': Uninstall on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ipad-air-m2-analysis-why-it-stands-out-as-the-ideal-choice-for-consumers/"><u>Top iPad Air (M2) Analysis - Why It Stands Out as the Ideal Choice for Consumers</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>Updated 2024 Approved The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Updated In 2024, Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1-resolving-graphics-card-glitches-expert-tips-from-yl-computings-guide/"><u>1. Resolving Graphics Card Glitches: Expert Tips From YL Computing's Guide</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-xs-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone XS Max to Android | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-k70e-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-limitation-notified-for-graphics-hardware/"><u>Device Limitation Notified for Graphics Hardware</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/exploring-performance-and-features-of-asus-rt-ac88u-a-comprehensive-gaming-router-assessment/"><u>Exploring Performance and Features of Asus RT-AC88U - A Comprehensive Gaming Router Assessment</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/how-to-successfully-address-and-correct-indivisible-crash-issues-once-and-for-all/"><u>How to Successfully Address and Correct 'Indivisible' Crash Issues Once and For All</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boost-conference-calls-on-zoom-platform/"><u>In 2024, Boost Conference Calls on Zoom Platform</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-creating-magnetic-storylines-for-your-vlog-videos/"><u>In 2024, Creating Magnetic Storylines for Your Vlog Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-exclusive-list-of-budget-friendly-video-conferencing-tools/"><u>In 2024, Exclusive List of Budget-Friendly Video Conferencing Tools</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/overcoming-setbacks-troubleshooting-a-non-launching-evil-genius-2-game/"><u>Overcoming Setbacks: Troubleshooting a Non-Launching Evil Genius 2 Game</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/solving-modern-game-sound-glitches-a-comprehensive-guide/"><u>Solving Modern Game Sound Glitches: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/system-alert-ideport0-controller-anomaly/"><u>System Alert: Ideport0 Controller Anomaly</u></a></li>
 </ul></div>
 

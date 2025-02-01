@@ -1,7 +1,7 @@
 ---
 title: New Top 6 Free Talking Stock Photo Sites for 2024
-date: 2025-01-22T12:21:17.654Z
-updated: 2025-01-24T03:38:26.198Z
+date: 2025-01-27T16:04:38.672Z
+updated: 2025-01-31T17:27:40.795Z
 tags: 
   - ai voice
 categories: 
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 Ever heard of **talking stock photo**s? If you have seen magic/sorcery/ wizardry-themed movies, you might have come across the idea of moving photos or motion photos where photo frames are shown to have motion pictures. In real life, you have what’s called Live Photos by Apple, a technology that captures a couple of seconds' worth of motion. These are essentially just GIFs. But this is 2024, and today, we introduce you to talking photos or talking stock images. Literally, photos that speak. What! Read more about it below!
 
 ![talking photo banner](https://images.wondershare.com/virbo/article/2024/04/talking-stock-photo-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What Are Talking Stock Photos and What Can You Do With Them?
 
@@ -65,10 +61,6 @@ If Getty’s 7,935,000 talking photos didn’t fit the bill, maybe Shutterstock 
 
 ![unsplash talking photos](https://images.wondershare.com/virbo/article/2024/04/talking-stock-photo-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Unsplash has been making a splash since 2013 with high-quality stock imagery for everyone. So much so, that in 2021, it was acquired by Getty Images. Unsplash users will not have a lot to work with in terms of talking photos, though. The repository seems to be somewhat small at the moment at over 1700 talking photos only.
 
 #### 2.4: Pexels
@@ -100,6 +92,10 @@ Wondershare Virbo is the ultimate talking photo creator tool you could find on t
 **VERSATILITY**
 
 Wondershare Virbo is the most flexible and versatile talking photo creator tool available on the internet. There are so many ways you can create talking photos with. You can choose a voiceover, record your own audio online or upload a recording yourself to create a unique, fully customized talking photo unlike any other in the world! What’s more, using Wondershare Virbo, you can not only create talking photos but add subtitles to videos, translate videos, and do so much more with just one single app ![Generate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 1:** We start with creating a project. Simply download Wondershare Virbo to your computer and click Talking Photo.
 
@@ -136,6 +132,10 @@ Talking photos are the next frontier in digital communication and expression. Ha
 ![create talking photo with wondershare virbo](https://images.wondershare.com/virbo/guide/windows/talking-photo-feature.jpg)
 
 ![add image in virbo](https://images.wondershare.com/virbo/guide/windows/talking-photo-feature-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can use the add button (with the plus symbol) to upload an image or choose from one of the several options within the software and click Create Video.
 
@@ -198,10 +198,6 @@ There are many reasons that make voice cloning beneficial for people. To learn i
 In the media industry, you can create voiceovers by cloning the voices of famous celebrities. It can also help in producing documentaries, as you can add narration through cloned voices. Moreover, you can adjust the properties of a cloned voice to match the genre of your movie and documentary.
 
 Brand endorsements can also be done through voice cloning. You can create a customized brand voice through voice cloning without hiring voice actors. Furthermore, you can use the brand’s voice in advertisement and marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Offers Accessibility to Disabled
 
@@ -344,6 +340,10 @@ Easily convert text into professional spokesperson videos in over 120+ voices & 
 
 [![google-play](https://images.wondershare.com/virbo/images2023/google-play-btn.svg)](https://app.adjust.com/1187btki%5F11xz9mlt) [![app-store](https://images.wondershare.com/virbo/images2023/app-store-btn.svg)](https://app.adjust.com/1187btki%5F11xz9mlt)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![article-product-download](https://images.wondershare.com/virbo/images2023/article-product-download.png)
 
 ### 4\. Public Announcements and Voice Alerts
@@ -353,6 +353,10 @@ In case of emergencies and public announcements, voice cloning can greatly benef
 ### 5\. Helps in Language Learning and Pronunciation
 
 Language learners and enthusiasts always struggle with correct pronunciation. With voice cloning, beginners can practice accurate pronunciations at their homes. Moreover, it can help them to learn native accents and tones of multiple languages. Therefore, you can practice and learn new languages with voice cloning.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Select the Best Cloning Software in 2024
 
@@ -448,10 +452,6 @@ Resemble.ai is an online **voice cloning software** that can generate high-quali
 
 ![voice-cloning-software-5.jpg](https://images.wondershare.com/virbo/features/ai-voice/voice-cloning-software-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 On this tool, you can also find helpful features to dub your native voice in more than 60 languages. It also provides a neural audio editing function. Using this feature, you can alter the speech with synthetic voice cloning. Thus, this **clone voice AI** tool can benefit you in many use cases.
 
 #### Pricing Plans
@@ -463,6 +463,10 @@ On this tool, you can also find helpful features to dub your native voice in mor
 ## Conclusion
 
 **Voice cloning apps** are necessary for voiceover, narration, and audiobook production. Such apps also help make conversations with voice assistants like Siri and Alexa engaging. In this article, we have highlighted the significance and impact of voice cloning in different fields. Moreover, you can also explore some of the best tools to clone the voices with accuracy and perfection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Hatsune Miku AI Voice Generators for All Times
 
@@ -641,6 +645,10 @@ One of the best things about Virbo is it has the potential to create amazing qua
 * Clear Audio Quality
 * Spoken by Realistic Avatars
 * 300+ Accents & Languages
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -910,10 +918,6 @@ Speechify can also turn Docs, articles, or PDF files into speech without any mis
 
 ![vocaloid6-voice-generator-6.jpg](https://images.wondershare.com/virbo/features/marketing/vocaloid6-voice-generator-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. SpeechGen.io
 
 This innovative **VOCALOID software alternative** holds the potential for generating realistic AI voices. Through this, we can create realistic quality voices without any pronunciation mistakes. It also supports various languages, such as Persian, Basque, Irish, Greek, Spanish, English, Gujarati, and more. You can also select the AI voice of your choice from the options of Bart, Guy, Eric, Jack, and more.
@@ -1008,10 +1012,6 @@ Speechify can also turn Docs, articles, or PDF files into speech without any mis
 
 ![vocaloid6-voice-generator-6.jpg](https://images.wondershare.com/virbo/features/marketing/vocaloid6-voice-generator-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. SpeechGen.io
 
 This innovative **VOCALOID software alternative** holds the potential for generating realistic AI voices. Through this, we can create realistic quality voices without any pronunciation mistakes. It also supports various languages, such as Persian, Basque, Irish, Greek, Spanish, English, Gujarati, and more. You can also select the AI voice of your choice from the options of Bart, Guy, Eric, Jack, and more.
@@ -1086,6 +1086,10 @@ Pros
 Cons
 
 * You must sign up to use the service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Synthesys.io
 
@@ -1229,16 +1233,12 @@ Follow these quick steps:
 
 ![eminem-voice-generator-8.jpg](https://images.wondershare.com/virbo/features/ai-voice/eminem-voice-generator-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4.** Preview the video once more before exporting it to WebM or MP4 format. It's that quick and easy!
 
 ![eminem-voice-generator-9.jpg](https://images.wondershare.com/virbo/features/ai-voice/eminem-voice-generator-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -1271,14 +1271,14 @@ Mickey Mouse is an anthropomorphic character that has billions of fans all aroun
 
 ![use cases of mickey voice generator](https://images.wondershare.com/virbo/features/ai-voice/mickey-mouse-voice-generator-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. **Entertainment Content:** With the help of a reliable **Mickey voice generator**, you can create entertainment content for the audience. It also assists you in pranking people and presenting yourself as a comedic person.
 2. **Production and Services:** These voice generators can also help you with dubbing and parody. You can also create commercials and videos themed on Mickey Mouse. Moreover, you can also give birthday party services while sounding like Mickey Mouse.
 3. **Virtual Reality Projects:** You can enhance the overall experience of the users with Mickey Mouse voices. It can also help you interact with audiences to get better engagement in virtual reality projects.
 4. **Children's App and Games:** You can also make children happy by sounding like Mickey Mouse. Not only in real life, but you can also change your voice to Mickey Mouse on apps and games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: The Best Online Mickey Mouse Voice Generators to Use on All Browsers
 
@@ -1358,10 +1358,6 @@ Moreover, its voice cloning technology can even replicate the voices for creatin
 2. You can create custom voices by using the Voice Studio of UnicTool MagicVox. It also lets you perfect your identity.
 3. UnicTool MagicVox allows you to record the audio and download them in MP3 or MAV format.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. iMyFone VoxBox
 
 Using this extraordinary **Mickey voice generator**, you can dub the voices in more than 46 languages. It also integrates 3200 voices that never fail to amaze the realistic voice clones. This tool can also handle the TTS, SSL, conversion, and other audio parameters.
@@ -1415,6 +1411,10 @@ Virbo also has endless templates and royalty-free music. You can also use its AI
 
 ![virbo ai video creator](https://images.wondershare.com/virbo/features/ai-voice/mickey-mouse-voice-generator-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In the following article, you have discovered the information about **Mickey Mouse's voice generator**. There are diversified points that ensure the usability of Mickey Mouse's voice. A few of them are discussed above for you. In addition to this, you can use both online and offline software to accomplish this task.
@@ -1431,16 +1431,18 @@ The best online **Mickey voice generators** are Uberduck, FakeYou, and voicechan
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-simplified-sound-adjustments-achieve-a-unique-voice-in-online-gaming/"><u>[New] In 2024, Simplified Sound Adjustments Achieve a Unique Voice in Online Gaming</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-step-up-your-instagram-game-with-these-highest-rated-grid-makers/"><u>[Updated] 2024 Approved Step Up Your Instagram Game with These Highest-Rated Grid Makers</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-5-ai-voice-generators-online-supports-all-browsers/"><u>In 2024, Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-10-free-and-best-text-to-speech-generators/"><u>New In 2024, Best 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-the-most-direct-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>New The Most Direct Guide to Learning How to Clone Your Voice for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/quick-guide-deploying-hyper-v-on-windows-server-19-with-three-user-friendly-techniques/"><u>Quick Guide: Deploying Hyper-V on Windows Server ˈ19 With Three User-Friendly Techniques</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-10-robotic-voice-generators/"><u>Updated In 2024, Top 10 Robotic Voice Generators</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-mp4-to-mp3-conversion-made-easy-top-apps-for-mobile/"><u>Updated MP4 to MP3 Conversion Made Easy Top Apps for Mobile</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>Updated Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-itel-a60s-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Itel A60s Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-optimize-your-appletv-use-with-simple-steps-to-watch-facebook-content/"><u>[New] Optimize Your AppleTV Use with Simple Steps to Watch Facebook Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-discount-hunting-for-chinese-made-vr-devices/"><u>[Updated] 2024 Approved Discount Hunting for Chinese-Made VR Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-joy-one-anime-at-a-time-youtubes-best-channels-list-for-2024/"><u>[Updated] Find Joy, One Anime at a Time YouTube's Best Channels (List) for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-celebrity-voice-generator-tools-you-cannot-miss-for-2024/"><u>Best Celebrity Voice Generator Tools You Cannot Miss for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/discovering-the-best-soundtracks-for-unboxing-vlogs-for-2024/"><u>Discovering the Best Soundtracks for Unboxing Vlogs for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/erreur-404-pagina-introuvable-detecte/"><u>Erreur 404 : Pagina Introuvable Détecté</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-escalation-top-8-factors-intensifying-generative-ais-security-threats/"><u>Exploring the Escalation: Top 8 Factors Intensifying Generative AI's Security Threats</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-techniques-to-surpass-instagrams-typical-video-limits/"><u>In 2024, Techniques to Surpass Instagram's Typical Video Limits</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-6-best-voice-changers/"><u>New 6 Best Voice Changers</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/step-by-step-guide-identifying-common-graphics-card-issues-with-easy-diagnostic-tools/"><u>Step-by-Step Guide: Identifying Common Graphics Card Issues with Easy Diagnostic Tools</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-latest-top-darth-vader-voice-generators-for-all-platforms-for-2024/"><u>Updated Latest Top Darth Vader Voice Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-lenovo-camera-software-compatibility-with-windows-7/"><u>Upgrade Lenovo Camera Software Compatibility with Windows 7</u></a></li>
 </ul></div>
 

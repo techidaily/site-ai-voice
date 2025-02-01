@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Russian Tech Breakthrough: 128-Core Servers Set to Power Elite Supercomputers"
-date: 2025-01-22T19:38:01.445Z
-updated: 2025-01-23T16:52:14.769Z
+date: 2025-01-30T21:09:14.960Z
+updated: 2025-01-31T21:28:18.249Z
 tags:
   - desktop
 categories:
@@ -16,7 +16,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
@@ -41,7 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -67,18 +67,16 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-evaluating-apples-m1-macbook-air-for-media-professionals/"><u>[New] 2024 Approved Evaluating Apple’s M1 MacBook Air for Media Professionals</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-simplified-mac-imaging-mastering-5-easy-screenshot-methods/"><u>[New] In 2024, Simplified Mac Imaging Mastering 5 Easy Screenshot Methods</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-jackery-explorer-1500-pro-the-ultimate-portable-power-solution-reviewed-on-zdnet/"><u>Discover the Jackery Explorer 1500 Pro: The Ultimate Portable Power Solution Reviewed on ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovating-sound-quality-top-6-recommendations-for-streamers-for-2024/"><u>Innovating Sound Quality Top 6 Recommendations for Streamers for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-revolutionizing-communication-real-time-ai-voice-changer/"><u>New 2024 Approved Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>New In 2024, Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-zte-blade-a73-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock ZTE Blade A73 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/ts2/"><u>TSファイルにおいて安全なクロスオーバー編成手順2種類</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>Updated A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>Updated Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime-for-2024/"><u>Updated Guide to Discovering the Voice Generators/Changers with the Most Anime for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-10-free-ai-voice-generators-to-use-in-daily-life-for-2024/"><u>Updated Top 10 Free AI Voice Generators to Use in Daily Life for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/windows1110/"><u>フォト・エディタがビデオもサポート？Windows11/10向けにおすすめの編集ソリューションとその他の選択肢</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-obs-and-instagram-integration-the-essential-how-to-manual-for-2024/"><u>[New] OBS and Instagram Integration The Essential How To Manual for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-storage-space-used-daily-extended-video-size/"><u>[New] Storage Space Used Daily Extended Video Size</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>2024 Approved Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-honor-play-7t-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Honor Play 7T Phone When You Forget the Password</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-celebrity-voice-generator-tools-you-cannot-miss/"><u>New 2024 Approved Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-narrator-voice-generators-for-2024/"><u>New Best Narrator Voice Generators for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openais-chatgpt-understanding-its-8-main-shortcomings-and-flaws/"><u>OpenAI's ChatGPT – Understanding Its 8 Main Shortcomings and Flaws</u></a></li>
+<li><a href="https://media-tips.techidaily.com/play-high-quality-hd-mkv-movies-in-4k-using-the-free-vlc-media-player-get-it-now/"><u>Play High-Quality HD MKV Movies in 4K Using the Free VLC Media Player – Get It Now!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/stealth-video-tactics-for-soundless-capture-for-2024/"><u>Stealth Video Tactics for Soundless Capture for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-the-best-text-voice-generators-for-all-platforms/"><u>Updated The Best Text Voice Generators for All Platforms</u></a></li>
 </ul></div>
 

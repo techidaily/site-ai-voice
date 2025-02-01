@@ -1,7 +1,7 @@
 ---
 title: "PC Troubleshooting Guide: Fix ARK: Sanctuary Über Wiki's Constant Crash Issues with 9 Solutions"
-date: 2025-01-20T05:45:29.955Z
-updated: 2025-01-24T06:19:50.291Z
+date: 2025-01-28T20:37:48.040Z
+updated: 2025-01-31T16:49:40.291Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 Century: Age of Ashes
 
 **Century: Age of Ashes** is now available for free. However, just as everyone rushed in to master a growing roster of dragons and rule the skies, many PC gamers are interrupted by the game crashes. If you’re running into the exact same issue, don’t worry. You’ve landed on the right page, and you should be able to fix this issue easily after reading this article.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## System requirements of Century: Age of Ashes for Windows PC
 
@@ -46,7 +42,7 @@ Century: Age of Ashes system requirements
  If you’re using a powerful PC but still suffer from game crashes, don’t worry. Just read on and try the fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -61,10 +57,6 @@ Century: Age of Ashes system requirements
 6. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Verify integrity of game files
 
  Century: Age of Ashes will crash if some of the game files are broken. Before trying anything more complicated, you can verify and repair game files easily in Steam:
@@ -73,6 +65,10 @@ Century: Age of Ashes system requirements
 2. **Right-click** on **Century: Age of Ashes** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
@@ -98,13 +94,13 @@ Century: Age of Ashes system requirements
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -151,6 +147,10 @@ Century: Age of Ashes system requirements
 
 If this fix didn’t work, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Repair corrupted system files
 
  Windows system file corruption sometimes will also lead to the game crashing issues. If you’ve played PC games for a long time, you may have already known that even a missing or corrupted .dll file (dynamic link libraries) would cause a game to crash.
@@ -173,6 +173,10 @@ If this fix didn’t work, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)  
  Note: This is a paid service with a 60-day money-back guarantee, which means that you’ll need to buy the full version to start repairing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Perform a clean boot
 
  Century: Age of Ashes will crash when there’s a certain app conflicting with it. If you don’t know exactly which app is conflicting with the game, just follow the steps below to perform a clean boot:
@@ -181,26 +185,22 @@ If this fix didn’t work, try the next fix, below.
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -208,7 +208,7 @@ If this fix didn’t work, try the next fix, below.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Restart** Windows OS and launch Century: Age of Ashes to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -244,24 +244,17 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-from-screens-to-stories-vertical-video-mastery-with-fcpx/"><u>[Updated] In 2024, From Screens to Stories Vertical Video Mastery with FCPX</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-transforming-memories-from-still-photos-to-motion-pictures/"><u>[Updated] In 2024, Transforming Memories From Still Photos to Motion Pictures</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-content-visibility-on-youtube-your-guide-to-effective-featured-channels/"><u>[Updated] Mastering Content Visibility on YouTube Your Guide to Effective Featured Channels</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-nikon-d7500-review/"><u>[Updated] Nikon D7500 Review</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/ace-your-gameplay-unpacking-the-premium-yet-affordable-performance-of-the-acer-predator-orion-5000/"><u>Ace Your Gameplay: Unpacking the Premium Yet Affordable Performance of the Acer Predator Orion 5000</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/amds-instinct-mi300a-powers-hpe-el-capitan-the-path-to-the-quickest-supercomputer/"><u>AMD's Instinct MI300A Powers HPE El Capitan: The Path to the Quickest Supercomputer</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/asus-nuc-14-unleashing-new-power-with-up-to-core-i9-uhd-graphics-and-amd-ryzen-threadripper/"><u>Asus NUC 14: Unleashing New Power with Up to Core I9 UHD Graphics & AMD Ryzen Threadripper</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/1723262359107-compact-computer-with-full-amd-ryzen-setup-foldable-mini-keyboard-and-touchpad-just-needs-a-screen/"><u>Compact Computer with Full AMD Ryzen Setup: Foldable Mini Keyboard & Touchpad, Just Needs a Screen!</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/comprehensive-review-of-the-oculus-quest-2-superior-virtual-reality-for-a-spectacular-price-point/"><u>Comprehensive Review of the Oculus Quest 2: Superior Virtual Reality for a Spectacular Price Point</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/custom-pc-with-internal-coffee-machine-features-fully-equipped-roaster-and-grinder-for-tech-and-brew-enthusiasts/"><u>Custom PC with Internal Coffee Machine Features: Fully Equipped Roaster and Grinder for Tech & Brew Enthusiasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevating-dev-workflows-with-chatgpt-and-vs-code/"><u>Elevating Dev Workflows with ChatGPT & VS Code</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/expert-analysis-unveiling-imos-features-and-user-experience/"><u>Expert Analysis: Unveiling IMo's Features and User Experience</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/explore-cutting-edge-technology-with-invaluable-insights-from-toms-hardware/"><u>Explore Cutting-Edge Technology with Invaluable Insights From Tom's Hardware</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/game-changing-diy-pc-build-faster-egpu-connection-with-direct-pcie-interface-vs-thunderbolt-4/"><u>Game-Changing DIY PC Build: Faster eGPU Connection with Direct PCIe Interface vs Thunderbolt 4</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/how-can-i-view-friends-shared-vids-and-photos/"><u>How Can I View Friend’s Shared Vids and Photos?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-s17-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo S17 Pro Is Unlocked</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-tecno-spark-20-proplus-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Tecno Spark 20 Pro+ FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s6-features-like-s-pen-and-dex-mode-explored/"><u>In-Depth Analysis of the Samsung Galaxy Tab S6: Features Like S Pen & Dex Mode Explored</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-explore-the-best-in-class-pc-vr-headsets-for-2024/"><u>[New] Explore the Best-In-Class PC VR Headsets for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-posting-youtube-videos-to-your-facebook-feed-for-2024/"><u>[New] Posting YouTube Videos to Your Facebook Feed for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-from-novice-to-expert-elevating-screencapture-skills/"><u>[Updated] From Novice to Expert Elevating ScreenCapture Skills</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-leveraging-tech-for-efficient-facebook-to-whatsapp-video-sharing/"><u>[Updated] Leveraging Tech for Efficient Facebook to WhatsApp Video Sharing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-perfecting-projects-through-music-addition-in-premiere-pro-for-2024/"><u>[Updated] Perfecting Projects Through Music Addition in Premiere Pro for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-calculating-costs-music-video-filming/"><u>2024 Approved Calculating Costs Music Video Filming</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-ai-rap-voice-generators-you-should-try-for-2024/"><u>Best AI Rap Voice Generators You Should Try for 2024</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-13c-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi 13C Device</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/the-guide-to-learning-all-the-details-about-voice-cloning/"><u>The Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-the-most-straightforward-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>Updated The Most Straightforward Guide to Learning How to Clone Your Voice for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-6-mickey-mouse-voice-generators-providing-efficient-results-for-2024/"><u>Updated Top 6 Mickey Mouse Voice Generators Providing Efficient Results for 2024</u></a></li>
 </ul></div>
 

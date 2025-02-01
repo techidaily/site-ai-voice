@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Address and Correct 'Indivisible' Crash Issues Once and For All
-date: 2025-01-17T02:22:05.474Z
-updated: 2025-01-23T23:33:31.185Z
+date: 2025-01-24T19:15:43.781Z
+updated: 2025-01-31T20:50:11.239Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 
 If that doesn’t work for you, try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -40,7 +44,7 @@ If that doesn’t work for you, try the fixes below.
 5. **[Run a full scan of your PC](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Allow Minecraft installer through firewall
@@ -60,13 +64,13 @@ If that doesn’t work for you, try the fixes below.
 5. Make sure Minecraft is on the list and the**Private** and**Public** options are checked. If it’s not on the list, that means Minecraft doesn’t have access and you’ll need to click on the**Change settings** button. Then follow the on-screen instructions to add the Minecraft executable file to the list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After applying the changes, try installing Minecraft and check if it’s working properly. If your problem persists, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Download & install all Windows updates
@@ -80,11 +84,15 @@ If that doesn’t work for you, try the fixes below.
 3. Click **Check for updates** . If there are any updates available, Windows will download them.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates.png)
 4. Click **Restart now**  to restart your PC or you can **Schedule the restart** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
 
@@ -102,10 +110,6 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-all-de.jpg)
@@ -115,7 +119,7 @@ If that doesn’t work for you, try the fixes below.
  After updating drivers, restart your computer. Upon the reboot, try to install Minecraft to see if you can do it successfully. If it fails, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run Windows Store troubleshooter
@@ -132,10 +136,6 @@ If that doesn’t work for you, try the fixes below.
 4. Click on the**Run** button next to**Windows Store Apps** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-apps-run-troubleshooter.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then wait for it to detect and troubleshoot your issues. If it fails to identify them, try the next fix below.
 
@@ -174,19 +174,16 @@ If that doesn’t work for you, try the fixes below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-mastering-yt-thumbnail-design-for-enhanced-views/"><u>[New] In 2024, Mastering YT Thumbnail Design for Enhanced Views</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/outubes-golden-age-of-video-gamers/"><u>[New] YouTube's Golden Age of Video Gamers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-harmonizing-background-sounds-with-film-trailers/"><u>[Updated] In 2024, Harmonizing Background Sounds with Film Trailers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-navigating-video-uploads-on-social-platforms/"><u>[Updated] Navigating Video Uploads on Social Platforms</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-quantum-hdr-101-a-complete-breakdown/"><u>[Updated] Quantum HDR 101 A Complete Breakdown</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-unexpected-websites-displayed-during-screen-time-tracking-on-your-apple-device/"><u>Fixing Unexpected Websites Displayed During Screen Time Tracking on Your Apple Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-realme-11-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Realme 11 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-wisdom/"><u>Navigating the World of Gadgets with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-10-free-and-best-text-to-speech-generators/"><u>New 2024 Approved Top 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-5-ai-voice-generators-online-supports-all-browsers/"><u>Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-5-tiktok-voice-generators-you-should-try/"><u>Updated Best 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated In 2024, Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>Updated Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-recover-hidden-shorts-thumbnails-in-videos/"><u>[New] 2024 Approved How to Recover Hidden Shorts' Thumbnails in Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-gopro-camera-leap-hero4-to-hero5/"><u>2024 Approved The GoPro Camera Leap (Hero4 to Hero5)</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-6-darth-vader-ai-generators-for-all-platforms/"><u>2024 Approved Top 6 Darth Vader AI Generators for All Platforms</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effortlessly-transfer-data-from-iphone-to-pc-with-these-7-expert-strategies-insights-from-movavi/"><u>Effortlessly Transfer Data From iPhone to PC with These 7 Expert Strategies - Insights From Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-squad-mic-issues-in-no-time-a-comprehensive-guide/"><u>Fix Your Squad Mic Issues in No Time: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-speedily-upgrade-windows-drivers-in-moments-win10-81/"><u>How to Speedily Upgrade Windows Drivers in Moments (Win10-8.1)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-realme-note-50-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Realme Note 50 Device</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/the-best-text-voice-generators-for-all-platforms-for-2024/"><u>The Best Text Voice Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-narrator-voice-generators/"><u>Updated 2024 Approved Best Narrator Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>Updated In 2024, Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-6-free-talking-stock-photo-sites/"><u>Updated Top 6 Free Talking Stock Photo Sites</u></a></li>
 </ul></div>
 
