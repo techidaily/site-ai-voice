@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Address and Correct 'Indivisible' Crash Issues Once and For All
-date: 2025-01-24T19:15:43.781Z
-updated: 2025-01-31T20:50:11.239Z
+date: 2025-02-07T22:20:08.904Z
+updated: 2025-02-14T22:56:02.857Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 
  Minecraft is a sandbox-style game with open online play fosters creativity, which attracts a large number of players to dive into this game. However, users start to complain that this game cannot even be installed on Windows 11\. This can be quite frustrating. If you’re on the same boat, no worries. Here we’ve put together some fixes for you to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Before getting started…
 
  Before tweaking the settings below, we suggest you**restart your computer** . Rebooting is a troubleshooting step and quick fix to many issues by wiping away the current state of the software, flushing RAM and clearing up temporary files and processes.
@@ -28,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-library-1200x834.png)
 
 If that doesn’t work for you, try the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -44,7 +44,7 @@ If that doesn’t work for you, try the fixes below.
 5. **[Run a full scan of your PC](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Allow Minecraft installer through firewall
@@ -57,21 +57,17 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/windows-11-privacy-and-security.png)
 3. Click**Firewall & network protection** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/firewall-and-network-protection.png)
 4. Scroll down and find**Allow an app through firewall** . Then click it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/allow-an-app-through-firewall.png)
 5. Make sure Minecraft is on the list and the**Private** and**Public** options are checked. If it’s not on the list, that means Minecraft doesn’t have access and you’ll need to click on the**Change settings** button. Then follow the on-screen instructions to add the Minecraft executable file to the list.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After applying the changes, try installing Minecraft and check if it’s working properly. If your problem persists, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Download & install all Windows updates
 
@@ -83,15 +79,11 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-windows-update.png)
 3. Click **Check for updates** . If there are any updates available, Windows will download them.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates.png)
 4. Click **Restart now**  to restart your PC or you can **Schedule the restart** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
@@ -110,6 +102,10 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-all-de.jpg)
@@ -117,10 +113,6 @@ If that doesn’t work for you, try the fixes below.
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer. Upon the reboot, try to install Minecraft to see if you can do it successfully. If it fails, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run Windows Store troubleshooter
 
@@ -132,12 +124,20 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/troubleshoot-windows-11.png)
 3. Click**Other troubleshooters** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/other-troubleshooter.png)
 4. Click on the**Run** button next to**Windows Store Apps** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-apps-run-troubleshooter.png)
 
  Then wait for it to detect and troubleshoot your issues. If it fails to identify them, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run a full scan of your PC
 
@@ -174,16 +174,24 @@ If that doesn’t work for you, try the fixes below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-recover-hidden-shorts-thumbnails-in-videos/"><u>[New] 2024 Approved How to Recover Hidden Shorts' Thumbnails in Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-gopro-camera-leap-hero4-to-hero5/"><u>2024 Approved The GoPro Camera Leap (Hero4 to Hero5)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-top-6-darth-vader-ai-generators-for-all-platforms/"><u>2024 Approved Top 6 Darth Vader AI Generators for All Platforms</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effortlessly-transfer-data-from-iphone-to-pc-with-these-7-expert-strategies-insights-from-movavi/"><u>Effortlessly Transfer Data From iPhone to PC with These 7 Expert Strategies - Insights From Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-squad-mic-issues-in-no-time-a-comprehensive-guide/"><u>Fix Your Squad Mic Issues in No Time: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-speedily-upgrade-windows-drivers-in-moments-win10-81/"><u>How to Speedily Upgrade Windows Drivers in Moments (Win10-8.1)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-realme-note-50-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Realme Note 50 Device</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/the-best-text-voice-generators-for-all-platforms-for-2024/"><u>The Best Text Voice Generators for All Platforms for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-narrator-voice-generators/"><u>Updated 2024 Approved Best Narrator Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>Updated In 2024, Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-6-free-talking-stock-photo-sites/"><u>Updated Top 6 Free Talking Stock Photo Sites</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-conquer-the-connection-mastering-insta-tik-linkage/"><u>[New] 2024 Approved Conquer the Connection Mastering Insta-Tik Linkage</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-crafting-universal-streams-for-youtube-and-beyond-networks/"><u>[New] In 2024, Crafting Universal Streams for YouTube & Beyond Networks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-exploring-why-photo-booth-videos-freeze-suddenly/"><u>[Updated] Exploring Why Photo Booth Videos Freeze Suddenly</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-sound-design-strategies-integrating-youtube-music-into-visual-media/"><u>[Updated] Sound Design Strategies Integrating YouTube Music Into Visual Media</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-5-ai-voice-generators-online-supports-all-browsers/"><u>Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-m14-4g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy M14 4G FRP?</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-6-free-talking-stock-photo-sites/"><u>In 2024, Top 6 Free Talking Stock Photo Sites</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/innovating-abbyys-brand-strategy-the-enthronement-of-its-novel-chief-marketing-executive/"><u>Innovating ABBYY's Brand Strategy: The Enthronement of Its Novel Chief Marketing Executive</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/maximize-pc-speed-and-operational-efficiency-with-expert-advice-from-yl-software-experts/"><u>Maximize PC Speed & Operational Efficiency with Expert Advice From YL Software Experts</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>New 2024 Approved A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>New 2024 Approved Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-best-smart-glasses-of-2024/"><u>The Best Smart Glasses of 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-f34-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy F34 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>Updated 2024 Approved The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Updated In 2024, Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-4-hatsune-miku-voice-ai-generators-for-all-times/"><u>Updated In 2024, Top 4 Hatsune Miku Voice AI Generators for All Times</u></a></li>
 </ul></div>
 

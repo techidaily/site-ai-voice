@@ -1,7 +1,7 @@
 ---
 title: "Shocking Energy Consumption Unveiled: Single AI-Optimized GPU Guzzles 3.7 Million kWh Per Year, More Than All Used by Homes in 1.3 Million Dwellings Combined"
-date: 2025-01-24T22:19:12.407Z
-updated: 2025-01-31T23:56:18.805Z
+date: 2025-02-13T16:55:08.502Z
+updated: 2025-02-14T22:25:19.002Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,18 +80,21 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-dash.techidaily.com/1-resolving-graphics-card-glitches-expert-tips-from-yl-computings-guide/"><u>1. Resolving Graphics Card Glitches: Expert Tips From YL Computing's Guide</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-xs-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone XS Max to Android | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-k70e-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-limitation-notified-for-graphics-hardware/"><u>Device Limitation Notified for Graphics Hardware</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-maximize-viewership-with-smart-and-stylish-titles-for-2024/"><u>[New] Maximize Viewership With Smart and Stylish Titles for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-review-bandicam-versus-other-screen-recorders/"><u>[New] The Ultimate Review Bandicam Versus Other Screen Recorders</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-from-kitchen-to-feeds-the-10-hottest-tiktok-treats/"><u>[Updated] From Kitchen to Feeds The 10 Hottest TikTok Treats</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-definitive-guide-to-du-recorders-capabilities/"><u>[Updated] In 2024, The Definitive Guide to Du Recorder's Capabilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/controlling-elements-post-sleep-for-optimal-use/"><u>Controlling Elements Post-Sleep for Optimal Use</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/expert-opinion-the-pros-and-cons-of-using-google-maps-for-iphone-users/"><u>Expert Opinion: The Pros and Cons of Using Google Maps for iPhone Users</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/exploring-performance-and-features-of-asus-rt-ac88u-a-comprehensive-gaming-router-assessment/"><u>Exploring Performance and Features of Asus RT-AC88U - A Comprehensive Gaming Router Assessment</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-reconnect-loop-bug-in-league-of-legends-patched/"><u>How to Overcome the 'Reconnect Loop' Bug in League of Legends, Patched</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/how-to-successfully-address-and-correct-indivisible-crash-issues-once-and-for-all/"><u>How to Successfully Address and Correct 'Indivisible' Crash Issues Once and For All</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-boost-conference-calls-on-zoom-platform/"><u>In 2024, Boost Conference Calls on Zoom Platform</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-creating-magnetic-storylines-for-your-vlog-videos/"><u>In 2024, Creating Magnetic Storylines for Your Vlog Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-exclusive-list-of-budget-friendly-video-conferencing-tools/"><u>In 2024, Exclusive List of Budget-Friendly Video Conferencing Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-nord-n30-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus Nord N30 5G to Outlook | Dr.fone</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/overcoming-setbacks-troubleshooting-a-non-launching-evil-genius-2-game/"><u>Overcoming Setbacks: Troubleshooting a Non-Launching Evil Genius 2 Game</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/review-unveiling-the-potential-of-vidma-capture-tech/"><u>Review Unveiling the Potential of Vidma Capture Tech</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/solving-modern-game-sound-glitches-a-comprehensive-guide/"><u>Solving Modern Game Sound Glitches: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/system-alert-ideport0-controller-anomaly/"><u>System Alert: Ideport0 Controller Anomaly</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/tips-and-tricks-to-prevent-game-crashes-of-dragon-age-origins-while-playing-on-windows-10/"><u>Tips and Tricks to Prevent Game Crashes of Dragon Age: Origins While Playing on Windows 10</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/troubleshooting-guide-why-isnt-my-msi-mystic-light-functioning-on-windows/"><u>Troubleshooting Guide: Why Isn't My MSI Mystic Light Functioning on Windows?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-best-tablets-of-2024-in-depth-analysis-and-ratings-by-industry-leaders-zdnet/"><u>Ultimate Guide to the Best Tablets of 2024 - In-Depth Analysis and Ratings by Industry Leaders | ZDNet</u></a></li>
 </ul></div>
 

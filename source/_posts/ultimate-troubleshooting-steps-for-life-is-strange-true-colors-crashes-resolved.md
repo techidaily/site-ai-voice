@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Troubleshooting Steps for Life Is Strange: True Colors Crashes Resolved"
-date: 2025-01-30T21:41:56.256Z
-updated: 2025-01-31T21:00:41.612Z
+date: 2025-02-10T21:19:17.619Z
+updated: 2025-02-15T00:55:06.618Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/5db3fyzhzw851-1200x471.png)
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -56,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Configure your DNS settings
 
  When you use your ISP’s (Internet Service Provider) default DNS server, some possible issues like crowded cache could cause the server connection failure. What you can do is switching to a public DNS server to solve the problem. We’ll use the Google DNS server as an example. Here’s how:
@@ -67,16 +67,8 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
@@ -86,11 +78,11 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -113,7 +105,11 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -128,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -152,14 +152,24 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-emulate-action-with-kinetic-blur-effects/"><u>[New] 2024 Approved Emulate Action with Kinetic Blur Effects</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-optimal-settings-for-recording-movs-on-windows-11-systems-for-2024/"><u>[New] Optimal Settings for Recording MOVs on Windows 11 Systems for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-a-guide-to-conveniently-documenting-your-gaming-victories/"><u>2024 Approved A Guide to Conveniently Documenting Your Gaming Victories</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-access-to-newly-released-realtek-audio-drivers-optimized-for-windows-11107-users/"><u>Easy Access to Newly-Released Realtek Audio Drivers - Optimized for Windows 11/10/7 Users</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>New 2024 Approved Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>New Top 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-assembling-the-perfect-gaming-machine-ideas-for-every-budget-under-and-above-1000/"><u>Ultimate Guide to Assembling the Perfect Gaming Machine : Ideas for Every Budget Under & Above $1,000</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-ai-rap-voice-generators-you-should-try/"><u>Updated 2024 Approved Best AI Rap Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-hatsune-miku-ai-voice-generators-for-all-times-for-2024/"><u>Updated Best Hatsune Miku AI Voice Generators for All Times for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-from-separation-to-symbiosis-logic-pro-x-audio-blending-for-2024/"><u>[Updated] From Separation To Symbiosis Logic Pro X Audio Blending for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>2024 Approved A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-tactical-techniques-for-stunning-instagram-puzzle-displays/"><u>2024 Approved Tactical Techniques for Stunning Instagram Puzzle Displays</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/wav-mkv-movavi/"><u>免費網路服務：以 WAV 格式顯示 MKV - Movavi 無縫轉換工具</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/coping-with-unexpected-account-suspension-on-copyright-claims/"><u>Coping with Unexpected Account Suspension on Copyright Claims</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-index-of-public-domain-picture-sources/"><u>Elite Index of Public Domain Picture Sources</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/sive-free-mcb-banner-designs/"><u>Exclusive Free MCB Banner Designs</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-12-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-honor-100-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Honor 100 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-5-tiktok-voice-generators-you-should-try-for-2024/"><u>New Top 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamline-your-iphone-jpegpng-to-pdf-file-processing/"><u>Streamline Your iPhone JPEG/PNG to PDF File Processing</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-10-robotic-voice-generators/"><u>Top 10 Robotic Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-10-robotic-voice-generators-for-2024/"><u>Top 10 Robotic Voice Generators for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-ai-rap-voice-generators-you-should-try-for-2024/"><u>Updated Best AI Rap Voice Generators You Should Try for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated In 2024, Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning-for-2024/"><u>Updated The Ultimate Guide to Learning All the Details About Voice Cloning for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-10plus-best-free-online-video-editors-for-video-editing-online/"><u>Updated Top 10+ Best Free Online Video Editors for Video Editing Online</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Updated Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
 </ul></div>
 

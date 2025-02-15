@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Russian Tech Breakthrough: 128-Core Servers Set to Power Elite Supercomputers"
-date: 2025-01-30T21:09:14.960Z
-updated: 2025-01-31T21:28:18.249Z
+date: 2025-02-09T17:47:03.984Z
+updated: 2025-02-14T23:21:27.668Z
 tags:
   - desktop
 categories:
@@ -16,7 +16,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
@@ -41,7 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -67,16 +67,21 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-obs-and-instagram-integration-the-essential-how-to-manual-for-2024/"><u>[New] OBS and Instagram Integration The Essential How To Manual for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-storage-space-used-daily-extended-video-size/"><u>[New] Storage Space Used Daily Extended Video Size</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>2024 Approved Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-honor-play-7t-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Honor Play 7T Phone When You Forget the Password</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-celebrity-voice-generator-tools-you-cannot-miss/"><u>New 2024 Approved Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-narrator-voice-generators-for-2024/"><u>New Best Narrator Voice Generators for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/openais-chatgpt-understanding-its-8-main-shortcomings-and-flaws/"><u>OpenAI's ChatGPT – Understanding Its 8 Main Shortcomings and Flaws</u></a></li>
-<li><a href="https://media-tips.techidaily.com/play-high-quality-hd-mkv-movies-in-4k-using-the-free-vlc-media-player-get-it-now/"><u>Play High-Quality HD MKV Movies in 4K Using the Free VLC Media Player – Get It Now!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/stealth-video-tactics-for-soundless-capture-for-2024/"><u>Stealth Video Tactics for Soundless Capture for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-the-best-text-voice-generators-for-all-platforms/"><u>Updated The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-deciphering-past-visual-content-inverse-queries-and-fb-techniques/"><u>[New] 2024 Approved Deciphering Past Visual Content Inverse Queries and FB Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-filtration-finesse-elevating-your-snapchat-presence/"><u>[New] 2024 Approved Filtration Finesse Elevating Your Snapchat Presence</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-saving-gifs-from-twitter-ios-and-android-guide/"><u>[New] In 2024, Saving GIFs From Twitter IOS & Android Guide</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-6-best-voice-changers/"><u>2024 Approved 6 Best Voice Changers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-viewing-experience-with-customized-video-resolution-settings-for-perfect-playback-everywhere/"><u>Enhance Your Viewing Experience with Customized Video Resolution Settings for Perfect Playback Everywhere</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ghostly-glimpses-innovation-highlights-for-2024/"><u>Ghostly Glimpses Innovation Highlights for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-camon-20-premier-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-latest-top-darth-vader-voice-generators-for-all-platforms/"><u>In 2024, Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-print-control-in-windows-11-9-ways-short-version-max-48-chars/"><u>Navigating Print Control in Windows 11 (9 Ways) - Short Version (Max 48 Chars)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-start-to-finish-flipping-a-clip-in-final-cut-pro-in-4-steps-for-2024/"><u>New From Start to Finish Flipping a Clip in Final Cut Pro in 4 Steps for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/the-best-text-voice-generators-for-all-platforms/"><u>The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire-for-2024/"><u>Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Updated 2024 Approved Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-an-ultimate-guide-of-best-narrator-voice-generators/"><u>Updated An Ultimate Guide of Best Narrator Voice Generators</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>Updated Best 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
 </ul></div>
 
