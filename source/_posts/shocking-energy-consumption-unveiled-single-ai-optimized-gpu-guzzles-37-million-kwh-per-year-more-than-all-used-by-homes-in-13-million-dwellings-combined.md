@@ -1,7 +1,7 @@
 ---
 title: "Shocking Energy Consumption Unveiled: Single AI-Optimized GPU Guzzles 3.7 Million kWh Per Year, More Than All Used by Homes in 1.3 Million Dwellings Combined"
-date: 2025-02-13T16:55:08.502Z
-updated: 2025-02-14T22:25:19.002Z
+date: 2025-03-02T09:59:43.260Z
+updated: 2025-03-03T21:06:35.405Z
 tags:
   - desktop
 categories:
@@ -53,10 +53,6 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -80,21 +76,22 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-maximize-viewership-with-smart-and-stylish-titles-for-2024/"><u>[New] Maximize Viewership With Smart and Stylish Titles for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-review-bandicam-versus-other-screen-recorders/"><u>[New] The Ultimate Review Bandicam Versus Other Screen Recorders</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-from-kitchen-to-feeds-the-10-hottest-tiktok-treats/"><u>[Updated] From Kitchen to Feeds The 10 Hottest TikTok Treats</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-definitive-guide-to-du-recorders-capabilities/"><u>[Updated] In 2024, The Definitive Guide to Du Recorder's Capabilities</u></a></li>
-<li><a href="https://windows11.techidaily.com/controlling-elements-post-sleep-for-optimal-use/"><u>Controlling Elements Post-Sleep for Optimal Use</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/expert-opinion-the-pros-and-cons-of-using-google-maps-for-iphone-users/"><u>Expert Opinion: The Pros and Cons of Using Google Maps for iPhone Users</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/exploring-performance-and-features-of-asus-rt-ac88u-a-comprehensive-gaming-router-assessment/"><u>Exploring Performance and Features of Asus RT-AC88U - A Comprehensive Gaming Router Assessment</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-reconnect-loop-bug-in-league-of-legends-patched/"><u>How to Overcome the 'Reconnect Loop' Bug in League of Legends, Patched</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/how-to-successfully-address-and-correct-indivisible-crash-issues-once-and-for-all/"><u>How to Successfully Address and Correct 'Indivisible' Crash Issues Once and For All</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-nord-n30-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus Nord N30 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/overcoming-setbacks-troubleshooting-a-non-launching-evil-genius-2-game/"><u>Overcoming Setbacks: Troubleshooting a Non-Launching Evil Genius 2 Game</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/review-unveiling-the-potential-of-vidma-capture-tech/"><u>Review Unveiling the Potential of Vidma Capture Tech</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/solving-modern-game-sound-glitches-a-comprehensive-guide/"><u>Solving Modern Game Sound Glitches: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/tips-and-tricks-to-prevent-game-crashes-of-dragon-age-origins-while-playing-on-windows-10/"><u>Tips and Tricks to Prevent Game Crashes of Dragon Age: Origins While Playing on Windows 10</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/troubleshooting-guide-why-isnt-my-msi-mystic-light-functioning-on-windows/"><u>Troubleshooting Guide: Why Isn't My MSI Mystic Light Functioning on Windows?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-best-tablets-of-2024-in-depth-analysis-and-ratings-by-industry-leaders-zdnet/"><u>Ultimate Guide to the Best Tablets of 2024 - In-Depth Analysis and Ratings by Industry Leaders | ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-asus-proart-pa-329q-professional-4k-monitor-review/"><u>[New] Asus ProArt PA 329Q Professional 4K Monitor Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comparative-analysis-of-hero5-sessions/"><u>[New] Comparative Analysis of Hero5 Sessions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-definitive-guide-to-professional-level-youtube-video-edits/"><u>[Updated] 2024 Approved The Definitive Guide to Professional-Level YouTube Video Edits</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-a-compreited-list-of-top-5-iphone-apps-revolutionizing-podcasts/"><u>2024 Approved A Compreited List of Top 5 iPhone Apps Revolutionizing Podcasts</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>2024 Approved The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-10-free-ai-voice-generators-to-use-in-daily-life/"><u>2024 Approved Top 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-10-robotic-voice-generators-with-comparison-table/"><u>2024 Approved Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-30-free-mac-speech-to-text-software-youve-missed/"><u>2024 Approved Top 30 Free Mac Speech-to-Text Software You've Missed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-youtubes-revenue-per-million-views-an-insight/"><u>2024 Approved YouTube's Revenue Per Million Views An Insight</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/guide-to-discovering-the-voice-generatorschangers-with-the-most-anime-for-2024/"><u>Guide to Discovering the Voice Generators/Changers with the Most Anime for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-a34-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy A34 5G Phone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-costlesscapture-revolutionizing-how-you-record-play/"><u>In 2024, CostlessCapture Revolutionizing How You Record Play</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-y100i-power-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Y100i Power 5G Device</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-the-best-text-voice-generators-for-all-platforms-for-2024/"><u>New The Best Text Voice Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>Updated 2024 Approved The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>Updated In 2024, Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Realtek Mic Issues - Get Your Audio Up and Running!
-date: 2025-02-11T17:32:00.893Z
-updated: 2025-02-14T18:13:20.052Z
+date: 2025-02-28T21:43:23.081Z
+updated: 2025-03-03T18:06:15.378Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -48,10 +44,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
@@ -75,10 +67,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
@@ -91,10 +79,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
@@ -103,10 +87,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -132,22 +112,16 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-leading-innovations-in-video-calls-discover-the-top-10-apps/"><u>[New] Leading Innovations in Video Calls Discover the Top 10 Apps</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/an-ultimate-guide-of-best-narrator-voice-generators-for-2024/"><u>An Ultimate Guide of Best Narrator Voice Generators for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-celebrity-voice-generator-tools-you-cannot-miss/"><u>Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/exploring-top-iphone-video-editors-cameo-and-filmorago-face-off-for-2024/"><u>Exploring Top iPhone Video Editors Cameo & FilmoraGo Face-Off for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>In 2024, A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>In 2024, Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-how-to-record-iptv-screen/"><u>In 2024, How to Record IPTV Screen</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-generate-tones-with-ease-5-free-online-options/"><u>New 2024 Approved Generate Tones with Ease 5 Free Online Options</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New In 2024, A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-10-robotic-voice-generators-for-2024/"><u>New Top 10 Robotic Voice Generators for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/revive-your-unbootable-system-with-our-expert-strategies-by-yl-computing/"><u>Revive Your Unbootable System with Our Expert Strategies by YL Computing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sky-drones-their-genres-for-2024/"><u>Sky Drones Their Genres for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-unseen-facts-instagram-reels-demystified-ten-points/"><u>The Unseen Facts Instagram Reels Demystified (Ten Points)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated 2024 Approved Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Updated In 2024, Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/youtube-to-mpeg-masterclass-key-strategies-revealed/"><u>YouTube-to-MPEG Masterclass Key Strategies Revealed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-crafting-an-irresistible-brand-image-on-your-fb-page/"><u>[Updated] In 2024, Crafting an Irresistible Brand Image on Your FB Page</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-troubleshooting-how-to-properly-download-and-install-a-dell-mouse-driver/"><u>Easy Troubleshooting: How to Properly Download & Install a Dell Mouse Driver</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/ganzheitlicher-ratgeber-wie-verschwundene-daten-wiederhergestellt-werden-konnen/"><u>Ganzheitlicher Ratgeber: Wie Verschwundene Daten Wiederhergestellt Werden Können?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-youtube-seo-guide-for-beginners-who-want-more-views/"><u>In 2024, YouTube SEO Guide for Beginners Who Want More Views</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-the-best-text-voice-generators-for-all-platforms/"><u>New 2024 Approved The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-essential-guide-to-aukeys-no-nonsense-stylish-usb-30-hub/"><u>The Essential Guide to Aukey's No-Nonsense, Stylish USB 3.0 Hub</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-future-of-wireless-internet-exploring-the-capabilities-and-performance-of-the-tp-link-archer-ax6000-vs-netgears-nighthawk-ax12/"><u>The Future of Wireless Internet: Exploring the Capabilities and Performance of the TP-Link Archer AX6000 vs NETGEAR's Nighthawk AX12</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire-for-2024/"><u>Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-6-mickey-mouse-voice-generators-for-2024/"><u>Top 6 Mickey Mouse Voice Generators for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-code-28-faults-within-the-windows-device-manager/"><u>Understanding & Repairing 'Code 28' Faults Within the Windows Device Manager</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-an-ultimate-guide-of-best-narrator-voice-generators/"><u>Updated An Ultimate Guide of Best Narrator Voice Generators</u></a></li>
 </ul></div>
 
